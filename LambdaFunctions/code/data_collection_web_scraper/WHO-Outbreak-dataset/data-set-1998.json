@@ -1,0 +1,1411 @@
+{
+  "events": [
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:51.751699",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "22 December 1998",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 December 1998 Disease Outbreak Reported\n\nAn outbreak of meningitis has occurred in a\nmilitary camp in Bobozo, Western Kasai. So far 203 cases with 79 deaths have been reported\nbetween early September and 4 December. WHO has supplied 30000 doses of vaccine as well as\nantibiotics for control and treatment of the disease. Over 11000 people were vaccinated\nduring a recent mass vaccination campaign. The latest information is that the situation is\nunder control",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:53.322119",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "22 December 1998",
+        "Location": "Burkina Faso",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 December 1998 Disease Outbreak Reported\n\nTwo yellow fever cases have been reported in Burkina Faso,\none of which has been confirmed. Both cases occurred in a village in Batie District, Gaoua\nRegion in the south of the country near the border with C\u00f4te d'Ivoire. The cases were one\nadult male of 35 years and a 14 year old boy of the same family. The adult case had onset\non 18 November and died on 24 November before a blood sample could be taken. The boy had\nonset on 29 November, was hospitalized on 4 December and is now improving. The Centre Muraz in Bobo Dioulasso tested serum from the boy and\nreported that it was positive for IgM yellow fever antibody. The Ministry of Health has a stock of approximately 200,000 doses of yellow\nfever vaccine, of which 30,000 have been sent to the region for an emergency vaccination campaign.Yellow fever was last reported in Burkina Faso in the\nearly 1980's when a large outbreak occurred in 1983.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:54.886198",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "18 December 1998",
+        "Location": "Somalia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 December 1998 Disease Outbreak Reported\n\nA significant increase in the number of cases of acute diarrhoea has been\nreported to WHO by M\u00e9decins sans fronti\u00e8res (Spain), who have opened their\ncholera treatment centre in North Mogadishu as a result. An average of 14 cases are being\nadmitted daily to this facility. There have also been reports of a considerable increase\nin the number of cases of acute diarrhoea admitted to Benadir hospital in South Mogadishu\nsince mid-November. Of 22 stool samples tested, 20 were positive for cholera. In areas\nsurrounding Mogadishu, there has been no significant increase in acute diarrhoea cases.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:56.516507",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "4 December 1998",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "04 December 1998 Disease Outbreak Reported\n\nThere have recently been reports of a small number of deaths and a\nlarger number of cases of diarrhoea (with and without vomiting) in the province of Cabo\nDelgado. This outbreak has been attributed to the consumption of fish contaminated with\npesticides, but little scientific data are available to substantiate these claims.\nConcurrently, there are outbreaks of both cholera and dysentery in the country and local\nhealth services have difficulty differentiating between symptoms of chemical poisoning and\nillness caused by microbial pathogens. Approximately 100 deaths have occurred and about\n600 cases of illness have been reported by the provincial health authorities, but\nattributing these to either chemical or microbiological contamination of food or water\nconsumed is not possible because of lack of reliable scientific data.\n\nAccording to local health authorities in Cabo Delgado, there have been\n2 deaths since 24 November, and the outbreak is under control. Data from the Ministry of\nHealth suggest that most of the cases of diarrhoea reported in Cabo Delgado province have\nbeen associated with cholera and dysentery, rather than with pesticide poisoning. Thus\ncaution is advised in the absence of reliable epidemiological data.\n\nIt would appear that the \"toxic event\" associated with pesticide poisoning\nhas passed its peak. The consumption of dried fish may be a possible route of exposure to\ntoxic levels of pesticides, as the use of non-food-grade pesticides has been frequently\nreported in different parts of the world as a method for reducing insect spoilage of dried\nfish. The fisheries services in Mozambique are taking the appropriate prevention and\ncontrol measures, and are collecting samples to be forwarded to an international reference\nlaboratory for analysis. WHO has assembled a multidisciplinary advisory team in\nconsultation with the national government agencies concerned and FAO.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:58.160745",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "2 December 1998",
+        "Location": "Nicaragua",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "02 December 1998 \\nDisease Outbreak Reported\n\nREPORT ON THE EPIDEMIOLOGICAL SITUATION IN CENTRAL AMERICA FOLLOWING HURRICANE MITCH\n\nNovember 30, 1998\n\nA Report of the PAHO Emergency Task Force on Hurricane Mitch\n\nEL SALVADOR\n\nCholera: The Ministry of Health reports that the cholera situation remains the same as on 27 November: a total of eight cases and one death.\n\nGUATEMALA\n\nCholera: No new information has been received and the figures have not changed since 27 November. In the first three post-Mitch weeks, 26 outbreaks of cholera were reported, 1,362 suspected cases, 17 deaths, and a case fatality rate of 1.25%.\n\nLeptospirosos: No new information has been received. To date, the cumulative total is 6, of which 5 are confirmed.\n\nDengue: Health authorities have reported a certain increase of classic dengue cases in the last few weeks, although hemorrhagic dengue has not been reported.\n\nMalaria: The situation is reported to be stable, although there is a certain increasing trend in Ixcan, Peten Sur Occidental and Peten Sur Oriental.\n\nNICARAGUA\n\nCholera: The Ministry of Health reported 12 new suspected cases of cholera (5 in Carazo, 3 in Estel\u00ed, 3 in Managua, 3 in Le\u00f3n, and 1 in Granada) on the 27th, and 3 new cases in Le\u00f3n on the 28th, for a total of 379 suspected cases in the post-Mitch period (1 to 28 November).\n\nLeptospirosos: The Ministry of Health reported 26 new suspected cases on the 27th (20 in Estel\u00ed, 4 in Chinandega, 1 in Madriz, and 1 in Carazo) and 52 new cases on the 28th (34 in Chinandega, 8 in Estel\u00ed, 6 in Matagalpa, 3 in Madriz, and 1 in the South Atlantic Region). The cumulative number of cases for the post-Mitch period (1 to 28 November) is 523, deaths remain at 7, with a case fatality rate of 1.3%\n\nDengue: The Ministry of Health today reported 16 new suspected cases of classic dengue on the 27th and 23 on the 28th; the cumulative is 1,244 cases for the period of 1 to 28 November. The number of hemorrhagic dengue reported remains the same as reported on the 27th (54 in Le\u00f3n; 9 in Chinandega).\n\nMalaria: The Ministry of Health reported 241 cases during the epidemiological week of 22 to 28 November; the cumulative for the period 1 to 28 November is 2,723 diagnosed cases.\n\nHONDURAS\n\nCholera: The Ministry of Health reported 16 diagnosed cases of cholera in the post-Mitch period, of which only one case was confirmed in Region 3 (San Pedro Sula).\n\nMalaria: Based on daily reporting from shelters, 208 cases of malaria were reported between the 26th and 28th of November; the cumulative number of cases to date for the post-Mitch period is 1,908. Regions 3, 4 and 8 report the largest number of cases.\n\nLeptospirosos: To date, 18 suspected cases of leptospirosis have been reported, 6 of which were confirmed in preliminary tests (all in Region 3 \u2013 San Pedro Sula), and pending further tests; there was one death.\n\nDengue: Between the 26th and 28th of November, 45 new cases of classic dengue were reported, totaling 1,165 cases. Although no cases of hemorrhagic dengue in shelters were confirmed, 49 confirmed cases of hemorrhagic dengue were reported in the country as of week 46 (up to 21 November), of which 70% originated in the Central District.\n\nBELIZE\n\nCholera: According to information received today, one of the two new suspected cases of cholera reported on the 27th is that of a 4-year old boy, known to one of the previously notified patients and from the Saint Martin Village area in the district of Cayo. The child was hospitalized and the infection confirmed as V. cholerae 01 El Tor Ogawa. No new cases were reported. The second suspected case has been hospitalized and is under study.\n\nAnalysis of the Epidemiological Situation as of 30 November, 1998\n\nHaving concluded epidemiological week 47, the fourth post-Mitch week, the epidemiological situation was marked by:\n\nCholera epidemic activity in the five countries affected by Mitch was at the highest risk in Guatemala.\n\nLeptospirosis epidemic activity in Nicaragua. Low activity in Honduras and Guatemala. El Salvador and Belize did not report presence of cases in post-Mitch period.\n\nDengue epidemic activity in Guatemala, Honduras, Nicaragua and El Salvador. Honduras and Nicaragua reported the presence of hemorrhagic dengue.\n\nAlthough, to date, the epidemiological situation has not manifested itself as an eruption attributable to the extraordinary efforts of prevention and outbreak control provided by each country's health teams, the present epidemic risk conditions demand strengthening epidemiological surveillance and vector activities both in populations exposed to the open and those in shelters.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:59.666990",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "26 November 1998",
+        "Location": "Guatemala",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 November 1998 Disease Outbreak Reported\n\nPAHO/WHO REPORT ON THE EPIDEMIOLOGICAL\nSITUATION IN CENTRAL AMERICA\n\nCholera: As of November 20, the Ministry of Public Health has reported six cases\nand one death (San Alejo, La Union). V. cholera 01 El Tor Owaga has been isolated in one\ncase. Of the six reported cases, four were imported from Jutiapa, Guatemala; the other two\noriginated in border areas of El Salvador (Metep\u00e1n, Santa Ana and San Alejo, La Uni\u00f3n.)\nOn 19 November, an outbreak of diarrheal disease erupted in the San Juan de Dios Hospital\nin the department of Santa Ana on the Guatemala border. All fifteen cases required\nhospitalization. This is a suspected outbreak of cholera which is attributed to ingestion\nof food sold by a street vendor from Jutiapa, Guatemala. The Ministry of Health initiated\na public information and health education campaign and launched activities to control the\ndisease, targeting the areas along the Guatemala border.\n\nCholera: The Surveillance Department of the Ministry of Health reported that\nbetween 4-20 November there were 234 confirmed cases of cholera out of a total of 261\nreported. There were 17 deaths. On 20 November, an outbreak was reported in the Mental\nHealth Hospital of Guatemala, with 18 confirmed cases and one death. In Chinaltenango that\nsame day, there were 27 suspected cases and 37 confirmed cases, which correspond to the\ncumulative total notified cases for that area in the last two weeks. All reported\noutbreaks implied food-borne transmission.\n\nReporting by epidemiological weeks (through Week 45-November 14), as reported by the\nHealth Information Management System (SIGSA) on 19 November, shows a clear rise in cholera\nbeginning in Week 37 (September 13). However, this information service reports 395 cases\nof cholera during Week 44 (November 1-7) and 511 cases during Week 45 (November 8-14),\nsharply higher than the figures reported by the Surveillance Department of the Ministry of\nHealth. Diagnostic measures have been strengthened and treatment of cases and contacts\nstepped up.\n\nLeptospirosis: On 23 November, the Surveillance Department reported six cases of\nleptospirosis, five of which were confirmed. Four of the cases occurred in Guatemala City\nand two in Escuintla. No deaths were reported. \n\nDengue: SIGSA reports 277 cases of dengue for Week 45, a rise of almost 200\ncases from the previous week. \n\nMalaria: According to SIGSA, the situation is stable.\n\nCholera: As of 22 November, the Ministry of Health reported 335 cases of\ncholera, 301 of which were confirmed. Managua reported 156 cases or 52% , followed by\nCarazo (46 cases), Masaya (25) and Matagalpa (18 cases). According to an analysis of\ntrends by the Epidemiological Surveillance System, one can observe an increase in Week 45,\nwith 102 cases. Seventy-five were reported the preceding week. The Ministry of Health has\ntaken measures to treat the cases, distribute chlorine, and conduct community education\nand environmental health campaigns.\n\nLeptospirosis: Up to 22 November, the Ministry of Health reported 264 suspected\ncases of leptospirosis, 98.1% of which were in Chinandega and Estel\u00ed (136 and 123 cases\nrespectively). Of the 182 samples processed in laboratories, 42 resulted positive for\nLeptospira (23%). The Ministry of Health is sending medical brigades and epidemiologists\nto the affected departments and strengthening control measures and community support.\n\nDengue: The Ministry of Health reports a rise in notification of cases during\nthe last two weeks.\n\nMalaria: According to information from the Ministry, the situation is stable.\n\nCholera: As of 21 November, the Ministry of Health reported three confirmed\ncases of cholera and 11 suspected cases in Regions 1, 3 and 4 of the country.\n\nLeptospirosis: On 20 November, the Ministry of Health reported and outbreak of\nfebrile illness compatible with leptospirosis in three municipalities (San Pedro Zula,\nCholoma and La Lima in the department of Cortes (Region 3). Four cases were reported with\nthree deaths. Two of the cases were serologically confirmed. The Ministry of Health has\nsent an epidemiological team to the field, strengthening the diagnostic capacity and\nimproving epidemiological surveillance efforts.\n\nDengue: As of 21 November, the Ministry reported 1,080 cases of classic dengue,\n444 of which occurred in Region 3. A total of 33 suspected cases of hemorragic dengue have\nbeen analyzed, and 15 of these were confirmed. The remainder are being studied. To date, 4\npeople have died.\n\nCholera: Health authorities report, as of 20 November, an outbreak of cholera en\nSaint Martin Village in the Cayo District, with 11 suspected cases and five confirmed. The\nlatter have been hospitalized in the Belmopan Hospital. In one case, a 78-year-old person\ndied 12 hours after being hospitalized. The suspected source of infection was contaminated\ndrinking water from the Roaring Creek. Fifty-two contacts received treatment.\n\nThe following situations can be identified from available information: \nthere is epidemic activity of cholera in the five countries affected by Hurricane Mitch.\nGuatemala has the highest risk. \nthere is epidemic activity of leptospirosis in Nicaragua, Honduras and Guatemala. The\narea at greatest risk is Estel\u00ed and Chinandega, Nicaragua. \nthere is epidemic activity of hemorragic dengue in the metropolitan region of Honduras. \n\n\nPAHO recognizes the extraordinary efforts of the local and national health authorities\nin the five countries affected by Hurricane Mitch to control the risk of epidemics. These\nefforts, particularly the improved epidemiological surveillance, have sharply increased\nthe capacity to suspect and detect cases as well as to confirm instances and eventually\ntreat diseases that have the potential to cause epidemics. Consequently, we can expect a\nsignificant increase in the epidemiological reporting of cases in the coming weeks.\n\nHowever, PAHO recommends the immediate establishment of the following measures:\n\nCholera:\n\n1) Strengthen health control measures, including basic hygiene measures, provision of\nsafe water, and handling and consumption of food from street vendors, among the at-risk\npopulation, particularly in shelters.\n\n2) Intensify local epidemiological surveillance measures of cholera (active\nidentification of cases) in the affected population.\n\n3) Implement social communication campaigns particularly in shelters and among the\ndisplaced population and native communities.\n\nLeptospirosis:\n\n1) Strengthen the local capacity to diagnose and quickly treat cases.\n\n2) Stimulate community participation in expanding the application of preventive\nmeasures and the early detection of suspected cases.\n\n3) Step up health surveillance measures, including rodent control.\n\nHemorragic Dengue:\n\n1) Ensure that health authorities have prompt access to suspected cases.\n\n2) Intensify health measures to control vectors.\n\n3) Strengthen local community participation in the control of breeding sites of\nmosquitos.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:01.234735",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "25 November 1998",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "25 November 1998 Disease Outbreak Reported\n\nAccording to data from the National Centre for Epidemiology of the Ministry of Health\nin Brazil, 376 cases of cholera have been notified between 12 and 23 November 1998, 24 of\nwhich have been laboratory-confirmed. The cases are occurring in the urban area of Cortez\nmunicipality (which has a population of approximately 13 000) in the region of Mata-Sul,\nPernambuco State, in north-eastern Brazil. The source of contamination is thought to be\nthe Rio Sirinha\u00e9m, from which 80% of the water used by the population originates. The\nHealth Department, in collaboration with water and sanitation authorities from the State\nof Pernambuco are coordinating epidemiological surveillance, health education activities,\nwater chlorination and case management. The medical team will be reinforced with\nprofessionals from other States. Supplies for the treatment of patients are in place and\nthe central laboratory is active in the area. Suspected cases have been notified in\nneighbouring areas, but without confirmation.\u00a0This cholera outbreak is the first to\nbe reported in Brazil in l998.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:02.771869",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "24 November 1998",
+        "Location": "Honduras",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "24 November 1998 Disease Outbreak Reported\n\nNews Release from the Pan\nAmerican Health Organization,\nRegional Office for the Americas, WHO, 23 November 1998\n\nControlling Diseases After Mitch Will Cost Money\n\nControlling communicable diseases in the countries devastated by Hurricane Mitch will\nrequire significant expenses to control disease-carrying mosquitoes and to ensure that\nwater and food are not contaminated, according to Dr. Claude de Ville, Chief of the Pan\nAmerican Health Organization's Emergency Preparedness and Disaster Relief Program.\n\nDr. de Ville, who just returned from Honduras and El Salvador, said, \"One of our\nmain concerns is control of communicable diseases. While we don't expect catastrophic\noutbreaks, that doesn't mean there will be no cases. Cholera, malaria, dengue and\nleptospirosis are all present in Central America. To control them, we must invest\nsignificant amounts in control of vectors, food, and water supplies.\"\n\nFloods also increase risk of schistosomiasis, dengue, yellow fever, malaria,\nhantavirus, and other diseases, according to PAHO experts. PAHO's Assistant Director, Dr.\nMirta Roses, cited the latest figures on communicable diseases that have been reported to\nPAHO by Ministries of Health, noting that many doctors and epidemiologists are out looking\nfor cases to ensure that any outbreaks are rapidly controlled and the people treated. As a\nresult of this increased attention, reporting is also increased, she said.\n\nEl Salvador has reported six confirmed cases of cholera including one\ndeath, all related to contaminated food sold by street vendors near the border of\nGuatemala.\n\nGuatemala has reported 234 confirmed cholera cases with 17 deaths,\nalong with seven cases of leptospirosis, six cases of dengue, and 70 cases of malaria.\nCholera cases have appeared in different areas of the country, and all have been\nfood-related. Five confirmed cases of leptospirosis have been reported, four in Guatemala\nCity and two in Esquintla.\n\nNicaragua has reported 335 cholera cases and confirmed 301 in\nlaboratories. The cases include 156 in Managua, 46 in Carazo, 25 in Masaya, 18 in\nMatagalpa, 16 in Chinandega, and 13 in Estel\u00ed, with the rest scattered in six other\nareas. Nicaragua has also reported 264 possible leptospirosis cases, of which 42 have been\nconfirmed by laboratory, including 30 in Chinandega, 11 in Estel\u00ed, and one in Madriz.\nSeven people have died from leptospirosis, often transmitted by contact with water\ncontaminated by rodent urine or feces.\n\nHonduras has reported 14 cases of cholera, 4 cases of leptospirosis\nwith three deaths, 1,080 cases of dengue, 15 confirmed cases of dengue hemorrhagic fever\nwith four deaths, and 1,567 cases of malaria, including seven deaths.\n\nBelize has reported a cholera outbreak in Saint Martin Village, with\n11 suspected and five confirmed cases, including one death. The source of infection is\nthought to be contamined water from Roaring Creek, authorities said.\n\nIn all countries, health authorities have taken control measures to improve food safety\nand to guarantee the quality of water for human consumption, and have sent doctors and\nepidemiologists to areas where outbreaks have been reported to take control measures and\neducate the communities on preventive measures, Dr Roses said.\n\nEmergency supplies are arriving and being widely distributed, using the PAHO-designed\nSUMA Humanitarian Supply Management system, Dr. de Ville said, \"but we already see in\nthe field many unusable supplies and expired medicines.\"\n\nThe real problem for Central America will be reconstruction and rehabilitation, Dr. de\nVille said. \"The big item for the health sector in Honduras, for example, is\nreconstruction of the water system, which we estimate will cost some $180 million out of\nan estimated $220 million in health reconstruction costs, and is a very important\npriority.\"\n\nNoting that PAHO has mobilized some 60 experts to the countries hardest hit by the\nhurricane, in addition to the 150 already there, Dr. de Ville said, \"We have a lot to\nlearn from this disaster. Were we sufficiently prepared? Could we have done better? How\ncan we emphasize disaster mitigation to ensure damages will not be so heavy\u00a0 next\ntime?\" He said an evaluation meeting will be held on Hurricanes Mitch and Georges\nFebruary 9th to 12th.\n\nPAHO, founded in 1902, provides technical collaboration in a broad range of fields\nincluding emergency preparedness and disaster relief. It works to improve health and\nliving conditions in the countries of the Americas, and serves as the Regional Office for\nthe Americas of the World Health Organization.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:04.505982",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "23 November 1998",
+        "Location": "Nicaragua",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 November 1998 Disease Outbreak Reported\n\nBased on reports from the Pan American Health Organization (PAHO), Regional Office\nfor the Americas, WHO\n\nLocal WHO offices in the affected countries have been reinforced by technical personnel\nwith a range of specialities, including environmental sanitation, epidemiological\nsurveillance, food hygiene and vaccination. 31 experts have been sent to Honduras, 19 to\nNicaragua, 4 to Guatemala, 3 to Belize and 2 to El Salvador.\n\nNicaragua. The areas most damaged are along the Pacific coast and in the\nnorthern part of the country. Until now, 2 362 deaths have been confirmed, 970 persons\nhave disappeared and over 55\u00a0000 have been displaced. Major damage has been sustained\nby the infrastructure (roads, water supply and sanitation systems) and by agricultural\nproduction.\n\nReports of suspected cases of cholera in Matalgalpa and Esteli reflect high levels of\nwater contamination and the difficulties associated with chlorine distribution. In\naccessible areas, suspected cases of cholera have been managed in a timely fashion by\nhealth personnel. Although there is a risk of an epidemic outbreak, the situation has so\nfar been under control. Reports on dengue from Leon, Boaco and Rivas do not differ from\nthe annual averages, however there is probably underreporting of cases in the affected\nareas.\n\nOn 13 November 1998, 16 suspected cases of leptospirosis were reported in Chinandega,\nin the community of El Viejo: 8 were hospitalized, 5 have died and 3 have received\nlaboratory confirmation. In addition, 1 suspected case has been reported in Matagalpa, 1\nin Managua and 1 in Esteli.\n\nOf the 8 areas suffering the greatest problems, communication has been reestablished by\nroad in 5. The 3 others can only be reached by air, thus the quantity of drugs, food and\nfuel that can be transported there is limited. Many communities remain isolated in all of\nthe affected areas.\n\nHonduras. The country has been severely affected and losses in human lives,\ninfrastructure and agriculture continue to rise. Earlier estimates of deaths and of\npopulations at risk have been exceeded as health teams reach previously isolated areas.\nCurrently 7 000 deaths have been confirmed, 12 000 people have disappeared and over 500\n000 were estimated to be living in 938 shelters as of 13 November (down from 800 000 in\nthe first 24 hours after the passage of the hurricane).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:11.053300",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "10 November 1998",
+        "Location": "Nicaragua",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 November 1998 Disease Outbreak Reported\n\nHurricane Mitch approached the coast of Honduras on 27 October as a Category V\nhurricane. At that point, and subsequently for a number of days, it stalled off the coast,\nproducing very heavy rainfall. The rains in many countries in Central America, caused\nrivers to overflow and provoked serious mudslides in many areas.\n\nTo date, it has been very difficult to finalize an evaluation of health sector needs\nbecause of conditions in the country. There are no communications within the country.\nTegucigalpa is inaccessible from the north, south and west of the country, making it very\ndifficult for fuel and food to arrive. The roads to the north and to the south are\nseriously damaged. At this writing, more than 5,000 people have lost their lives,\napproximately 1.5 million persons have been affected, 500,000 have been evacuated, an\nestimated 70,000 homes have been damaged. (These figures are conservative.)\n\nThe 50-bed San Lorenzo Hospital was destroyed. The Social Security Hospital is not\nserviceable. The roof of the Roatan Hospital was totally destroyed. Other units of the\nhealth services network suffered considerable damages, and are without electrical energy\nand water supply. A large percentage of health workers are themselves among the affected\nand/or evacuated.\n\nSome of the most pressing needs are for medicines and other critical supplies; vector\ncontrol; adequate collection and treatment of solid waste; rehabilitation of primary\nhealth services; health education and communication; equipment for the San Lorenzo\nHospital; and assessment of the damages and project design for the rehabilitation phase.\n\nThe water distribution system is damaged, and the network needs urgent repair. The\nmajority of surface water outlets have disappeared. In coming weeks, Tegucigalpa will\nsuffer water rationing, and even the areas that can be repaired most quickly will only\nhave water once or twice a week.\n\nNicaragua's National Civil Defense System has provided the following figures (as of 4\nNovember) on the number of people affected by Hurricane Mitch:\n\n\n\nFamilies\nAdults\nChildren\nInjured\nDeaths\nMissing\n\n\n136,930\n405,526\n342,037\n229\n1,368\n1,804\n\n\n\nThe Pacific and northern regions of the country were most affected. In addition to the\nactual and potential loss of life, the principal damages can be summarized as follows: \nIn addition to the widespread threat of vector borne diseases, there is a severe threat\nof diarrhea, respiratory and dermatological diseases. \nMuch of the country's infrastructure was partially or totally destroyed, including 2500\nkm. of roads and more than 80 bridges. \nEnvironmental deterioration, contamination and destruction of basic services such as\nwater supply systems, wells, latrines, as well as an increase in the number of areas which\nhave become a breeding ground for vectors. \nGeneralized overcrowding in shelters designed to accommodate fewer people, with a lack\nof proper waste management services. \n\nEL SALVADOR \n\nThere has been a great deal of damage to infrastructure in this country. The death toll\nis 239 and 60,000 people have been displaced and are being housed in 107 shelters\nthroughout the country.\n\nIn spite of efforts by national authorities to adequately house all of the population\nwho need shelter, health and sanitation conditions may deteriorate in the current\nconditions persist for a lengthy period of time. Source: Regional Office for the\nAmericas/Pan American Sanitary Bureau (PAHO)\n\nPAHO/WHO PRESS RELEASES:\n\nhttp://www.paho.org/english/DPI/rl98116b.htm\n\n\"Myths and Realities of Natural Disasters\"-\n\nhttp://www.paho.org/english/DPI/rl98116c.htm\n\n\"Do's and Don't's after Natural Disasters\"\n\nHONDURAS:\n\nhttp://www.gbm.hn/\n\nGovernment of Honduras, Office of the President\n\nhttp://www.copeco.hondunet.net/index.html\n\nCOPECO, the Permanent Emergency Commission\n\nhttp://www.hondudata.com/mitch/mapas/division.htm\n\nMaps\n\nNICARAGUA:\n\nhttp://www.ops.org.ni/desastre/indexnew.htm\n\nPAHO Office in Nicaragua\n\nCOSTA RICA:\n\nhttp://www.cne.go.cr\n\nComisi\u00f3n Nacional de Emergencias\n\nUNITED NATIONS:\n\nhttp://www.reliefweb.int/\n\nUnited Nations ReliefWeb",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:12.593088",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "6 November 1998",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 November 1998 Disease Outbreak Reported\n\nThe Ministry of Health of Uganda is investigating reports of plague in the district of\nArua. Since April, 49 cases have been reported. WHO is awaiting confirmation of the number\nof deaths. Cases of human plague have been recorded on 3 occasions over the past 30 years:\nin 1982 (153 cases, 3 deaths); 1986 (340 cases, 27 deaths); and 1993 (167 cases, 18\ndeaths).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:14.089088",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "4 November 1998",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "04 November 1998 Disease Outbreak Reported\n\nIn October 1998, Venezuela reported to Pan American\nHealth Organization (PAHO/WHO) an outbreak of yellow fever with 14 cases and 3 deaths.\n\nThe cases occurred among the Yanomami Indians who live in region of\nParima within the Alto Orinoco County in the State of Amazonas, along the border with\nBrazil. The cases were identified between the epidemiological weeks 30th and 36th.\nTen cases (71%) were male and 4 (19%) female. The age distribution of the cases is: 29%\nover 30 years of age; 50% between 20 and 30 years of age; and 21% between 5 and 19 years.\nAll the cases were confirmed by laboratory testing: 11 had IgM positive and virus was\nisolated from 3 cases. One of the fatalities also had a liver specimen positive by the\nimmunohistochemical analysis.\n\nTo prevent new cases a vaccination program was implemented, targeting\n177 Indian villages (population of 8,776). The program was able to reach a vaccination\ncoverage of 86%.\n\nSource: Vigilancia Epidemiologica del Ministerio de Sanidad y Assistencia social de\nVenezuela",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:15.656854",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "26 October 1998",
+        "Location": "Iraq",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 October 1998 Disease Outbreak Reported\n\nThe Preventive Health Department of the Sulaimania governorate of\nIraq reported 20 cholera cases and 1 death during the period, 12 September - 6 October\n1998. Health and sanitary measures have been implemented to prevent further spread.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:17.188485",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "23 October 1998",
+        "Location": "Russian Federation",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 October 1998 \\nDisease Outbreak Reported\n\nEight cases were reported in an outbreak of cholera in the southern\npart of the Republic of Dagestan during the first half of October. Vibrio cholerae\nEL Tor, Ogawa has been identified as the causative organism. No new cases have been\nreported.\n\nThe outbreak may have been the result of contaminated water supplies. The Ministry of\nHealth has taken the necessary measures to control the outbreak.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:19.860574",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "22 October 1998",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 October 1998 Disease Outbreak Reported\n\nAs of October 1998 a total of 32 confirmed cases\nwith 13 deaths have been reported to the Pan American Health Organization (PAHO)/WHO.\nTwenty-three cases (72%) were male and 9 (18%) female. The age distribution of the cases\nwas: 35% over 30 years of age; 35% 20 to 30 years; and 30% 10 to 19 years. Twenty-two\ncases were not vaccinated, two had received vaccine, and the status of 8 was unknown.\n\n7 new cases have been notified. Two cases occurred in\nPar\u00e1 State (Itaituba and Floresta Municipalities) and 5 in Roraima State (Alto Alegre and\nMucaja\u00ed Municipalities). At least two of the Roraima cases became sick in Boa Vista, the\nState Capital, which is infested by Aedes aegypti. The threat of urbanization of yellow\nfever in Roraima led the national and local authorities to immediately start vaccination\nof the entire population of the State (260,000 inhabitants). Since 1996, Yellow Fever\nVaccine has been included in routine child immunization of the enzootic areas of Brazil.\nIn 1999 the Ministry of Health is planning to immunize 110 million people living in\nenzootic areas and contiguous regions infested by Ae. aegypti.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:21.380693",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "22 October 1998",
+        "Location": "Rwanda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 October 1998 Disease Outbreak Reported\n\nSince May 1998, Rwanda has been been suffering from a cholera\noutbreak with a total of 2900 cases and 55 deaths, most of which were reported in\nSeptember. All these cases have been in Cyangugu prefecture, but there is great concern\nabout further spread to other areas of the country.\n\nWHO is providing cholera kits to Kigali, Rwanda and with other international\norganizations is working closely with the Ministry of Health on prevention and control\nmeasures.\n\nCholera has also badly affected the eastern areas of the Democratic Republic of Congo.\nAlthough exact figures are not available, the situation in the Shabunda area of Sud-Kivu\nremains grave. The current deteriorating security situation in the area has affected\ncontrol activities and the transport of supplies to treatment centres.\n\nThe Great Lakes Region was ravaged by a dramatic cholera epidemic in 1994-1995 during\nthe massive displacement of refugees provoked by the civil war in Rwanda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:23.059377",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "22 October 1998",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 October 1998 Disease Outbreak Reported\n\nBetween July and September 1998, an unidentified disease\ncaused around 100 deaths in a population of 2000 in four remote villages in Meyon,\nsouthern Sudan. As soon as the outbreak was reported to WHO, a team was sent to: describe\nthe outbreak by standard epidemiological parameters; collect specimens to allow for\nlaboratory identification of the causative agent; implement immediate control and\npreventive measures as necessary; and assess whether further assistance was required.\nPreliminary results suggest that the disease was pneumonia with a haemorrhagic component.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:24.594009",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "16 October 1998",
+        "Location": "Somalia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 October 1998 Disease Outbreak Reported\n\nThe cholera season in Somalia is now approaching. It is expected to be particularly\ndeadly in Mogadishu this year, owing to the following factors:\n\nThe World Food Programme/Food and Agriculture Organization (WFP/FAO) have estimated the structural food deficit to be quite large. It is expected to result in the additional movement of around 200,000 internally displaced people from Bay and other regions to Mogadishu. These people will be malnourished and obliged to live on the outskirts of Mogadishu without access to safe water.\n\n\nNo international NGO is currently present in Mogadishu. Although Somali professionals have been adequately trained in cholera prevention and treatment, NGO financial support to the staff of cholera treatment centres in the past has greatly contributed to their success in combating the disease. This year, it appears very unlikely that any donor will financially support the staff of these centres.\n\n\nThe United Nations Children's Fund (UNICEF) has notified termination to many staff in Mogadishu. As a result, their support to chlorination activities in the city is expected to be significantly reduced. However, UNICEF will step up the use of mass media for hygiene awareness and safe water campaigns.\n\n\nThe International Committee of the Red Cross (ICRC) has withdrawn from the Mogadishu area. Its past support to cholera treatment activities in southern Mogadishu was instrumental in preventing many deaths, but it will not be available this season.\n\n\nWHO currently employs a local laboratory technician and two local doctors in Somalia as\npublic health coordinators.\n\nUnless the current security conditions in Mogadishu are improved, the cholera epidemic\nresponse this season will be seriously compromised.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:27.755443",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "30 September 1998",
+        "Location": "Bangladesh",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 September 1998 Disease Outbreak Reported\n\nThe devastating floods which are sweeping the country began in early\nJuly this year and 52 districts out of a total of 64 with nearly 20 million people (25% of\nthe total population) are affected. The death toll was reported as 730 up to 7 September\n1998. Most of the districts currently affected are also endemic for diarrhoeal diseases\nand some outbreaks of acute diarrhoea have occurred. Over 185,OOO people have so far been\naffected and 151 have died.\n\nThe Ministry of Health and Family Welfare, in collaboration with\nWHO, has put into operation the following measures to control the outbreaks:\n\nEmergency medical teams are working in the flood-hit areas\n\n80 temporary health centres have been set up in affected areas\n\nSpecialized medical teams are on standby\n\nIn Dhaka city:\n\nOral rehydration therapy centres and temporary hospitals for\ndiarrhoeal diseases providing\u00a0 case management facilities have been set up\n\nMedical teams have been deployed at the 34 flood shelters set up by\nthe Government\n\nAll specialized hospitals in the city opened out-patient and\nin-patient diarrhoea case management facilities\n\nOther measures taken:\n\nThe Bureau of Health Education of the Ministry of Health has\nintensified its health education\u00a0 campaign in the affected areas\n\nThe Emergency Operation Centre of the Government is monitoring the\nhealth situation daily\u00a0 through similar units set up at the district level\n\nOn Friday, 4 September 1998 the United Nations issued an appeal for\nsupport of the Government of Bangladesh for relief to the victims of the floods. The\nappeal highlighted emergency relief and initial rehabilitation requirements\n\nWHO has taken the following action:\n\nReprogramming of funds to meet immediate local needs for emergency\nhealth assistance and provide WHO Emergency Health Kits\n\nCoordinating the list of requirements for the immediate and\nlong-term health needs of the country for incorporation in the interagency Consolidated\nAppeal for international assistance\n\nParticipation in joint MOH/WHO emergency mission to affected areas\nto make a rapid assessment of the health status and needs of the population",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:29.291148",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "23 September 1998",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 September 1998 Disease Outbreak Reported\n\nThe Ministry of Health and Sanitation of Sierra Leone confirmed\ntoday that the current outbreak of cholera affecting the country is caused by Vibrio\ncholerae O1 El Tor, which was identified and confirmed by the Pasteur Institute in\nAbidjan, Cote d'Ivoire.\u00a0 As of 16 September 1770 cases and 55 deaths were registered.\n\u00a0 Although some cases of V. cholerae non-O1 were also identified, tests for\nisolation of V. cholerae O139 were negative.\n\nThe Ministry of Health and Sanitation, with support from several agencies, took\nmeasures to identify quickly the causing agent and formulate strategies to control the\noutbreak.\u00a0 Surveillance activities, diarrhoea treatment centres and health education\non personal and environmental hygiene have already contributed to a reduction in the\nnumber of deaths.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:30.828717",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "22 September 1998",
+        "Location": "India",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 September 1998 Disease Outbreak Reported\n\nWHO stresses importance of careful monitoring of Vibrio\ncholerae O139 strain\n\nIn 1992, the world was alarmed by a severe outbreak of cholera in the Bay of Bengal\ncaused by a non-O1 strain of Vibrio cholerae, serogroup O139. The fast spread of\nthis new strain to neighbouring countries and the notification of imported cases in\ndeveloped countries, raised concern as to the possible occurrence of a new pandemic of\ncholera.\n\nVibrio cholerae O139 has been detected since then in 10 countries. This new\nstrain continues to be confined to South-East Asia. In 1998, V. cholerae O139 has\nbeen isolated from 3 patients in Hong Kong Special Administrative Region of China and 3 in India.\n\nAlthough no major outbreaks have been caused by V. cholerae O139 since 1994, the\nfear that this new strain could become a global threat is still present, particularly in\nAsia, where extremely heavy rainfalls and floods have contributed to an increase in cases\nand deaths due to cholera.\n\nThe WHO Global Cholera Task Force recommends that efforts to monitor the spread of V.\ncholerae O139 at a global level must be continued and/or strengthened.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:32.356254",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "21 September 1998",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 September 1998 Disease Outbreak Reported\n\nA total of 43911 cases and 1777 deaths (CFR 4.0%) has been reported in Uganda since the\nbeginning of the epidemic in late 1997. In some areas the situation is mainly stable or a\ndownward trend is occurring. No cases have been reported in Central Region for over a\nmonth. The districts of Arua and Moyo in the Northern Region, Kamuli in the Eastern Region\nand Bushenyi in the Western Region are still reporting high numbers of cases whereas other\ndistricts in these regions are reporting either less than 10 cases per week or no cases at\nall. Although some areas of the Western Region (Hoima, Kasese, Kibaale and Masinidi\nDistricts) and Busia District in the Eastern Region have not reported for some time, the\nlast information received indicated that there had been a downward trend in the number of\ncases.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:33.898156",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "11 September 1998",
+        "Location": "Armenia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 September 1998 Disease Outbreak Reported\n\nThe Ministry of Health of Armenia has offcially informed WHO of an outbreak of\ncholera. A village, around 60 km from Yerevan, is affected by cholera and as of 6\nSeptember a total of 25 cases had been reported. There is no information on the number of\ndeaths. Cholera is confirmed by laboratory analysis as V. cholerae El Tor. WHO is\nin close contact with the Ministry of Health which is taking measures to control the\ndisease and its further spread, together with other agencies (e.g. the International\nFederation of Red Cross and Red Crescent Societies).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:35.400191",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "9 September 1998",
+        "Location": "Comoros",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "09 September 1998 Disease Outbreak Reported\n\nThe country, which consists of 4 islands (Grande Comore, Moheli, Anjouan and\nMayotte) has been experiencing a cholera outbreak since February 1998. The first case was\nregistered in Mbeni, ca. 80 km north of the capital Moroni on Grande Comore. The disease\nspread soon after to other districts including the capital. The Ministry of Health has\nkept WHO regularly informed of the situation. By end-April, 1 750 cases and 31 deaths had\nbeen reported. Most cases occurred between April and June. By mid-August, the cumulative\ntotal for 1998 had reached 3199 cases and 40 deaths.\n\nWHO and other agencies, as well as several NGOs, have been involved from the start in\ncontrolling the outbreak and preventing its spread, in close collaboration with the\nMinistry of Health. Poor basic sanitation, very limited personal and environmental hygiene\nand poor access to safe water are the major contributors to the continued spread. Epidemic\npreparedness plans have been set up for the surrounding islands with the support of WHO.\n\nThe first case of cholera has now been announced on the island of Mayotte. WHO is in\ncontact with health officials there to support immediate action for control and\nprevention.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:36.960917",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "2 September 1998",
+        "Location": "Afghanistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "02 September 1998 Disease Outbreak Reported\n\nThis is a press release issued by the WHO Office in Afghanistan.\n\nWorld Health Organisation (WHO) in Afghanistan reports worsening of the national\noutbreak of acute gastroenteritis and suspected cholera in some regions. Only six\nhospitals in Kabul last week reported 1400 cases of acute severe diarrhoea,\ngastroenteritis, and suspected cholera. This is the third week of the epidemic and more\nemergency medical supplies provided by WHO -Afghanistan have now reached Kabul and\ndistribution is underway.\n\nIn Bamyan from the 19th to the 26th of August 1998, 328 cases of acute severe diarrhoea\nand suspected cholera were reported including 28 deaths of affected men, women, and\nchildren. The civil war in Afghanistan has brought thousands of internally displaced\npeople into the Bamyan area from the North. This overcrowding has further aggravated the\ndangerous situation of water and sanitation. At the same time, the isolation of the area\nmeans that the health facilities have little surplus to respond to the pressure of an\nepidemic. The hospital and clinics in Bamyan have minimal supplies of antibiotics and ORS\nto last until the end of the week. Their supply of intravenous fluid is exhausted and they\nare borrowing from Afghan Red Crescent Society supplies of fluids provided by ICRC for war\nwounded.\n\nIn response to the suspected cholera outbreak, WHO-Afghanistan began shipping emergency\nsupplies to every region of Afghanistan in the middle of August. Supplies for Bamyan were\nwaiting for the next UN flight from Islamabad when the US missile attacks on Afghanistan\noccurred and all flights were suspended. This week WHO is arranging for transfer of\nemergency medical supplies from Ghazni by road. Using the only available land route, the\nsupplies can reach Bamyan no sooner than 3-4 days due to the bad road conditions.\n\nThe long road to Bamyan also crosses two front lines in the civil war. However, since\nthe World Health Organisation has a long-standing reputation as being neutral and\nimpartial and having a good relationship with authorities on either side of the border,\npermit has been granted and their trucks of supplies expect to get through safely.\n\nIn other areas of Afghanistan the outbreak of suspected cholera has continued to claim\nlives -- Baghlan, Laghman, Takhar, Samangan, Kunduz, Badakhshan, Uruzgan and Ghazni. A new\noutbreak of acute gastroenteritis was reported this week from Herat with 86 hospitalized\nand one death. Control of the outbreak depends on providing safe drinking water through\nchlorination or other means and health education about using ORS to treat diarrhoea to\nprevent dehydration. To contain the epidemic and avoid future outbreaks, city-wide and\nnation-wide efforts are required to improve water and sanitation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:39.736983",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "31 August 1998",
+        "Location": "Bhutan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "31 August 1998 Disease Outbreak Reported\n\nA total of 13 cases has been offically notified to WHO as of 28 August 1998. The first\ncase was registered on 15 August . The necessary measures have been taken by the Ministry\nof Health to control the disease and prevent its spread. All neighbouring countries have\nreported acute diarrhoea/cholera cases this year. Bhutan has suffered previous cholera\noutbreaks in 1992 (494 cases) and in 1995 (25 cases) .",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:46.289427",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "24 August 1998",
+        "Location": "Angola",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "24 August 1998 Disease Outbreak Reported\n\nFollowing the information posted on 6 August 1998, the Ministry of Health in Angola has\nnow reported a total of 1113 cases of meningococcal meningitis from the four affected\nprovinces of Bi\u00e9, Malange, Huambo and Lunda Norte. A total of 115 reported deaths gives a\ncase fatality rate of 10.3%. A vaccination campaign is being carried out with NGO support\nin circumstances rendered difficult by the current deterioration in the security situation\nin some areas of Angola.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:47.921164",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "21 August 1998",
+        "Location": "Afghanistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 August 1998 Disease Outbreak Reported\n\nThis update is based on a press release issued by the WHO Office in Afghanistan.\n\nThe World Health Organisation in Afghanistan reports a very serious and widespread\nnational outbreak of acute diarrhoea and suspected cholera. A sharply increasing number of\ncases of severe acute diarrhoea have been reported from the Northern, North-eastern,\nCentral, Eastern, Southern and South-eastern Regions of Afghanistan.\n\nIn Kabul, a Task Force including the Ministry of Health, WHO, UNICEF and ICRC was\nestablished to mobilise available resources, but more funds are required to secure the\nsafe drinking water supply to bring the outbreak under control there. Funds or\ncontributions in kind are also desperately needed to airlift medical supplies to the North\nand North-eastern Regions as well as to implement water and sanitation measures to control\nthe outbreak in all regions.\n\nIn the Central Region, the WHO sub-office reports that more than 10,000 cases of acute\ndiarrhoea, especially among women and children, have been registered in the 59 health\nfacilities in Kabul over the last ten days with a few deaths. As the safe water situation\nis deteriorating in the city, the death rate is likely to increase.\n\nIn the Northern and North-eastern Regions where access is difficult, the case fatality\nrate is 3-15%. From Baghlan, the Swedish Committee of Afghanistan reports 3500 cases of\nsevere acute diarrhoea with 102 deaths and from Takhar 300 cases with 8 deaths. The\noutbreak may have spread also to Samangan Province. From Kunduz, the WHO sub-office\nreports 128 cases of severe acute diarrhoea and 20 deaths, and from Badakhshan Province,\n26 cases and 6 deaths.\n\nACBAR and MSF also report an outbreak of acute diarrhoea in Nooristan district in the\nEastern Region. In Uruzgan Province of the Southern Region, MSF reports an outbreak of\nsuspected cholera with 8 deaths. The WHO sub-office in Ghazni of the South-eastern Regions\nreports 8 cases of acute diarrhoea and one death.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:49.565466",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "19 August 1998",
+        "Location": "Afghanistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 August 1998 Disease Outbreak Reported\n\nAmong other critical health problems,\nAfghanistan has been suffering from a cholera outbreak since July this year. Approximately\n1500 cholera cases per day are reportedly occurring daily in Kabul Province. Other areas\naffected are Logar and Bamyan Provinces in the central part of the country and Uruzgan\nProvince in the south. Exact numbers are difficult to obtain due to the current security\nproblems. Laboratory investigation has confirmed that the outbreak is caused by Vibrio\ncholerae O1 El Tor. According to information available to date the case fatality rate\nhas been low .\n\nData are collected from 59 health facilities which are part of a national surveillance\nsystem supported by WHO. The Ministry of Health, in collaboration with WHO, has set up a\nCholera Task Force which meets regularly and is attended by several agencies ( WHO, ICRC,\nUNDP, UNICEF). NGO 's. which were withdrawn from Kabul Province, are not yet able to\nreturn but negotiations are currently in progress to resolve this situation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:51.086469",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "18 August 1998",
+        "Location": "Singapore",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 August 1998 Disease Outbreak Reported\n\nIn recent years, dengue has become a major international public health concern. Many\ncountries/areas in Asia have been experiencing unusually high levels of dengue/dengue\nhaemorrhagic fever activity in 1998.\n\nOver the past 2 decades, 29 out of the 37 countries/areas in the WHO Western Pacific\nRegion have reported dengue cases. The disease has been reported more or less annually by\n15 countries, including Cambodia, China, Lao People's Democratic Republic, Malaysia, the\nPhilippines, Singapore, Viet Nam and several Pacific island countries/areas. During\n1993-1997, a total of 552\u00a0088 cases was reported from the Region. Of these, 70% were\nreported from Viet Nam alone. The case-fatality rate (CFR) has been declining in most of\nthe endemic countries in the Region over the last 2 decades due to better understanding of\nthe pathogenesis and improvement in case management. The overall CFR in the Region is now\nless than 1%. However, in some countries the CFR still exceeds 4% due to factors such as\nadmission to hospital when the disease is in an advanced state.\n\nIn newly industrialized countries such as Malaysia and Singapore, dengue incidence once\ndeclined owing to successful vector control programmes, but a resurgence in the number of\ncases has been reported since 1994. In the Pacific island countries/areas, the\nreappearence of dengue type 2 was confirmed in 1996 for the first time since the 1980s.\n\nThe occurrence of dengue cases in most countries of the WHO Western Pacific Region\nreaches its peak during the period June-November each year. The level of activity so far\nin 1998 has been considerably higher than in previous years. A major contributing factor\nmay be changes in weather patterns, such as the El Ni\u00f1o phenomenon.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:52.634189",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "14 August 1998",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 August 1998 Disease Outbreak Reported\n\nUp to mid-July 1998, Mozambique has\nnotified a total of 26,783 cases of cholera and 619 deaths ( CFR of 2.3 %) affecting 8 of\nthe 11 provinces in the country. Although cases continue to be reported there has been a\nsharp decrease since the middle of June. However, the Ministry of Health has contacted all\nprovincial authorities to be prepared for the next rainy period during which a\nrecrudescence of cholera is expected to occur. The reactivation of Provincial Emergency\nCommittees for epidemic preparedness activitie is being encouraged.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:54.391461",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "13 August 1998",
+        "Location": "France",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "13 August 1998 Disease Outbreak Reported\n\nSince early June 1998, 19 cases of legionellosis have been identified\namong visitors to Paris. Ten of the cases were French nationals and 9 were tourists from\nother European countries. All cases occurred between 6 June and 3 July. Three patients\ndied.\n\nTen of the cases had visited the 9th arrondissememt\n(administrative area of Paris) while 7 had visited the adjacent 2nd arrondissment.\nSpecimens from 4 patients were sent to the National Reference Centre for Legionellosis and\nfound to be of identical type.\n\nInvestigations to identify the source of the outbreak are\nbeing carried out but no results have been obtained to date. As a precautionary measure,\nowners of cooling towers in the 2nd and 9th arrondissements have been ordered to\nclean and disinfect their installations.\n\nNo new cases have been detected since 3 July 1998. Heightened\nsurveillance and investigations to identify the source continue.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:55.891728",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "11 August 1998",
+        "Location": "Russian Federation",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 August 1998 Disease Outbreak Reported\n\nIn June and July 1998, 3 outbreaks of anthrax were\nreported from different regions of the Russian Federation, causing 15 cases and 2 deaths.\nAll the cases occurred in connection with the consumption of meat from privately-raised\ncattle, and all received treatment. Official sources report that the situation is under\ncontrol. WHO is currently investigating reports of anthrax outbreaks in several other\ncountries",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:57.450957",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "6 August 1998",
+        "Location": "Angola",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 August 1998 Disease Outbreak Reported\n\nThe Ministry of Health has reported a total of 574 cases of\nmeningococcal meningitis (group A) from 1 January to 27 July 1998 of which 69 have died\n(case fatality ratio 12%). The most affected provinces are Bi\u00e9, Malange, Lunda Norte and\nHuambo. The cumulative attack rate has reached 43 per 100,000 population, and the most\naffected age group is 15-29 years, followed by the 4-14 years age group. The Ministry of\nHealth has set up a coordinating committee to respond to this epidemic and is appealing\nfor vaccine, autodestruct syringes, medicine, laboratory services, and financial resources\nto ensure efficient logistical support for the response.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:16:58.986708",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "3 August 1998",
+        "Location": "Liberia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "03 August 1998 Disease Outbreak Reported\n\nThe national health authorities of Liberia have reported an outbreak of\ncholera/diarrhoea which started at the end of May. The areas affected by the outbreak are\nNimba County and Margibi County. Up to 26 June a total of 560 cases with 12 deaths had\noccurred. The county health teams carried out various control measures in the areas\naffected (chlorination of wells, health education, opening of ORT treatment centres).\nAdditional support and supplies were requested from the Ministry of Health. Follow-up\nmissions were undertaken by WHO in collaboration with the two county health teams\ninvolved. Another outbreak of severe diarrhoea was reported in Sinoe County at the\nbeginning of July although the number of cases is not yet known. Heavy rains in the area\nhave hampered aid to the area as bridges have been washed away.\n\nAs well as the activities carried out by the county health teams, WHO, UNICEF, the\nBelgian Red Cross and other NGO's are collaborating with the national health authorities\nand the local communities to provide aid.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:00.494226",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "20 July 1998",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 July 1998 Disease Outbreak Reported\n\nUganda, where cholera is endemic, is still\nsuffering from a major outbreak which started at the end of 1997. Regular reports to WHO\ncontinue to show high numbers of cases with case fatality rates ranging from 4% to 5.5 %\nin different regions. At the end of June 1998 a total of 38,697 cases and 1,576 deaths had\nbeen officially reported since the beginning of the outbreak. The total number of affected\ndistricts is now 39, covering a large part of the country. Most of the neighbouring\ncountries have also been affected by major cholera outbreaks since late 1997 and continue\nto report cases.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:02.058308",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "15 July 1998",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 July 1998 Disease Outbreak Reported\n\nThe Ministry of Health has reported a cholera outbreak in Paoy Pet Commune, Banteay\nManchey Province in the north-west of the country. The outbreak started on 14 June 1998\nand has so far affected three villages - Khaal Spean, Baliley and Kilo Leek Buon. Up to 29\nJune 69 cases and 15 deaths were reported. Control measures are being carried out by the\nBanteay Meanchey provincial health authorities (Ministry of Health).\n\nCurrent control measures include the following:-\n\n- Paoy Pet Health Center is functioning as a Cholera Treatment Center which is open 24\nhours a day.\n\n- New case-finding is being carried out in Paoy Pet.\n\n- A health education campaign by Banteay Meanchey health staff including interpersonal\nand mass media communication directed at the general public and village chiefs in and near\nPaoy Pet.\n\n- Regular analysis of the cholera situation by collaborating with Banteay Meanchey\nHealth Department, the Ministry of Health, MSF, UNDP/CARERE and the WHO country and\nRegional offices.\n\nIn 1997 a total of 155 cholera cases were reported in Cambodia but in 1996 and 1995 a\nmuch higher number of cases occurred (4190 and 3085 cases respectively).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:03.617347",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "4 July 1998",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "04 July 1998 Disease Outbreak Reported\n\nAs of 3 July 1998 a total of 55 deaths among infants and young children have been\nreported in relation to the current outbreak of hand, foot and mouth disease which began\nin April of this year in Taiwan Province, China. A total of 271 cases have been\nhospitalised with serious complications (aseptic meningitis, encephalitis). Ninety percent\nof deaths and 86% of hospitalised cases were below six years of age.\n\nThe number of hospitalised cases has gradually increased since April 1998, peaked\nduring the period from 24 \u0096 30 May, and thereafter began to decline. Cases have been\nreported from all regions of Taiwan, with the highest number from the Northern Region.\nVarious estimates put the total number of infants and children affected by hand, foot and\nmouth disease between 60,000 and 300,000.\n\nEnteroviruses, in particular EV-71, have been isolated from throat and rectal swabs,\nstools, cerebrospinal fluid and other specimens from fatal and non-fatal cases. Two cases\nwith brain stem encephalitis have been autopsied in Taipei, and EV-71 has been detected in\nbrain stem and spinal cord in one case (8-year-old female), These discoveries have led\nDepartment of Health officials to believe that enterovirus type-71 is implicated.\n\nThe Department of Health in Taiwan formed a special task force to monitor the epidemic\nand to prevent its spread. As there is no vaccine for the virus, the health authorities\nrecommend that parents keep their children away from public places and make sure that\nchildren wash their hands often to reduce the risk of infection.\n\nA Singaporean boy aged two and a half years died on 25 June following hand, foot and\nmouth disease complicated by encephalitis. The boy had no history of travel to Taiwan\nrecently. Laboratory investigation for enteroviruses is being carried out, and the result\nwill be available in one to four weeks. No enterovirus 71 infection has been detected in\nSingapore this year.\n\nRecently reports in the media in Hong Kong have quoted Department of Health sources\nindicating that during the last two weeks of June four cases associated with hand, foot\nand mouth disease were hospitalised, although no deaths were reported. Currently many\ncountries in the region implement heightened surveillance for hand, foot and mouth disease\nand for severe complications in children.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:05.127106",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "3 July 1998",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "03 July 1998 Disease Outbreak Reported\n\nAccording to a statement from the European Commission,\nthey have decided to lift the ban on fresh fish imports from eastern Africa imposed after\na cholera epidemic. The decision affects imports from Tanzania, Kenya, Uganda and\nMozambique. The decision is effective 1 July 1998 and reverses earlier measures imposed in\nJanuary 1998 to limit the import of fishery products because of the cholera epidemic that\nswept much of eastern Africa in late 1997 and early 1998.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:06.666285",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "17 June 1998",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 June 1998 Disease Outbreak Reported\n\nEnterovirus 71 has been reported as the cause of the\ncurrent enteroviral outbreak in Taiwan, China. The report was based on an autopsy\nrevealing the presence of enterovirus 71 in the spinal cord and medulla of a fatal case.\nAs of 17 June, the outbreak has claimed 41 lives among infants and children throughout the\nisland.\n\nAs there is no vaccine for the virus, the health authorities recommend that parents\nkeep their children away from public places and make sure that children wash their hands\noften to reduce the risk of infection.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:08.182776",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "8 June 1998",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "08 June 1998 Disease Outbreak Reported\n\nMany countries/areas in south-east Asia (Malaysia, Taiwan\n[China], Cambodia, Viet Nam, Thailand, Philippines, Indonesia, Myanmar), the western\nPacific (Guam, Cook Islands, Fiji, New Caledonia, Kiribati) and Latin America (Brazil,\nVenezuela, Columbia) have recently been experiencing unusually high levels of\ndengue/dengue haemorrhagic fever activity. Although there is often a seasonal increase in\ndengue in some of these countries/areas at this time of the year, the level of activity in\n1998 is considerably higher than in previous years. Changes in weather patterns as a\nresult of the El Nino phenomenon are thought to be a major contributing factor.\n\nUnless more effective measures are taken to control the main vector, Aedes aegypti,\nin these and other countries/areas, dengue will continue to be a growing problem in\ntropical and subtropical regions of the world. Essential elements of an effective\nprogramme are integrated mosquito control with community and intersectoral involvement,\nvector surveillance for monitoring and evaluation, emergency preparedness, capacity\nbuilding and training, and applied research.\n\nA total of 16,647 cases of dengue/dengue haemorraghic fever with 55 deaths (case\nfatality rate = 0.3%) has been reported since the beginning of 1998. The incidence of\ncases has more than doubled compared with the same period last year. In 1997 the number of\ndengue cases reported (108,000 cases and 245 deaths) was the highest since 1991. As the\ntraditional peak season for dengue (June to November) has only just started a major\nepidemic is expected to occur. While dengue 2 virus was the most prevalent strain in 1997,\nearly data suggests that dengue 3 virus predominates this year, but it should be noted\nthat very few viruses have been typed. Six provinces in southern Viet Nam have been\nprovided with materials for surveillance and testing and all provincial district hospitals\nin the southern region have been supplied with haematocrit equipment for the management of\ncases of dengue haemorrhagic fever.\n\nA total of 5,337 cases (of which 194 were dengue haemorraghic fever) with five deaths\nhas been reported since the beginning of 1998. The number of cases is comparable to the\nnumber reported for the same period last year. The 1997 total of reported cases (19,544\ncases and 50 deaths) was the highest since 1990. As the traditional dengue season only\nbegan in May it is too early to assess the trend during 1998.\n\nThere has been a rapid increase recently in dengue/dengue haemorrhagic fever cases and\nall provinces of the country are now affected. As of 5 May a total of 32,665 cases with\n774 deaths had been reported. This number of cases is considerably higher than in the same\nperiod last year. It is expected that cases will continue to increase during the peak\ntransmission season of May to July. WHO is assisting the Ministry of Health in their\nefforts to control the situation by providing guidelines on clinical management of cases\nand laboratory services during epidemics, sending an expert to assist in developing a\ncontrol strategy, and providing support for laboratory studies.\n\nThis year Brazil is experiencing the highest levels of dengue transmission in its\nhistory. A total of 234,828 cases was reported during the first four months of 1998,\ncompared with 159,965 cases during the same period in 1997 and 254,942 cases reported for\nthe entire year in1997. Transmission appears to have peaked in April, as it did last year.\nThere have been 60 cases of dengue haemorrhagic fever reported and eight deaths. Both\ndengue 1 and dengue 2 viruses are circulating. Approximately 60% of all dengue cases in\nthe Americas are reported from Brazil, but less than 1% of the dengue haemorrhagic fever\ncases. The area with the greatest transmission has been the south-east region, with 89,000\ncases in the State of Minas Gerais and 35,000 cases in the State of Espirito Santo. All\nbut four of the 27 states/territories in Brazil are affected.\n\nIn 1997 Brazil launched its Aedes aegypti Eradication Program. About US$448\nmillions were spent to hire, train and equip tens of thousands of inspectors to visit each\nhouse in infested areas every three months to eliminate breeding sites. Unfortunately, the\ndeployment process has been very slow, because it involves making contracts with each of\nthe 2,500 infested municipalities. At present, inspectors are working in 1,300\nmunicipalities. Emergency measures have included ultra-low-volume application of\ninsecticides with vehicle-mounted sprayers, massive dissemination of information to the\npublic about Aedes breeding sites and how to eliminate them, and plans for aircraft\napplication of insecticide.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:10.935727",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "28 May 1998",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 May 1998 Disease Outbreak Reported\n\nSince January 1998, 13,440 cholera cases and 778 deaths\nhave been reported in the Democratic Republic of the Congo. The provinces of\nKatanga, Nord-Kivu, Sud-Kivu and Orientale are currently the most affected by cholera\noutbreaks. The provinces of Kinsasha and Equateur have reported only a few cases. Although\nthe outbreak is in regression in the province of Katanga, the situation in Sud- Kivu,\nNord-Kivu and Orientale provinces is still of serious concern. Many activities to prevent\nfurther spread and to treat affected populations are being undertaken by the MOH in\ncollaboration with WHO, UNICEF, MSF and other NGO's.\n\nFrom 1 April to 18 May, 77 cases of cholera and 3 deaths have been reported in\nBujumbura Province, Burundi. The districts of Buyenzi, Bwiza, Cibitoke and Musaga\nare the most affected. Health education and activities to improve sanitation are being\ncarried out by the MOH.\n\nCases of cholera started to be reported in Rwanda in March in Cyangugu\nprefecture which is on the border with the Democratic Republic of the Congo. Although the\nnumber of cases is not very high at present, there is major concern about further spread\nto other areas of the country.\n\nIn Uganda, the dramatic cholera outbreak which started in late 1997 is still\naffecting the country with over 20,000 cases and over 1,000 deaths reported since the\nbeginning of the year.\n\nThe current cholera outbreak affecting the Great Lakes region confirms earlier\nforecasts of a potential spread from eastern African countries which were affected by\nmajor outbreaks last year to countries in the central and southern part of Africa.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:12.504527",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "19 May 1998",
+        "Location": "Rwanda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 May 1998 Disease Outbreak Reported\n\nA cholera outbreak which began in late February in Cyangugu\nPrefecture close to the border with the Democratic Republic of the Congo is continuing\nwith an increased number of cases reported recently. It is likely that the disease has\nalready spread to Burundi where some cases were officially reported to WHO in March",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:14.040851",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "19 May 1998",
+        "Location": "United Republic of Tanzania",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 May 1998 Disease Outbreak Reported\n\nFollowing reports of a disease outbreak in Sumbawanga District, in the south-eastern\npart of the country, the Regional Health Authority sent an investigating team to the\naffected areas - Matai, Sopa and Katete wards. It has been confirmed that the outbreak was\ncaused by a severe form of falciparum malaria. The whole country is experiencing increased\nnumbers of malaria cases and deaths following an abnormally long rainy season. Similar\noutbreaks have been reported in several other districts (Tanga, Muleba, Korogwe, Handeni\nand Lushoto) in the last 12 months. Malaria is, however, endemic in the whole country and\nincreasing transmission occurs regularly during this period.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:20.595796",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "8 May 1998",
+        "Location": "Pakistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "08 May 1998 Disease Outbreak Reported\n\nCrimean-Congo haemorrhagic fever has been diagnosed in four cases of which two died in\na village in the Kohlu area of Baluchistan Province of Pakistan in February. The four\ncases belonged to the same family of herders living in close contact with their sheep.\nSpecimens were collected from the two surviving patients, from other members of the family\nwho developed fever without haemorrhagic symptoms and from many of the contacts. Blood\nspecimens from cases and contacts were shipped to the WHO Collaborating Centre for\nReference and Research on Special Pathogens at the Centre for Applied Medical Research,\nPublic Health Laboratory Service, Porton Down, United Kingdom for testing. All had IgG and\nIgM antibody to Crimean-Congo haemorrhagic fever virus indicating recent infection. Other\nvirologic testing is in progress at Porton Down.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:23.248702",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "8 May 1998",
+        "Location": "Afghanistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "08 May 1998 Disease Outbreak Reported\n\nCrimean-Congo haemorrhagic fever has been diagnosed in cases occurring in a village in\nthe district of Rustaq, Province of Takar in mid-March 1998. A total of 19 cases of which\n12 were fatal were reported. Rustaq district, in the north-eastern part of Afghanistan,\nwas severely affected by the earthquake in early February and access was further\ncomplicated by melting snow. However, representatives from United Nations and\nnon-governmental organizations were on site to provide assistance and notified WHO about\nthe outbreak. The WHO country office organized with the International Federation of Red\nCross and Red Crescent Societies and M\u00e9decins Sans Fronti\u00e8res the investigation and\nmanagement of the cases. Blood specimens were shipped to the WHO Collaborating Centre for\nReference and Research on Special Pathogens at the Centre for Applied Medical Research,\nPublic Health Laboratory Service, Porton Down,United Kingdom. Serological testing (IgG/IgM\nantibody) provided evidence for Crimean-Congo haemorrhagic fever virus infection. Other\nvirological testing is in progress at Porton Down.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:24.790305",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "29 April 1998",
+        "Location": "Cameroon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "29 April 1998 Disease Outbreak Reported\n\nShigella dysenteriae type 1 (Sd1) has been confirmed as the organism responsible for\nthe outbreak of bloody diarrhoea which started in Cameroon in November 1997. Since then\n237 cases with 60 deaths have been reported. A team from the Ministry of Health has\nassessed the situation in collaboration with WHO. Stool samples were collected and\nanalyzed at the Pasteur Institutes in Cameroon and Bangui, Central African Republic. Blood\nsamples were negative in tests for haemorrhagic fevers, including Ebola haemorrhagic\nfever. Antibiotic susceptibility testing showed the Sd1 strains were sensitive to\nquinolones and cephalosporines but resistant to antibiotics commonly recommended for\ntreatment of shigella. Shigella dysenteriae type 1, also known as Shiga bacillus, is the\nmost virulent of the four serogroups of Shigella and the only cause of epidemic dysentery.\nIn Africa epidemic dysentery due to Sd1 appeared in eastern Democratic Republic of the\nCongo (former Zaire) in 1979 and has regularly affected more than 15 countries in the\ncontinent.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:26.330775",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "22 April 1998",
+        "Location": "Chad",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 April 1998 Disease Outbreak Reported\n\nDuring 1996 and 1997 many countries in the African meningitis belt experienced severe\nepidemics of meningococcal meningitis with 188,341 cases reported from Africa in 1996 and\n69,518 case in 1997. So far 7,595 cases have been reported from the WHO African Region in\n1998. However not all countries are experiencing this generally reduced level of activity\nand recent weeks have witnessed a large outbreak in Chad. In the period 29th December 1997\nto 22nd of March 1998 there have been 2835 cases and 239 deaths reported from Chad which\nis more than twice the annual total number of cases reported in Chad in 1996 (1,079 cases)\nand 1997 (1,123 cases).\n\nThe district of Bokoro reached the epidemic attack rate of 15 cases/100,000 per week in\nweek 3 (12-18 January) with the capital N'Djamena crossing that threshold in week 8 (16-22\nFebruary). Vaccination campaigns have been carried out in districts where the weekly\nattack rate has exceeded 5 cases/100,000 population. This has resulted in 1,650,000\nvaccinations carried out in 13 of 15 Prefectures. The security stock of meningococcal\nvaccine in place in order to respond to epidemic meningitis has been exhausted and\nadditional vaccine has been supplied through MSF-Belgium and WHO.\n\nThe very real threat of epidemics of cerebrospinal meningitis during the hot dry season\nfrom late December to early May means that the countries of the \"African meningitis\nbelt\" must continue to strengthen surveillance, reporting systems and rapid\nlaboratory confirmation of the etiology. Having a security stock of vaccine is useful but\nearly detection is crucial to mounting a response that can cut short these devastating\nepidemics.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:28.379615",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "15 April 1998",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 April 1998 Disease Outbreak Reported\n\nMalaysia recorded 19,544 dengue cases in 1997, 37.4% higher than the number reported in\n1996 and the highest recorded since the disease was made notifiable in the country in\n1973. Of the 19,544 cases, 806 were dengue haemorrhagic fever with 50 deaths. Cases were\nreported throughout the year but peaked in July. Although all the states in the country\nwere affected, most cases were reported in urban areas with high population density.\n\nOf the 5,433 specimens submitted to the WHO Collaborating Centre for Arbovirus\nReference and Research in Kuala Lumpur, for laboratory confirmation 56.5% were positive\nserologically. The male:female ratio was 1.28:1 and the 21-25 years age group was the most\naffected. Of the 100 virus strains isolated, 64 were dengue 1, 33 were dengue 2 and 3 were\ndengue 3.\n\nThe WHO Centre is intensifying its surveillance in 1998 since several factors may\naffect disease patterns. The prolonged drought caused by El Nino may affect vector density\nand the economic downturn has caused a reduction in massive construction which previously\nwas associated with dengue outbreaks. Hopefully, the reduction in the health budget will\nnot adversely affect the dengue situation.\n\nDengue endemic countries in South-East Asia which share problems similar to those of\nMalaysia are advised to monitor the situation closely and submit country data to the WHO\nRegional Offices in Manila and New Delhi on a regular basis.\n\nBased on a report from the WHO Collaborating Centre for Arbovirus Reference and\nResearch, Kuala Lumpur, Malaysia. The Centre offers to provide its 1997 Annual Report to\nthose interested and to collaborate in dengue surveillance affected by adverse weather\npatterns and economic factors.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:29.909999",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "7 April 1998",
+        "Location": "Zimbabwe",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 April 1998 Disease Outbreak Reported\n\nA total of 335 cases with 12 deaths were reported up to 27 March 1998 in Zimbabwe. Of\nthe total number of cases, 263 (with 9 deaths) occurred in Chipinge District, Manicaland\nProvince. Seventy-two cases with three deaths occurred in Masvingo Province, mainly in\nChiredzi District. In addition, one suspected case has been reported from Matabeleland\nNorth Province.\n\nThese were the first reported cases in Zimbabwe since 1993 when 5,385 cases with 332\ndeaths were notified to WHO. The Government, in collaboration with WHO and other agencies\nis implementing cholera prevention activities and they consider the situation to under\ncontrol in all districts.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:32.541148",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "7 April 1998",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 April 1998 Disease Outbreak Reported\n\nCholera activity has increased in Uganda since the beginning of the current epidemic in\nlate 1997. A total of 16,982 cases with 849 deaths (case fatality rate 5%) was notified to\nWHO up to 24 March 1998. Most cases have been in Central and Eastern Regions. Nine\ndistricts of Central Region reported 6,688 cases with 289 deaths and ten districts of\nEastern Region have notified 7,535 cases with 342 deaths. The situation in Eastern Region\nremains particularly serious with an average of 65 new cases per day. Cholera has also\nspread to Western Region where 7 districts have notified 2,755 cases with 218 deaths to\ndate and new cases are still occurring.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:34.215760",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "31 March 1998",
+        "Location": "Honduras",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "31 March 1998 Disease Outbreak Reported\n\nMany countries in the Americas are experiencing unexpected outbreaks of cholera\nassociated with extreme weather conditions brought by the arrival of the El Ni\u00f1o\nphenomenon.\n\nDuring 1998, the following countries have already reported cholera outbreaks: Bolivia\n(La Paz, El Alto, Valles y Tropico de la Paz) 165 cases and 5 deaths; Honduras (La\nMosquitia in Gracias a Dios Department ) 219 cases and 12 deaths; Ecuador (Loja Province)\n11 cases and 1 death; Peru (various departments) 2863 cases and 16 deaths; Nicaragua\n(border area with Honduras) 3 suspected cases. It is expected that other countries in the\nregion will report increased cholera incidence in the coming months.\n\nPreventive and control measures are being taken by the Ministries of Health of the\naffected countries. However, as the epidemic enters its 8th year in the western hemisphere\nand with the added impact of El Ni\u00f1o, cholera will continue to challenge governments and\nhealth agencies; additional international resources for emergency preparedness and control\nmeasures will be needed this year. WHO/PAHO are working closely with countries in the\nregion to reactivate cholera preparedness and response plans.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:35.779595",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "16 March 1998",
+        "Location": "Comoros",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 March 1998 Disease Outbreak Reported\n\nAs of 11 March, 945 cases of cholera with 18 deaths (case fatality rate 1.9%) have been\nreported since the beginning of the epidemic which started in Mb\u00e9ni, 40 km north of the\ncapital Moroni, in early January. Over 50% (476) of the cases occurred in Moroni where\nmost cases have been treated at the El Maarouf Hospital. The other 469 cases have been\ntreated in the following health districts: Mitsamiouli (259), Mb\u00e9ni (105), Foumbouni\n(80), Ouzioini (18), and Mitsoudj\u00e9 (7). All cases occurred on Grand Comore Island.\n\nThe National Cholera Control Committee was set up in collaboration with WHO to\nimplement a control and preparedness plan. WHO, along with representatives of La\nCooperation Fran\u00a2aise, M\u00e9decins Sans Fronti\u00e8res, M\u00e9decins du Monde, and the national\nRed Cross assessed the situation in February. Several areas that needed strengthening to\ncontrol the outbreak were identified, the foremost being improved personal, domestic and\nenvironmental hygiene, including the supply of safe water.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:37.286546",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "10 March 1998",
+        "Location": "Comoros",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 February 1998 Disease Outbreak Reported\n\nUp to 7 February a total of 193 cases with 8 deaths (CFR 4.14%) had been reported on\nGrande Comore Island. Although the first cases were recorded in Mb\u00e9ni, 77 of the 193\ncases have occurred in Moroni and 12 districts and villages in and around the capital.\n\nMeasures to prevent further spread and for the effective treatment of cases have been\nimplemented by the cholera task force which was recently set-up by the Ministry of Health\nand WHO.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:38.823915",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "25 February 1998",
+        "Location": "Peru",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "25 February 1998 Disease Outbreak Reported\n\nA large increase in cholera cases has been reported in Peru since the end of 1997. In\nthe first four weeks of 1998 a total of 2 863 cases with 16 deaths had been reported\ncompared with only 174 cases with 1 death in the corresponding period of 1997.\n\nThe largest numbers of cases were reported in the following departments:- Arequipa,\nLima, La Libertad, Lambayeque, Ancash and Cuzco but cases have occurred in many other\ndepartments including those in the forest areas where no cases or very few had previously\nbeen reported.\n\nThis large increase has probably occurred as a result of storms and floods caused by El\nNi\u0096o. The national authorities are discussing with WHO the necessity of stepping up\nand reactivating cholera control activities and neighbouring countries have been informed\nof the situation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:40.457263",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "20 February 1998",
+        "Location": "Comoros",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 February 1998 Disease Outbreak Reported\n\nAs of 16 February, 282 cases with 10 deaths (case fatality rate 3.5%) have been\nreported, mainly in Moroni (the capital city) and surrounding villages and Mb\u00e9ni 40 km\nnorth of Moroni. Vibrio cholerae O1, El Tor has been confirmed by the\nnational laboratory in Moroni and Institut Pasteur, Paris. Testing for antibiotic\nsusceptibility showed the isolates to be sensitive to doxycycline and tetracycline and\nresistant to bactrim and choloramphenicol.\n\nWHO has been involved with the national authorities in controlling the outbreak since\nit was notified on 19 January. A national cholera committee has been established with\npersonnel from the Ministry of Health, other UN agencies and NGOs meeting daily in the WHO\noffice. Activities are directed at improving case management in the national hospital,\ntraining of health staff and education of the general public, ensuring safe water,\nsupplies of oral rehydration salts, chlorine and other material. Mobile teams have been\nemployed to provide health education, disseminate information and to disinfect and\nchlorinate water sources. Teams have visited affected areas to assess the situation and\nneighbouring islands to initiate outbreak preparedness. A plan for preparedness and\ncontrol for the coming six months is currently being considered by the national\nauthorities.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:41.989577",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "20 February 1998",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 February 1998 Disease Outbreak Reported\n\nFrom August 1997 up to 9 February 1998, a total of 14 679 cases with 477 deaths (case\nfatality rate 3.2%) were reported. During the last week of January a total of 1,657 cases\nwere reported corresponding to an attack rate of 4.1%. Most of these cases occurred in\nBeira City, Sofala Province. Over 800 cases with 80 deaths were reported in a 48-hour\nperiod in the current week and 900 patients are currently being treated in the only\ncholera ward available in the city. The situation in other affected areas (Gaza, Manica,\nMaputo City and Maputo Province) appears to be stable. Neighbouring countries (Zimbabwe,\nZambia and Malawi) have been alerted to the need to strengthen surveillance for early\ndetection of cholera coming via the Beira corridor.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:43.529788",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "19 February 1998",
+        "Location": "Canada",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 February 1998 Disease Outbreak Reported\n\nInfluenza is spreading in the northern hemisphere. The number of influenza virus\nisolates increased markedly in Canada during January and early February while USA\nexperienced a widespread epidemic. In Asia, widespread activity is reported in Israel,\nIslamic Republic of Iran and Japan. Countries in Europe had low level of activity until\nlate January but are now also reporting increasing influenza activity. The recommendations\nfor the composition of the 1998-1998 influenza vaccine were issued 18 February (see Press\nRelease below). The full report will be published in Weekly Epidemiological Record\nNo. 9 on 27 February.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:45.021042",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "13 February 1998",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "13 February 1998 Disease Outbreak Reported\n\nThe number of cases of dengue haemorrhagic fever admitted to two pediatric hospitals\nwhich function as sentinel sites in Phnom Penh was much higher than normal in December\n1997 and January 1998. During 1997 the monthly number of cases had increased from 10 in\nJanuary to a peak at 220 in November but remained below the monthly epidemic thresholds.\nThe number of cases fell to 140 in December but then increased again to 227 in January\n1998 which is almost five times above the epidemic threshold for that month. Three of the\n227 cases were fatal. Experts from the WHO Office for the Western Pacific Region are\ncurrently in the country to assess the situation and discuss control strategies with the\nnational health authorities.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:47.730838",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "10 February 1998",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 February 1998 Disease Outbreak Reported\n\nUp to 5 February 1998 a total of 485 cases with 83 deaths (CFR 17.1%) has been reported\nsince the outbreak began on 27 November 1997. Four areas of Pointe-Noire are currently\naffected, the worst being Arrondissements III and IV where water quality and sanitary\nconditions are extremely poor. It is estimated that the number of cases has levelled out\nat 10 cases per day in Pointe-Noire. Madingo-Kayes which is 80 kms north of Pointe-Noire\non the coast and Kaka Mueka 180 kms to the north-east in forest area have also reported\ncholera outbreaks although figures are not yet available The situation in neighbouring\ncountries is being carefully monitored and WHO is facilitating the exchange of information\nwith these countries.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:49.267467",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "10 February 1998",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 February 1998 Disease Outbreak Reported\n\nThe outbreak which began in the port city of Beira two weeks ago has increased\ndramatically and around 2000 cases with 109 deaths had occurred up to 9 February according\nto reports from the national health authorities. Strict control measures are being\nimplemented by the Ministry of Health in cooperation with other health organizations but\nare hampered by the very poor sanitary conditions prevailing in the city.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:50.808408",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "3 February 1998",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "03 February 1998 Disease Outbreak Reported\n\nSince November 1997, 445 cases of which 83 were fatal (case fatality rate 20%) have\nbeen reported in Pointe-Noire in the southern part of the country. The cases occurred\nbetween 7 November 1997 and 27 January 1998. Vibrio cholerae O1 has been isolated from 6\nspecimens at the Institut National de Recherche Medicale, Kinshasa, Democratic Republic of\nthe Congo. Representatives of the Ministry of Health, WHO, M\u00e9decins Sans Fronti\u00e8res,\nUnicef, the International Red Cross and other NGO's met on 1 February to develop a control\nstrategy and establish a national and regional committee to coordinate activities. A team\nfrom WHO has been sent to the outbreak area to assist in the investigation and control\nactivities.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:57.357647",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "28 January 1998",
+        "Location": "Angola",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 January 1998 Disease Outbreak Reported\n\nMeningococcal meningitis group A has been confirmed in an outbreak in Tembo, Bandundu\nRegion which is close to Lunda Norte Province in neighbouring Angola. Up to 25 January 114\ncases, of which 32 were fatal (case fatality rate 28%), had been reported. The first case\nwas reported on 2 January and coincided with the return of over 9,000 Congolese citizens\nfrom Angola. 13 cases (1 death) were reported in the second week of January, 35 cases (16\ndeaths) in the third week and 65 cases (14 deaths) in the fourth week. The weekly attack\nrates based on an estimated population of 46,000 in Tembo increased from 2.2 to 141.3\nduring the first four weeks of January. A team from the Ministry of Health, WHO and\nM\u00e9decins Sans Fronti\u00e8res has visited Tembo to assess the situation and plan control\nmeasures such as a vaccination campaign, training of health care staff, and public health\neducation. Meningitis has also been reported in Kikwit and in Panzi health zones, in\nparticular at Kingwangala and Kahemba. Apparently 80 cases of meningitis were also\nhospitalized across the border in Angola.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:17:59.094104",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "12 January 1998",
+        "Location": "Chile",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 January 1998 Disease Outbreak Reported\n\nThe Ministry of Health has reported 33 cases of cholera (12 confirmed) which have\noccurred since the last week of December 1997. The districts most affected are Ayllo\nSolor, San Pedro de Atacama and Sequitor in the north of the country (Antofagasta Region).\nThese rural districts are close to the border with Bolivia. Argentina, Bolivia and Peru\nhave been notified of the cases.\n\nThe Ministry of Health has informed WHO that the following measures are being\nimplemented: reactivation of the Cholera Coordinating Committee, health education on food\nsafety, water treatment, environmental sanitation, outbreak investigation and\nreinforcement of epidemiological surveillance systems. Chile last reported cholera in 1998\nwhen one imported case occurred, in 1994 when 1 case only occurred and in 1993 when 32\ncases were reported.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:00.635031",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "9 January 1998",
+        "Location": "Saudi Arabia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "09 January 1998 Disease Outbreak Reported\n\nAll travellers arriving from countries known to be infected with yellow fever (as shown in the WHO Weekly Epidemiological Record) must present a valid yellow-fever vaccination certificate in accordance with the International Health Regulations. In the absence of such a certificate, the person will be vaccinated upon arrival and placed under strict surveillance for 6 days from the day of vaccination or the last date of potential exposure to infection - whichever is earlier. Health offices available at entry points will be responsible for notifying the appropriate Director General of Health Affairs, in the region or governorate, about the place of residence of the visitor.\nAeroplanes and other means of transportation arriving from areas infected with yellow fever are requested to submit a certificate indicating disinsection in line with the International Health Regulations. II. Meningococcal meningitis For all arrivals. Visitors from all over the world arriving for the purpose of \"Umra\" or pilgrimage or for seasonal work are requested to produce a certificate of vaccination against meningitis issued not more than 3 years and less than 10 days before arrival in Saudi Arabia. The responsible authorities in the country from where the visitor comes must ensure that vaccination has been carried out as follows: Adults and children over the age of 2 years must be given 1 dose of the A/C vaccineChildren between 3 months and 2 years of age must be given 2 doses of the A vaccine with a 3-month interval between the 2 doses.B. Arrivals from countries in the African meningitis belt. It must be ensured that all visitors from these countries have been vaccinated in their countries, not more than 3 years and not less than 10 days before arrival. This should be documented on the vaccination certificate. Visitors from these countries will be checked at entry points to ensure that they are vaccinated. Suspect cases, shall be isolated and preventive measures will be taken in respect of their direct contacts. If the authenticity of the vaccination certificate is felt to be questionable, revaccination is to be carried out. Chemoprophylaxis will be administered to all visitors from these countries to lower the carrier rate among them. III. Diphtheria Visitors arriving for pilgrimage or \"Umra\" purposes from the countries of the former USSR are requested to present a certificate indicating that they have been vaccinated against diphtheria and have received a single dose of benzathene penicillin as follows: 600 000 units for persons weighing less than 30 kg;1 200 000 units for adults and children weighing more than 30 kg.Those allergic to penicillin should, instead, be given erythromycin, as follows: adults: 1 g daily (divided equally into 4 doses) for 1 week; children: 40 mg per kg body weight, daily (divided equally into 4 doses) for 1 week. For all the above, certificates should be issued either in Arabic, English or French; in addition, a copy in the official language of the country of origin may be enclosed. IV. Epidemiological surveillance Tight control is exercised on entry points in respect of pilgrims and \"Umra\" visitors, and thorough surveillance shall be made in respect of visitors coming from countries infected with diseases subject to the International Health Regulations, in addition to isolation of suspect cases and surveillance of their contacts. V. Foods Foods carried by visitors and pilgrims are banned and not allowed into the country. Special rules apply for foods imported for commercial purposes. The above, as well as all circulars issued in this respect, shall be strictly adhered to during the pilgrimage and \"Umra\" seasons. WHO comment: This is to inform visitors of the full requirements for entry into the country; it does not mean an endorsement by WHO of all measures stipulated. Saudi Arabia is enforcing these measures in accordance with International Health Regulations (1969), Third annotated edition, Part VIII, article 84 which states \"Migrants, nomads, seasonal workers or persons taking part in periodic mass congregations, and any ship, in particular small boats for international coastal traffice, aircraft, train, road vehicle or other means of transport carrying them, may be subjected to additional health measures conforming with the laws and regulations of each State concerned, and with any agreement concluded between any such States.\"\n\n\nThe Ministry of Health has issued requirements for the forthcoming Hajj season, as\nfollows:",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:02.167514",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "7 January 1998",
+        "Location": "United Republic of Tanzania",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 January 1998 Disease Outbreak Reported\n\nThe outbreak which began at the end of January 1997 has continued throughout the year\nand a cumulative total of 35 591 cases and 2025 deaths had been reported up to the end of\nDecember (including 1065 cases and 123 deaths which occurred in Zanzibar since the\nbeginning of December). The WHO office in the United Republic of Tanzania is working\nclosely with the national authorities to control the outbreak and has made supplies\navailable to the Ministries of Health in Dar es Salaam and Zanzibar. A team of WHO staff\nis currently in Zanzibar where the incidence of the disease appears to be decreasing.\n\nTravellers visiting the United Republic of Tanzania (including Zanzibar) should take\nthe normal precautions regarding food, water and hygiene recommended for all countries\nwhere cholera may occur, as well as other water-borne diseases.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:03.706768",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1998",
+        "Date Reported": "6 January 1998",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 January 1998 Disease Outbreak Reported\n\nAn outbreak of cholera was reported in a military camp situated 5 kms. from Kisangani\nin Haut-Zaire Province. Approximately 800 cases with 54 deaths were recorded from 18\nDecember onwards but it is thought that there may be many more. All the cases so far were\nin the under-18-years age group which represents two-thirds of the population in this\ncamp. This outbreak is mainly due to the recent heavy rains which caused flooding in the\narea as well as to poor sanitary conditions. The Provincial Medical Inspector, the\ngovernment's chief medical officer for diarrhoeal diseases and the WHO Representative have\nvisited the affected area to coordinate aid activities and are working closely with other\nUN agencies, Medecins Sans Frontieres and the International Committee for the Red Cross\nwho are actively involved in the area.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "events": [
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:10.832108",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "15 November 2011",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 November 2011 -\nThe Ministry of Health of Indonesia has announced one new confirmed case of human infection with avian influenza A(H5N1) virus. \n\nThe case is a 29-year old female, mother of the 2 cases earlier reported from Bangli district, Bali Province. She developed symptoms on 10 October and died on 17 October. \n\nAn epidemiological investigation conducted by the Ministry of Health and local health officers indicated that she lived in an area with poultry, and household and neighbourhood poultry had died prior to her children's illness.\n\nLaboratory tests have confirmed infection with avian influenza A(H5N1) virus.Of the 182 cases confirmed to date in Indonesia, 150 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:12.541213",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "11 November 2011",
+        "Location": "Nigeria",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 November 2011 -\nThe mass lead poisoning from mining activities in Zamfara State in Nigeria, which was discovered in March 2010, continues to affect villagers in three Local Government Areas (LGAs): Anka, Bukkuyum and Maru.\n\nWhile the full scale of the problem is still not fully determined, a survey carried out by the US Centers for Disease Control and Prevention (US CDC) at the request of the Nigeria Federal Ministry of Health has revealed at least 43 villages in Zamfara State where there are confirmed cases of lead poisoning (blood lead concentration >10 \u03bcg/dL). In at least seven of these villages there are children who need chelation therapy (blood lead concentration >45 \u03bcg/dL). This is in addition to the seven villages that have now been remediated. \n\nWith the combined effects of removal from lead exposure and chelation and other supportive therapy, the mortality rate among exposed children in seven remediated villages has dropped from 43% in 2010 to 1% in 2011. \nActions taken\n\nWHO and multiple partners have been assisting state and federal authorities to manage the situation, which cannot be resolved without sustained changes to mining practices to prevent further environmental contamination with lead. These include relocation of ore processing activities and storage of ore materials away from villages, the adoption of new processing methods that produce less dust, as well as hygiene measures such as removing contaminated clothes and washing before returning home. \n\nWHO is continuing to advocate with the Government in Nigeria for their attention to this problem and to gain their commitment to further sustained action to prevent the serious and life-long consequences of lead poisoning in a generation of children in Zamfara. \n\nThe response to the mass lead poisoning in Zamfara State has involved multiple agencies, including WHO, United Nations Children's Fund (UNICEF), United Nations Development Programme (UNDP), United Nations Environment Programme (UNEP) - Office for the Coordination of Humanitarian Affairs (OCHA) Joint Environment Unit, M\u00e9decins Sans Fronti\u00e8res (MSF), the US CDC, the Blacksmith Institute, TerraGraphics Environmental Engineering Inc, and the Artisanal Gold Council, working with authorities and leaders at community, state and federal level. \n\nWith funding of US$ 1.9 million provided by the UN Central Emergency Response Fund (CERF) to WHO and UNICEF, the following activities have been carried out:\n\nremediation of five villages (Abare, Tungar Guru, Tungar Daji, Sunke and Duza);\nsocial mobilization and community awareness activities directed at informing local communities about the hazards of lead and how to prevent lead exposure, including safer mining and gold extraction processes;\nadvocacy activities with state and federal authorities, and community leaders;\nestablishment of a surveillance system for the early detection of lead poisoning in Zamfara State;\nprovision of three hand-held x-ray fluorescence devices for the rapid measurement of lead concentrations in soil;\nprovision of four point-of-care analyzers and their kits for the rapid measurement of blood lead concentrations;\nprovision of a graphite furnace atomic absorption spectrometer, ancillary equipment and reagents, as well as technical advice, for the establishment of a reference laboratory for the measurement of lead;\ntraining for doctors, nursing and laboratory staff at the planned lead treatment centre in Gusau on the diagnosis and management of lead poisoning;\nprovision of antidotal agents for the treatment of lead poisoning; \nco-ordination of partners involved in the response activities.\n\n\nThe remediation work has been organized by the Blacksmith Institute and TerraGraphics Environmental Engineering Inc, working with the Zamfara State authorities and local contractors. Remediation has involved the identification of contaminated areas in the villages, removal of all contaminated soil, its disposal in secure landfill sites and its replacement with clean soil. In addition walls and other surfaces in family compounds have been cleaned. A total of seven villages have now been remediated, two having been completed before the CERF funding was available. TerraGraphics has provided training in assessment and remediation procedures so that they can be continued by local agencies. \n\nMSF has continued to provide chelation therapy for lead-poisoned children in the decontaminated villages and now has over 2\u00a0000 children under five years of age on its treatment programme. \nOngoing challenges\n\nThis serious environmental emergency cannot be resolved quickly. Remediation is a challenging and time-consuming task. Children have to wait for their family compounds to be cleaned before they can start treatment, and some children will require chelation for many months. Persuading people to adopt new practices and behaviours requires continuing effort. In addition, capacities within Nigeria for the diagnosis and management of lead poisoning need further strengthening and support. A further challenge is the purchase of sufficient chelating agents: these are expensive drugs that are not available as generics. There is therefore a need for long-term engagement on the part of leaders and authorities at community, state and federal levels in Nigeria, as well as health and environment professionals, technical partners and donors. \n\nOf particular concern is the town of Bagega in Anka Local Government Area, which is a regional hub for ore processing and the informal gold trade. Many family compounds and communal areas in the town have soil lead concentrations above 1\u00a0000 ppm (400 ppm is the limit in the USA for areas where there are children), and it is estimated that 1\u00a0500 young children may be poisoned with lead. Before these children can be treated they must have a clean environment to live in. There is therefore an urgent need to decontaminate Bagega and the other villages and to provide chelation and other therapy.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:14.270430",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "2 November 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "2 November 2011 -\nThe Ministry of Health of Egypt has notified WHO of one case of human infection with avian influenza A (H5N1) virus. \n\nThe case is a 1 year-old male from Mahala district, Gharbia governorate. He developed symptoms on 17 September and was hospitalized on 21 September. He completed the course of oseltamivir, recovered and was discharged from the hospital on 25 September. \n\nInvestigations into the source of infection revealed that the case had contact with poultry raised in the neighbourhood.\n\nThe case was confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\nOf the 152 cases confirmed to date in Egypt, 52 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:15.891812",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "26 October 2011",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 October 2011 -\nThe Ministry of Health of Indonesia has announced two new confirmed cases of human infection with avian influenza A(H5N1) virus. \n\nThe first case is a 5-year old female from Bangli district, Bali Province. She developed symptoms on 27 September, and was first admitted to a local general hospital on 5 October. She died on 9 October.\n\n\nThe second case is a 10-year old male, the brother of the first case. He developed symptoms on 30 September, and was first admitted to the hospital on the same day as his sister. He died on 10 October.\n\nAn epidemiological investigation conducted by the Ministry of Health and local health officers indicated that the children lived in an area with poultry, and household and neighborhood poultry had died prior to the children\u2019s illnesses.\n\n\nLaboratory tests have confirmed infection with avian influenza A(H5N1) virus. \n\nOf the 181 cases confirmed to date in Indonesia, 149 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:17.476704",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "10 October 2011",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 October 2011 -\nThe Ministry of Health of Indonesia has announced a confirmed case of human infection with avian influenza A(H5N1) virus. \n\nThe case is an 1-year old female from West Jakarta district, DKI Jakarta Province. She developed symptoms and was treated at a health care facility on 8 August, and first admitted to a private hospital on 15 August. She died on 25 August.\n\n\nA family member in the case\u2019s household works as a caterer, frequently processing poultry product, including slaughtering. There were also poultry in the neighbourhood but there were no reports of chicken deaths within the last 14 days.\n\n\nLaboratory tests have confirmed infection with avian influenza A(H5N1) virus. \n\nOf the 179 cases confirmed to date in Indonesia, 147 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:19.012605",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "7 October 2011",
+        "Location": "France",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "7 OCTOBER 2011 - In 2011 several large measles outbreaks have been reported from Member States in the European and African regions, with several reported outbreaks in the Americas linked to Europe or Africa.\n\n\nEurope:  As of 20 September 2011, 40 of 53 Member States in the WHO European Region have reported 26 025 confirmed measles cases for the period January \u2013 July 2011 to the WHO European Regional Office through routine surveillance and outbreak reports. The highest number of cases was reported from France with 14 025 cases for the first six months of the year. In addition, eleven of all cases in the Region were lethal (6 in France and one in each of Germany, Kyrgyzstan, Romania, the Former Yugoslav Republic of Macedonia and the United Kingdom). The predominant genotype currently circulating in the European Region is D4, the same endemic genotype from the United Kingdom in 2008. The most recent outbreak was reported from Israel in September, with 12 cases. Member States have responded to the outbreak by modifying the vaccination schedule, like France, or by offering vaccination free of charge or in schools, to increase accessibility to and availability of vaccines.\n\nAfrica: The Regional Office reports that as of September 2011 large measles outbreaks are being reported by the Democratic Republic of the Congo, with over 103 000 cases, Nigeria, with 17 428 cases, and Zambia, with 5 397 cases, and Ethiopia, with 2 902 cases. Even though deaths are not routinely reported to the Regional Office, the WHO Country Office in the Democratic Republic of the Congo reports over 1100 measles-associated deaths in the country during 2011. \n\nAmericas: The last case of endemic measles was reported from the region in 2002. In 2011 the Region has received reports of several outbreaks linked to importation of measles virus from other regions. The largest, in Quebec, Canada, involves 742 reported cases, 89 requiring hospitalization, but no measles-associated deaths. Other outbreaks have been reported from the United States (213 cases), Ecuador (41 cases), Brazil (18 cases), Columbia (7 cases), Mexico (3 cases), and Chile (6 cases). Most of these outbreaks are linked to importations from Europe, except for outbreaks in the United States and Chile linked to cases from Malaysia and the outbreak in Ecuador, linked to Kenya.\n\nMeasles is a highly infectious disease that causes complications and deaths, even in previously-healthy individuals, but is fully preventable by vaccination. Countries need to ensure that they reach 95% coverage with two doses of measles vaccine across all age groups up to 15 years of age. Otherwise the country will experience measles outbreaks with large numbers of cases, associated hospitalizations and deaths. The recent outbreaks in countries with high volumes of international travellers can lead to measles exportation to regions previously free of measles, such as the Region of the Americas or certain African countries. These exportations can lead to large outbreaks and associated deaths.\n\nThese outbreaks should remind travellers that they should ensure that they have had two doses of measles-containing vaccine before their trip.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:20.933137",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "1 September 2011",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "1 September 2011 -\nThe Ministry of Health, China, has informed WHO that wild poliovirus type 1 (WPV1) has been isolated from four young children, aged between four months and two years, with onset of paralysis between 3 and 27 July 2011. All four cases are from Hotan Prefecture, Xinjiang Uygur Autonomous Region, China. Genetic sequencing of the isolated viruses indicates they are genetically-related to viruses currently circulating in Pakistan. The last WPV case in China was reported in 1999, due to an importation from India. The last indigenous polio case occurred in China in 1994. \n\nA national team of clinicians, laboratory experts, epidemiologists and public health experts has been dispatched to the affected region, to assist in the investigation and planning of response activities, and this team will be joined by international support as required. National, Xinjiang Uygur Autonomous Region and local public health authorities are currently conducting an epidemiological investigation, including collection of stool specimens from contacts and evaluation of vaccine coverage. \n\nThe Ministry of Health plans to conduct an initial response vaccination campaign in early September, targeting 3.8 million children aged under 15 years in the key affected outbreak area, and children aged under 5 years in other areas of Xinjiang.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:22.408497",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "19 August 2011",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 August 2011 -\nThe Ministry of Health (MoH) of the Kingdom of Cambodia has announced a confirmed case of human infection with avian influenza A (H5N1) virus. \n\n The case was a 6 year old female from Taing Thleung Village, Mepring Commune, Cheung Prey District, Kampong Cham Province.\n\n\n She developed symptoms on 7 August, was initially treated by local practitioners with no effect and was later admitted to Kantha Bopha Children Hospital in Phnom Penh on 12 August. She died on 14 August, two days after admission. \n\n There have been reports of poultry die off in her village and the case is reported to have had exposure to sick poultry. The female is the eighteenth person in Cambodia to become infected with the H5N1 virus and the sixteenth to die from complications of the disease. All eight cases of H5N1 infections in humans in Cambodia this year have been fatal. \n\n The National and local Rapid Response Teams (RRT) are conducting outbreak investigation and response following the national protocol. Health education messages are ongoing in the community. To date none of the human contacts have tested positive for A (H5N1).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:23.918307",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "15 August 2011",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 August 2011 -\nAn outbreak of an unknown illness has been reported among\nchildren and students in schools in Angola. In most cases, the illness has\noccurred suddenly, followed by the resolution of symptoms within a few hours.\nNo deaths have been reported.\n\nThe typical symptoms reported include: vomiting, headache, sore throat, eye\nirritation, coughing, breathing difficulties and fainting in some cases. The\noutbreaks have been reported in schools of the capital, Luanda, and in a\nnumber of other provinces.\n\n\nAlthough the cause of these outbreaks still remains unknown, this may be\nrelated to exposure to irritant chemicals. WHO has sent a team to Angola to\nassist the Government in investigating these outbreaks and to suggest\nmeasures for preventing further occurrences.\n\nThe WHO team includes an epidemiologist, laboratory specialists and a\npharmacologist/toxicologist who are providing technical support to the national\nintersectoral committee created for this purpose.\n\nThis is complex work and WHO is consulting with experts and specialized\ninstitutions from other countries to explore ideas on appropriate lines of\ninvestigation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:25.541759",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "9 August 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "9 August 2011 -\nThe Ministry of Health of Egypt has notified WHO of one case of human infection with avian influenza A (H5N1) virus.\n\n\nThe case is a 6 years old female from Demnhoor district, Behira governorate. She developed symptoms on 1 2 July, and was hospitalized. She completed the course of oseltamivir, recovered and was discharged on 30 July . \n\nInvestigations into the source of infection indicate that the case had exposure to poultry suspected to have avian influenza.\n\n\n The case was confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\n\nOf the 151 cases confirmed to date in Egypt, 52 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:27.070928",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "2 August 2011",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "2 August 2011 -\nThe Ministry of Health (MoH) of the Kingdom of Cambodia has announced a confirmed case of human infection with avian influenza A (H5N1) virus. \n\nThe case was a 4 year old female from Chork Reaksmey Village, Rohath Teuk Comune, Mongkul Borei District, Banteay Meanchey Province. She developed symptoms on 11 July, was initially treated by local private practitioners with no effect and was later admitted to Jayavarma VII Hospital on 18 July. She died on 20 July, two days after admission. \n\n There have been reports of poultry die off in her village and the case is reported to have had exposure to dead poultry. The female is the seventeenth person in Cambodia to become infected with the H5N1 virus and the fifteenth to die from complications of the disease. All seven cases of H5N1 infections in humans in Cambodia this year have been fatal. \n\n The National and local Rapid Response Team (RRT) is conducting outbreak investigation and response following the national protocol.\n\n\n There is no evidence of increased ILI activity in the local health centre or any increase in number of SARI cases from the affected village. Thirteen contacts were tested for A/H5N1 influenza, all of whom were negative. There is enhanced surveillance for ILI and SARI in the local health centre and hospital for a further two weeks. Health education messages are ongoing in the community.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:30.766723",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "22 July 2011",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 July 2011 -\nCholera outbreaks are being reported along the Congo River, affecting the Democratic Republic of Congo (DRC) and the Republic of Congo. \n\nIn DRC, the outbreak was reported in March 2011 and has intensified in the last 3 to 4 weeks, affecting four provinces (Bandundu, Equateur, Kinshasa and P Orientale). As of 20 July 2011, a total of 3 896 cases, including 265 deaths have been reported, with an overall case fatality of 7%. \n\nIn the Republic of Congo, between 14 June and 20 July 2011, a total of 181 suspected cases including 6 deaths have been reported from four provinces (Brazzaville, Cuvette, Likouala and Plateaux) with a case fatality of 3%. Four cases from Brazzaville and Likouala have been laboratory confirmed with cholera. \n\nThere is high risk of the epidemic further spreading along the Congo River. The outbreak has been reported to have spread to new locations, particularly in Kinshasa, where there are large population groups with inadequate safe water.\n\nIn response to the outbreaks, the governments of DRC and the Republic of Congo, international organizations and non-government organizations have intensified surveillance, case management and health promotion activities in the affected areas, in addition to setting up cholera treatment centres at selected sites. \n\nIn DRC, WHO is conducting a rapid risk assessment to identify urgent needs for the coming weeks. Two epidemiologists, a health promotion officer and a logistician have been deployed to Kinshasa to support the response operations.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:32.508810",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "7 July 2011",
+        "Location": "Pakistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "7 July 2011 -\nPakistan has reported wild poliovirus type 3 (WPV3) isolated from a 16-month old child with onset of paralysis on 9 June 2011, from a conflict-affected, inaccessible area of Khyber Agency, Federally Administered Tribal Areas (FATA). This is the only case of WPV3 detected in Asia in 2011. WPV3 transmission in Asia is on the verge of elimination, with the last case occurring more than six months ago, on 18 November 2010 (also from Khyber Agency, FATA). \n\nConfirmation of continuation of WPV3 transmission in tribal areas of Pakistan has significant implications for the global effort to eradicate WPV3, particularly as Asia is on the verge of eliminating circulation of this strain. The detection of WPV3 in Pakistan represents the risk that it may spread from this transmission focus to other WPV3-free areas of Asia and beyond. Globally, WPV3 transmission is at historically low levels in 2011, with other circulation of this strain restricted to parts of west Africa (17 cases in C\u00f4te d'Ivoire, Guinea, Mali and Niger), Nigeria (five cases) and Chad (three cases). The risk of onward spread of WPV3 is deemed as high by the World Health Organization (WHO), particularly given large-scale population movements within Pakistan, between Pakistan and Afghanistan, and expected large-scale population movements associated with Umrah and the upcoming Hajj (pilgrimage to Mecca, Kingdom of Saudi Arabia) in the coming few months.\n\n\nIn 2011, supplementary immunization activities (SIAs) in Pakistan have been inadequate in quality in key high-risk areas and a significant proportion of children remained inaccessible in conflict affected tribal areas. In FATA, particularly in Khyber agency, nearly 50% of children have been regularly missed during SIAs for the last two years. In addition to challenges relating to reaching children in insecure areas of Khyber Pakhtunkhwa and FATA, significant operational challenges continue to mar the quality of SIAs in accessible areas of Khyber and in other key transmission areas of the country, notably in the provinces of Balochistan and Sindh. In addition to confirmation of the only WPV3 case in Asia in 2011, Pakistan is affected by country-wide geographical transmission of wild poliovirus type 1 (WPV1), with 57 confirmed WPV1 cases in 2011 (as at 5 July 2011), compared with 14 WPV1 cases for the same period in 2010. \n\nTo urgently address the situation, the Government of Pakistan has this year launched a National Polio Emergency Action Plan, under the auspices of His Excellency the President. However, the Independent Monitoring Board (IMB), set up at the request of the World Health Assembly (WHA) in 2010 to independently monitor progress towards a polio-free world, in April 2011 expressed alarm that the Plan is taking too long to implement, a conclusion echoed by the Technical Advisory Group (TAG) of the Eastern Mediterranean in June 2011. \n\nTo rapidly build up immunity to both wild poliovirus strains, a Short Interval Additional Dose Strategy (SIAD) SIA with bivalent OPV is being conducted in Khyber Agency , the first passage on 4 July and the second on 12 July. It is expected that, as during the most recent SIAs in mid-June, 45% (89,449) of target children in Khyber Agency (80% in Bara Tehsil, i.e. approximately 73,000) will remain inaccessible during the SIADs. National Immunization Days (NIDs) will be conducted in the country on 18-20 July, using bivalent OPV (containing type 1 & 3 serotypes). However, key to success will be to overcome remaining operational challenges in fully-accessible areas and to implement special outreach strategies with full community participation to increase access to populations in security-compromised areas. To minimise the risk of WPV3 re-infecting Afghanistan, Subnational Immunization Days (SNIDs) - including in border areas with Pakistan - will be conducted in the country on 10-12 July, also using bivalent OPV. \n\nIt is important that countries across Asia and the Eastern Mediterranean strengthen disease surveillance for acute flaccid paralysis (AFP), in order to rapidly detect any poliovirus importations and facilitate a rapid response should importation occur. Countries should also continue to boost routine immunization coverage against all strains of polio to minimize the consequences of any introduction.\n\n\nAs per recommendations outlined in WHO's International travel and health, travellers to and from Pakistan should be fully protected by vaccination. Travellers to Pakistan who have in the past received three or more doses of OPV should be offered another dose of polio vaccine before departure. Any unimmunized individuals intending to travel to Pakistan should complete a full course of vaccination. Travellers from Pakistan should have a full course of vaccination against polio before leaving Pakistan, with a minimum one dose of OPV before departure. Some polio-free countries may also require travellers from Pakistan to be immunized against polio in order to obtain an entry visa. \n\nWith Hajj and Umrah season already started, and Umrah expected to increase during Ramadan (in August) and Hajj in early November, the Kingdom of Saudi Arabia has vaccination requirements for travellers (all ages) for Umrah and Hajj. These requirements are in line with recommendations outlined in WHO's  International travel and health, with the addition that travellers of all ages from polio endemic countries are required to show proof of vaccination with OPV six weeks before travel to the Kingdom of Saudi Arabia, and will receive a further dose of OPV upon their arrival. \nFor more information\n\n\nGlobal Polio Eradication Initiative \n\nSaudi Arabia Haj requirements for travellers \n\nInternational travel and health",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:34.220012",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "22 June 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 June 2011 -\nThe Ministry of Health of Egypt has notified WHO of a new case of human infection with avian influenza A (H5N1) virus.\n\n\nThe case is a 27 year-old male from Qena governorate, Deshna district. He developed symptoms on 5 June 2011, was hospitalized and was put on oseltamivir treatment on 13 June. He died on 14 June 2011.\n\nInvestigations into the source of infection indicate that the case had exposure to poultry suspected to have avian influenza.\n\n\nThe case was confirmed by the Egyptian sub-national laboratory for Influenza in Aswan and the Central Public Health Laboratories in Cairo, a National Influenza Centre of the WHO Global Influenza Surveillance Network. \n\nOf the 150 cases confirmed to date in Egypt, 52 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:35.820211",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "16 June 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 June 2011 -\nThe Ministry of Health of Egypt has notified WHO of five cases of human infection with avian influenza A (H5N1) virus.\n\nThe first case is a 40 years old female from Aswan District, Aswan Governorate. She developed symptoms on 14 May, and was hospitalized. She completed the course of oseltamivir, recovered and was discharged. \n\nThe second case is a 21 years old pregnant female from Ashmoun District, Menofia Governorate. She developed symptoms on 21 May, was hospitalized and received oseltamivir. She died on 29 May. \n\nThe third case is a 31 years old male from Shobra Elkhima District, Qaliobia Governorate. He developed symptoms on 21 May, was hospitalized and received oseltamivir. He died on 5 June. \n\nThe fourth case is a 32 years old male from Elzawya District, Cairo Governorate. He developed symptoms on 23 May was hospitalized and received oseltamivir. He died on 2 June.\n\nThe fifth case is a 16 years old male from Ashmoon District, Menofia Governorate. He developed symptoms on 21 May was hospitalized and received oseltamivir. He was in a critical condition but he is recovering. \n\nInvestigations into the source of infection indicate that all the cases had exposure to poultry suspected to have avian influenza.\n\n The cases were confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\nOf the 149 cases confirmed to date in Egypt, 51 have been fatal .",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:42.071092",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "15 November 2011",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 November 2011 -\nThe Ministry of Health of Indonesia has announced one new confirmed case of human infection with avian influenza A(H5N1) virus. \n\nThe case is a 29-year old female, mother of the 2 cases earlier reported from Bangli district, Bali Province. She developed symptoms on 10 October and died on 17 October. \n\nAn epidemiological investigation conducted by the Ministry of Health and local health officers indicated that she lived in an area with poultry, and household and neighbourhood poultry had died prior to her children's illness.\n\nLaboratory tests have confirmed infection with avian influenza A(H5N1) virus.Of the 182 cases confirmed to date in Indonesia, 150 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:44.704016",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "18 May 2011",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 May 2011 -\nOn 13 May 2011, the Ministry of Health (MoH) of Uganda notified WHO of a case of Ebola Haemorrhagic fever in a 12 year old girl from Luwero district, central Uganda. On 6 May she presented to a private clinic in Zirobwe town, Luwero district, with a 5-day history of an acute febrile illness with haemorrhagic manifestations. She was later referred to Bombo General Military Hospital where she died few hours after admission. \n\nLaboratory investigations at the Uganda Virus Research Institute (UVRI), Entebbe, Uganda confirmed Ebola virus (Sudan species). A sample is on route to the Centers for Disease Control and Prevention (CDC), Atlanta, USA for additional analysis and sequencing.\n\nA National Task Force has been convened by the MoH Uganda, which is working with several partners including WHO, CDC, the African Field Epidemiology Network (AFENET) and USAID. A joint MoH, WHO and CDC team was deployed to the district on 13 May to carry out a detailed epidemiological investigation. WHO will be supporting the MoH in the areas of epidemiology and infection control.\n\nControl activities already in place include active case finding and contact tracing, enhanced surveillance, reinforcement of infection prevention and control, and of standard precautions in health care settings.\n\nWHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:46.244209",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "13 May 2011",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "13 May 2011 -\nThe Ministry of Health of Indonesia has announced a confirmed case of human infection with avian influenza A(H5N1) virus.\n\n\nThe case is an 8-year old female from West Jakarta district, DKI Jakarta Province. She developed symptoms on 1 April, was admitted to a health care facility on 4 April and referred to a hospital on 8 April. She died on 11 April.\n\nEpidemiological investigation identified a possible risk factor as exposure to wild bird faeces found around the house. In addition, during the week before the child developed symptoms, her mother purchased chickens from a local market.\n\nLaboratory tests have confirmed infection with avian influenza A(H5N1) virus.\n\n\nOf the 177 cases confirmed to date in Indonesia, 146 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:47.776294",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "21 April 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 April 2011 -\nOn 16 April 2011, the Ministry of Health of Egypt notified WHO of two new cases of human infection with avian influenza A (H5N1) virus.\n\n The first case was a 29 years-old male from Fayoum Governorate Wadi Elrian area who developed symptoms on 1 April , was hospitalized on 4 April and died on 7 April. \n\nThe second case was a one -and-a -half year-old male child from Fayoum Governorate, Sennores District who developed symptoms on 9 April and was hospitalized on 11 April. He is under treatment and is in stable condition.\n\nAll the cases received oseltamivir treatment at the time of hospitalization. \n\nInvestigations into the source of infection indicate that both the cases had exposure to sick and/or dead poultry suspected to have avian influenza. There is no epidemiological link identified between these two cases.\n\n\nThe cases were confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\nOf the 143 cases confirmed to date in Egypt, 47 have been fatal .",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:49.616440",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "21 April 2011",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 April 2011 -\nThe Ministry of Health (MoH) of the Kingdom of Cambodia has announced a confirmed case of human infection with avian influenza A(H5N1) virus. \n\nThe case was a 5 year old girl from Pea Raing district, Prey Veng Province. She developed symptoms on 11 April, was initially treated by local private practitioners with no effect and was later admitted to Kantha Bopha Children Hospital on 13 April. Despite all intensive care, she died on 16 April, four days after admission. \n\n There have been reports of poultry die off in her village. The girl is the fifteenth person in Cambodia to become infected with the H5N1 virus and the thirteenth to die from complications of the disease. All five cases of H5N1 infections in humans in Cambodia this year have been fatal. \n\n Specimens from 53 contacts of the cases were collected and are being tested by the National Institute for Public Health laboratory.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:51.240339",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "21 April 2011",
+        "Location": "Nigeria",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 April 2011 -\nC\u00f4te d'Ivoire is experiencing an outbreak of wild poliovirus type 3 (WPV3) with three new cases reported with onset of paralysis on 27 January, 24 February and 27 February this year. \n\nGenetic sequencing of the isolated viruses show that they are linked to WPV3 last detected in mid-2008 in northern Nigeria. They are the first WPV3 recorded in C\u00f4te d'Ivoire since 2000. In 2008-2009, C\u00f4te d'Ivoire was affected by a wild poliovirus type 1 (WPV1) outbreak affecting west Africa (and which was recently stopped). \n\nThere is currently a high risk of further spread of WPV3 - both within and from - C\u00f4te d'Ivoire. It is the first time since 2000 that WPV3 has been recorded in this part of west Africa (WPV3 transmission has been limited to northern Nigeria and parts of Niger, and since 2008 also in parts of Mali and one case in Benin). The outbreak response may be constrained by the current security situation in C\u00f4te d'Ivoire. Due to the persistence of subnational surveillance gaps in C\u00f4te d'Ivoire and other areas of west Africa, undetected further circulation cannot be ruled out at this time. \n\nDetection of these WPV3 cases underscores the risk suboptimal surveillance poses to the global polio eradication effort. Globally, WPV3 transmission is at its lowest level in history, with only nine cases reported worldwide in 2011 - efforts to rapidly interrupt all remaining chains of WPV3 transmission is a key priority for the global polio eradication effort.\n\nThe overriding priority is to urgently stop the WPV3 outbreak, while maintaining high population immunity across west Africa to WPV1. Two rounds of coordinated, multi-country supplementary immunization activities (SIAs) with bivalent oral polio vaccine (bOPV) and trivalent oral polio vaccine (tOPV) across west Africa have been/are being implemented on 25 March 2011, and again on 29 April 2011, in 15 countries across west Africa (except C\u00f4te d'Ivoire, see next paragraph). A further outbreak response is currently planned in six countries, over and beyond these two multi-country SIAs. Such a further response could see planned SIAs scheduled for the fourth quarter to be brought forward to earlier in the year. \n\nIn C\u00f4te d'Ivoire, the end-March SIA did not take place due to the current security and political situation. A response round is proposed in the affected province using bOPV in late April 2011, to be followed by two National Immunization Days (NIDs), as soon as the situation permits. Planning is underway to ensure capacity (ie technical, vaccine, operational) is in place for this emergency response. Coordination with other United Nations (UN) organizations and non-governmental organizations (NGOs) operating in C\u00f4te d'Ivoire is ongoing, to ensure that OPV is added to any planned immunization activity, in particular for displaced populations. Ongoing transmission will be monitored, and mop-ups implemented as epidemiology dictates.\n\nAn investigation is ongoing to more clearly identify surveillance gaps in the region, including among mobile, migrant and underserved populations. Measures will be implemented to strengthen sub-national surveillance, to ensure that all groups and areas, particularly high-risk populations, are covered by high-quality surveillance. \n\nAs per recommendations outlined in WHO's International travel and health, travellers to and from C\u00f4te d'Ivoire, and other polio-affected countries of west Africa, should be fully protected by vaccination. Travellers who have in the past received three or more doses of OPV should be offered another dose of polio vaccine before departure. Any unimmunized individuals intending to travel to should have a complete course of vaccination. Travellers from C\u00f4te d'Ivoire, and other polio-affected countries of west Africa, should have a full course of vaccination against polio before departure, with a minimum one dose of OPV before departure. \nFor more information\n\n\nGlobal Polio Eradication Initiative",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:52.718268",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "11 April 2011",
+        "Location": "Bangladesh",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 April 2011 -\nThe Ministry of Health and Family Welfare, Government of the People's Republic of Bangladesh has confirmed a new case of human infection with avian influenza A(H5N1) virus. \n\nThe case is a 2 years old male from Kamalapur, Dhaka. He developed symptoms on 1 March. He visited the influenza sentinel surveillance site on 9 March where he was sampled. He completely recovered. \n\nDetailed epidemiological investigation and contact follow up was conducted by a team from the Institute of Epidemiology Disease Control and Research (IEDCR), the International Centre for Diarrhoeal Disease Research, Bangladesh ( ICDDRB) and WHO Bangladesh, and no further cases were identified. \n\nThe investigation into the source of infection indicate that the case had exposure to sick poultry. Although the case is from the same locality as the previous case they had no direct contact with each other. \n\nThe case was confirmed as being infected with A(H5N1) by the Institute of Epidemiology Disease Control and Research (IEDCR).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:54.476938",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "11 April 2011",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 April 2011 -\nThe Ministry of Health (MoH) of the Kingdom of Cambodia has announced a confirmed case of human infection with avian influenza A(H5N1) virus.\n\n\n The case was an 11 year old girl from Steung Trang district, Kampong Cham Province. She developed symptoms on 22 March, was initially treated by local villagers with no effect and was admitted to a local hospital on 29 March. Further treatment at the local hospital was ineffective and she was referred to a regional hospital where she died within four hours of admission on 31 March.\n\n\n There have been reports of poultry die off in her village. The girl is the fourteenth person in Cambodia to become infected with the H5N1 virus and the twelfth to die from complications of the disease. All four cases of H5N1 infections in humans in Cambodia this year have been fatal.\n\n\n All contacts of the case have been tested and are negative for A/H5N1 influenza virus.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:55.964513",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "6 April 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "6 April 2011 -\nThe Ministry of Health of Egypt has announced four new confirmed cases of human infection with avian influenza A(H5N1) virus.\n\n The first case is a one year old male from Behaira Governorate. He developed symptoms on 14 February, was hospitalized on 16 February. He recovered and was discharged on 22 February.\n\nThe second case is a three years old female from Behaira Governorate. She developed symptoms on 10 March, was hospitalized on 12 March. She recovered and was discharged on 18 March. The previous two cases are from the same district but different villages and they are not relatives.\n\n\n The third case a 34 year old female from Alexandria Governorate. She developed symptoms on 9 March and was hospitalized on 15th March. She is still under treatment in a stable condition.\n\n\n The fourth case is a 30 years old female from Kafr El-Shaikh Governorate. She developed symptoms on 7 March and was hospitalized on 15 March. She recovered and was discharged on 27 March.\n\n\nInvestigations into the source of infection indicate that all cases had exposure to sick and/or dead poultry suspected to have avian influenza.\n\n The cases were confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\n\n Of the 137 cases confirmed to date in Egypt, 45 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:57.502792",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "1 April 2011",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "1 April 2011 -\nThe Ministry of Health of Indonesia has announced a confirmed case of human infection with avian influenza A(H5N1) virus.\n\nThe case is a 28 year old female from Gunung Kidul district, Yogyakarta Province. She developed symptoms on 1 March, was admitted to a health care facility on 6 March and referred to a hospital on 11 March. She died on 14 March.\n\nThe cases\u2019 family owned chicken and ducks, and the case visited local village/town traditional market on a daily basis. There were many free roaming poultry in the neighborhood and it was reported there were chicken deaths in the previous months.\n\nLaboratory tests have confirmed infection with avian influenza A(H5N1) virus.\n\nOf the 176 cases confirmed to date in Indonesia, 145 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:59.140114",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "29 March 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "29 March 2011 -\nThe Ministry of Health of Egypt has announced three new confirmed cases of human infection with avian influenza A(H5N1) virus. \n\nThe first case is a 32 year old male from Suez Governorate. He developed symptoms on 8 March, was hospitalized on 12 March and died on 13 March. \n\nThe second case is a 28 year old female from Giza Governorate. She developed symptoms on 8 March and was hospitalized on 10 March. She is in a stable condition.\n\nThe third case is a 4 year old male from Behira Governorate. He developed symptoms on 5 March and was hospitalized on 7 March. He recovered and was discharged on 12 March. \n\nInvestigations into the source of infection indicate that the cases had exposure to sick and/or dead poultry suspected to have avian influenza.\n\nThe cases were confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\n Of the 133 cases confirmed to date in Egypt, 45 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:02.212964",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "25 March 2011",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "25 March 2011 -\nThe Ministry of Health of Indonesia has announced a confirmed case of human infection with avian influenza A(H5N1) virus.\n\nThe case is a 2 year old female from Bekasi City, West Java Province. She developed symptoms on 2 March, was admitted to a health care facility on 3 March and referred to a hospital on 9 March. She has fully recovered from her illness.\n\nThe case\u2019s mother (see update, 14 March) died of confirmed avian influenza A(H5N1) virus infection one day prior to onset of illness in the new case. \n\nThe child accompanied her mother to the traditional market where live poultry were sold but investigations into the source of infection are ongoing.\n\nLaboratory tests have confirmed infection with avian influenza A(H5N1) virus.\n\nOf the 175 cases confirmed to date in Indonesia, 144 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:03.853678",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "16 March 2011",
+        "Location": "Bangladesh",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 March 2011 -\nThe Ministry of Health and Family Welfare, Government of the People's Republic of Bangladesh has confirmed a case of human infection with avian influenza A (H5N1) virus. The case was detected through the influenza sentinel surveillance centre run by the Institute of Epidemiology Disease Control and Research (IEDCR) and the International Centre for Diarrhoeal Disease Research, Bangladesh (ICDDR,B).\n\nThe case is a 16 month old female from Kamalapur, Dhaka. She presented at a influenza sentinel surveillance on 8 March with a history of cough and fever and subsequently recovered. \n\nA detailed epidemiological investigation and contact follow up is being conducted by a team of epidemiologists from IEDCR, ICDDRB and WHO Bangladesh.\n\nThe case was confirmed as being infected with A(H5N1) by the Institute of Epidemiology Disease Control and Research (IEDCR).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:05.558542",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "15 March 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 March 2011 -\nThe Ministry of Health of Egypt has announced a new confirmed case of human infection with avian influenza A (H5N1) virus. \n\nThe case is a 38 year old female from Ismailia Governorate. She developed symptoms on 1 March and was hospitalized on 7 March. \n\nShe was in a critical condition under artificial ventilation and died on 11 March. \n\nInvestigations into the source of infection indicate that the case had exposure to sick poultry suspected to have avian influenza.\n\n The case was confirmed by the Egyptian Central Public Health Laboratory, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\n Of the 130 cases confirmed to date in Egypt, 44 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:07.135214",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "14 March 2011",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 March 2011 -\nThe Ministry of Health of Indonesia has announced 2 new but unrelated confirmed cases of human infection with avian influenza A (H5N1) virus.\n\nThe first case is a 2 year old male from Depok City, West Java Province. He developed symptoms on 3 February, was admitted to a private clinic on 5 February and referred to a hospital on 6 February. He died on 6 February. Prior to his illness, sick and dead poultry were reported in his neighborhood.\n\nThe second case is a 31 year old female from Bekasi City, West Java Province. She developed symptoms on 23 February, was admitted to a private clinic on 25 February and referred to a hospital on 28 February, where she received oseltamivir treatment. She died on 1 March. Initial investigations indicate the case visited a traditional market where live poultry were sold. \n\nLaboratory tests have confirmed infection with the H5N1 avian influenza virus.\n\nOf the 174 cases confirmed to date in Indonesia, 144 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:10.106579",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "11 March 2011",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 March 2011 -\n On 8 February 2011, the Ministry of Health in Sierra Leone notified WHO of two cases of yellow fever in Jahun village in Bonthe district, Southern province. \n\nThe index case was a 40 year old female, who developed symptoms on 17 January 2011 and tested positive for IgM by ELISA test conducted by Institut Pasteur in Abidjan on 1 February 2011. The WHO reference laboratory for Yellow Fever at the Institut Pasteur in Dakar confirmed the case on 8 February 2011. \n\nThe second case was an 18 year old male identified during an outbreak investigation between 11-14 February. The case tested positive for IgM by ELISA test conducted by the Institute Pasteur in Abidjan. \n\nNone of the cases had a history of yellow fever vaccination.\n\nOn 5 March 2011, the Ministry of Health of Sierra Leone began a response vaccination campaign targeting 144,479 people aged nine months and above, excluding pregnant women in Bonthe district. \n\nSierra Leone benefited from a yellow fever preventive mass vaccination campaign in 2009, which covered 11 out of 13 districts in the country, excluding Bonthe and Bombali districts.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:16.652331",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "8 March 2011",
+        "Location": "Chad",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "8 March 2011 -\nFrom 1 January to 6 March 2011, the Ministry of Health of Chad reported 923 suspected cases of meningococcal disease including 57 deaths (case-fatality rate: 6.2%). So far, five districts primarily in the region of Logone Occidental experience an epidemic (Benoye, Kello, Laokassy, Melfi and Moundou ) while two others are in alert (Boussou and Sarh).\n\nThe predominance of Neisseria meningitidis A in epidemic districts has been laboratory-confirmed by latex agglutination test, with no other Neisseria meningitidis serogroup being identified in these areas. \n\nThe International Coordinating Group (ICG) on Vaccine Provision for Epidemic Meningitis Control has provided 752,000 doses of bivalent polysaccharide AC vaccine for a mass vaccination campaign in affected areas of Benoye, Kello, Laokassy, Melfi and Moundou. Vaccines are being provided with the support of the Global Alliance for Vaccines and Immunization (GAVI) and M\u00e9decins sans Fronti\u00e8res.\n\nWHO, UNICEF, M\u00e9decins sans Fronti\u00e8res and the International Federation of Red Cross (IFRC) are working with the Ministry of Health, Chad, to implement the vaccination campaigns as well as other emergency control measures, including case management and enhanced surveillance in neighbouring districts.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:18.187017",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "7 March 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "7 March 2011 -\nThe Ministry of Health of Egypt has announced two new confirmed cases of human infection with avian influenza A (H5N1) virus.\n\nThe first case is a 32 year old female from Sharkia Governorate. She developed symptoms on 10 February and was hospitalized on 14 February. She is in a critical condition.\n\nThe second case is a two year old male from Kafr Elsheikh Governorate. He developed symptoms on 18 February and was hospitalized on 20 February. He is under treatment and is in a good general condition.\n\nInvestigations into the source of infection indicate that the two cases had exposure to poultry suspected to have avian influenza.\n\nThe cases were confirmed by the Egyptian Central Public Health Laboratory, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\n\nOf the 127 cases confirmed to date in Egypt, 41 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:19.704535",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "2 March 2011",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "2 March 2011 -\nThe Ministry of Health of Indonesia has announced a new confirmed case\nof human infection with avian influenza A (H5N1) virus.\n\nA 26 year old female from Karawang District, West Java Province\ndeveloped symptoms on 30 January. She was hospitalized on 3 February,\nand was treated with oseltamivir, but died on 8 February. \n\nInitial investigations indicate the case bought poultry meat at a\ntraditional market and took home chickens that were slaughtered after\npurchase and prepared at the market. \n\n Laboratory tests have confirmed infection with the H5N1 avian influenza\nvirus.\n\nOf the 172 cases confirmed to date in Indonesia, 142 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:21.254576",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "28 February 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 February 2011 -\nThe Ministry of Health of Egypt has announced 3 new confirmed cases of human infection with avian influenza A (H5N1) virus.\n\nThe first case is a 26 year-old female from Dakahlia Governorate. She developed symptoms on 18 January and was hospitalized on 23 January. She has recovered and was discharged on 7 February.\n\nThe second case is a 45 year-old male from Menofia Governorate. He developed symptoms on 20 January and was hospitalized on 26 January. He died on 5 February.\n\nThe third case is a 4 year-old male from Damiata Governorate. He developed symptoms on 14 February and was hospitalized on 16 February. He is in a stable condition.\n\nInvestigations into the source of infection indicate that the three cases had exposure to poultry suspected to have avian influenza.\n\nThe cases were confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\nOf the 125 cases confirmed to date in Egypt, 41 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:22.758283",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "25 February 2011",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "25 February 2011 -\nThe Ministry of Health of Cambodia has announced 2 new confirmed cases of human infection with avian influenza A (H5N1) virus.\n\nA 19-year-old female, from Takong village, Ta Kong commune, Malay district, Banteay Meanchey Province, developed symptoms on early hours of 5 February, was admitted to a private clinic on 9 February, referred to a hospital on 12 February, and died on 12 February without avian influenza being considered as a diagnosis. She had travelled from her home with her husband, her 11-month old son, her mother in law and her sister in law to Rokar Chor village, Bantey Chakrey commune, Prash Sdach district, Prey Veng Province on 3 January. She had multiple exposures to sick and dead poultry between the second half of January and early February. A blood specimen collected at hospital on 12 February was transferred to Institut Pasteur du Cambodge on 22 February and tested positive by (polymerase chain reaction) PCR. \n\nThe 11-month-old son developed symptoms on 5 February, was admitted to hospital 15 February and died on 17 February. He also had multiple exposures to sick and dead poultry in the same time frame. The presence of H5N1 virus in nasopharyngeal specimens was confirmed by Institut Pasteur du Cambodge, the National Influenza Centre on 20 February. \n\nThe Ministry of Health has been coordinating the response with assistance from WHO. To date no other symptomatic contacts have been found. \n\nOf the 13 cases of human H5N1 virus infection confirmed since 2005 in Cambodia, 11 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:24.976659",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "9 February 2011",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "9 February 2011 -\nThe Ministry of Health of Cambodia has announced a new confirmed case of human infection with avian influenza A (H5N1) virus.\n\nThe 5 year old female, from Prek Leap village, Sangkat Prek Leap, Khan Reussey Keo, Phnom Penh, developed symptoms on 29 January, was admitted to a hospital on 3 February and died 12 hours following admission. The presence of H5N1 virus in nasopharyngeal specimens was confirmed by Institut Pasteur, the National Influenza Centre in Cambodia. The case had been in contact with sick poultry during the 7 days before onset of symptoms.\n\nThe Ministry of Health has been coordinating the response. Actions have included contact tracing, collecting specimens from suspected cases, and providing oseltamivir prophylaxis to close contacts; active surveillance and joint investigation with animal health authorities; community education; and public communications coordination with the assistance of WHO.\n\nOf the 11 cases of human H5N1 virus infection confirmed since 2005 in Cambodia, 9 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:26.500535",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "2 February 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "2 February 2011 -\nThe Ministry of Health of Egypt has announced a case of human infection with avian influenza A(H5N1) virus. A 7 year-old male from Gharbia Governorate, developed symptoms on 20 January and was hospitalized on 20 January. He is in a stable condition.\n\nInvestigations into the source of infection indicated that the case had exposure to sick poultry.\n\nThe case was confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network (GISN). \n\nOf the 122 cases confirmed to date in Egypt, 40 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:28.299487",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "20 January 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 January 2011 -\nThe Ministry of Health of Egypt has announced a new case of human infection of H5N1 avian influenza. A 1-year-old male from Alexandria Governorate, developed symptoms on 12 January and was hospitalized on 13 January. He is in a stable condition.\n\nInvestigations into the source of infection indicated that the case had exposure to poultry.\n\nThe case was confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network (GISN). \n\nOf the 121 cases confirmed to date in Egypt, 40 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:29.857073",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "19 January 2011",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 January 2011 -\nOn 23 December 2010, the Minister of Health in Uganda reported 3 laboratory confirmed cases of yellow fever, detected through a special investigation following an outbreak in the country in October 2010. The cases were reported in 3 districts of Abim, Agago and Kitgum near the border with South Sudan. \n\nIn total, five cases have been laboratory confirmed for yellow fever by the US Centers for Disease Control and Prevention (3 by RT-PCR, 1 by ELISA method and 1 by histopathology). A total of 226 cases compatible with the clinical case definition including 53 deaths have been reported by 12 districts in northern Uganda. \n\nFollowing field investigations by the Ministry of Health with the support of WHO, M\u00e9decins Sans Fronti\u00e8res (MSF), the US and others partners, a decision was made to conduct a reactive mass vaccination campaign in 5 districts (Abim, Agago, Kitgum, Lamwoo and Pader). On 31 December 2010, WHO deployed three additional experts to support risk assessment, and planning and implementation of control measures which include strengthening of the surveillance system and the vaccination campaign.\n\nA request for one million doses of vaccine was submitted to the International Coordinating Group on Yellow Fever Vaccine Provision (YF-ICG) on 4 January 2011 and the vaccine from the GAVI funded emergency stockpile was shipped to the country on 11 January 2011. The vaccination campaign will start on 22 January 2011, targeting a population of over 905,000 people. \nFor more information\n\n\nWHO yellow fever health topics page",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:31.398741",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "13 January 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "13 January 2011 -\nThe Ministry of Health of Egypt has announced a new case of human infection of H5N1 avian influenza. A 10-year-old male from Giza Governorate, developed symptoms on 5 January and was hospitalized on 8 January. He is in a stable condition.\n\nInvestigations into the source of infection indicated that the case had exposure to poultry.\n\nThe case was confirmed by the Egyptian Central Public Health Laboratories, a National Influenza Center of the WHO Global Influenza Surveillance Network (GISN). \n\nOf the 120 cases confirmed to date in Egypt, 40 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:38:32.895771",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2011",
+        "Date Reported": "5 January 2011",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "5 January 2011 -\nThe Ministry of Health of Egypt has announced four new cases of human infection with H5N1 avian influenza.\n\n\nA 56 year-old female from Sharkia governorate. She developed symptoms on 22 December, was hospitalized on 23 December and received treatment with oseltamivir. She was discharged from the hospital on 30 December 2010 in a stable condition. \n\nNo information is available regarding poultry exposure. Investigations into the source of infection are underway. \n\nA 25 year-old female from Qena Governorate. She developed symptoms on 19 December 2010 and was admitted in the hospital on 27 December 2010 and died on 29 December 2010. Case investigation revealed that she had contact with poultry.\n\nA 27 year-old male from Ismailia Governorate. He developed symptoms on 23 December 2010 and was admitted to hospital on 28 December 2010. He is still under treatment in the hospital. No information is available regarding poultry exposure. Investigations into the source of infection are underway. \n\n A 40 year-old male from Dakahlia Governorate. He developed symptoms on 25 December 2010 and was admitted to hospital on 30 December 2010. He died on 2nd January 2011. He had contact with poultry.\n\n\n Laboratory tests have confirmed the H5N1 virus.\n\n\n Of the 119 cases confirmed to date in Egypt, 40 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    }
+  ]
+}

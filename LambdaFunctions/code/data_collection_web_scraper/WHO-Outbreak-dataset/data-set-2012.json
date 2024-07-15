@@ -1,0 +1,1537 @@
+{
+  "events": [
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:19.606862",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "12 December 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "The Ministry of Health of the Republic of Congo is launching an emergency mass-vaccination campaign against yellow fever in Ewo District in Cuvette-Ouest region.",
+        "Description of the Situation": "12 December 2012 -\nThe Ministry of Health of the Republic of Congo is launching an emergency mass-vaccination campaign against yellow fever in Ewo District in Cuvette-Ouest region, beginning next week.\n\nThe emergency vaccination campaign aims to cover approximately 35,000 people in three health districts of Mbama, Ewo and Okoyo, all of which belong to the administrative district of Ewo.\n\nThe emergency vaccination campaign is being carried out after recent confirmation of a case with yellow fever virus infection that occurred in October 2012. The case was identified through the national surveillance programme for yellow fever. \n\nLaboratory confirmation was done at Institut National de Recherche Biom\u00e9dicale Kinshasa (INRB), and reconfirmed by a WHO regional reference laboratory for yellow fever, Institut Pasteur, Dakar, Senegal.\n\nThe vaccination campaign is being supported by the International Coordinating Group on Yellow Fever Vaccine Provision (YF-ICG1), the GAVI Alliance and the European Commission\u2019s Humanitarian Aid and Civil Protection Department (ECHO). \n\n\n1 The YF-ICG is a partnership that manages the stockpile of yellow fever vaccines for emergency response on the basis of a rotation fund. It is represented by United Nations Children's Fund (UNICEF), M\u00e9decins Sans Fronti\u00e8res (MSF) and the International Federation of Red Cross and Red Crescent Societies (IFRC) and WHO, which also serves as the Secretariat. The stockpile was created by GAVI Alliance.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:26.253212",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "30 November 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "As of 28 November 2012, the Ministry of Health in Uganda reported 7 cases (6 confirmed, 1 probable) with Ebola haemorrhagic fever in Luweero and Kampala districts. Of these cases, 4 died.",
+        "Description of the Situation": "30 November 2012 -\nAs of 28 November 2012, the Ministry of Health in Uganda reported 7 cases (6 confirmed, 1 probable) with Ebola haemorrhagic fever in Luweero and Kampala districts. Of these cases, 4 died.\n\nField teams continue to investigate cases alerted to them from the communities. The major challenge faced in some communities is the belief that witch-craft and not Ebola was the cause of deaths, despite ongoing intensive awareness campaigns. Social mobilization teams are working closely with traditional healers and religious leaders to raise awareness on prevention and control of the disease.\n\nWHO and partners, including the US Centers for Disease Control and Prevention (CDC), M\u00e9decins Sans Fronti\u00e8res (MSF), the Uganda Red Cross (URCS), African Field Epidemiology Network (AFENET) and Plan Uganda continue to support the national authorities in the response to the outbreak. Through WHO, an expert on infection prevention and control has been deployed to the field.\n\nWith respect to this event, WHO does not recommend that any travel or trade restriction be applied to Uganda.\n\nNote: The total number of cases reported on 23 November2012 was 10 (6 confirmed, 4 probable) Probable cases that tested negative for Ebola have been classified as Non-Cases and excluded from the case counts.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:29.117844",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "23 November 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "As of 23 November 2012, the Ministry of Health (MoH) of Uganda has reported 10 cases (6 confirmed and 4 probable,), including 5 deaths in Luweero and Kampala.",
+        "Description of the Situation": "23 November 2012 -\nAs of 23 November 2012, the Ministry of Health (MoH) of Uganda has reported 10 cases (6 confirmed and 4 probable,), including 5 deaths in Luweero and Kampala.\n\nThe last confirmed case was hospitalised on 17 November 2012. Close contacts of the Ebola cases are being identified and followed up for a period of 21 days. All the cases alerted to the field teams are being investigated.\n\nWHO and partners, including the US Centers for Disease Control and Prevention (CDC), M\u00e9decins Sans Fronti\u00e8res (MSF), the Uganda Red Cross (URCS), African Field Epidemiology Network (AFENET) and Plan Uganda are supporting the national authorities in the investigation and response to the outbreak. \n\nExperts in the area of field epidemiology, health promotion, logistics management, and infection prevention and control , have been mobilized by WHO through the Global Outbreak Alert and Response Network (GOARN), to provide support to the response.\n\nWith respect to this event, WHO does not recommend that any travel or trade restriction be applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:30.605562",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "23 November 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "As of 23 November 2012, a total of 20 (probable or confirmed) cases, including 9 deaths have been reported from4 districts in Uganda (Kabale, Ibanda, Mbarara, and Kampala).",
+        "Description of the Situation": "23 November 2012 -\nAs of 23 November 2012, a total of 20 (probable or confirmed) cases, including 9 deaths have been reported from4 districts in Uganda (Kabale, Ibanda, Mbarara, and Kampala). \n\nThe last confirmed case was hospitalised on 31 October 2012.\n\nThe Ministry of Health continues to conduct active surveillance and investigation on all cases alerted in the 4 districts. Close contacts of the Marburg cases are being followed-up for a period of 21 days.\n\nWHO and international partners, including the US Centers for Disease Control and Prevention (CDC), the Uganda Red Cross (URCS), African Field Epidemiology Network (AFENET), Plan Uganda and M\u00e9decins Sans Fronti\u00e8res (MSF) are supporting the national authorities in the investigation and response to the outbreak. Experts have been deployed through the Global Outbreak Alert and Response Network (GOARN) to strengthen the field team.\n\nTrainings are being provided to health professionals on infection prevention and control (IPC), and on field information management. Social mobilization activities are being conducted to raise awareness on prevention and control of Marburg haemorrhagic fever. \n\nWith respect to this outbreak, WHO does not recommend that any travel or trade restriction be applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:32.497988",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "22 November 2012",
+        "Location": "Sudan",
+        "Sitation at a Glance": "The Federal Ministry of Health (FMOH) in Sudan began a 10-day mass vaccination campaign against yellow fever in Darfur on 20 November 2012, in response to the outbreak.",
+        "Description of the Situation": "22 November 2012 -\nThe Federal Ministry of Health (FMOH) in Sudan began a 10-day mass vaccination campaign against yellow fever in Darfur on 20 November 2012, in response to the outbreak. \n\nAs of 17 November 2012, the outbreak is reported to have affected 26 localities, with a total of 459 suspected cases including 116 deaths. Two cases were confirmed by IgM ELISA test and RT-PCR by the WHO regional reference laboratory for yellow fever, the Institut Pasteur in Dakar, Senegal. An outbreak investigation team led by the Ministry of Health, with support from WHO are in the field to assess the extent of the outbreak and prioritize areas for the mass vaccination campaign.\n\nWith support from the International Coordinating Group on Yellow Fever Vaccine Provision (YF-ICG), the Central Emergency Response Fund (CERF), and international non-governmental organizations (INGOs), the vaccination campaign will be carried out in the most affected 12 localities in Darfur region, targeting approximately 2.2 million people.\n\nThe YF-ICG is a partnership which manages stockpile of yellow fever vaccines for emergency response. It is represented by United Nations Children's Fund (UNICEF), M\u00e9decins Sans Fronti\u00e8res (MSF) and the International Federation of Red Cross and Red Crescent Societies (IFRC) and WHO, which also serves as the Secretariat.\n\nSeven INGOs, including the International Committee of the Red Cross, MSF-Belgium, MSF-Spain, MSF-Swiss, Merlin, Save the Children-Swiss, and International Medical Corps are currently working in the 12 localities prioritized for the vaccination campaign. They will actively support the FMOH in this emergency response. \n\nWHO is supporting the State Ministries of Health in conducting field investigations to better assess the epidemiological situation and the risk of disease spread, as well as on-the-job trainings for health staff to strengthen their disease surveillance systems and to improve collection of samples and laboratory diagnosis..\n\nWHO has activated the Global Outbreak Alert and Response Network (GOARN) and additional support will soon be provided to the ongoing response efforts in the country.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:34.185157",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "17 November 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "The Ministry of Health (MoH) of Uganda has notified WHO of an outbreak of Ebola haemorrhagic fever in Luweero district in Central Uganda.",
+        "Description of the Situation": "17 November 2012 -\nThe Ministry of Health (MoH) of Uganda has notified WHO of an outbreak of Ebola haemorrhagic fever in Luweero district in Central Uganda. \n\nFour cases, including 3 fatal, have been reported. Samples were taken from two cases, for which laboratory confirmation of Ebola virus (species Sudan) was made by PCR and serology tests at the Uganda Virus Research Institute (UVRI) in Entebbe.\n\nThe Ministry of Health, WHO and M\u00e9decins Sans Fronti\u00e8res (MSF) have sent a team to conduct preliminary investigation into the outbreak. Health authorities are conducting active case search and tracing close contacts of the confirmed and probable cases. \n\nThe isolation facility at Mulago hospital in Kampala is reactivated and another isolation facility at Nyimbwa Health Center IV at the epicenter is being established. The military hospital in Bombo, Luweero district is also serving a holding center until the isolation facility is properly set up at the Nyimbwa Health Center IV. Seven close contacts of the cases have developed symptoms and are being isolated in the isolation facilities.\n\nWHO and partners, including the Centers for Disease Control and Prevention (CDC), the Uganda Red Cross (URCS), African Field Epidemiology Network (AFENET) and M\u00e9decins-Sans-Fronti\u00e8res (MSF) are supporting the authorities in the response activities. Experts in the area of field epidemiology, health promotion, logistics management, and infection prevention and control are being identified to provide additional support through the Global Outbreak Alert and Response Network (GOARN). \n\nWith respect to this event, WHO does not recommend that any travel or trade restriction be applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:35.981304",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "13 November 2012",
+        "Location": "Sudan",
+        "Sitation at a Glance": "The Federal Ministry of Health (FMOH) in Sudan has notified WHO of a yellow fever outbreak affecting 23 localities in Greater Darfur. As of 11 November 2012, a total of 329 suspected cases including 97 deaths were reported from this outbreak.",
+        "Description of the Situation": "13 November 2012 -\nThe Federal Ministry of Health (FMOH) in Sudan has notified WHO of a yellow fever outbreak affecting 23 localities in Greater Darfur. As of 11 November 2012, a total of 329 suspected cases including 97 deaths were reported from this outbreak. Central and South Darfur have reported most of the suspected cases. \n\nLaboratory confirmation was conducted by WHO regional reference laboratory for yellow fever, the Institut Pasteur in Dakar, Senegal, on two samples which tested positive for yellow fever by IgM ELISA test and RT-PCR Differential diagnosis for other flavivirus was negative. \n\nWHO is supporting the FMOH and other partners in the epidemiological investigation and response to the outbreak. Ongoing activities include strengthening of epidemiological surveillance, conducting entomological assessment and standardizing clinical case management. Community leaders are also being mobilized to support with raising awareness on yellow fever in the affected localities.\n\nThe government of Sudan has requested the International Coordinating Group on Yellow Fever Vaccine Provision (YF-ICG) to provide support for a reactive mass vaccination campaign. The YF-ICG has approved of 2.4 million doses of vaccine, which is expected to arrive in the country shortly. Sudan, with support from WHO is expected to start the emergency mass vaccination campaign in the affected areas in order to protect the at risk populations and stop the spread of the disease.\n\nThe YF-ICG consists of representatives from United Nations Children's Fund (UNICEF), M\u00e9decins sans Fronti\u00e8res (MSF) and the International Federation of Red Cross and Red Crescent Societies (IFRC) and WHO, which also serves as its Secretariat.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:37.836460",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "1 November 2012",
+        "Location": "Mauritania",
+        "Sitation at a Glance": "The Ministry of Health (MoH) in Mauritania declared an outbreak of Rift Valley Fever (RVF) on 4 October 2012. From 16 September 2012 (the date of onset of the index case) to 30 October 2012, a total of 34 cases, including 17 deaths have been reported from 6 regions.",
+        "Description of the Situation": "1 November 2012 -\nThe Ministry of Health (MoH) in Mauritania declared an outbreak of Rift Valley Fever (RVF) on 4 October 2012. From 16 September 2012 (the date of onset of the index case) to 30 October 2012, a total of 34 cases, including 17 deaths have been reported from 6 regions. The last case was notified on the 27 October 2012 from Magta Lahjar in the Brakna region. The 6 regions include Assaba, Brakna, Hodh Chargui, Hodh Gharbi, Tagant and Trarza. All the cases had history of contact with animals.\n\nIn humans, 25 samples tested positive by ELISA and PCR at the National Reference Laboratory of the National Institute of Public Health Research (INRS) in Nouakchott and at the Institut Pasteur in Dakar. In the animal population, analysis conducted by the National Veterinary Research Laboratory shows virus circulation in several regions of the country. \n\nA multi-sector task force has been jointly established by the MOH and the Ministry of Rural Development to respond to this outbreak. WHO and partners, including the Food and Agriculture Organization (FAO), are working within the task force to strengthen epidemiological surveillance in both human and animal health, strengthen capacity in case management at health care facilities, strengthen health measures in slaughterhouses, and raise awareness among farmers. \n\nA multi-sector investigation team has been deployed to conduct a detailed outbreak investigation among humans and animals in the affected areas. An international team of experts will be deployed to provide technical assistance from 3 to 10 November 2012.\n\nMauritania experienced an outbreak of RVF in 2010.\n\n\nWith regard to this outbreak, WHO does not recommend any travel or trade restrictions be applied.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:39.769158",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "31 October 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "As of 28 October 2012, a total of 18 cases and 9 deaths have been reported from 5 districts namely, Kabale district in south-western Uganda, Kampala (the capital city), Ibanda, Mbarara and Kabarole.",
+        "Description of the Situation": "31 October 2012 -\nAs of 28 October 2012, a total of 18 cases and 9 deaths, including a health worker, have been reported from 5 districts namely Kabale district, in south-western Uganda, Kampala (the capital city), Ibanda, Mbarara and Kabarole. The case fatality rate is 50%. The outbreak was declared by the Ministry of Health in Uganda on 19 October 2012. Blood samples from 9 cases have been confirmed for Marburg virus at the Uganda Virus Research Institute (UVRI). \n\nCurrently, 13 patients have been admitted to hospital (2 in Kampala, 8 in Kabale, 3 in Ibanda) and their contacts are listed for daily follow up. The latest confirmed case was admitted to Ibanda district isolation ward on 26 October 2012. \n\nThe World Health Organization (WHO) and international partners including, the Centers for Disease Control and Prevention (CDC), the Uganda Red Cross (URCS), African Field Epidemiology Network (AFENET) and M\u00e9decins-Sans-Fronti\u00e8res (MSF) are supporting the national authorities in outbreak investigation and response. The national task force has identified additional health care workers and epidemiologists to strengthen the teams in the field. Training of health workers on infection prevention and control, surveillance and clinical case management is ongoing. Social mobilization activities are being conducted which include the dissemination of IEC (Information Education Communication) material, sensitization on Marburg prevention and control and broadcast of information through radio channels. The first shipment of personal protective equipment (PPE) provided by WHO arrived over the weekend. \n\nThe WHO Regional office has deployed an epidemiologist and a logistician to Uganda to support the response teams on the ground. In addition, a social mobilization expert from WHO Zambia Country Office and a logistician from the Regional Rapid Response Team network have been mobilized for immediate deployment. More experts are being identified by the Global Outbreak Alert and Response Network (GOARN). \n\nAs the investigation into the outbreak continues, WHO and partners continue to support the national authorities as needed in the areas of coordination, infection prevention and control, surveillance, epidemiology, public information and social mobilization, anthropological analysis and logistics for outbreak response.\n\nNeighbouring countries have been contacted to strengthen cross border surveillance and preparedness to prevent cross border spread of the outbreak. \n\nWHO advises that there is no need for any restrictions on travel or trade with Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:41.686722",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "26 October 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "As of 24 October 2012, 52 cases (35 laboratory confirmed, 17 probable) with Ebola haemorrhagic fever (EHF) have been reported in the Democratic Republic of Congo (DRC). Of these, 25 have been fatal (12 confirmed, 13 probable).",
+        "Description of the Situation": "26 October 2012 -\nAs of 24 October 2012, 52 cases (35 laboratory confirmed, 17 probable) with Ebola haemorrhagic fever (EHF) have been reported in the Democratic Republic of Congo (DRC). Of these, 25 have been fatal (12 confirmed, 13 probable).\n\nThe cases are reported from Isiro and Viadana health zones in Haut-U\u00e9l\u00e9 district in Province Orientale. \n\nThe Ministry of Health (MoH) continues to work with local health authorities and international partners in active surveillance, tracing of contacts of probable and confirmed cases, infection prevention and control in health care settings, management of patients in health care facilities, logistics, social mobilization, provision of psychosocial support and conducting anthropological analysis to support the control of the outbreak.\n\nSurveillance activities are being strengthened in Isiro and neighbouring areas, including Bedhe and Nakwapongo. In Isiro, health care workers are being trained on basic infection prevention and control in health care settings. Through the Global Outbreak Alert and Response Network (GOARN), a field laboratory has been set up by the Public Health Agency of Canada (PHAC).\n\nSocial mobilization activities are being carried out in schools and churches in Isiro, Rungu and Ngosaku to provide information on protection against the Ebola virus and to discuss concerns of the local population.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:43.336528",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "22 October 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "As of 21 October 2012, nine (9) probable and confirmed cases, including 5 deaths have been reported with Marburg haemorrhagic fever in Kitumba sub-county, Kabale district in South-western Uganda.",
+        "Description of the Situation": "22 October 2012 -\nAs of 21 October 2012, nine (9) probable and confirmed cases, including 5 deaths have been reported with Marburg haemorrhagic fever in Kitumba sub-county, Kabale district in South-western Uganda. Of these, 3 have been laboratory confirmed by the Uganda Virus Research Institute (UVRI). \n\nAn investigation into the outbreak is ongoing. Preliminary investigations indicate that all these cases belong to the same cluster \u2013 family and relatives of the index case.\n\nWHO is supporting the Ministry of Health and partners in controlling the outbreak.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:44.887382",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "21 October 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "The Ministry of Health in Uganda has declared an outbreak of Marburg hemorrhagic fever in Kitumba sub-county, Kabale district in South-western Uganda.",
+        "Description of the Situation": "21 October 2012 -\nThe Ministry of Health in Uganda has declared an outbreak of Marburg hemorrhagic fever in Kitumba sub-county, Kabale district in South-western Uganda. \n\nBlood samples from 3 cases have tested positive for Marburg at the Uganda Virus Research Institute (UVRI). Investigation into the outbreak is ongoing.The Ministry of Health (MOH) is working closely with partners to control the outbreak. \n\nThe MOH and WHO have deployed a team to the district to support the outbreak investigation and response, including case contact tracing. The national and district taskforces have been reactivated. \n\nWHO will provide support to the national authorities as needed in the areas of coordination, infection prevention and control (IPC), surveillance, epidemiology, public information and social mobilization, anthropological analysis and logistics for outbreak response. \n\nWith respect to this outbreak, WHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:46.732685",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "17 October 2012",
+        "Location": "Portugal",
+        "Sitation at a Glance": "An outbreak of dengue fever has been reported in Madeira, Portugal. As of 10 October 2012, a total of 18 confirmed cases and 191 probable cases have been reported.",
+        "Description of the Situation": "17 October 2012 -\nAn outbreak of dengue fever has been reported in Madeira, Portugal. As of 10 October 2012, a total of 18 confirmed cases and 191 probable cases have been reported.\n\nThe Public Health Authorities of Portugal are implementing control measures to reduce the risk of sustained transmission locally, to minimize the impact on the affected population and to prevent the export of infected vectors from the island.\n\nDengue fever is transmitted by the bite of an Aedes mosquito infected with any one of the four dengue viruses. Symptoms, which appear from 3-14 days after infection, range from mild fever to incapacitating high fever with severe headache, pain behind the eyes, muscle and joint pains and rash.\n\nThe public are advised to take individual protective measures during the day to reduce mosquito bites if travelling to areas with dengue fever outbreak. \n\nWHO is supporting the Portuguese Ministry of Health to rapidly develop additional vector control guidance with a specific emphasis on vector control in port settings. \n\nWHO encourages public health authorities in neighboring geographical areas and other Member States to assess the risk for the establishment of Aedes mosquito population and the introduction of dengue in their territories.\n\nTravellers diagnosed with dengue on return from affected areas should be reported to the surveillance systems.\n\nWith respect to this event, WHO does not advise any travel or trade restriction to be applied to Madeira Island.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:48.381288",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "10 October 2012",
+        "Location": "United Kingdom of Great Britain and Northern Ireland",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 October 2012 -\nNo new cases of infection with the novel coronavirus have been reported since 22 September 2012. So far, after careful follow-up of close contacts of the two confirmed cases, and a heightened state of global surveillance , there is no evidence of human-to-human transmission of the virus. \n\nThe governments of Saudi Arabia, Qatar and the United Kingdom, are continuing their work to gain a better understanding of the disease and the likely source of infection. WHO is supporting the national authorities in their ongoing investigation, and has deployed experts to Saudi Arabia and Qatar as part of an international team. These and future epidemiological and scientific studies will lead to a better understanding of the novel coronavirus.\n\nWHO continues to work with the ministries of health and other international partners to coordinate actions for timely detection, rapid diagnosis and case management of infection caused by the novel coronavirus, should the need arise. \n\nBased on this overall situation, WHO encourages Member States to continue with their routine surveillance to ensure early detection and rapid response to all potential public health threats. WHO will continue to coordinate routine surveillance efforts internationally.\n\nThis event was rapidly detected by the international public health community, and notified to WHO under the International Health Regulations (2005). It demonstrates the value of having the appropriate systems and processes in place for early detection, risk assessment and dissemination of information in order to implement appropriate response.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:51.440609",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "8 October 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "8 October 2012 -\nAs of 7 October 2012, 49 cases (31 laboratory confirmed, 18 probable) with Ebola haemorrhagic fever (EHF) have been reported in the Democratic Republic of Congo (DRC). Of these, 24 have been fatal (10 confirmed, 14 probable).\n\nThe cases reported are from Isiro and Viadana health zones in Haut-U\u00e9l\u00e9 district in Province Orientale. \n\nThe Ministry of Health (MoH) continues to work with partners, under the National Task Force to identify all possible chains of transmission of the illness and ensure that appropriate measures are taken to interrupt transmission and stop the outbreak. The task force includes M\u00e9decins Sans Fronti\u00e8res (MSF); the International Federation of Red Cross and Red Crescent Societies (IFRC); US Agency for International Development (USAID); US Centers for Disease Control and Prevention (CDC); and the United Nations Children\u2019s Fund (UNICEF) and WHO.\n\nResponse operations continue in the areas of coordination; Infection Prevention and Control (IPC); surveillance and epidemiology; case management; public information and social mobilization; psychosocial support; anthropological analysis; and logistics. \n\nWHO and the Global Outbreak Alert and Response Network (GOARN) have deployed experts to support operational response, including establishment of a field laboratory and in the area of infection prevention and control in health care settings. \n\nInitial samples were tested and confirmed by Uganda Virus Research Institute (UVRI). CDC established a field laboratory in Isiro in the beginning of the outbreak and Public Health Agency of Canada (PHAC) is continuing to provide support on rapid diagnosis in the field with their mobile laboratory facilities in Isiro. \n\nOngoing activities in Isiro and neighbouring areas include: training of health care workers on IPC in health care facilities, provision of support on case management, strengthening surveillance, working with traditional healers in raising awareness about EHF, providing psychosocial support to affected families, and conducting outreach to schools.\n\nWith respect to this event, WHO does not recommend any travel or trade restrictions to be applied to the DRC. \nGeneral information on controlling infection of EHF in health-care settings \n\nHuman-to-human transmission of the Ebola virus is primarily associated with direct contact with blood and body fluids. Transmission to healthcare workers has been reported when appropriate infection control measures have not been observed.\n\nHealth-care workers caring for patients with suspected or confirmed Ebola virus need to apply infection control measures to avoid any exposure to the patient\u2019s blood and body fluids and/or direct unprotected contact with the possibly contaminated environment. In addition, it is important that Standard Precautions, particularly hand hygiene, the use of gloves and other personal protective equipment, safe injection practices and other measures are applied to all patients in all health care settings at all times.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:54.511013",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "4 October 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "4 October 2012 -\nThe Ministry of Health (MoH), Uganda has declared today, the end of the Ebola haemorrhagic fever (EHF) outbreak in Kibaale district. The last case was confirmed on 3 August 2012 and was discharged from the hospital on 24 August 2012. This is double the maximum incubation period (21 days) for Ebola as recommended by WHO. In the outbreak, a total of 24 probable and confirmed cases were recorded, of which 11 were laboratory confirmed by the Uganda Virus Research Institute (UVRI) in Entebbe. A total of 17 deaths were reported in this outbreak. \n\nNational and District Ebola Task Forces were coordinated by the MoH to respond to the outbreak. MoH worked closely with WHO and other agencies which included the African Field Epidemiology Network (AFENET), EMESCO Foundation (a local NGO), Infectious Diseases Institute (IDI), Uganda Red Cross Society (URCS), M\u00e9decins Sans Fronti\u00e8res (MSF), the United Nations Children's Fund (UNICEF), US Centers for Disease Control and prevention (CDC), US Agency for International Development (USAID). WHO also coordinated with the Global Outbreak Alert and Response Network (GOARN) to support the response operations. \n\nThe response activities carried out during the outbreak included enhanced surveillance for early case detection and contact tracing, reinforcement of infection prevention and control including case management in isolation facilities using barrier nursing and conducting supervised safe burials, reinforcement of standard precautions in health care settings and enhancing communication interventions at the national and community levels.\n\nA team led by CDC conducted ecological studies in Kibaale district to try and understand the likely source and route of transmission of the virus. Samples from bats, primates and livestock were collected to study the possible source of the Ebola virus and putative initial human infection from wildlife.\n\nThe Ebola response teams have continued to educate the community on prevention, detection of and early reporting of any suspected cases in future. Health workers in the district have been trained on prevention of health care associated infections. \n\nWHO does not recommend that any travel or trade restrictions be applied to the Uganda with respect to this event. \nGeneral information on Ebola subtypes\n\nThere are five identified subtypes of Ebola virus. The subtypes have been named after the location where they were been first detected in EHF outbreaks. Three subtypes of the five have been associated with large EHF outbreaks in Africa. Ebola-Zaire, Ebola-Sudan and Ebola-Bundibugyo. EHF is a febrile haemorrhagic illness which causes death in 25-90% of all cases. The Ebola Reston species, found in the Philippines, can infect humans, but no illness or death in humans has been reported to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:56.051315",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "29 September 2012",
+        "Location": "United Kingdom of Great Britain and Northern Ireland",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "29 September 2012 -\nWHO has continued to monitor the situation. No additional confirmed cases have been reported and there is no evidence so far of person to person transmission of the novel coronavirus. \n\nIn order to ensure an appropriate and effective identification and investigation of patients who may be infected with the virus, without overburdening health care systems with unnecessary testing, a revised interim case definition has been issued by WHO (see related links to right of this page). It should be noted that this case definition was developed based on data from two confirmed cases and as such some degree of clinical judgment is required where individual cases are concerned.\n\nWHO has been cooperating closely with the laboratories which were responsible for the confirmation of the presence of the novel coronavirus in the two confirmed cases. These laboratories have been working on the development of diagnostic reagents and protocols which can be provided to laboratories that are not in a position to develop their own, and these are now available. WHO is now seeking to broaden the number of laboratories that will be able to assist Member States with the detection or confirmation of this novel virus.\n\nWHO has received offers of support from a number of major public health institutions around the world to assist with testing, should the need arise. The complete nucleic acid sequence of the virus has been uploaded to Genbank and the testing protocol, utilizing real-time PCR, has been published.\n\nWHO does not advise special screening at points of entry with regard to this event nor does it recommend that any travel or trade restrictions are applied.\n\nWHO continues to inform its Member States through the designated National Focal Points under the International Health Regulations (2005).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:34:57.588592",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "28 September 2012",
+        "Location": "United Kingdom of Great Britain and Northern Ireland",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 September 2012 -\nAs of 28 September 2012, no additional confirmed cases due to infection with the novel coronavirus have been reported to WHO.\n\nWHO is working closely with the national authorities of the involved countries (Qatar, Saudi Arabia, United Kingdom) and international partners in order to better understand the public health risk from the novel coronavirus. \n\nFrom the information available thus far, it appears that the novel coronavirus cannot be easily transmitted from person-to-person.\n\nGiven the severity of the two laboratory confirmed cases, WHO is continuing to monitor the situation in order to provide the appropriate response, expertise and support to its Member States.\n\nRapid progress has been made in the characterization of the novel coronavirus, and in the development of sensitive and specific diagnostic assays. WHO is collaborating with partner laboratories to make these available as quickly as possible. It is anticipated that the first batch of reagents, together with information and testing algorithms, will be available for urgent testing within the coming days. \n\nTests for novel coronavirus infection of patients under investigation - based on the case definition issued by WHO \u2013 are currently available by some partner laboratories. National Health Authorities can contact these laboratories through WHO.\n\nWHO continues to inform its Member States through the designated National Focal Points under the International Health Regulations (2005). \n\nNo travel or trade restrictions have been recommended by WHO for Saudi Arabia or Qatar with respect to the novel coronavirus infections.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:09.154773",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "27 September 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 September 2012 -\nAs of 24 September 2012, 51 cases (19 laboratory confirmed, 32 probable) with Ebola haemorrhagic fever (EHF) have been reported in the Democratic Republic of Congo (DRC). Of these, 20 have been fatal (7 confirmed, 13 probable).\n\nThe cases reported are from Isiro and Viadana health zones in Haut-U\u00e9l\u00e9 district in Province Orientale. To date, 28 suspected cases have been reported and are being investigated.\n\nThe Ministry of Health (MoH) continues to work with partners, under the National Task Force which includes: WHO; M\u00e9decins Sans Fronti\u00e8res (MSF); the International Federation of Red Cross and Red Crescent Societies (IFRC); US Agency for International Development (USAID); US Centers for Disease Control and Prevention (CDC); and the United Nations Children\u2019s Fund (UNICEF) to identify all possible chains of transmission of the illness and ensure that appropriate measures are taken to interrupt transmission and stop the outbreak. \n\nResponse operations continue in the areas of: coordination; Infection Prevention and Control (IPC); surveillance and epidemiology; case management; public information and social mobilization; psycho social support; anthropological analysis; and logistics. Current activities include: training for health managers and heads of clinic services to strengthen surveillance; outreach to schools through principals, teachers and students; psychosocial support to affected families, particularly in Isiro and surrounding areas, where the latest cases are being detected, and to health care workers; training of social workers who are providing support in the Ebola treatment rooms; and interpersonal communication skills training for front-line staff. Local community-based radio have also broadcast programmes to provide information and address the concerns of the local populations. \n\nWHO and the Global Outbreak Alert and Response Network (GOARN) have deployed experts to support operational response. Technical support has been further strengthened with an infection prevention and control expert to assist in preventing disease transmission in health care and community settings. \n\nWith respect to this event. WHO does not recommend any travel or trade restrictions to be applied to the DRC. \nGeneral information on controlling infection of EHF in health-care settings \n\nHuman-to-human transmission of the Ebola virus is primarily associated with direct contact with blood and body fluids. Transmission to healthcare workers has been reported when appropriate infection control measures have not been observed.\n\nHealth-care workers caring for patients with suspected or confirmed Ebola virus need to apply infection control measures to avoid any exposure to the patient\u2019s blood and body fluids and/or direct unprotected contact with the possibly contaminated environment. It is important that Standard Precautions, particularly hand hygiene, the use of gloves and other personal protective equipment, safe injections practices and other measures are applied to all patients in all health care settings.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:17.558171",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "25 September 2012",
+        "Location": "United Kingdom of Great Britain and Northern Ireland",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "25 September 2012 -\nAs of 25 September 2012, no additional cases of acute respiratory syndrome with renal failure due to infection with a novel coronavirus have been reported to WHO. WHO is continuing investigations into two recently confirmed infections identified as a novel coronavirus. Today WHO issued an interim case definition to help countries strengthen health protection measures against the new virus. \n\nThe case definition, based on the cases so far, includes criteria for identifying a \u2018patient under investigation\u2019, a \u2018probable case\u2019 and a \u2018confirmed case\u2019. These criteria are based on clinical, epidemiological and laboratory indicators. \n\nFollowing the confirmation of the novel coronavirus, WHO - under the International Health Regulations - immediately alerted all its Member States about the virus and has been leading the coordination and providing guidance to health authorities and technical health agencies. WHO is also identifying a network of laboratories that can provide expertise on coronaviruses for countries. \n\nOn 22 September 2012, the United Kingdom (UK) informed WHO of a case of acute respiratory syndrome with travel history to Saudi Arabia and Qatar.\n\nThe case is a previously healthy, 49 year-old male Qatari national that presented with symptoms on 3 September 2012 with travel history to Saudi Arabia several days prior to onset of illness. On 7 September he was admitted to an intensive care unit in Doha, Qatar. On 11 September, he was transferred to the UK by air ambulance from Qatar. The Health Protection Agency of the UK (HPA) conducted laboratory testing and subsequently confirmed the presence of the novel coronavirus. \n\nThe HPA compared information from the clinical sample collected from the 49 year-old Qatari national with that of a virus sequenced previously by the Erasmus University Medical Centre, Netherlands. This latter isolate was obtained from lung tissue of a fatal case earlier this year in a 60 year-old Saudi national. This comparison indicated 99.5% identity, with one nucleotide mismatch over the regions compared.*\n\nThough it is a very different virus to SARS, given the severity of the two confirmed cases so far, WHO is engaged in further characterizing the novel coronavirus. As such, international efforts are being stepped up across all WHO six regions to ensure an appropriate and effective response with a WHO specialist team in daily contact with more than a dozen international and regional technical partners.\n\nIn addition WHO is working closely with Saudi Arabia, as in previous years, to support the country\u2019s health measures for all visitors participating in the Haji pilgrimage to Mecca next month.\n\n\n* Please note the change as an earlier version stated that sequencing of the virus isolate from the 49 year old had been compared by HPA.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:24.520687",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "18 September 2012",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 September 2012 -\nAs of 16 September 2012, a cumulative total of 18,508 cases including 271 deaths (with a case fatality ratio of 1.5%) has been reported in the ongoing cholera outbreak in Sierra Leone since the beginning of the year.\n\nThe highest numbers of cases are reported from the Western area of the country where the capital city of Freetown is located. \n\nThe Ministry of Health and Sanitation (MOHS) is closely working with partners at national and international levels to step up response to the cholera outbreak. The ongoing activities at the field level include case management; communication and social mobilization; water, sanitation and hygiene promotion; surveillance and data management.\n\nEmphasis is being placed on early detection of cases and timely provision of treatment at the district levels in order to reduce deaths. Cholera cases are managed in cholera treatment units (CTUs) and where there are no established CTUs, emphasis is placed on designating specific areas within the health facilities for isolation purposes.\n\nAt the national level, the Cholera command and Control Centre (C4) continues to provide technical advice, coordinate and monitor the outbreak. The C4 was established to implement activities related to the Cholera Preparedness and Response Operation Plan (CPROP) in order to bring the epidemic under control as soon as possible. The C4 will also provide information to guide the decision-making of the national task force. \n\nWHO and partners are supporting the government in the response to the outbreak. Through the Global Outbreak Alert and Response Network (GOARN), experienced case management and laboratory experts from the International Center for Diarrheal Disease Research, Bangladesh (ICDDR, B) are deployed to build capacity among health-care workers and laboratory technicians in case management and laboratory diagnosis. \n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions be applied to Sierra Leone.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:26.463435",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "14 September 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 September 2012 -\nRetrospective epidemiological investigation recently identified additional confirmed and probable cases with Ebola haemorrhagic fever (EHF) in the Democratic Republic of Congo (DRC), according to the Ministry of Health (MoH).\n\nAs of 12 September 2012, 41 cases (9 laboratory confirmed, and 32 probable) have been reported from Haut-U\u00e9l\u00e9 district in Province Orientale. Of these cases, 18 have been fatal. (5 confirmed and 13 probable). 18 healthcare workers are included among the probable cases. 28 suspected cases have also been reported and are being investigated. \n\nSince the last update, an additional 27 cases (1 laboratory confirmed and 26 probable) of EHF were identified through retrospective epidemiological investigation in the two health zones of Isiro and Viadana. The retrospective epidemiological investigation was done to identify cases of illness which might have been EHF between the end of April 2012 and August 2012, and thus help clarify the possible origins of the outbreak and provide additional information on chains of transmission. In addition, active field epidemiological investigation is continuing to help identify all possible chains of continuing transmission of the illness, to ensure that appropriate measures are immediately taken to interrupt the transmission, and stop the outbreak. \n\nInitial samples were tested by the Uganda Virus Research Institute (UVRI) in Entebbe, Uganda, and were confirmed for Ebola virus (Ebola subtype Bundibugyo). Subsequent samples have been tested by the field laboratory in Isiro that has been established by the US Centers for Disease Control and Prevention (CDC). \n\nThe MoH continues to work with partners to control the outbreak of EHF. A National Task Force convened by the Democratic Republic of Congo Ministry of Health is working with several partners including WHO, United Nations Children\u2019s Fund (UNICEF), M\u00e9decins Sans Fronti\u00e8res (MSF), the International Federation of Red Cross and Red Crescent Societies (IFRC), US Agency for International Development (USAID) and CDC to control the outbreak.\n\nWHO deployed epidemiologists and logisticians from the Regional Office for Africa (AFRO) including the Inter-country Support Team, and WHO headquarters to support the MoH and is working closely with partners in the areas of coordination, surveillance, epidemiology, public information and social mobilization and logistics for outbreak response. Support from the Global Outbreak Alert and Response Network (GOARN), includes deployment of an infection prevention and control (IPC) specialist and an anthropologist to assist with a clearer understanding of the social and anthropological issues among the affected population that could impact the on-going response efforts. \n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions be applied to the DRC. \nGeneral information on Ebola subtypes\n\nThere are five identified subtypes of Ebola virus. The subtypes have been named after the location they have been first detected in Ebola outbreaks. Three subtypes of the five have been associated with large Ebola haemorrhagic fever (EHF) outbreaks in Africa. Ebola-Zaire, Ebola-Sudan and Ebola-Bundibugyo. EHF is a febrile haemorrhagic illness which causes death in 25-90% of all cases. The Ebola Reston species, found in the Philippines, can infect humans, but no illness or death in humans has been reported to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:29.025895",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "12 September 2012",
+        "Location": "United States of America",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 September 2012 -\nAs of 7 Sept 2012, The National Park Service (NPS) has reported eight cases of Hantavirus pulmonary syndrome (HPS) among visitors who stayed at Yosemite National Park in California since June 2012. Of these, three were fatal and five cases are recovering. \n\nPark authorities have begun to notify and advise park visitors and those who stayed overnight at \"Signature Tent Cabins\u201d at Yosemite's Curry Village or \"High Sierra Camps\" between 10 June and 24 August 2012 to seek immediate medical attention if they exhibit any symptoms of HPS. \n\nPerson-to-person transmission of Hantavirus pulmonary syndrome has not been reported in the United States. \n\nInvestigations carried out by NPS revealed that seven of the eight reported cases of HPS have been linked to the \"Signature Tent Cabins\" in Curry Village in Yosemite Valley, and one case stayed in multiple \"High Sierra Camps\" in Yosemite (a different area of the park than Curry Village) in July.\n\nThere is no specific treatment or cure for Hantavirus pulmonary syndrome infection. Early recognition and treatment of infected individuals can reduce disease progression. Early symptoms include fatigue, fever, chills, and muscle aches. Fifty percent of the patients can experience headaches, nausea, vomiting, dizziness and abdominal pain. The disease progresses rapidly (4-10 days after initial symptoms) to include coughing, shortness of breath and severe difficulty breathing. \n\nEarly medical attention greatly increases the chance of survival in cases of HPS. It is recommended that if a recent visitor to Yosemite National Park has any of the symptoms listed above, that they seek medical attention immediately and advise their health care professional of the potential exposure to Hantavirus.\n\nNPS continues to work with the Centers for Disease Control and Prevention (CDC), the California Department of Public Health, and other state departments of health to detect additional cases and to heighten public health awareness of Hantavirus and HPS. \n\nA non-emergency phone line is still open with NPS for questions and concerns related to Hantavirus in Yosemite +1 209 372-0822. In addition, CDC has a hotline as well (877-232-3322 and 404-639-1510).\n\nAdditional information and updated information about HPS in Yosemite can be found via links on the right to this page.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:30.661889",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "8 September 2012",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "8 September 2012 -\nThe Ministry of Health and Sanitation (MOHS) is closely working with partners at national and international levels to step up response to the cholera outbreak that has affected Sierra Leone since the beginning of the year.\n\nAs of 5 September 2012, a total of 16\u00a0360 cases including 255 deaths with a case fatality rate (CFR) of 1.6% have been reported from 12 out of 13 districts. The western area of the country where the capital city of Freetown is located, reported more than 60% of all new cases.\n\nThe President of Sierra Leone has declared the cholera epidemic a \"humanitarian crisis\". A high level Presidential Cholera Task Force was established to oversee coordination, mobilization of resources and guide the response. A multi-sectoral approach to the response has been adopted involving the MOHS and other line ministries such as Finance, Information and Communication, and local governments together with partners and stakeholders.\n\nWith support from national and international partners and donors, including UNICEF, Oxfam, British Red Cross, Save the Children, Care, Concern MSF, DFID, OCHA, IRC, and WHO, the MOHS is scaling up the response particularly in the areas of coordination of the overall response, surveillance and case management. \n\nA Cholera Control and Command Center (C4) has been established at the WHO Country Office in Freetown to strengthen coordination, and support the MOHS and other health providers to implement activities related to the Cholera Preparedness and Response Operation Plan (CPROP), in order to bring the epidemic under control as soon as possible. The C4 will also provide information to guide the decision-making of the national task force. \n\nEmphasis is being placed on early detection of cases and timely provision of treatment at the district levels in order to reduce deaths. Cholera cases are managed in cholera treatment units (CTUs) and where there are no established CTUs, emphasis is placed on designating specific areas within the health facilities for isolation purposes.\n\nWHO through the Global Outbreak Alert and Response Network (GOARN) has provided experienced case management and laboratory experts from the International Center for Diarrheal Disease Research, Bangladesh (ICDDR,B) to build capacity among health-care workers and laboratory technicians in case management and laboratory diagnosis. \n\nLaboratories at the national level are being supplied with appropriate materials and reagents to collect, transport and analyze laboratory specimens. Laboratory confirmation is important, particularly in new areas experiencing the cholera outbreak. \n\nThere are ongoing community interventions on cholera prevention and control activities. More than 200 traditional healers have been oriented on cholera. Community meetings are organized in Freetown to raise awareness of the importance of avoiding drinking water from unprotected water sources. Text messages are also being used to channel information to the public by telephone companies. UNICEF and other partners are supporting water, sanitation and hygiene activities.\n\n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions be applied to Sierra Leone.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:32.200463",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "5 September 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "5 September 2012 -\nThe Ministry of Health (MoH) of the Democratic Republic of Congo (DRC) continues to work with partners to control the outbreak of Ebola haemorrhagic fever. As of 3 September 2012, a total of 28 (eight confirmed, six probable, and 14 suspected) cases including 14 deaths had been reported from Haut-U\u00e9l\u00e9 district in Province Orientale. The reported cases and deaths have occurred in two health zones \u2013 18 cases, including 11 deaths in Isiro and 10 cases, including three deaths in Viadana. The fatal cases in Isiro include three health-care workers. \n\nAll alerts have been investigated and so far Ebola has not been reported from outside Isiro and Viadana health zones. Initial samples were tested by Uganda Virus Research Institute (UVRI) in Entebbe, Uganda, and were confirmed for Ebola virus (Ebola subtype Bundibugyo). Subsequent samples have been confirmed by the field laboratory in Isiro that has been established by the US Centers for Disease Control and Prevention (CDC). A National Task Force convened by the Congolese Ministry of Health is working with several partners including WHO, M\u00e9decins Sans Fronti\u00e8res (MSF), International Federation of Red Cross and Red Crescent Societies (IFRC) and CDC to control the outbreak.\n\nWHO has deployed epidemiologists and logisticians from the Regional Office for Africa (including the Inter-country Support Team) and WHO headquarters to support the MoH and is working closely with partners in the areas of coordination, surveillance, epidemiology, logistics for outbreak response, public information and social mobilization. Support from the Global Outbreak Alert and Response Network (GOARN), includes deployment of an anthropologist to assist with a clearer understanding of the social and anthropological issues among the affected population that could impact the on-going response efforts. \n\nControl activities that are being carried out include active case finding and contact tracing, enhanced surveillance, case management, public information and social mobilization and reinforcing infection control practices. \n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions be applied to Democratic Republic of Congo. \n\nThere is currently no indication that this Ebola outbreak is related to the recent Ebola outbreak in Kibaale district of Uganda.\nGeneral information on Ebola subtypes\n\nThere are five identified subtypes of Ebola virus. The subtypes have been named after the location they have been first detected in Ebola outbreaks. Three subtypes of the five have been associated with large Ebola haemorrhagic fever (EHF) outbreaks in Africa. Ebola-Zaire, Ebola-Sudan and Ebola-Bundibugyo. EHF is a febrile haemorrhagic illness which causes death in 25-90% of all cases. The Ebola Reston species, found in the Philippines, can infect humans, but no illness or death in humans has been reported to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:33.824956",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "4 September 2012",
+        "Location": "United States of America",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "4 September 2012 -\nAs of 31 August 2012, the National Park Service Office of Public Health (NPS) has reported six cases of Hantavirus pulmonary syndrome (HPS) among visitors to Yosemite National Park in California, United States of America. Two of the six cases died. \n\nInvestigations carried out by the NPS revealed that the six cases contracted the disease in June and July of this year. Five of these six cases stayed in the same \u201cSignature Tent Cabins\u201d in the Curry Village area of the park. NPS is working with the Centers for Disease Control and Prevention (CDC) and the California Department of Public Health to detect additional cases and to heighten public health awareness of Hantavirus and HPS, in order to rapidly identify potential new cases and provide treatment early. \n\nHPS is a rare but serious disease and is caused by a virus that individuals get through contact with the urine, droppings, or saliva of infected rodents. The deer mouse is the primary host of the virus. The disease begins with fever, chills, muscle aches, and/or gastrointestinal symptoms, but can progress rapidly to life-threatening illness. Symptoms of HPS typically occur from two to four weeks after initial exposure to the virus. However, symptoms can appear as early as one week and as late as six weeks following exposure. Person-to-person transmission of Hantavirus has not been reported in the United States of America. \n\nThere is no specific treatment, cure or vaccine for Hantavirus infection. Early recognition and treatment of infected individuals can reduce disease progression. \n\nThe park authorities are undertaking all measures including intensified building inspections, cleanings throughout the park, monitoring of the rodents population, as well as distribution of Hantavirus information to every visitor and throughout the park. The \u201cSignature Tent Cabins\u201d are now closed.\n\nTravellers are advised to avoid exposure to rodents and their excreta. Adventure travellers, backpackers, campers and travellers with occupational exposure to rodents in countries or areas at risk for Hantaviruses should take precautions to exclude rodents from tents or other accommodation and to protect all food from contamination by rodents.\n\nAn extensive national and international outreach effort is underway by Yosemite National Park and the park concessioner to contact visitors who stayed in the \"Signature Tent Cabins\" at Yosemite's Curry Village since mid-June. The NPS is asking individuals who stayed in \"Signature Series Cabins\" (which are numbered in the 900s) between 10 June 2012 and 24 August 2012 to seek immediate medical attention if they exhibit any symptoms of Hantavirus pulmonary syndrome (HPS). \n\nA non-emergency phone line has been set up by NPS for questions and concerns related to Hantavirus in Yosemite +1 209 372-0822. \n\nAdditional information and updated information from NPS about Hantavirus pulmonary syndrome in Yosemite can be found via the links on the right of this page.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:35.345128",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "3 September 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "3 September 2012 -\nThere have been no new confirmed cases of Ebola haemorrhagic fever reported in Kibaale district, Uganda, since 3 August 2012, indicating that the outbreak is coming to an end. A total of 24 probable and confirmed cases including 17 deaths have been reported since the beginning of the outbreak. Of these, 11 cases were laboratory confirmed by the Uganda Virus Research Institute (UVRI) in Entebbe. The last confirmed case was discharged on 24 August 2012 following recovery. \n\nAll contacts of probable and confirmed cases have been followed up daily and have completed the recommended 21 days of monitoring for any possible signs or symptoms of Ebola. \n\nThe partners who are involved in the response to the Ebola outbreak are transferring capacity to national and district authorities to sustain the essential functions, including enhanced surveillance and response, psychosocial support and infection prevention and control in health care facilities. \n\nThe Ebola isolation facilities in Kibaale District Hospital and at Mulago National Referral Hospital in Kampala remain on stand-by for receiving any suspected cases.\n\n\nThe ecological studies team in Kibaale district has collected samples from bats, primates and livestock to study the possible natural history of Ebola virus and putative initial human infection from wildlife. \nNeighbouring countries\n\nAt the time of this update, an Ebola outbreak is on-going in the Province Orientale of the Democratic Republic of Congo. These two Ebola outbreaks are not epidemiologically linked and have been caused by two different Ebola subtypes; (Uganda: Ebola subtype Sudan, Democratic Republic of Congo Ebola subtype Bundibugyo). \n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions are applied to Uganda.\nGeneral information on Ebola subtypes:\n\nThere are five identified subtypes of Ebola virus. The subtypes have been named after the location they have been first detected in Ebola outbreaks. Three subtypes of the five have been associated with large Ebola haemorrhagic fever (EHF) outbreaks in Africa: Ebola-Zaire, Ebola-Sudan and Ebola-Bundibugyo. EHF is a febrile haemorrhagic illness which causes death in 25-90% of all cases. The Ebola Reston species, found in the Philippines, can infect humans, but no illness or death in humans has been reported to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:36.935150",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "30 August 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 August 2012 -\nThe Ministry of Health (MoH) of the Democratic Republic of Congo (DRC) continues to work with partners to control the outbreak of Ebola haemorrhagic fever. As of 28 August 2012, a total of 24 (6 probable, 6 confirmed and 12 suspected) cases and 11 deaths had been reported from Province Orientale. The reported cases and deaths occurred in 3 health zones as follows: 17 cases and 9 deaths in Isiro; 6 cases and 2 deaths in Viadana; 1 case and 0 death in Dungu. The fatal cases in Isiro include three health-care workers. All alerts have been investigated and so far there has been no Ebola suspected or confirmed case reported from outside Province Orientale. \n\nInitial samples were tested by Uganda Virus Research Institute (UVRI) in Entebbe, Uganda, and three samples taken from two patients were confirmed for Ebola virus (Ebola subtype Bundibugyo).\n\nUS Centers for Disease Control and Prevention (CDC) has established a field laboratory in Isiro to support case management and epidemiological investigations. A National Task Force convened by the Congolese Ministry of Health is working with several partners including WHO, M\u00e9decins Sans Fronti\u00e8res (MSF), International Federation of Red Cross and Red Crescent Societies (IFRC) and CDC to control the outbreak.\n\nA joint MoH, WHO and MSF emergency response team is in the field to conduct a detailed epidemiological investigation and case management. WHO has deployed epidemiologists and logisticians from AFRO regional office (including the Inter-country Support team) and WHO headquarters to support the MoH and is working closely with partners in the areas of coordination, surveillance, epidemiology, logistics for outbreak, public information and social mobilization. \n\nWHO\u2019s Global Outbreak Alert and Response Network (GOARN) has deployed an anthropologist from the Museum National d\u2019Histoire Naturelle (MNHN), France to assist with a clearer understanding of the social and anthropological issues among the affected population that could impact the on-going response efforts. \n\nControl activities that are being carried out include active case finding and contact tracing, enhanced surveillance, case management, public information and social mobilization and reinforcing infection control practices. \n\nWHO does not recommend that any travel or trade restrictions be applied to Democratic Republic of Congo.\n\n\nThere is currently no indication that this Ebola outbreak is related to the recent Ebola outbreak in Uganda occurring in Kibaale district.\nGeneral information on Ebola subtypes\n\nThere are five identified subtypes of Ebola virus. The subtypes have been named after the location they have been first detected in Ebola outbreaks. Three subtypes of the five have been associated with large Ebola haemorrhagic fever (EHF) outbreaks in Africa. Ebola-Zaire, Ebola-Sudan and Ebola-Bundibugyo. EHF is a febrile haemorrhagic illness which causes death in 25-90% of all cases. The Ebola Reston species, found in the Philippines, can infect humans, but no illness or death in humans has been reported to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:38.562770",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "30 August 2012",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 August 2012 -\nSince the beginning of the year, Sierra Leone has recorded 13,934 cases of cholera, with 232 deaths (Case Fatality Rate of 1.7%). The rate of new cases has accelerated rapidly since the beginning of August. Eleven of the country\u2019s 13 districts are now registering cases with Western Area and Port Loko being the most affected. The most recently affected district is Kenema district. \n\nThe President of Sierra Leone has declared the escalating cholera epidemic a \u201chumanitarian crisis\u201d. Consequently, a high-level Presidential Cholera Task Force has been established to oversee coordination, mobilize resources and guide response. A multi-sectoral approach to the response has been adopted involving the Ministry of Health and Sanitation (MOHS), as well as other line ministries such as finance information and communication, and local government, together with partners and stakeholders.\n\nA Cholera Control and Command Centre (C4) has been established at the WHO Country Office in Freetown to better coordinate all the response activities to the cholera outbreak. This approach was previously used and proved effective in the response to the Cholera outbreak in Zimbabwe in 2008-2009. \n\nThe first C4 meeting took place on 28 August 2012 and will subsequently be held daily. The C4 comprises all the technical sub-committees dealing with surveillance, case management, water and sanitation, logistics and social mobilization. \n\nThe MOHS, in partnership with M\u00e9decins sans Fronti\u00e8res (MSF), UNICEF, WHO, and other partners, is implementing the following prevention and control activities: epidemiological investigation, surveillance, case management at established cholera treatment centres, water and sanitation control measures, social mobilization and community education.\n\nWHO continues to support Sierra Leone in the areas of epidemiology, social mobilization, surveillance and has mobilized experts from the AFRO Regional Office (including Inter-country Support team) and WHO headquarters.\n\nThe Global Outbreak Alert and Response Network (GOARN) has provided experienced case management and laboratory expertise from the International Center for Diahorrheal Disease Research, Bangladesh (ICDDR,B) who have long-standing experience in responding to cholera internationally. \n\nWHO does not recommend that any travel or trade restrictions be applied to Sierra Leone.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:40.240250",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "22 August 2012",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 August 2012 -\nSince the beginning of the year, Sierra Leone has recorded 11\u00a0653 cases of cholera, with 216 deaths (Case Fatality Rate of 1.9%). The rate of new cases has accelerated rapidly since the beginning of August: since then, 5\u00a0706 cases have been recorded, and two new districts, Bonthe and Kono, have been affected by the epidemic. Ten of the country\u2019s 13 districts are now registering cases and this spread emphasizes the need to rapidly scale up the response.\n\nThe two most heavily affected districts are Western Area and Tonkolili.\n\nThe President of Sierra Leone has declared the escalating cholera epidemic a \u201chumanitarian crisis\u201d. Consequently, a multi-sectoral approach to the response has been adopted involving the Ministry of Health and Sanitation (MOHS), as well as other line ministries such as finance, information and communication, and local government, together with partners and stakeholders. A National Emergency Task force has been established with sub-committees dealing with surveillance, case management, water and sanitation, logistics and social mobilization. The WHO Country Office (WCO) in Sierra Leone is chairing a weekly meeting of partners and stakeholders to better coordinate harmonize and strategize support. \n\nThe MOHS, in partnership with M\u00e9decins sans Fronti\u00e8res (MSF), UNICEF, WHO, and other partners, is implementing the following prevention and control activities: epidemiological investigation, surveillance, case management at established cholera treatment centres, water and sanitation control measures, social mobilization and community education. \n\nWHO is supporting Sierra Leone in the areas of epidemiology, social mobilization and surveillance. WHO has deployed two epidemiologists, and three cholera experts from Zimbabwe to support coordination, public information, social mobilization, case management and infection control. \n\nWHO does not recommend that any travel or trade restrictions be applied to Sierra Leone.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:41.750445",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "21 August 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "As of 20 August 2012, a total of 15 (13 probable and 2 confirmed) cases with 10 deaths have been reported in Province Orientale in Eastern DRC. The reported cases and deaths have occurred in 3 health zones as follows: 12 cases and 8 deaths in Isiro, including three (3) health care workers who have died; 2 cases and 1 death in Pawa; and 1 fatal case in Dungu.",
+        "Description of the Situation": "21 August 2012 -\nAs of 20 August 2012, a total of 15 (13 probable and 2 confirmed) cases with 10 deaths have been reported in Province Orientale in Eastern DRC. The reported cases and deaths have occurred in 3 health zones as follows: 12 cases and 8 deaths in Isiro, including three (3) health care workers who have died; 2 cases and 1 death in Pawa; and 1 fatal case in Dungu. \n\nThe Congolese Ministry of Health has convened a National Task Force and is working with several partners including WHO, UNICEF, M\u00e9decins sans Fronti\u00e8res (MSF) Suisse, MSF Belgique and the United States Centres for Disease Control and Prevention (CDC). Similar Task Forces have been established at provincial and district levels to oversee and guide the response.\n\nA joint MoH, WHO and MSF emergency response team is in the field to conduct a detailed epidemiological investigation and support case management. Control activities that are being carried out include active case finding and contact tracing, enhanced surveillance, case management, public information and social mobilization, and reinforcing infection control practices.\n\nWHO is supporting the Ministry of Health in the areas of coordination, surveillance, field epidemiology, laboratory, case management, outbreak logistics, public information and social mobilization. An additional team of epidemiologists, a logistician, an anthropologist and social mobilization officers is being mobilized from the DRC, Republic of Congo, the WHO AFRO regional rapid response team, WHO Inter-Country Support team (IST) based in Gabon, and WHO HQ, for possible deployment in the field. \n\nWHO does not recommend that any travel or trade restrictions be applied to Democratic Republic of Congo.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:43.361674",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "17 August 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 August 2012 -\nThe Ministry of Health of Uganda (MoH) continues to work with partners to control the outbreak of Ebola haemorrhagic fever in Kibaale district. The national and district task forces also meet daily to coordinate the response to the outbreak. \n\nTo date, 24 probable and confirmed cases including 16 deaths have been reported. Eleven cases have been laboratory confirmed by the Uganda Virus Research Institute (UVRI) in Entebbe. The last confirmed case was admitted to the Kagadi isolation facility on 4 August 2012.\n\nSuspected cases which tested negative during the laboratory investigations have been discarded as Ebola patients, treated symptomatically for their ailments and discharged following recovery. A total of forty nine (49) people have been discharged from the isolation facility, including one confirmed case. \n\nAll contacts of probable and confirmed cases are followed up daily for 21 days and are monitored for any possible signs or symptoms of illness. More than 70% of the 408 listed contacts have completed 21 days of follow up without developing any symptoms. All alerts of suspected cases in the other districts have been investigated and are so far negative for Ebola. \n\nWith the support of WHO and other partners, the Ministry of Health has established and equipped an isolation facility at Mulago National referral hospital in Kampala, Uganda in anticipation of receiving suspected cases from other districts, should they occur. Health workers who will manage the facility have already been trained.\n\nSocial mobilization teams comprised of Red Cross volunteers and village health teams have reached most of the villages and households in the most affected sub-counties in Kibaale district. These activities are reinforced by the distribution of Information, Education and Communication (IEC) materials, and by the broadcast of health awareness messages on radio and by film vans.\n\nA team led by CDC has begun conducting ecological studies in Kibaale district to try and understand the likely source and route of transmission of this outbreak. \nNeighbouring countries\n\nCountries sharing borders with Uganda are taking steps to enhance surveillance for Ebola. At the time of this update, none of them have reported any confirmed cases related to the Uganda outbreak. \n\nWHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:44.906590",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "17 August 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 August 2012 -\nOn 17 August 2012, the Ministry of Health (MoH) of the Democratic Republic of Congo (DRC) notified the World Health Organization (WHO) of an outbreak of Ebola haemorrhagic fever in the Isiro and Dungu Health Zones of Province Orientale in Eastern DRC. A total of 10 suspected cases (9 in Isiro and 1 in Dungu) and 6 deaths (5 deaths in Isiro and 1 in Dungu) have been reported.\n\nLaboratory investigations conducted at the Uganda Virus Research Institute (UVRI), Entebbe, Uganda, confirmed Ebola virus (Bundibugyo species). Three samples taken from two patients turned out positive for Ebola. A National Task Force convened by the Congolese Ministry of Health, is working with several partners including WHO, MSF and CDC. A joint MoH, WHO and MSF emergency response team are in the field to conduct a detailed epidemiological investigation and case management. \n\nWHO is supporting the Ministry of Health in the areas of coordination, surveillance, epidemiology, laboratory, case management, logistics for outbreak, public information and social mobilization. An additional team of experts from Congo, DRC and IST/Gabon comprised of an epidemiologist, a logistician, an anthropologist and social mobilisation officers are being mobilized for possible deployment in the field. Control activities that are being carried include active case finding and contact tracing, enhanced surveillance, case management, public information and social mobilization and reinforcing infection control practices. \n\nWHO does not recommend that any travel or trade restrictions be applied to Democratic Republic of Congo.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:47.965405",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "14 August 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 August 2012 -\nThe Ministry of Health of Uganda (MoH) continues to work with partners including WHO, CDC, Red Cross, MSF, World Vision, PREDICT, among others to control the outbreak of Ebola haemorrhagic fever in Kibaale district. The national and district task forces continue to meet daily to coordinate the response to the outbreak. \n\nTo date, 24 probable and confirmed cases including 16 deaths have been reported. 10 cases have been laboratory confirmed by the Uganda Virus Research Institute (UVRI) in Entebbe. The most recent confirmed case was admitted in Kagadi isolation facility on 4 August 2012.\n\nSuspected cases which tested negative during the laboratory investigations have been discarded as Ebola patients, treated symptomatically for their ailments and discharged following recovery. A total of 43 people have been discharged from the isolation facility including one confirmed case. With the support of the psychosocial team, these 43 people have been counselled prior to discharge and reintegrated into the community. Even for the people who were negative for Ebola, psychosocial counselling of the communities to which they are returning, has been very important. It has allayed fears and reduced stigma, enabling them to be accepted back in the community.\n\nAll contacts of probable and confirmed cases are followed up daily for 21 days and are monitored for any possible signs or symptoms of illness. All alerts of suspected cases in the other districts have been investigated and are negative for Ebola. \n\nIn Kibaale district, the MoH is working in close coordination with M\u00e9decins Sans Fronti\u00e8res (MSF) in clinical management of suspected and confirmed cases.\n\nSocial mobilization teams comprising Red Cross volunteers and village health teams have reached most of the villages and households in the most affected sub-counties in Kibaale district. These activities are reinforced by the distribution of Information, Education and Communication (IEC) materials, and by the broadcast of health awareness messages on radio and by film vans. \nNeighbouring countries\n\nCountries sharing borders with Uganda are taking steps to enhance surveillance for Ebola; at the time of this update, none of them have reported any confirmed cases. \n\nWHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:49.603320",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "10 August 2012",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 August 2012 -\nThe Ministry of Health of Indonesia has notified WHO of a new case of human infection with avian influenza A(H5N1) virus.\n\nThe case is a 37 year old male from Yogyakarta province. He developed fever on 24 July 2012, was hospitalized on 27 July and died on 30 July.\n\nEpidemiological investigation on the case found that the case had four pet caged birds in his home, which is about 50 metres from a poultry slaughter house and near a farm.\n\nInfection with avian influenza A(H5N1) virus was confirmed by the National Institute of Health Research and Development (NIHRD), Ministry of Health and reported to WHO by the National IHR Focal Point. \n\nTo date, the total number of human influenza A(H5N1) cases in Indonesia is 191 with 159 fatalities, 8 (all fatal) of which occurred in 2012.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:51.561141",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "3 August 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "3 August 2012 -\nThe Ministry of Health in Uganda has reported a cumulative number of 53 suspected cases of Ebola haemorrhagic fever including 16 deaths. Of these, five cases have been laboratory confirmed by the Uganda Virus Research Institute (UVRI) in Entebbe (this includes three fatal cases and two cases currently being treated in the isolation facility).\n\nCurrently 32 cases are admitted to an isolation facility in Kagadi hospital, Kibaale district, and a total of 312 contacts were identified, of whom 253 are being closely followed-up. So far all samples from other districts have tested negative for Ebola, indicating that there has been no expansion of the outbreak beyond Kibaale District. However a clinical officer who attended to a case in Kibaale district was transferred to Mulago Hospital in Kampala for treatment but later died.\n\nAmong the contacts being monitored daily are the seven health workers who attended to the fatal case transferred to Mulago Hospital, none of them has so far developed symptoms of the disease. \nResponse\n\nThe Government of Uganda is continuing to work with a number of partners to control the outbreak. \n\nAt the central level the Prime Minister convened a Ministerial Task Force, chaired by the Minister of Health, to facilitate and coordinate the outbreak response. \n\nIn Kibaale district, the local health authorities are working through its task force with several partners to mobilize resources and supplies. These partners include WHO, US Centers for Disease Control and Prevention (US CDC), the Uganda Red Cross Society (URCS) and M\u00e9decins Sans Fronti\u00e8res (MSF). WHO has deployed logisticians and supplies, including personal protective equipment (PPE) to Uganda. \n\nRequired funds for local operations are being mobilized. Additional support is being received from the EMESCO Foundation (a local NGO), Members of Parliament from Kibaale district, the Infectious Diseases Institute (IDI) and the Uganda Red Cross Society (URCS).\n\nEpidemiologists from WHO and US CDC have arrived in Kibaale district and are supporting the response by screening and triaging suspected cases of Ebola haemorrhagic fever. WHO is coordinating with Global Outbreak Alert and Response Network partners. \n\nWith the support of MSF, the construction of a new isolation facility in Kagadi, Kibaale district, is expected to be completed today and additional wards will open to address the increasing number of suspected cases. MSF, IDI and EMESCO are providing food to patients in the isolation facility and have committed to continue to do so for the next two weeks. \n\nFor active surveillance and contact tracing in the communities, arrangements with local authorities are being made to increase the number of mobile teams and ambulances.\n\nWith regard to social mobilization, the Uganda Red Cross Society has trained 62 teams of Red Cross volunteers and village health teams to conduct social mobilization and public awareness activities. Additionally, public announcements are being disseminated in 11 local languages on 20 radio stations. WHO is facilitating the deployment of a medical anthropologist to assist in these activities. \nNeighbouring countries\n\nA number of countries neighbouring Uganda have taken proactive steps to enhance their surveillance to detect and respond to cases of Ebola haemorrhagic fever.\n\nIn Kenya, two rumoured suspected cases have since been reported and investigated. Both cases have tested negative for Ebola.\n\nThe South Sudan Ministry of Health, in collaboration with WHO, has issued guidance to the general public and has activated a national task force to undertake enhanced surveillance as population movement and trade between South Sudan and Uganda are high. \n\nWHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:53.227907",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "29 July 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "The Ministry of Health (MoH) of Uganda has notified WHO of an outbreak of Ebola haemorrhagic fever in Kibaale district in the western part of the country.",
+        "Description of the Situation": "29 July 2012 -\nThe Ministry of Health (MoH) of Uganda has notified WHO of an outbreak of Ebola haemorrhagic fever in Kibaale district in the western part of the country. \n\nA total of 20 cases, including 14 deaths have been reported since the beginning of July 2012. The index case was identified in a family from Nyanswiga village, Nyamarunda sub-county of Kibaale district, where nine of the deaths were recorded. The deceased include a clinical officer who attended to a patient, and her four month-old child. Nine of the 14 deaths have occurred in a single household.\n\nLaboratory confirmation was done by the Uganda Virus Research Institute in Entebbe. \n\nCurrently, two patients are hospitalized and are in stable condition. The first is a 38 year-old female who attended to her sister, the clinical officer who died. She was admitted to the hospital on 26 July 2012. The second is a 30 year-old female who participated in conducting the burial of the index case. She was admitted to the hospital on 23 July 2012. Both cases were admitted to hospital with fever, vomiting, diarrhoea and abdominal pain. Neither of the cases has so far shown bleeding, a symptom that often appears in viral haemorrhagic fever patients.\n\nThe MoH is working with stakeholders and partners to control the outbreak. Response plans at the national and district levels are being finalised. A national task force coordinated by the MoH has been re-activated at the MOH headquarters and holds daily meetings. In Kibaale a district task force has been formed to better coordinate field response. The neighbouring districts have been put on high alert about the outbreak and to step up surveillance. \n\nA team of experts from MoH, WHO and Centers for Disease Control and Prevention (CDC) is in Kibaale to support the response operations. All possible contacts that were exposed to the suspected and confirmed cases since 6 July 2012 are being identified for active follow up. The necessary supplies and logistics required for supportive management of patients are being mobilized. \n\nKibaale hospital has established a temporary isolation ward for suspected, probable and confirmed cases. M\u00e9decins Sans Fronti\u00e8res (MSF), Holland, has mobilized necessary requirements for setting up isolation centre at the hospital. The MoH and Mulago Hospital have mobilized some staff to manage the isolation centre but more are urgently needed. \n\nThe MoH has advised the public to take measures to avert the spread of the disease and to report any suspected patient to the nearest health unit. \n\nWHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:56.262065",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "23 July 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 July 2012 -\nThe Democratic Republic of Congo (DRC) has reported a sharp increase in the number of cholera cases in the armed conflict area of North Kivu. According to the report, 368 new cases were reported from epidemiological week 24 (11-17 June) to epidemiological week 26 (25 June-1 July). The most affected areas include Birambizo, Goma, Karisimbi, Kiroshe, Mutwanga, Mweso and Rwanguba.\n\nThere is concern that the security situation may increase difficulty in accessing the health-care facilities and could increase the number of severe and fatal cases. The current armed conflict in North Kivu also poses a risk of international spread of the disease to neighbouring countries such as Burundi, Rwanda, South Sudan and Uganda. \n\nNorth Kivu is one the five provinces of eastern DRC where cholera is endemic. Vibrio cholerae was confirmed in the AMI-Kivu laboratory since 2011. \nResponse\n\nEpidemiological investigation conducted by national authorities and other partners, including M\u00e9decins Sans Fronti\u00e8res (MSF), Merlin, and International Rescue Committee (IRC) indicated that insufficient access to safe water supply remains the main cause of the epidemic in North Kivu. \n\nPatients are being treated with infusions and antibiotics as appropriate, at treatment centres. Interventions to control the epidemic that are being carried out include education and communication; management of cases; increased surveillance; hygiene and sanitation; and provision of safe drinking water. \n\nWHO is working to support national authorities in response to the cholera outbreak and the broader humanitarian emergency resulting from conflict and population displacement.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:35:59.331366",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "13 July 2012",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "13 July 2012 -\nThe investigation into the illnesses and deaths in Cambodia, which mainly affected very young children, concluded that a severe form of hand, foot and mouth disease (HFMD) was the cause in the majority of cases reported to the Ministry of Health.\n\nSamples from a total of 31 patients were obtained and tested for a number of pathogens by Institut Pasteur du Cambodge. Most of these samples tested positive for enterovirus 71 (EV-71) which causes HFMD. A small proportion of samples also tested positive for other pathogens including Haemophilus Influenzae type B and Streptococcus suis. It was not possible to test all the patients as some of them died before appropriate samples could be taken. \n\nThe investigation included: \n\na thorough review of the hospital records of the patients from Kantha Bhopa hospital as well as from other hospitals; \nlaboratory tests; \nactive follow-up with the affected families by the local Rapid Response Teams (RRT); and \nevaluation of the data from the national surveillance system.\n\n\nA total of 78 cases were identified. These included the initial 62 cases reported by Kantha Bopha hospital, and cases reported from other hospitals. Of these, the investigation focused on 61 cases that fitted a specific criteria (the case definition), and of which 54 had died.\n\nThe investigation revealed that most of the cases were under 3 years of age, from 14 different provinces, with some suffering from chronic conditions. A significant number of cases had been treated with steroids at some point during their illness. Steroid use has been shown to worsen the condition of patients with EV-71. \n\nThe Ministry of Health, with support from WHO and partners, which included Institut Pasteur du Cambodge and the US Centers for Disease Control and Prevention, conducted the investigation following reports from Kantha Bopha Children\u2019s hospital of unusual numbers of illness and deaths among children hospitalised since April 2012. \n\nIn response to this event, health centers have been instructed by the Ministry of Health to report all patients with HFMD. In addition, the Ministry of Health, assisted by WHO, has begun enhanced surveillance for neuro-respiratory syndrome, a key syndrome observed among patients with severe HFMD caused by EV-71. It is expected that the enhanced surveillance will identify occasional new cases of the severe form of the disease in the coming months.\n\nIn addition, the Ministry of Health is developing guidelines and training courses for staff to manage patients with mild and severe forms of HFMD. A campaign to raise awareness on the prevention, identification and care of children with HFMD is underway.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:05.542551",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "18 September 2012",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 September 2012 -\nAs of 16 September 2012, a cumulative total of 18,508 cases including 271 deaths (with a case fatality ratio of 1.5%) has been reported in the ongoing cholera outbreak in Sierra Leone since the beginning of the year.\n\nThe highest numbers of cases are reported from the Western area of the country where the capital city of Freetown is located. \n\nThe Ministry of Health and Sanitation (MOHS) is closely working with partners at national and international levels to step up response to the cholera outbreak. The ongoing activities at the field level include case management; communication and social mobilization; water, sanitation and hygiene promotion; surveillance and data management.\n\nEmphasis is being placed on early detection of cases and timely provision of treatment at the district levels in order to reduce deaths. Cholera cases are managed in cholera treatment units (CTUs) and where there are no established CTUs, emphasis is placed on designating specific areas within the health facilities for isolation purposes.\n\nAt the national level, the Cholera command and Control Centre (C4) continues to provide technical advice, coordinate and monitor the outbreak. The C4 was established to implement activities related to the Cholera Preparedness and Response Operation Plan (CPROP) in order to bring the epidemic under control as soon as possible. The C4 will also provide information to guide the decision-making of the national task force. \n\nWHO and partners are supporting the government in the response to the outbreak. Through the Global Outbreak Alert and Response Network (GOARN), experienced case management and laboratory experts from the International Center for Diarrheal Disease Research, Bangladesh (ICDDR, B) are deployed to build capacity among health-care workers and laboratory technicians in case management and laboratory diagnosis. \n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions be applied to Sierra Leone.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:06.717791",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "14 September 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 September 2012 -\nRetrospective epidemiological investigation recently identified additional confirmed and probable cases with Ebola haemorrhagic fever (EHF) in the Democratic Republic of Congo (DRC), according to the Ministry of Health (MoH).\n\nAs of 12 September 2012, 41 cases (9 laboratory confirmed, and 32 probable) have been reported from Haut-U\u00e9l\u00e9 district in Province Orientale. Of these cases, 18 have been fatal. (5 confirmed and 13 probable). 18 healthcare workers are included among the probable cases. 28 suspected cases have also been reported and are being investigated. \n\nSince the last update, an additional 27 cases (1 laboratory confirmed and 26 probable) of EHF were identified through retrospective epidemiological investigation in the two health zones of Isiro and Viadana. The retrospective epidemiological investigation was done to identify cases of illness which might have been EHF between the end of April 2012 and August 2012, and thus help clarify the possible origins of the outbreak and provide additional information on chains of transmission. In addition, active field epidemiological investigation is continuing to help identify all possible chains of continuing transmission of the illness, to ensure that appropriate measures are immediately taken to interrupt the transmission, and stop the outbreak. \n\nInitial samples were tested by the Uganda Virus Research Institute (UVRI) in Entebbe, Uganda, and were confirmed for Ebola virus (Ebola subtype Bundibugyo). Subsequent samples have been tested by the field laboratory in Isiro that has been established by the US Centers for Disease Control and Prevention (CDC). \n\nThe MoH continues to work with partners to control the outbreak of EHF. A National Task Force convened by the Democratic Republic of Congo Ministry of Health is working with several partners including WHO, United Nations Children\u2019s Fund (UNICEF), M\u00e9decins Sans Fronti\u00e8res (MSF), the International Federation of Red Cross and Red Crescent Societies (IFRC), US Agency for International Development (USAID) and CDC to control the outbreak.\n\nWHO deployed epidemiologists and logisticians from the Regional Office for Africa (AFRO) including the Inter-country Support Team, and WHO headquarters to support the MoH and is working closely with partners in the areas of coordination, surveillance, epidemiology, public information and social mobilization and logistics for outbreak response. Support from the Global Outbreak Alert and Response Network (GOARN), includes deployment of an infection prevention and control (IPC) specialist and an anthropologist to assist with a clearer understanding of the social and anthropological issues among the affected population that could impact the on-going response efforts. \n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions be applied to the DRC. \nGeneral information on Ebola subtypes\n\nThere are five identified subtypes of Ebola virus. The subtypes have been named after the location they have been first detected in Ebola outbreaks. Three subtypes of the five have been associated with large Ebola haemorrhagic fever (EHF) outbreaks in Africa. Ebola-Zaire, Ebola-Sudan and Ebola-Bundibugyo. EHF is a febrile haemorrhagic illness which causes death in 25-90% of all cases. The Ebola Reston species, found in the Philippines, can infect humans, but no illness or death in humans has been reported to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:07.955444",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "12 September 2012",
+        "Location": "United States of America",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 September 2012 -\nAs of 7 Sept 2012, The National Park Service (NPS) has reported eight cases of Hantavirus pulmonary syndrome (HPS) among visitors who stayed at Yosemite National Park in California since June 2012. Of these, three were fatal and five cases are recovering. \n\nPark authorities have begun to notify and advise park visitors and those who stayed overnight at \"Signature Tent Cabins\u201d at Yosemite's Curry Village or \"High Sierra Camps\" between 10 June and 24 August 2012 to seek immediate medical attention if they exhibit any symptoms of HPS. \n\nPerson-to-person transmission of Hantavirus pulmonary syndrome has not been reported in the United States. \n\nInvestigations carried out by NPS revealed that seven of the eight reported cases of HPS have been linked to the \"Signature Tent Cabins\" in Curry Village in Yosemite Valley, and one case stayed in multiple \"High Sierra Camps\" in Yosemite (a different area of the park than Curry Village) in July.\n\nThere is no specific treatment or cure for Hantavirus pulmonary syndrome infection. Early recognition and treatment of infected individuals can reduce disease progression. Early symptoms include fatigue, fever, chills, and muscle aches. Fifty percent of the patients can experience headaches, nausea, vomiting, dizziness and abdominal pain. The disease progresses rapidly (4-10 days after initial symptoms) to include coughing, shortness of breath and severe difficulty breathing. \n\nEarly medical attention greatly increases the chance of survival in cases of HPS. It is recommended that if a recent visitor to Yosemite National Park has any of the symptoms listed above, that they seek medical attention immediately and advise their health care professional of the potential exposure to Hantavirus.\n\nNPS continues to work with the Centers for Disease Control and Prevention (CDC), the California Department of Public Health, and other state departments of health to detect additional cases and to heighten public health awareness of Hantavirus and HPS. \n\nA non-emergency phone line is still open with NPS for questions and concerns related to Hantavirus in Yosemite +1 209 372-0822. In addition, CDC has a hotline as well (877-232-3322 and 404-639-1510).\n\nAdditional information and updated information about HPS in Yosemite can be found via links on the right to this page.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:09.169845",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "8 September 2012",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "8 September 2012 -\nThe Ministry of Health and Sanitation (MOHS) is closely working with partners at national and international levels to step up response to the cholera outbreak that has affected Sierra Leone since the beginning of the year.\n\nAs of 5 September 2012, a total of 16\u00a0360 cases including 255 deaths with a case fatality rate (CFR) of 1.6% have been reported from 12 out of 13 districts. The western area of the country where the capital city of Freetown is located, reported more than 60% of all new cases.\n\nThe President of Sierra Leone has declared the cholera epidemic a \"humanitarian crisis\". A high level Presidential Cholera Task Force was established to oversee coordination, mobilization of resources and guide the response. A multi-sectoral approach to the response has been adopted involving the MOHS and other line ministries such as Finance, Information and Communication, and local governments together with partners and stakeholders.\n\nWith support from national and international partners and donors, including UNICEF, Oxfam, British Red Cross, Save the Children, Care, Concern MSF, DFID, OCHA, IRC, and WHO, the MOHS is scaling up the response particularly in the areas of coordination of the overall response, surveillance and case management. \n\nA Cholera Control and Command Center (C4) has been established at the WHO Country Office in Freetown to strengthen coordination, and support the MOHS and other health providers to implement activities related to the Cholera Preparedness and Response Operation Plan (CPROP), in order to bring the epidemic under control as soon as possible. The C4 will also provide information to guide the decision-making of the national task force. \n\nEmphasis is being placed on early detection of cases and timely provision of treatment at the district levels in order to reduce deaths. Cholera cases are managed in cholera treatment units (CTUs) and where there are no established CTUs, emphasis is placed on designating specific areas within the health facilities for isolation purposes.\n\nWHO through the Global Outbreak Alert and Response Network (GOARN) has provided experienced case management and laboratory experts from the International Center for Diarrheal Disease Research, Bangladesh (ICDDR,B) to build capacity among health-care workers and laboratory technicians in case management and laboratory diagnosis. \n\nLaboratories at the national level are being supplied with appropriate materials and reagents to collect, transport and analyze laboratory specimens. Laboratory confirmation is important, particularly in new areas experiencing the cholera outbreak. \n\nThere are ongoing community interventions on cholera prevention and control activities. More than 200 traditional healers have been oriented on cholera. Community meetings are organized in Freetown to raise awareness of the importance of avoiding drinking water from unprotected water sources. Text messages are also being used to channel information to the public by telephone companies. UNICEF and other partners are supporting water, sanitation and hygiene activities.\n\n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions be applied to Sierra Leone.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:10.449970",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "5 September 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "5 September 2012 -\nThe Ministry of Health (MoH) of the Democratic Republic of Congo (DRC) continues to work with partners to control the outbreak of Ebola haemorrhagic fever. As of 3 September 2012, a total of 28 (eight confirmed, six probable, and 14 suspected) cases including 14 deaths had been reported from Haut-U\u00e9l\u00e9 district in Province Orientale. The reported cases and deaths have occurred in two health zones \u2013 18 cases, including 11 deaths in Isiro and 10 cases, including three deaths in Viadana. The fatal cases in Isiro include three health-care workers. \n\nAll alerts have been investigated and so far Ebola has not been reported from outside Isiro and Viadana health zones. Initial samples were tested by Uganda Virus Research Institute (UVRI) in Entebbe, Uganda, and were confirmed for Ebola virus (Ebola subtype Bundibugyo). Subsequent samples have been confirmed by the field laboratory in Isiro that has been established by the US Centers for Disease Control and Prevention (CDC). A National Task Force convened by the Congolese Ministry of Health is working with several partners including WHO, M\u00e9decins Sans Fronti\u00e8res (MSF), International Federation of Red Cross and Red Crescent Societies (IFRC) and CDC to control the outbreak.\n\nWHO has deployed epidemiologists and logisticians from the Regional Office for Africa (including the Inter-country Support Team) and WHO headquarters to support the MoH and is working closely with partners in the areas of coordination, surveillance, epidemiology, logistics for outbreak response, public information and social mobilization. Support from the Global Outbreak Alert and Response Network (GOARN), includes deployment of an anthropologist to assist with a clearer understanding of the social and anthropological issues among the affected population that could impact the on-going response efforts. \n\nControl activities that are being carried out include active case finding and contact tracing, enhanced surveillance, case management, public information and social mobilization and reinforcing infection control practices. \n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions be applied to Democratic Republic of Congo. \n\nThere is currently no indication that this Ebola outbreak is related to the recent Ebola outbreak in Kibaale district of Uganda.\nGeneral information on Ebola subtypes\n\nThere are five identified subtypes of Ebola virus. The subtypes have been named after the location they have been first detected in Ebola outbreaks. Three subtypes of the five have been associated with large Ebola haemorrhagic fever (EHF) outbreaks in Africa. Ebola-Zaire, Ebola-Sudan and Ebola-Bundibugyo. EHF is a febrile haemorrhagic illness which causes death in 25-90% of all cases. The Ebola Reston species, found in the Philippines, can infect humans, but no illness or death in humans has been reported to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:11.631808",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "4 September 2012",
+        "Location": "United States of America",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "4 September 2012 -\nAs of 31 August 2012, the National Park Service Office of Public Health (NPS) has reported six cases of Hantavirus pulmonary syndrome (HPS) among visitors to Yosemite National Park in California, United States of America. Two of the six cases died. \n\nInvestigations carried out by the NPS revealed that the six cases contracted the disease in June and July of this year. Five of these six cases stayed in the same \u201cSignature Tent Cabins\u201d in the Curry Village area of the park. NPS is working with the Centers for Disease Control and Prevention (CDC) and the California Department of Public Health to detect additional cases and to heighten public health awareness of Hantavirus and HPS, in order to rapidly identify potential new cases and provide treatment early. \n\nHPS is a rare but serious disease and is caused by a virus that individuals get through contact with the urine, droppings, or saliva of infected rodents. The deer mouse is the primary host of the virus. The disease begins with fever, chills, muscle aches, and/or gastrointestinal symptoms, but can progress rapidly to life-threatening illness. Symptoms of HPS typically occur from two to four weeks after initial exposure to the virus. However, symptoms can appear as early as one week and as late as six weeks following exposure. Person-to-person transmission of Hantavirus has not been reported in the United States of America. \n\nThere is no specific treatment, cure or vaccine for Hantavirus infection. Early recognition and treatment of infected individuals can reduce disease progression. \n\nThe park authorities are undertaking all measures including intensified building inspections, cleanings throughout the park, monitoring of the rodents population, as well as distribution of Hantavirus information to every visitor and throughout the park. The \u201cSignature Tent Cabins\u201d are now closed.\n\nTravellers are advised to avoid exposure to rodents and their excreta. Adventure travellers, backpackers, campers and travellers with occupational exposure to rodents in countries or areas at risk for Hantaviruses should take precautions to exclude rodents from tents or other accommodation and to protect all food from contamination by rodents.\n\nAn extensive national and international outreach effort is underway by Yosemite National Park and the park concessioner to contact visitors who stayed in the \"Signature Tent Cabins\" at Yosemite's Curry Village since mid-June. The NPS is asking individuals who stayed in \"Signature Series Cabins\" (which are numbered in the 900s) between 10 June 2012 and 24 August 2012 to seek immediate medical attention if they exhibit any symptoms of Hantavirus pulmonary syndrome (HPS). \n\nA non-emergency phone line has been set up by NPS for questions and concerns related to Hantavirus in Yosemite +1 209 372-0822. \n\nAdditional information and updated information from NPS about Hantavirus pulmonary syndrome in Yosemite can be found via the links on the right of this page.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:13.301639",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "3 September 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "3 September 2012 -\nThere have been no new confirmed cases of Ebola haemorrhagic fever reported in Kibaale district, Uganda, since 3 August 2012, indicating that the outbreak is coming to an end. A total of 24 probable and confirmed cases including 17 deaths have been reported since the beginning of the outbreak. Of these, 11 cases were laboratory confirmed by the Uganda Virus Research Institute (UVRI) in Entebbe. The last confirmed case was discharged on 24 August 2012 following recovery. \n\nAll contacts of probable and confirmed cases have been followed up daily and have completed the recommended 21 days of monitoring for any possible signs or symptoms of Ebola. \n\nThe partners who are involved in the response to the Ebola outbreak are transferring capacity to national and district authorities to sustain the essential functions, including enhanced surveillance and response, psychosocial support and infection prevention and control in health care facilities. \n\nThe Ebola isolation facilities in Kibaale District Hospital and at Mulago National Referral Hospital in Kampala remain on stand-by for receiving any suspected cases.\n\n\nThe ecological studies team in Kibaale district has collected samples from bats, primates and livestock to study the possible natural history of Ebola virus and putative initial human infection from wildlife. \nNeighbouring countries\n\nAt the time of this update, an Ebola outbreak is on-going in the Province Orientale of the Democratic Republic of Congo. These two Ebola outbreaks are not epidemiologically linked and have been caused by two different Ebola subtypes; (Uganda: Ebola subtype Sudan, Democratic Republic of Congo Ebola subtype Bundibugyo). \n\nWith respect to this event, WHO does not recommend that any travel or trade restrictions are applied to Uganda.\nGeneral information on Ebola subtypes:\n\nThere are five identified subtypes of Ebola virus. The subtypes have been named after the location they have been first detected in Ebola outbreaks. Three subtypes of the five have been associated with large Ebola haemorrhagic fever (EHF) outbreaks in Africa: Ebola-Zaire, Ebola-Sudan and Ebola-Bundibugyo. EHF is a febrile haemorrhagic illness which causes death in 25-90% of all cases. The Ebola Reston species, found in the Philippines, can infect humans, but no illness or death in humans has been reported to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:14.528025",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "30 August 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 August 2012 -\nThe Ministry of Health (MoH) of the Democratic Republic of Congo (DRC) continues to work with partners to control the outbreak of Ebola haemorrhagic fever. As of 28 August 2012, a total of 24 (6 probable, 6 confirmed and 12 suspected) cases and 11 deaths had been reported from Province Orientale. The reported cases and deaths occurred in 3 health zones as follows: 17 cases and 9 deaths in Isiro; 6 cases and 2 deaths in Viadana; 1 case and 0 death in Dungu. The fatal cases in Isiro include three health-care workers. All alerts have been investigated and so far there has been no Ebola suspected or confirmed case reported from outside Province Orientale. \n\nInitial samples were tested by Uganda Virus Research Institute (UVRI) in Entebbe, Uganda, and three samples taken from two patients were confirmed for Ebola virus (Ebola subtype Bundibugyo).\n\nUS Centers for Disease Control and Prevention (CDC) has established a field laboratory in Isiro to support case management and epidemiological investigations. A National Task Force convened by the Congolese Ministry of Health is working with several partners including WHO, M\u00e9decins Sans Fronti\u00e8res (MSF), International Federation of Red Cross and Red Crescent Societies (IFRC) and CDC to control the outbreak.\n\nA joint MoH, WHO and MSF emergency response team is in the field to conduct a detailed epidemiological investigation and case management. WHO has deployed epidemiologists and logisticians from AFRO regional office (including the Inter-country Support team) and WHO headquarters to support the MoH and is working closely with partners in the areas of coordination, surveillance, epidemiology, logistics for outbreak, public information and social mobilization. \n\nWHO\u2019s Global Outbreak Alert and Response Network (GOARN) has deployed an anthropologist from the Museum National d\u2019Histoire Naturelle (MNHN), France to assist with a clearer understanding of the social and anthropological issues among the affected population that could impact the on-going response efforts. \n\nControl activities that are being carried out include active case finding and contact tracing, enhanced surveillance, case management, public information and social mobilization and reinforcing infection control practices. \n\nWHO does not recommend that any travel or trade restrictions be applied to Democratic Republic of Congo.\n\n\nThere is currently no indication that this Ebola outbreak is related to the recent Ebola outbreak in Uganda occurring in Kibaale district.\nGeneral information on Ebola subtypes\n\nThere are five identified subtypes of Ebola virus. The subtypes have been named after the location they have been first detected in Ebola outbreaks. Three subtypes of the five have been associated with large Ebola haemorrhagic fever (EHF) outbreaks in Africa. Ebola-Zaire, Ebola-Sudan and Ebola-Bundibugyo. EHF is a febrile haemorrhagic illness which causes death in 25-90% of all cases. The Ebola Reston species, found in the Philippines, can infect humans, but no illness or death in humans has been reported to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:15.731868",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "30 August 2012",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 August 2012 -\nSince the beginning of the year, Sierra Leone has recorded 13,934 cases of cholera, with 232 deaths (Case Fatality Rate of 1.7%). The rate of new cases has accelerated rapidly since the beginning of August. Eleven of the country\u2019s 13 districts are now registering cases with Western Area and Port Loko being the most affected. The most recently affected district is Kenema district. \n\nThe President of Sierra Leone has declared the escalating cholera epidemic a \u201chumanitarian crisis\u201d. Consequently, a high-level Presidential Cholera Task Force has been established to oversee coordination, mobilize resources and guide response. A multi-sectoral approach to the response has been adopted involving the Ministry of Health and Sanitation (MOHS), as well as other line ministries such as finance information and communication, and local government, together with partners and stakeholders.\n\nA Cholera Control and Command Centre (C4) has been established at the WHO Country Office in Freetown to better coordinate all the response activities to the cholera outbreak. This approach was previously used and proved effective in the response to the Cholera outbreak in Zimbabwe in 2008-2009. \n\nThe first C4 meeting took place on 28 August 2012 and will subsequently be held daily. The C4 comprises all the technical sub-committees dealing with surveillance, case management, water and sanitation, logistics and social mobilization. \n\nThe MOHS, in partnership with M\u00e9decins sans Fronti\u00e8res (MSF), UNICEF, WHO, and other partners, is implementing the following prevention and control activities: epidemiological investigation, surveillance, case management at established cholera treatment centres, water and sanitation control measures, social mobilization and community education.\n\nWHO continues to support Sierra Leone in the areas of epidemiology, social mobilization, surveillance and has mobilized experts from the AFRO Regional Office (including Inter-country Support team) and WHO headquarters.\n\nThe Global Outbreak Alert and Response Network (GOARN) has provided experienced case management and laboratory expertise from the International Center for Diahorrheal Disease Research, Bangladesh (ICDDR,B) who have long-standing experience in responding to cholera internationally. \n\nWHO does not recommend that any travel or trade restrictions be applied to Sierra Leone.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:17.346910",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "22 August 2012",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 August 2012 -\nSince the beginning of the year, Sierra Leone has recorded 11\u00a0653 cases of cholera, with 216 deaths (Case Fatality Rate of 1.9%). The rate of new cases has accelerated rapidly since the beginning of August: since then, 5\u00a0706 cases have been recorded, and two new districts, Bonthe and Kono, have been affected by the epidemic. Ten of the country\u2019s 13 districts are now registering cases and this spread emphasizes the need to rapidly scale up the response.\n\nThe two most heavily affected districts are Western Area and Tonkolili.\n\nThe President of Sierra Leone has declared the escalating cholera epidemic a \u201chumanitarian crisis\u201d. Consequently, a multi-sectoral approach to the response has been adopted involving the Ministry of Health and Sanitation (MOHS), as well as other line ministries such as finance, information and communication, and local government, together with partners and stakeholders. A National Emergency Task force has been established with sub-committees dealing with surveillance, case management, water and sanitation, logistics and social mobilization. The WHO Country Office (WCO) in Sierra Leone is chairing a weekly meeting of partners and stakeholders to better coordinate harmonize and strategize support. \n\nThe MOHS, in partnership with M\u00e9decins sans Fronti\u00e8res (MSF), UNICEF, WHO, and other partners, is implementing the following prevention and control activities: epidemiological investigation, surveillance, case management at established cholera treatment centres, water and sanitation control measures, social mobilization and community education. \n\nWHO is supporting Sierra Leone in the areas of epidemiology, social mobilization and surveillance. WHO has deployed two epidemiologists, and three cholera experts from Zimbabwe to support coordination, public information, social mobilization, case management and infection control. \n\nWHO does not recommend that any travel or trade restrictions be applied to Sierra Leone.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:18.888116",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "21 August 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "As of 20 August 2012, a total of 15 (13 probable and 2 confirmed) cases with 10 deaths have been reported in Province Orientale in Eastern DRC. The reported cases and deaths have occurred in 3 health zones as follows: 12 cases and 8 deaths in Isiro, including three (3) health care workers who have died; 2 cases and 1 death in Pawa; and 1 fatal case in Dungu.",
+        "Description of the Situation": "21 August 2012 -\nAs of 20 August 2012, a total of 15 (13 probable and 2 confirmed) cases with 10 deaths have been reported in Province Orientale in Eastern DRC. The reported cases and deaths have occurred in 3 health zones as follows: 12 cases and 8 deaths in Isiro, including three (3) health care workers who have died; 2 cases and 1 death in Pawa; and 1 fatal case in Dungu. \n\nThe Congolese Ministry of Health has convened a National Task Force and is working with several partners including WHO, UNICEF, M\u00e9decins sans Fronti\u00e8res (MSF) Suisse, MSF Belgique and the United States Centres for Disease Control and Prevention (CDC). Similar Task Forces have been established at provincial and district levels to oversee and guide the response.\n\nA joint MoH, WHO and MSF emergency response team is in the field to conduct a detailed epidemiological investigation and support case management. Control activities that are being carried out include active case finding and contact tracing, enhanced surveillance, case management, public information and social mobilization, and reinforcing infection control practices.\n\nWHO is supporting the Ministry of Health in the areas of coordination, surveillance, field epidemiology, laboratory, case management, outbreak logistics, public information and social mobilization. An additional team of epidemiologists, a logistician, an anthropologist and social mobilization officers is being mobilized from the DRC, Republic of Congo, the WHO AFRO regional rapid response team, WHO Inter-Country Support team (IST) based in Gabon, and WHO HQ, for possible deployment in the field. \n\nWHO does not recommend that any travel or trade restrictions be applied to Democratic Republic of Congo.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:20.070413",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "17 August 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 August 2012 -\nThe Ministry of Health of Uganda (MoH) continues to work with partners to control the outbreak of Ebola haemorrhagic fever in Kibaale district. The national and district task forces also meet daily to coordinate the response to the outbreak. \n\nTo date, 24 probable and confirmed cases including 16 deaths have been reported. Eleven cases have been laboratory confirmed by the Uganda Virus Research Institute (UVRI) in Entebbe. The last confirmed case was admitted to the Kagadi isolation facility on 4 August 2012.\n\nSuspected cases which tested negative during the laboratory investigations have been discarded as Ebola patients, treated symptomatically for their ailments and discharged following recovery. A total of forty nine (49) people have been discharged from the isolation facility, including one confirmed case. \n\nAll contacts of probable and confirmed cases are followed up daily for 21 days and are monitored for any possible signs or symptoms of illness. More than 70% of the 408 listed contacts have completed 21 days of follow up without developing any symptoms. All alerts of suspected cases in the other districts have been investigated and are so far negative for Ebola. \n\nWith the support of WHO and other partners, the Ministry of Health has established and equipped an isolation facility at Mulago National referral hospital in Kampala, Uganda in anticipation of receiving suspected cases from other districts, should they occur. Health workers who will manage the facility have already been trained.\n\nSocial mobilization teams comprised of Red Cross volunteers and village health teams have reached most of the villages and households in the most affected sub-counties in Kibaale district. These activities are reinforced by the distribution of Information, Education and Communication (IEC) materials, and by the broadcast of health awareness messages on radio and by film vans.\n\nA team led by CDC has begun conducting ecological studies in Kibaale district to try and understand the likely source and route of transmission of this outbreak. \nNeighbouring countries\n\nCountries sharing borders with Uganda are taking steps to enhance surveillance for Ebola. At the time of this update, none of them have reported any confirmed cases related to the Uganda outbreak. \n\nWHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:21.580423",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "17 August 2012",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 August 2012 -\nOn 17 August 2012, the Ministry of Health (MoH) of the Democratic Republic of Congo (DRC) notified the World Health Organization (WHO) of an outbreak of Ebola haemorrhagic fever in the Isiro and Dungu Health Zones of Province Orientale in Eastern DRC. A total of 10 suspected cases (9 in Isiro and 1 in Dungu) and 6 deaths (5 deaths in Isiro and 1 in Dungu) have been reported.\n\nLaboratory investigations conducted at the Uganda Virus Research Institute (UVRI), Entebbe, Uganda, confirmed Ebola virus (Bundibugyo species). Three samples taken from two patients turned out positive for Ebola. A National Task Force convened by the Congolese Ministry of Health, is working with several partners including WHO, MSF and CDC. A joint MoH, WHO and MSF emergency response team are in the field to conduct a detailed epidemiological investigation and case management. \n\nWHO is supporting the Ministry of Health in the areas of coordination, surveillance, epidemiology, laboratory, case management, logistics for outbreak, public information and social mobilization. An additional team of experts from Congo, DRC and IST/Gabon comprised of an epidemiologist, a logistician, an anthropologist and social mobilisation officers are being mobilized for possible deployment in the field. Control activities that are being carried include active case finding and contact tracing, enhanced surveillance, case management, public information and social mobilization and reinforcing infection control practices. \n\nWHO does not recommend that any travel or trade restrictions be applied to Democratic Republic of Congo.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:22.766027",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "14 August 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 August 2012 -\nThe Ministry of Health of Uganda (MoH) continues to work with partners including WHO, CDC, Red Cross, MSF, World Vision, PREDICT, among others to control the outbreak of Ebola haemorrhagic fever in Kibaale district. The national and district task forces continue to meet daily to coordinate the response to the outbreak. \n\nTo date, 24 probable and confirmed cases including 16 deaths have been reported. 10 cases have been laboratory confirmed by the Uganda Virus Research Institute (UVRI) in Entebbe. The most recent confirmed case was admitted in Kagadi isolation facility on 4 August 2012.\n\nSuspected cases which tested negative during the laboratory investigations have been discarded as Ebola patients, treated symptomatically for their ailments and discharged following recovery. A total of 43 people have been discharged from the isolation facility including one confirmed case. With the support of the psychosocial team, these 43 people have been counselled prior to discharge and reintegrated into the community. Even for the people who were negative for Ebola, psychosocial counselling of the communities to which they are returning, has been very important. It has allayed fears and reduced stigma, enabling them to be accepted back in the community.\n\nAll contacts of probable and confirmed cases are followed up daily for 21 days and are monitored for any possible signs or symptoms of illness. All alerts of suspected cases in the other districts have been investigated and are negative for Ebola. \n\nIn Kibaale district, the MoH is working in close coordination with M\u00e9decins Sans Fronti\u00e8res (MSF) in clinical management of suspected and confirmed cases.\n\nSocial mobilization teams comprising Red Cross volunteers and village health teams have reached most of the villages and households in the most affected sub-counties in Kibaale district. These activities are reinforced by the distribution of Information, Education and Communication (IEC) materials, and by the broadcast of health awareness messages on radio and by film vans. \nNeighbouring countries\n\nCountries sharing borders with Uganda are taking steps to enhance surveillance for Ebola; at the time of this update, none of them have reported any confirmed cases. \n\nWHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:24.310491",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "10 August 2012",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 August 2012 -\nThe Ministry of Health of Indonesia has notified WHO of a new case of human infection with avian influenza A(H5N1) virus.\n\nThe case is a 37 year old male from Yogyakarta province. He developed fever on 24 July 2012, was hospitalized on 27 July and died on 30 July.\n\nEpidemiological investigation on the case found that the case had four pet caged birds in his home, which is about 50 metres from a poultry slaughter house and near a farm.\n\nInfection with avian influenza A(H5N1) virus was confirmed by the National Institute of Health Research and Development (NIHRD), Ministry of Health and reported to WHO by the National IHR Focal Point. \n\nTo date, the total number of human influenza A(H5N1) cases in Indonesia is 191 with 159 fatalities, 8 (all fatal) of which occurred in 2012.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:25.481557",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "3 August 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "3 August 2012 -\nThe Ministry of Health in Uganda has reported a cumulative number of 53 suspected cases of Ebola haemorrhagic fever including 16 deaths. Of these, five cases have been laboratory confirmed by the Uganda Virus Research Institute (UVRI) in Entebbe (this includes three fatal cases and two cases currently being treated in the isolation facility).\n\nCurrently 32 cases are admitted to an isolation facility in Kagadi hospital, Kibaale district, and a total of 312 contacts were identified, of whom 253 are being closely followed-up. So far all samples from other districts have tested negative for Ebola, indicating that there has been no expansion of the outbreak beyond Kibaale District. However a clinical officer who attended to a case in Kibaale district was transferred to Mulago Hospital in Kampala for treatment but later died.\n\nAmong the contacts being monitored daily are the seven health workers who attended to the fatal case transferred to Mulago Hospital, none of them has so far developed symptoms of the disease. \nResponse\n\nThe Government of Uganda is continuing to work with a number of partners to control the outbreak. \n\nAt the central level the Prime Minister convened a Ministerial Task Force, chaired by the Minister of Health, to facilitate and coordinate the outbreak response. \n\nIn Kibaale district, the local health authorities are working through its task force with several partners to mobilize resources and supplies. These partners include WHO, US Centers for Disease Control and Prevention (US CDC), the Uganda Red Cross Society (URCS) and M\u00e9decins Sans Fronti\u00e8res (MSF). WHO has deployed logisticians and supplies, including personal protective equipment (PPE) to Uganda. \n\nRequired funds for local operations are being mobilized. Additional support is being received from the EMESCO Foundation (a local NGO), Members of Parliament from Kibaale district, the Infectious Diseases Institute (IDI) and the Uganda Red Cross Society (URCS).\n\nEpidemiologists from WHO and US CDC have arrived in Kibaale district and are supporting the response by screening and triaging suspected cases of Ebola haemorrhagic fever. WHO is coordinating with Global Outbreak Alert and Response Network partners. \n\nWith the support of MSF, the construction of a new isolation facility in Kagadi, Kibaale district, is expected to be completed today and additional wards will open to address the increasing number of suspected cases. MSF, IDI and EMESCO are providing food to patients in the isolation facility and have committed to continue to do so for the next two weeks. \n\nFor active surveillance and contact tracing in the communities, arrangements with local authorities are being made to increase the number of mobile teams and ambulances.\n\nWith regard to social mobilization, the Uganda Red Cross Society has trained 62 teams of Red Cross volunteers and village health teams to conduct social mobilization and public awareness activities. Additionally, public announcements are being disseminated in 11 local languages on 20 radio stations. WHO is facilitating the deployment of a medical anthropologist to assist in these activities. \nNeighbouring countries\n\nA number of countries neighbouring Uganda have taken proactive steps to enhance their surveillance to detect and respond to cases of Ebola haemorrhagic fever.\n\nIn Kenya, two rumoured suspected cases have since been reported and investigated. Both cases have tested negative for Ebola.\n\nThe South Sudan Ministry of Health, in collaboration with WHO, has issued guidance to the general public and has activated a national task force to undertake enhanced surveillance as population movement and trade between South Sudan and Uganda are high. \n\nWHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:26.633606",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "29 July 2012",
+        "Location": "Uganda",
+        "Sitation at a Glance": "The Ministry of Health (MoH) of Uganda has notified WHO of an outbreak of Ebola haemorrhagic fever in Kibaale district in the western part of the country.",
+        "Description of the Situation": "29 July 2012 -\nThe Ministry of Health (MoH) of Uganda has notified WHO of an outbreak of Ebola haemorrhagic fever in Kibaale district in the western part of the country. \n\nA total of 20 cases, including 14 deaths have been reported since the beginning of July 2012. The index case was identified in a family from Nyanswiga village, Nyamarunda sub-county of Kibaale district, where nine of the deaths were recorded. The deceased include a clinical officer who attended to a patient, and her four month-old child. Nine of the 14 deaths have occurred in a single household.\n\nLaboratory confirmation was done by the Uganda Virus Research Institute in Entebbe. \n\nCurrently, two patients are hospitalized and are in stable condition. The first is a 38 year-old female who attended to her sister, the clinical officer who died. She was admitted to the hospital on 26 July 2012. The second is a 30 year-old female who participated in conducting the burial of the index case. She was admitted to the hospital on 23 July 2012. Both cases were admitted to hospital with fever, vomiting, diarrhoea and abdominal pain. Neither of the cases has so far shown bleeding, a symptom that often appears in viral haemorrhagic fever patients.\n\nThe MoH is working with stakeholders and partners to control the outbreak. Response plans at the national and district levels are being finalised. A national task force coordinated by the MoH has been re-activated at the MOH headquarters and holds daily meetings. In Kibaale a district task force has been formed to better coordinate field response. The neighbouring districts have been put on high alert about the outbreak and to step up surveillance. \n\nA team of experts from MoH, WHO and Centers for Disease Control and Prevention (CDC) is in Kibaale to support the response operations. All possible contacts that were exposed to the suspected and confirmed cases since 6 July 2012 are being identified for active follow up. The necessary supplies and logistics required for supportive management of patients are being mobilized. \n\nKibaale hospital has established a temporary isolation ward for suspected, probable and confirmed cases. M\u00e9decins Sans Fronti\u00e8res (MSF), Holland, has mobilized necessary requirements for setting up isolation centre at the hospital. The MoH and Mulago Hospital have mobilized some staff to manage the isolation centre but more are urgently needed. \n\nThe MoH has advised the public to take measures to avert the spread of the disease and to report any suspected patient to the nearest health unit. \n\nWHO does not recommend that any travel or trade restrictions are applied to Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:29.362486",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "2 March 2012",
+        "Location": "Bangladesh",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "2 March 2012 -\nThe Ministry of Health and Family Welfare, Bangladesh has confirmed the fourth case of human infection with H5N1 avian influenza in the country.\n\nThe case is a 40 year-old male from Dhaka City, who was identified as part of the live bird market surveillance system on 26 February 2012. The case presented with cough and currently has recovered.\n\nThe case was confirmed by the Institute of Epidemiology, Disease Control and Research (IEDCR) and the International Centre for Diarrhoeal Disease Research, Bangladesh (ICDDR,B).\n\nAn epidemiological investigation and monitoring of the situation is currently being conducted jointly by IEDCR and ICDDR,B.\n\nThe first case of human infection with H5N1 was reported in the country in 2008, and two cases were reported in 2011.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:35.899792",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "6 July 2012",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "6 July 2012 -\nThe Ministry of Health of the Kingdom of Cambodia is conducting active investigation into the cause of a recent undiagnosed syndrome that has caused illness and deaths among children in the country.\n\nPreliminary findings of the investigation identified a total of 74 cases who were hospitalised from April to 5 July 2012. Of these, 57 cases (including 56 deaths), presented a common syndrome of fever, respiratory and neurological signs, which is now the focus of the investigation.\n\nThe majority of the identified cases to date were under three years old. Most of them were from the southern and central parts of the country and received treatment at Kantha Bopha Children\u2019s hospital, which is a reference paediatric hospital. Despite all efforts, many of the children died within 24 hours of admission.\n\nAvailable samples have been tested at the Institut Pasteur in Cambodia. Although a causative agent remains to be formally identified, all these samples were found negative for H5N1 and other influenza viruses, SARS, and Nipah.\n\nThe Ministry of Health was first alerted to this by Kantha Bopha Children\u2019s hospital in Phnom Penh, where the majority of the cases were hospitalised.\n\nThe Ministry of Health notified WHO about this event through the IHR notification mechanism as it met the criteria for notification of any event where the underlying agent or disease or mode of transmission is not formally identified.\n\nWHO and partners are assisting the Ministry of Health with this event which focuses on hospitalised cases, early warning surveillance data, laboratory data and field investigations. \n\nWhile this event is being actively investigated, the Government is also looking at other diseases occurring in the country, including dengue, hand-foot-mouth and Chikungunya. \n\nParents have been advised to take their children to hospital if they identify any signs of unusual illness. The Government is also reinforcing awareness of good hygiene practices to the public, which includes frequent washing of hands.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:38.559717",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "22 February 2012",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 February 2012 -\nThe Ministry of Health and Population of Egypt has notified WHO of a new case of human infection with avian influenza A (H5N1) virus.\u202a\n\nThe case is a 45 year-old female from Menofia governorate. She developed symptoms on 10 February 2012, received oseltamivir treatment on 17 February 2012 and is still recovering. The case was laboratory confirmed by the Central Public Health Laboratories; a National Influenza Center of the WHO Global Influenza Surveillance Network on 18 February 2012.\n\nEpidemiological investigation into the source of infection indicate that the case had exposure to backyard poultry.\n\nOf the 160 cases confirmed to date in Egypt, 55 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:40.296131",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "21 February 2012",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 February 2012 -\nThe Ministry of Health of Indonesia has announced one new confirmed case of human infection with avian influenza A(H5N1) virus.\n\nThe case is a 19 year-old female from Banten Province. She developed symptoms on 8 February 2012, was hospitalised on 12 February 2012 and died on 13 February 2012.\n\nEpidemiological investigation is ongoing by the Ministries of Health and Agriculture.\n\nOf the 185 cases confirmed to date in Indonesia, 153 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:41.916139",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "8 February 2012",
+        "Location": "Viet Nam",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "8 February 2012 -\nThe Ministry of Health (MoH) has announced a confirmed case of human infection with avian influenza A (H5N1) virus.\n\nThe case was a 26 year-old pregnant female from Soc Trang province. She developed symptoms on 23 January 2012, and was admitted to hospital on 25 January. She was treated with Oseltamivir on 27 January, she died on 28 January. Confirmatory test results for influenza A (H5N1) were obtained on 30 January by Pasteur Institute, the WHO National Influenza Centre in Ho Chi Minh City, Viet Nam. Samples from the newborn infant of the fatal case tested negative for H5N1. \n\nThe case had slaughtered and eaten sick chickens. MoH, the local health sector and Pasteur Institute in Ho Chi Minh City are conducting epidemiological investigation and strengthening surveillance and response activities. Close contacts of the fatal case have received prophylaxis and are being monitored; to date all remain well. The Department of Animal Health is collaborating with the human health sector. \n\nThe case is the 121st person in Viet Nam to become infected with the H5N1 virus. To date, 61 of these cases have died from complications of the disease.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:43.772632",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "3 February 2012",
+        "Location": "Cameroon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "3 February 2012 -\nOn 20 December 2011, the Ministry of Health of Ghana notified WHO of a yellow fever (YF) outbreak occurring in 3 districts; Builsa and Kassena-Nankana-West in the Upper East Region and Kitampo-South in the Brong Ahafo Region located in the mid-western part of the country. \n\nA total of three laboratory-confirmed cases, including two deaths, have been detected by yellow fever surveillance, with the clinical syndrome of fever and jaundice.\n\nThe index case, reported from the Kassena-Nankana-West district, was a 12 year-old male who had been going with his father to his farm in a forest bordering Burkina Faso. Onset of symptoms occurred on 11 October 2011 and progressively got worse until he died in Sandema Hospital on 18 October 2011. District outbreak teams investigated the affected areas but found no additional cases. \n\nA reactive campaign has been planned starting 6 February 2012, supported by the International Coordinating Group on Yellow Fever Vaccine Provision (YF-ICG) and the European Community Humanitarian Office (ECHO). Over 235 000 people in the affected districts have been targeted for vaccination, with the exclusion of pregnant women and children aged under one year. \n\nThis activity will complement the two-phased YF preventive mass campaign undertaken by the country. The first phase was conducted in November 2011 and targeted a population of 5.8 million people covering 40 districts (8 regions). A YF reactive campaign was carried out in 3 more districts. The second phase, planned for this year, seeks to target 1.7 million people spanning 17 districts.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:45.380690",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "3 February 2012",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "3 February 2012 -\nIn December 2011, the Ministry of Health of Cameroon notified WHO of a yellow fever outbreak in the North Region of the country.\n\n\nA total of 23 cases, including 7 deaths, have been reported to have occurred since October 2011 in Guider, Bibemi, Gaschiga, Lagdo, Mayo Oulo and Golombe districts. These cases were identified as part of the surveillance system, with fever and jaundice within the 14 days of onset. \n\nAt least 13 cases from six health districts were laboratory confirmed at the Institute Pasteur of Cameroon by IgM ELISA test, which was followed by the seroneutralizing test (PRNT), the most specific test for yellow fever, and by differential diagnostic for dengue and West Nile Virus conducted in the WHO regional reference laboratory for yellow fever, the Institute Pasteur of Dakar, Senegal. \n\nWHO country office has been working with the government/health authorities in the outbreak field investigation to confirm the cases and assess the extent of the outbreak. \n\nGAVI Alliance, UN Central Emergency Response Fund (CERF) and the International Coordinating Group on Yellow Fever Vaccine Provision (YF-ICG) are supporting a reactive mass vaccination campaign which aims to cover over 1.2 million people in 8 health districts considered at high risk, namely Guider, Bibemi, Gaschiga, Lagdo, Mayo Oulo, Garoua I Garoua II, and Golombe.\n\n\nThe vaccination campaign began on 23 January 2012, covering these 8 health districts which were not covered in the 2009 preventive mass vaccination campaign because they have no history of yellow fever outbreak or yellow fever virus circulation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:46.939268",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "24 January 2012",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "24 January 2012 -\nThe Ministry of Health of China has notified WHO of a human case of avian influenza A (H5N1) virus infection.\u202c\u202a\n\nThe case is a 39 year-old male from Guiyan City, Guizhou Province. He developed symptoms on 6 January 2012 and was admitted to hospital but was in critical condition and died on 22 January 2012.\u202c\u202a\n\nThe case was laboratory diagnosed by Guizhou CDC and confirmed by China CDC on 22 January 2012. Investigation into the source of infection is ongoing. Close contacts of the case are being monitored and to date all remain well.\u202c\u202a",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:48.785681",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "20 January 2012",
+        "Location": "Viet Nam",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 January 2012 -\nThe Ministry of Health (MoH) has announced a confirmed case of human infection with avian influenza A (H5N1) virus.\n\nThe case was an 18 year-old male from Kien Giang Province. He developed symptoms on 10 January 2012 and was admitted to hospital on 14 January 2012 but died on 16 January 2012. Confirmatory test results for influenza A (H5N1) were obtained on 17 January 2012 by Pasteur Institute, the WHO National Influenza Centre in Ho Chi Minh City, Viet Nam.\n\nThe man was reportedly exposed to ducks. Pasteur Institute in Ho Chi Minh City and the local health sector are conducting outbreak investigation and response. He is the 120th person in Viet Nam to become infected with the H5N1 virus; to date, 60 of these cases have died from complications of the disease.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:50.621377",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "19 January 2012",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 January 2012 -\nThe Ministry of Health and Population of Egypt has notified WHO of two cases of human infection with avian influenza A (H5N1) virus.\u202a \n\nThe first case is a 2 year-old female from Cairo Governorate. She visited Helwan Fever Hospital as an outpatient on 30 October 2011 with symptoms of influenza-like-illness (ILI). The case was confirmed by RT-PCR at the Central Public Health Laboratory through periodic testing of samples collected from ILI outpatients from sentinel ILI surveillance sites. The epidemiological team investigated the case after confirmation of the laboratory test. Retrospective investigation through data collected from her family identified a positive history of exposure to backyard poultry. Samples from the case have been sent to the US Naval Medical Research Unit No. 3 (NAMRU-3) for further sequencing.\n\nThe second case is a 31 year-old male from Fayium governorate. He developed symptoms on 1 January 2012, received oseltamivir on 14 January 2012 and is still hospitalised under the critical care unit. The case was confirmed by the Central Public Health Laboratory, a National Influenza Center of the WHO Global Influenza Surveillance Network.\n\nEpidemiological investigations into both the cases indicated that they had exposure to backyard poultry.\n\nOf the 159 cases confirmed to date in Egypt, 55 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:52.273174",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "19 January 2012",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 January 2012 -\nThe Ministry of Health of Indonesia has announced one new confirmed case of human infection with avian influenza A(H5N1) virus.\n\nThe case is a 5 year-old female from Jakarta Province. She was identified by a surveillance team during an investigation in the area on 7 January 2012 and was referred to a hospital. On 13 January 2012, she had breathing difficulties. Her condition deteriorated and she died on 16 January 2012.\n\nEpidemiological investigation indicated that she was a family contact of case 183, and frequently had direct contact with the same pigeons as that case, and the same household environment. \n\nSurveillance of other contacts has not identified further cases.\n\nOf the 184 cases confirmed to date in Indonesia, 152 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:53.933204",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "18 January 2012",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 January 2012 -\nThe Ministry of Health (MoH) of the Kingdom of Cambodia has announced that the case of human infection with avian influenza A (H5N1) virus\u00a0reported in the Disease Outbreak News posting\u00a0of 16 January 2012 died on 18 January 2012.\n\n\nThe boy is the 19th person in Cambodia to become infected with the H5N1 virus; to date, 17 of these cases have died from complications of the disease.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:55.533703",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "17 January 2012",
+        "Location": "France",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 January 2012 -\nIn March 2010, Poly Implant Proth\u00e8se (PIP) silicone implants were withdrawn from the European Union (EU) market following an observed increase in implant ruptures, and confirmation of the use of substandard silicone in the manufacture of the implants by French regulator AFSSAPS (Agence Fran\u00e7aise de S\u00e9curit\u00e9 Sanitaire des Produits de Sant\u00e9). Regulatory authorities in other jurisdictions were also notified, leading to product withdrawal from a number of non-EU countries. PIP implants have also been sold under the trade name of M-Implants and in April 2010 the Dutch Health Care Inspectorate prohibited all trade and usage of both products in the Netherlands.\n\nOn 23 December 2011, the French authorities published a recommendation that French residents with PIP breast implants should consider having these removed as a preventive measure. Following this, other national health authorities have issued their own recommendations that have ranged from preventive removal of PIP silicone breast implants, to close monitoring and follow up of persons with these implants.\n\nAdverse events of approved breast implants include implant rupture and leakage. While the rupture rate of PIP prostheses was observed to be higher than expected in France, rates reported by other national authorities vary.\n\nTesting of PIP implants carried out by AFSSAPS found that the quality of implants varied, therefore increasing the risk of rupture. AFSSAPS also found that the gel containing non-approved silicone was an irritant to tissue, and when leaking could give rise to inflammation and pain.\n\nMore information is needed about the risks associated with these implants and how they compare with other implants on the market, and on product distribution, use and surveillance.\n\nPIP and M-Implants silicone breast prostheses have been distributed to many countries around the world. Both standard and substandard silicone has been used to produce PIP implants.\n\nPersons with PIP or M-Implant prostheses should consult their doctor or surgeon if they suspect rupture, have pain or inflammation or any other concerns. Affected persons and physicians should take note of their national health authority recommendations and act accordingly. It is, furthermore, important to consider strengthening adverse event reporting of medical devices.\n\nSpecific recommendations by national regulatory authorities can be found at the following websites (listed by country):\n\n\nArgentina \n\nAustralia \n\nAustria \n\nBelgium \n\nBrazil \n\nChile \n\nChina \n\nColombia \n\nCosta Rica \n\nCuba \n\nCzech Republic \n\nDenmark \n\nEcuador  \n\nEstonia \n\nFrance - Ministry of Health \n\nFrance - Regulator of health products \n\nFrance - Regulator of health products: new recommendations for women with PIP implants \n\nGermany \n\nHungary \n\nItaly \n\nIreland \n\nJapan \n\nMalaysia \n\nMexico \n\nNetherlands \n\nNew Zealand \n\nPeru \n\nPortugal \n\nSpain - Ministry of Health, Social Services and Equality \n\nSpain - Ministry of Health, Social Services and Equality: Information on Poly Implant Prosthesis (PIP) silicone implants \n\nUnited Kingdom",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:36:58.620599",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "16 January 2012",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 January 2012 -\nThe Ministry of Health (MoH) of the Kingdom of Cambodia has announced a confirmed case of human infection with avian influenza A (H5N1) virus.\n\n\nThe case was a 2 year-old male from Banteay Meanchey Province. He developed symptoms on 3 January 2012 and was admitted to hospital on 9 January 2012. He is on Tamiflu and has been ventilated. \n\nThere have been reports that the boy was exposed to sick poultry in his village. He is the 19th person in Cambodia to become infected with the H5N1 virus; to date, 16 of these cases have died from complications of the disease. \n\nThe National and local Rapid Response Teams (RRT) are conducting outbreak investigation and response following the national protocol. Hospital staff who had contact with the case have been offered oseltamivir. To date, none of the human contacts have tested positive for A (H5N1).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:00.302225",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "11 January 2012",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 January 2012 -\nThe Ministry of Health of Indonesia has announced one new confirmed case of human infection with avian influenza A(H5N1) virus. \n\nThe case is a 23 year-old male from Jakarta Province. He developed symptoms on 31 December 2011, was admitted to hospital on 6 January 2012 and died on 7 January 2012. \n\nAn epidemiological investigation conducted by the Ministry of Health and local health officers indicated that he raised pigeons, and there was a sick pigeon he nursed that subsequently died. \n\nLaboratory tests have confirmed infection with avian influenza A(H5N1) virus. Of the 183 cases confirmed to date in Indonesia, 151 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:01.897055",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "5 January 2012",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "5 January 2012 -\nThe Ministry of Health of China has notified WHO of a human case of avian influenza A (H5N1) virus infection.\u202a\n\nThe case is a 39-year-old male from Shenzhen, Guangdong Province. He developed symptoms on 21 December 2011 and was admitted to hospital on 25 December 2011. He was in critical condition and died on 31 December 2011. The case was laboratory diagnosed by Guangdong CDC on 30 December 2011 and confirmed by China CDC on 31 December 2011. Investigation into the source of infection is ongoing. Close contacts of the case are being monitored and to date all remain well.\n\n\nOf the 41 cases confirmed to date in China, 27 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:37:03.740460",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2012",
+        "Date Reported": "5 January 2012",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "5 January 2012 -\nThe Ministry of Health and Population of Egypt has notified WHO of a case of human infection with avian influenza A (H5N1) virus.\u202a\n\n\nThe case is a 42 year-old male from Menofia Governorate. He developed symptoms on 16 December 2011 and was admitted to hospital on 21 December 2011, where he received oseltamivir treatment. He was in critical condition and died on 22 December 2011. \n\nThe case was confirmed by the Central Public Health Laboratories, a National Influenza Centre of the WHO Global Influenza Surveillance Network, on 24 December 2011. \n\nInvestigations into the source of infection indicated that the case had exposure to sick and dead backyard poultry. \n\nOf the 157 cases confirmed to date in Egypt, 55 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    }
+  ]
+}

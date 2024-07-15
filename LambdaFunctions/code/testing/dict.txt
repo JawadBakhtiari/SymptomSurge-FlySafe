@@ -1,0 +1,242 @@
+headaches
+myalgia
+vomit
+sore throat
+sweaty
+thirsty
+tired
+weak
+chills
+fever
+paresthesia
+numbness
+tingl
+electric tweaks
+light-headed
+dizzy
+black out
+room spinning around me
+mouth is dry
+dry skin
+nauseated
+sick
+flu
+short of breath
+sleepy
+blindness
+blurred vision
+double vision
+sleep
+smell things
+sxcrete solid feces
+scratching
+sweating
+Swallow
+taste
+headache
+rash
+foot pain
+sore throat
+abdominal pain
+blood in stool
+chest pain
+constipation
+cough
+diarrhea
+difficulty swallowing
+eye discomfort
+eye redness
+eye problems
+ankle pain
+foot swelling
+leg swelling
+headaches
+hip pain
+knee pain
+low back pain
+nasal congestion
+congestion
+nausea
+neck pain
+numbness
+pelvic pain
+shortness of breath
+shoulder pain
+urinary problems
+wheezing
+eye problems
+joint pain
+muscle pain
+allergies
+ankle problems
+back Problems
+bowel incontinence
+calf problems
+catarrh
+chest pain
+chronic pain
+cold sore
+constipation
+cough
+dehydration
+dizziness
+lightheadedness
+dry mouth
+barache
+elbow problems
+farting
+globus
+flu
+foot problems
+genital symptoms
+hay fever
+headaches
+hearing loss
+hip problems
+bowel incontinence
+indigestion
+itching
+itchy bottom
+urinary incontinence
+knee problems
+migraine
+mouth ulcer
+neck problems
+nosebleed
+shortness of breath
+shoulder problems
+skin rashes in children
+sore throat
+swollen glands
+testicular lumps
+swell
+thigh problems
+tinnitus
+toothache
+urinary incontinence
+urinary tract infection
+UTI
+vaginal discharge
+vertigo
+warts
+verrucas
+wrist problem
+hand problem
+finger problems
+cachexia
+loss of appetite
+weight loss
+weight gain
+dry mouth
+fatigue
+malaise
+asthenia
+muscle weakness
+pyrexia
+jaundice
+pain
+abdominal pain
+chest pain
+dyspareunia
+vaginismus
+bruising
+epistaxis
+tremor
+convulsions
+muscle cramps
+paralysis
+tinnitus
+dizziness
+vertigo
+syncope
+fecal incontinence
+cataplexy
+hypothermia
+hyperthermia
+neurological
+psychological
+anxiety
+ataxia
+catatonia
+dysarthria
+somnolence
+insomnia
+ocular
+amaurosis fugax
+amaurosis
+blurred vision
+double vision
+mydriasis
+miosis
+nystagmus
+gastrointestinal
+anorexia
+bloating
+belching
+blood in stool
+melena
+hematochezia
+constipation
+diarrhea
+dysphagia
+dyspepsia
+flatulence
+nausea
+pyrosis
+cardiovascular
+chest pain
+claudication
+palpitation
+tachycardia
+bradycardia
+arrhythmia
+reticulocytosis
+macrocytosis
+urologic
+dysuria
+polyuria
+hematuria
+urinary frequency
+urinary incontinence
+impotence
+pulmonary
+hypoventilation
+hyperventilation
+bradypnea
+apnea
+cough
+dyspnea
+hemoptysis
+pleuritic chest pain
+sputum production
+tachypnea
+integumentary
+rash
+itching
+edema
+anasarca
+blister
+urticaria
+paresthesia
+infection
+sinus
+respiratory infection
+acute respiratory infection
+seizures
+fatal encephalitis
+myalgia
+sore throat
+dizziness
+drowsiness
+altered consciousness
+neurological signs
+acute encephalitis
+pneumonia
+respiratory problems
+respiratory distress
+encephalitis
+seizures
+muscle ache
+malaise
+aseptic meningitis
+encephalitis

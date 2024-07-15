@@ -1,0 +1,1411 @@
+{
+  "events": [
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:24.221118",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "28 December 2001",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 December 2001 Disease Outbreak Reported\n\nAs of 27 December, 29 confirmed cases (12 laboratory and 17\nepidemiologically linked), including 20 deaths, have been reported.\u00a0 An additional 8\nsuspected cases are under investigation in Gabon. All contacts (having direct or suspected\ncontact with the blood or other body fluids of a case) are being closely monitored for\nsigns or symptoms of Ebola haemorrhagic fever for 21 days. Currently, 206 contacts are\nunder active follow up. We anticipate one or more cases may develop among these contacts.\n\nOf the 29 cases, 17 were detected in Gabon and 12 in the\nneighbouring villages of the Republic of the Congo. As of 27 December, 91\ncontacts are being followed up in Gabon and 115 in the Republic of the Congo. The\ninternational team is operational on both sides of the border and is working closely in\nthe field with the teams from the Congolese and Gabonese Ministries of Health on outbreak\ncontrol interventions.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:25.849197",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "24 December 2001",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "24 December 2001 Disease Outbreak Reported\n\nAs of 23 December, 27 confirmed cases (12 laboratory and 15 epidemiologically linked),\nincluding 18 deaths, have been reported. An additional 7 suspected cases are under\ninvestigation in Gabon. All contacts (having direct or suspected contact with the blood or\nother body fluids of a case) are being closely monitored for signs or symptoms of Ebola\nhaemorrhagic fever for 21 days. Currently, 203 contacts are under active follow up. We\nanticipate one or more cases may develop among these contacts.\n\nOf the 27 cases, 15 were detected in Gabon and 12 in the\nneighbouring villages of the Republic of the Congo.\u00a0 As of 23\nDecember, 109 contacts are being followed up in Gabon and 94 in the Republic of the Congo.\n\u00a0 The international team is operational on both sides of the border and is working\nclosely in the field with the teams from the Congolese and Gabonese Ministries of Health\non outbreak control interventions.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:27.405030",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "20 December 2001",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 December 2001 Disease Outbreak Reported\n\n\n\nAs of\n19 December, 27 cases have been reported (25 confirmed cases: 8 laboratory confirmed, 17\nepidemiologically linked to cases and 2 suspected cases under investigation) including 15\ndeaths.\u00a0 A total of 227 contacts (having direct or suspected contact with the blood\nor other body fluids of a case) have been identified and are under active follow up.Of the 27 cases, 16 were detected in Gabon and 11 in the\nneighbouring villages of the Republic of the Congo (see map below).\u00a0 As of 19\nDecember, 133 contacts are being followed up in Gabon and 94 in the Republic of the\nCongo.\u00a0 The international team is operational on both sides of the border and is\nworking closely in the field with the team from the Congolese Ministry of Health on\noutbreak control interventions.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:29.025408",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "18 December 2001",
+        "Location": "Belgium",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 December 2001 Disease Outbreak Reported\n\nAs of 18 December, 19 cases have been reported (2\nlaboratory confirmed) including 13 deaths.\u00a0 A total of 193 contacts have been\nidentified and are under active follow up.\n\nAdditional staff with expertise in case management of\nhaemorrhagic fevers from the Centers for Disease Control and Prevention (CDC, Atlanta) and\nM\u00e9decins sans Fronti\u00e8res (Belgium), partners in the Global Outbreak Alert and\nResponse Network, have joined the International team.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:30.561263",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "17 December 2001",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 December 2001 Disease Outbreak Reported\n\nAs of 17 December, the Gabon Ministry of Health has\nreported 16 suspected cases (2 laboratory confirmed) including 12 deaths (see previous report). One hundred and fifty-five contacts\nhave been identified.\u00a0 The International team has established operations in two\nareas: in Makokou and in Zadie District (includes Mekambo and the area around\nEkata/Mendemba).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:32.201373",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "16 December 2001",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 December 2001 Disease Outbreak Reported\n\nAs of 16 December, the Gabon Ministry of Health has\nreported 15 suspected cases ( 2 laboratory confirmed) including 12 deaths (see previous report).\u00a0\n\nThe joint Gabonese-International team is at the outbreak\nsite and is actively tracing suspected cases and contacts. In addition, the\u00a0 team is\nestablishing an isolation unit and carrying out education in the local communities aimed\nat preventing exposure.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:33.737770",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "13 December 2001",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "13 December 2001 Disease Outbreak Reported\n\nAs of 13 December The Gabon Ministry of Health has reported\n14 suspected cases (2 laboratory confirmed) including 10 deaths.(see previous report).\n\nA team from MSF Belgium and EPICENTRE (both partners in the\nGlobal Outbreak Alert and Response Network) arrived in Libreville this morning to join\ninternational experts already in the country.\n\nThe International Response Team met with the Ministry of\nHealth in Libreville on Tuesday 11 December and assisted the Ministry of Health in\ncompleting the organizational and coordination arrangements for the response. This\nincludes a Comit\u00e9 Politique Interminist\u00e9riel, Comit\u00e9 de Coordination Generale, Comit\u00e9\nProvincial and Comit\u00e9 de Coordination Technique et Scientifique de Lutte with technical\nsub-committees for epidemiology and surveillance, case management, community sanitation\nand hygiene, health education, logistics and research. Technical meetings with the\nGabonese health and military personnel were held on 12 December to organize the teams,\ntheir programme of work and the tools (e.g. epidemiologic forms and databases) and\nmaterials needed in the field.\n\nThe joint Gabonese-International team is leaving for the\nfield after making the necessary logistic preparations to travel to the outbreak site to\nestablish an isolation unit and implement a surveillance system.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:36.495534",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "11 December 2001",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 December 2001 Disease Outbreak Reported\n\nAs of 11 December 2001, WHO has received reports of 12\nsuspected cases, including 10 deaths from haemorrhagic fever. Laboratory testing carried\nout at the Centre International de Recherches M\u00e9dicales de Franceville (CIRMF), Gabon has\nconfirmed Ebola virus in one sample from a recovering case in Ogoou\u00e9 Ivindo Province (see previous report).\n\nThe Gabon Ministry of Health has established a national task force for managing the\nresponse to the epidemic.\u00a0 An international team from WHO and its partners in the\nGlobal Outbreak Alert and Response Network arrived in Gabon today and will assist the\nMinistry of Health in:\n\ncoordinating the international response to the outbreak, \nimplementing disease control measures, such as barrier nursing procedures, \nfinding cases, tracing contacts and monitoring them, and \nsupplying protective equipment. \n\n\n\nGabon's first verified Ebola outbreak occurred in December 1994. Investigators\nstudying the outbreak were told of unexplained deaths of great apes, gorillas and\nchimpanzees, but no dead animals were found. The outbreak ended six weeks later.\n\nTwo other Ebola epidemics were confirmed in the spring and autumn of 1996. In early\nFebruary, about 40 km south (seven hours by boat) from the 1994 outbreak, 13 people became\nill after butchering a\u00a0 dead chimpanzee they had found. In October of that year,\nanother Ebola epidemic was confirmed in the same general region and led to the\nintroduction of the outbreak in South Africa where one person died.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:38.037425",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "7 December 2001",
+        "Location": "Somalia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 December 2001 Disease Outbreak Reported\n\nSince 13 October 2001, 49 cases and 6 deaths have been\nreported to WHO in Hargersa town (estimated population: 300-400 000).\u00a0 Neisseria\nmeningitidis\u00a0 serogroup A has been laboratory confirmed.\u00a0 The following\nmeasures have been taken to control the outbreak: surveillance through 19 health\nfacilities, distribution of surveillance and case management guidelines and activation of\nthe local crisis committee.\u00a0 The local health authority, WHO, UNICEF and\nnongovernmental organizations in the area are monitoring the situation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:39.527166",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "5 December 2001",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "05 December 2001 Disease Outbreak Reported\n\nOn 4 December, WHO received reports of 7 deaths in an\noutbreak of suspected viral haemorrhagic fever in Ogoou\u00e9 Ivindo Province in the\nnorth-eastern part of the country.\n\nA team from the Gabon Ministry of Health and the Centre\nInternational de Recherches M\u00e9dicales de Franceville (CIRMF), supported by military\nmedical personnel and the WHO sub-Regional Epidemic Response Team are en route to Ogoou\u00e9\nIvindo Province today for a preliminary field investigation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:46.128877",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "27 November 2001",
+        "Location": "Nigeria",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 November 2001 Disease Outbreak Reported\n\nAs of 14 November 2001, Nigeria has reported a total of 724 cases and 52 deaths.\n\nThe following areas have been affected:\n\n\nAKWA Ibom State, Opkoso health district: 25 cases and 8 deaths. \n\n\nKWARA State, Bode Saadu : 124 cases and 16 deaths. \n\n\nKANO State, Kano Metropolis: 575 cases and 28 deaths. \n\n\n\u00a0WHO has provided cholera kits and technical assistance for outbreak investigation\nand control.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:47.765111",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "15 November 2001",
+        "Location": "Belgium",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 November 2001 Disease Outbreak Reported\n\nThe patient who was infected with yellow fever while\ntravelling in The Gambia died in a hospital in Belgium on 14 November 2001.\n\nWHO advises all travellers to be aware\nof the risk of yellow fever and to ensure that they are vaccinated if they are travelling\nto areas where there is a risk of yellow fever transmission.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:49.298484",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "12 November 2001",
+        "Location": "Belgium",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 November 2001 Disease Outbreak Reported\n\nThe Belgian Ministry of Health has confirmed a case of\nyellow fever imported into Belgium.\u00a0 The patient had returned from a holiday in The\nGambia where she initially became ill.\u00a0 She returned to Belgium on 8 November.\n\u00a0 Tests on clinical samples performed at the the Bernhard Nocht Institute, Hamburg,\nGermany, have confirmed the diagnosis.\u00a0\u00a0\n\nShe is currently stable and receiving treatment in a\nBelgian hospital. It has been reported that she had not previously been vaccinated against\nyellow fever.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:50.971793",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "22 October 2001",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 October 2001 Disease Outbreak Reported\n\nAs of 16 October 2001, WHO has reported a total of 378\ncases, including 32 deaths (case-fatality rate of 8.46%) in 15 health districts of Katana\nhealth zone, South-Kivu province. Neisseria meningitidis serogroup A has been\nlaboratory confirmed for this outbreak\u00a0 A\u00a0 selective vaccination campaign has\nbeen undertaken in the affected area (see previous report)\nand WHO is providing an additional 300,000 doses of vaccine to widen the target population\nin the campaign.\u00a0 WHO and nongovernmental organizations active in health care in this\narea are working with the Ministry of Health; health education and community mobilization\nare continuing.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:52.576628",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "10 October 2001",
+        "Location": "Angola",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 October 2001 Disease Outbreak Reported\n\nAs of 2 October, a total of\u00a0 332 cases and 30 deaths\nhas been reported to WHO from Angola.\u00a0 The provinces primarily affected are:\nBenguela, Cunene, Luanda, Lunda Sul and Cuando Cubango. The epidemic reported in Balombo district in Benguela\nprovince earlier this year is now over, following a vaccination campaign.\u00a0 Cases\ncontinue to be reported from Cunene province.\u00a0 However, the latest information\nindicates the weekly number to be declining.\u00a0 A joint investigation team of the\nMinistry of Health and WHO found that epidemiological surveillance and epidemic\npreparedness and response capacity needed to be strengthened in Angola, including improved\naccess to emergency supplies.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:08:59.131136",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "10 October 2001",
+        "Location": "France",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 October 2001 Disease Outbreak Reported\n\nAs of 8 October, 2001 the Ministry of Health has reported\n203 suspected cases with 21 deaths (in 20 districts of the country), of which 23 are\nlaboratory confirmed. Included in the overall numbers are 55 suspected case in Abidjan\nwith 7 deaths, of which 7 are laboratory confirmed.\n\nMass vaccination campaign\nIn response to the first epidemic of urban yellow fever in Africa in 10 years, with\nthe potential for many deaths and very serious humanitarian consequences, a mass\nvaccination campaign targeting 2.9 million persons began on 21 September and ended on 2\nOctober.\u00a0 Preliminary data shows that 2,610,994 people were immunized during the\n10-day campaign. Vaccinations were not given 28-29 September in order to replenish vaccine\nstocks.\n\nThe surveillance programme for adverse events following vaccination\nregistered a total of 59 persons. All these individuals are in good health. There have\nbeen no deaths.\n\nOngoing technical support\nWHO, working closely with UNICEF, has coordinated international technical assistance\nfrom partner institutions in the Global Outbreak Alert\nand Response Network.\n\nSocial Mobilization \n660 volunteers from the local Red Cross Society played a vital role in social\nmobilization activities and operational support to the mass campaign.\n\nEpidemiology\nCenters for Disease Control and Prevention (CDC), Epicentre, France and WHO provided\nepidemiological support to national surveillance for yellow fever in other regions of\nC\u00f4te d'Ivoire.\u00a0 WHO is providing support to the National Institute for Public Health\n(INHP) to strengthen disease surveillance activities during the post-epidemic period. \n\nVector Control/Entomology\nCDC and WHO have supported national entomologists in vector control. \nVaccination campaign in Attecoube, Abidjan,\nSeptember 2001\n\nLaboratory Services\nLaboratory specialists from the Institut Pasteur in Dakar, Senegal and from Lyon,\nFrance have assisted the Institut Pasteur in Abidjan in establishing PCR for virologic\ndiagnosis. The Institut Pasteur in Paris is supporting their efforts.\n\nCoordination\nOutbreak response operations are directed by the WHO office in Abidjan and focal\npoints for epidemiology, immunization, and vector control.\n\nWHO and UNICEF have spent US$1.1m on vaccine and\nsupplies. Procurement and delivery of vaccines and supplies have been completed through\nthe yellow\nfever sub-group of the International\nCoordinating Group on Vaccine Provision\u00a0 (ICG)\u00a0 in collaboration with\nM\u00e9decins sans Fronti\u00e8res (MSF), the International Federation of Red Cross and Red\nCrescent Societies (IFRC), UNICEF and WHO.\u00a0 Additional funds are urgently needed to\ncomplete financing of the operation.\n\n\nStaff of the Institut Pasteur, Abidjan.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:00.661654",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "26 September 2001",
+        "Location": "Burkina Faso",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 September 2001 Disease Outbreak Reported\n\nMinistries of Health in Burkina Faso and C\u00f4te d'Ivoire\nhave reported updates to WHO.\u00a0 Please note that the increase in the total number of\ncases from the last report of 17 September does not\nnecessarily indicate that the increase occurred during this period.\u00a0 Rather, it is\nthe result of late reporting of data.\n\nBurkina Faso:\u00a0 314 cases including 6\ndeaths, with a case-fatality rate of 1.9% have been reported between 14 July and 16\nSeptember 2001 in the district of Ourgaye, in the region of Tenkodogo, in the southern\npart of the country near the border with Togo. \u00a0Laboratory tests have confirmed Vibrio\ncholerae. The Ministry of Health is taking preventive measures.\n\nC\u00f5te d'Ivoire: As of 21 September, 3152\ncases, including 175 deaths have been reported between May and September in the entire\ncountry.\u00a0 2012 cases, including 51 deaths have been reported in Abidjan.\u00a0The\nMinistry of Health, assisted by M\u00e9decins sans Fronti\u00e8res and Epicentre (France) are\ncarrying out treatment and implementing measures to control the outbreak.\n\nNew report: \nGuinea: 155 cases, including 12 deaths have been reported from 6 August to 23\nSeptember in N'zerekore region in the south-eastern part of the country, bordering C\u00f4te\nd'Ivoire in the east and Liberia in the south. The Ministry of Health, assisted by WHO and\nthe International Federation of Red Cross and Red Crescent Societies is working to improve\nthe supply of safe water and carrying out health education and preventive measures.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:02.203993",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "25 September 2001",
+        "Location": "Guinea",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "25 September 2001 Disease Outbreak Reported\n\nAs of 24 September, the Ministry of Health has reported 18\nsuspected cases, of which 2 have been laboratory confirmed and 2 deaths in Conakry. \u00a0\nIn addition, 11 suspected cases have been reported in N'zerekore region.\u00a0 The supply\nof reagents for yellow fever diagnostic tests has been depleted and samples have been sent\nto the Institut Pasteur in Paris for testing.\n\nThe Ministry has established a National Epidemic Committee,\nwith the participation of\u00a0 WHO, UNICEF, the French and Canadian governments,\nM\u00e9decins sans Fronti\u00e8res, the International Federation of Red Cross and Red Crescent\nSocieties and the Guinean Red Cross.\n\nA treatment centre has been set up in Donka National\nHospital, surveillance has been reinforced and vector control activities are underway in\nthe affected quarters of Conakry.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:03.738468",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "18 September 2001",
+        "Location": "France",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 September 2001 Disease Outbreak Reported\n\nAs of 17 September, the Ministry of Health has reported 153\nsuspected cases, of which 22 are confirmed, and 20 deaths in the entire country.\u00a0 In\nAbidjan 34 suspected cases have been reported, of which 7 are confirmed, and 7 deaths.\n\nThe Ministry of Health is continuing its vaccination\ncampaigns using existing national vaccine stocks in the areas of Abidjan where cases have\nbeen identified.\u00a0 With the assistance of M\u00e9decins sans Fronti\u00e8res (MSF), the\nMinistry of Health has carried out a vaccination campaign in La MACA prison and\nsurrounding area of Abidjan.\u00a0\n\nAn Operations Centre has been established by the Ministry\nof Health for the imminent mass vaccination campaign in the city on 21 September.\nTechnical coordinators are in place to oversee the vaccination campaign, epidemiology and\nsurveillance and vector control.\u00a0 An international team coordinated by WHO,\nconsisting of UNICEF, MSF and \u00a0Epicentre (France), partners in the Global Outbreak Alert and Response Network, are on site\nand staff from WHO Collaborating Centres at the Centers for Disease Control and Prevention\n(CDC) are due to arrive later this week.\n\n1.4 million doses of vaccines have arrived on 18 September\nand 600,000 doses will follow later this week to supply the mass vaccination campaign in\nAbidjan.\u00a0 Following WHO's launch of an urgent appeal for US$ 2.9\nmillion to cover the cost of the mass vaccination campaign, the United Kingdom\nDepartment for International Development (DFID) has pledged US$ 380,000 for vaccine.\n\u00a0The International Federation of Red Cross and Red Crescent Societies is in the\nprocess of issuing an appeal for contributions by national Red Cross societies to support\nthe participation of C\u00f4te d'Ivoire Red Cross volunteers in the campaign.\u00a0 In\naddition, US$ 600,000 has been pledged by the French government, European Commission, WHO\nand UNICEF to cover the operational costs and vector control activities.\n\nWHO advises travellers to C\u00f4te d'Ivoire to be aware of the\nrisk of yellow fever and to ensure that they are vaccinated, a requirement of the International\nHealth Regulations.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:05.238735",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "17 September 2001",
+        "Location": "Togo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 September 2001 Disease Outbreak Reported\n\nWHO has received reports of cholera outbreaks in Burkina\nFaso, C\u00f4te d'Ivoire and Niger.\u00a0 These outbreaks follow the cholera outbreaks which\nbegan in April 2001 in nearby countries: Ghana, Togo and Benin.\n\nBurkina Faso:\u00a0 55 cases including 3\ndeaths have been reported between 14 July and 4 September 2001 in the district of Ourgaye,\nin the region of Tenkodogo, in the southern part of the country near the border with Togo.\n\u00a0 Laboratory tests have confirmed Vibrio cholerae. The Ministry of Health is\ntaking preventive measures.\n\nC\u00f5te d'Ivoire: As of 12 August, 897\ncases, including 47 deaths have been reported in Abidjan.\u00a0The Ministry of Health,\nassisted by M\u00e9decins sans Fronti\u00e8res has established special health care facilities to\nreceive patients and\u00a0carry out treatment.\n\nNiger: 13 cases including 3 deaths have\nbeen reported between 27 August and 2 September 2001 in Fillingu\u00e9 district, in the region\nof Tillaberi, in the south-western part of the country.\u00a0\u00a0 Laboratory tests have\nconfirmed Vibrio cholerae.\u00a0 An investigation by the Ministry of Health is\nunderway in the district to assess control measures taken so far.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:06.810534",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "5 September 2001",
+        "Location": "Norway",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "05 September 2001 Disease Outbreak Reported\n\nAs of 4 September 2001 the National Institute of Public\nHealth (NIPH) Oslo, Norway has reported a total of 19 cases (17 confirmed by urinary\nantigen detection and 2 probable cases) including 2 deaths in Stavanger on the west coast\nof Norway.\n\nThe first patient presented with symptoms on 26 July, while\nthe latest case presented with symptoms on 1 September. All the patients had visited a\nlimited area of the centre of Stavanger within ten days of the onset of symptoms.\n\nLocal health authorities in collaboration with NIPH have\nidentified several possible sources of legionellosis within this area, including a water\nfountain situated in a park and several cooling towers. Results from samples taken from\nthese possible sources are pending. The fountain in question has been closed down and all\ncooling towers in the vicinity have been disinfected.\n\nWHO encourages those who have information regarding\npossible cases in persons who may have been in Stavanger during this period to contact\ndirectly one of the following:\n\nPreben Aavitsland ([email\u00a0protected]),\nNational Institute of Public Health, Oslo, Norway\n\nHans Blystad ([email\u00a0protected]),\nNational Institute of Public Health, Oslo, Norway",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:08.451142",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "23 August 2001",
+        "Location": "Liberia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 August 2001 Disease Outbreak Reported\n\nWHO has reported 3 suspected cases of yellow fever in\nMaryland county, in the south-eastern part of the country. \u00a0 One case with disease\nonset on 1 August has been confirmed (IgM positive) by the Institut Pasteur in Abidjan,\nC\u00f4te d'Ivoire.\u00a0 All three cases have\u00a0 died.\u00a0\n\nThe Ministry of Health's Epidemic Management Committee is\nplanning a vaccination campaign in the affected county, but additional vaccine stocks will\nbe needed to implement the emergency immunization programme.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:10.088621",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "22 August 2001",
+        "Location": "Chad",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 August 2001 Disease Outbreak Reported\n\nAs of 21 August, WHO has reported a total of 2458 cases\nincluding 88 deaths, with a case-fatality rate of 3.5% in the south-western part of the\ncountry.\n\nThe Ministry of Health, with the assistance of WHO and\nM\u00e9decins sans Fronti\u00e8res, is continuing its surveillance and health education\nactivities.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:11.625027",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "15 August 2001",
+        "Location": "Angola",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 August 2001 Disease Outbreak Reported\n\nSince the third week of May, 77 cases and 17 deaths\n(case-fatality rate of 22%) have been reported to WHO in the Balombo district of Angola.\n\u00a0 Neisseria meningitidis\u00a0 serogroup A has been laboratory confirmed.\n\u00a0 The epidemic threshold of 15 cases per 100 000 population per week has been exceeded in\nthe affected district and the cumulative attack rate is 212 per 100 000 population since\nthe beginning of the year.\u00a0 Data from other districts is unavailable at the present\ntime.\n\nOn 13 August, a mass vaccination campaign was launched\ntargeting the population of Balombo district over 2 years of age.\u00a0 M\u00e9decins sans\nFronti\u00e8res is supporting the mass vaccination campaign and has provided vaccines,\nautodestruct syringes and oily chloramphenical for case management.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:13.160202",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "14 August 2001",
+        "Location": "India",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 August 2001 Disease Outbreak Reported\n\nDetected through its early warning surveillance\nsystem, the Government of Orissa has reported 34 111 cases of diarrhoea including 33\ndeaths, in 24 districts in Orissa State since 7 July 2001, related to the floods that\noccurred at that time. Orissa has a population of 37 million people, of which 8 million\nwere affected by the floods.\n\nAmong the cases of severe acute diarrhoea in a cluster of\n121 samples (taken from 5 districts) positive for Vibrio cholerae, 46 % were\npositive for serogroup O139. This proportion of O139 is high compared to the rates found\nin neighbouring Bangladesh, where there were 24 % positive isolates for O139 in\nnon-coastal areas and 7.2 %in coastal areas in 2000.\n\nWHO is assisting the national health authorities in\ncontinuing surveillance.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:15.799532",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "6 August 2001",
+        "Location": "Chad",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 August 2001 Disease Outbreak Reported\n\nAs of 3 August, WHO has reported a total of 1111 cases\nincluding 33 deaths. The majority of cases are from N'djamena district (921 cases, 27\ndeaths), while Massakory has reported 156 cases, 5 deaths, Bongo 24 cases, 1 death and\nBol, 10 cases.\n\nThe ongoing Emergency Coordination Committee in the\nMinistry of Health, assisted by WHO, UNICEF and NGOs is overseeing the containment of the\noutbreak and sent a team to Massakory to assess the situation.\u00a0 Surveillance\nstrengthening, health education and improving public hygiene is continuing.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:17.352281",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "26 July 2001",
+        "Location": "Afghanistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 July 2001 Disease Outbreak Reported\n\nAs of 25 July 2001, WHO has reported a total of 4499 cases\nincluding 114 deaths. The cases have occurred in the northern region (Khulm, Aibak),\nnorth-east region (Faizabad, Kunduz), eastern region, southern region and south-east\nregion.\n\nWHO is assisting the Ministry of Public Health of\nAfghanistan to coordinate the response to the outbreak.\u00a0 WHO has sent 2 assessment\nmissions to the affected areas and distributed medical supplies.\u00a0 M\u00e9decins sans\nFronti\u00e8res (MSF) is also working with WHO and the Ministry of Public Health to control\nthe outbreak.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:18.891842",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "26 July 2001",
+        "Location": "Chad",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 July 2001 Disease Outbreak Reported\n\nAs of 25 July 2001, the Ministry of Health of Chad reported\na total of 608 cases including 20 deaths.\u00a0 The majority of cases have been in\nN'djamena district, with 22 cases and 2 deaths reported from newly affected areas: 17\ncases in Massakory, 4 cases in Bongo and 1 case in Moundou.\n\nWHO is working with the Ministry of Health and M\u00e9decins\nsans Fronti\u00e8res (MSF) to assist in responding to the outbreak.\u00a0 Control measures\nincluding strengthening surveillance, health education and improvement of public hygiene\nin food outlets.\u00a0 WHO have provided additional supplies.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:20.460338",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "18 July 2001",
+        "Location": "Spain",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 July 2001 Disease Outbreak Reported\n\nAs of 18 July, the National Centre for Epidemiology, Spain,\nhas reported a total of 751 cases of suspected legionellosis in Murcia (see previous report). Three-hundred-ten of these cases have\nbeen laboratory confirmed. The first case was hospitalized on 1 July. Two deaths (one\nconfirmed case and one suspected case) have been reported. No cases have been reported\namong tourists.\n\nSince 7 July, incidence has declined rapidly and there have\nbeen no new cases reported since 14 July. The epidemiological investigation and\nsurveillance are continuing. The most likely source of the outbreak is a cooling tower in\nthe city centre. The cooling tower has now been disinfected.\n\nAdditional information received after this posting\nindicates that several cooling towers in the area were positive for Legionella by the\npolymerase chain reaction (PCR), but the organism has not been isolated thus far. Control\nmeasures have focused on all cooling towers which may be involved, as well as other\npotential sources.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:27.086672",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "3 July 2001",
+        "Location": "France",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "03 July 2001 Disease Outbreak Reported\n\nDuring 2001 WHO has received reports of cases of W135\nmeningococcal disease, mainly associated with international travel or contact with\ntravellers to Saudi Arabia.\n\nFrance has updated its figures since the last report. Six cases (contacts with Haj pilgrims)\nhave now been reported. N. meningitidis serogroup W135 has been laboratory\nconfirmed.\n\nFor information about reports from other countries as well\nas background information and WHO recommendations for the control of meningococcal\ndisease, please see the last report of 22 June 2001.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:28.623699",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "29 June 2001",
+        "Location": "Canada",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "29 June 2001 Disease Outbreak Reported\n\nAs of 26 June, WHO has reported 69 suspected cases, out of\nwhich 6 have died.\u00a0 Of these, 18 are confirmed CCHF (15 laboratory and 3\nclinical/epidemiological grounds).\u00a0 Thirty-four are laboratory negative and 17 are\nstill under investigation.\u00a0\n\nWHO Kosovo continues to support the epidemic response\ncommittee managing the outbreak, assisted by partners in the Glbal Outbreak Alert and Response\nNetwork: the WHO Collaborating Centre for Arbovirus and Haemorrhagic Fever Reference\nand Research in Ljubljana, Slovenia, is providing laboratory support; and a clinician with\nspecific expertise in hospital infection control from the North Manchester General\nHospital, Department of Infectious Diseases, United Kingdom, is helping to strengthen\nprocedures at the isolation unit.\n\nIn response to a WHO request from partners in the Global\nOutbreak Alert and Response Network for epidemiology support to the Institute of Public\nHealth, Kosovo, two Canadian field epidemiologists from Health Canada will be assisting\nthe Institute with data management in the CCHF outbreak. Their assistance is supported by\nthe Canadian Public Health Association and the Canadian International Development Agency.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:30.880440",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "22 June 2001",
+        "Location": "Saudi Arabia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 June 2001 Disease Outbreak Reported\n\nDuring 2001 the following countries have reported cases of W135 meningococcal disease\nto WHO (see previous report) ; most cases are\nassociated with international travel or contact with travellers to Saudi Arabia:\n\nBurkina Faso: N. meningitidis serogroup W135 has been laboratory confirmed\nin 4 cases by the Centers for Disease Control and Prevention, Atlanta, United States.\nTravel/contact history of cases is not yet known. \n\nFollowing a joint mission of Institut Pasteur, Paris and Association pour la\nM\u00e9decine Pr\u00e9ventive (AMP) ) to investigate the epidemic meningitis situation, 10\nadditional cases of N. meningitidis W135 were laboratory confirmed.\u00a0 The\nsamples were taken from documented cases between 10-24 April 2001 and the proportion of N.\nmeningitidis isolates belonging to the W135 serogroup was found to be 37% of the total\nN. meningitidis isolates identified by PCR on collected specimens.\u00a0 None of\nthe cases had any relationship with the 2001 Haj pilgrimage (travel or contact history).\n\u00a0 Among 4 strains that were cultured from the same period, 3 were W135:2a:P1-2,5 and\nbelong to the ET-37 complex.\n\nNiger: A joint mission of Institut Pasteur, Paris and AMP investigated the epidemic\nmeningitis situation and identified 10 laboratory confirmed cases of N. meningitidis W135.\nThe samples were taken from documented cases between 10-16 April 2001 and the proportion\nof N. meningitidis isolates belonging to the W135 serogroup was found to be 40% of\nthe total N. meningitidis isolates identified by PCR on collected specimens. \u00a0\nNone of the cases had any relationship with the 2001 Haj pilgrimage (travel or contact\nhistory).\n\nCentral African Republic: 3 cases (Haj pilgrims) have been reported. N.\nmeningitidis serogroup W135 have been laboratory confirmed.\n\nDenmark: 2 cases (one case close contact with Haj pilgrims, the travel/contact\nhistory of the second case is not yet known)have been reported. N. meningitidis\nserogroup W135 has been laboratory confirmed.\n\nFrance: 2 cases (close contacts with Haj pilgrims) have been reported. N.\nmeningitidis serogroup W135 has been laboratory confirmed.\n\nNorway: 4 cases (2 contacts with Haj pilgrims) have been reported. N.\nmeningitidis serogroup W135 has been laboratory confirmed.\n\nSaudi Arabia: 109 cases (predominantly Haj pilgrims from outside Saudi Arabia)\nincluding 35 deaths have been reported between 9 February and 22 March 2001. N.\nmeningitidis serogroup W135 has been laboratory confirmed in more than half of the\ncases.\n\nSingapore: 4 cases (3 close contacts with Haj pilgrims, 1 history of travel to\nSaudi Arabia), including 1 death have been reported. Two of the cases occurred in January\n2001, before the main period of pilgrimage to Saudi Arabia. N. meningitidis\nserogroup W135 has been laboratory confirmed.\n\nUnited Kingdom of Great Britain and Northern Ireland: 41 cases (8 pilgrims\nreturning from the Haj, 19 cases of close contacts and data outstanding on the remaining\ncases) including 11 deaths of laboratory confirmed invasive N. meningitidis\nserogroup W135 have been reported.\n\nMeningococcal disease. As with all types of meningococcal disease, early diagnosis\nand treatment are essential. The symptoms of group W135 meningococcal disease are the same\nas for other groups of the disease: sudden onset of intense headache, high fever, nausea,\nand vomiting, photophobia and stiff neck. The most severe clinical form of the disease,\nmeningococcal septicaemia can be presented by abrupt onset, high fever, petechial rash or\npurpura.\n\nWHO recommends that chemoprophylaxis be given to close contacts of the cases, such as\npersons sleeping in the same dwelling. In most countries rifampicin is recommended.\n\nIn preparation for the Umrah and the Haj seasons for next year, the Ministry of Health\nof the Government of Saudi Arabia has notified the Ministries of Health of all countries\nfrom which pilgrims arrive, that the vaccination against meningococcal meningitis with the\nquadrivalent vaccine (serogroups A,C, Y and W135) has been added to the health\nrequirements for arrivals coming to the Umrah and Haj.\n\nWHO encourages national reference laboratories to closely monitor meningococcal\ndisease.\n\nFor further information, see the Control of Epidemic Meningococcal Disease.\nWHO Practical Guidelines. 2nd edition\n(in English\nand in French,\nwith annexes)\n\nIn order to fully identify and follow the epidemiological spread of the W135 strain,\nWHO encourages countries to send specimens to WHO Collaborating Centres for Meningococcal\nInfections. The Centres are:\n\nInstitut de M\u00e9decine Tropicale du Service de Sant\u00e9 des Arm\u00e9es\nParc du Pharo, B.P. 46\nF-13998 Marseille-Arm\u00e9es\nFrance\nDr. Pierre Nicolas\nTel: +33 4 91 15 01 15\nFax: +33 4 91 59 44 77\nE-mail:[email\u00a0protected]\n\nWHO Collaborating Centre for Control of Epidemic Meningitis\nCenters for Disease Control and Prevention\nAtlanta, GA 30333\nUnited States of America\nDr. Tanja Popovic\nTel: +1 404 639 17 30\nFax: +1 404 639 31 23\nE-mail: [email\u00a0protected]\n\nWHO Collaboration Centre for Reference and Research on Meningococci\nDepartment of Bacteriology \nNational Institute of Public Health\nPO Box 4404\nTorshov\nN-0403 Oslo\nNorway\nDr. Dominique Caugant\nTel: + 47 22 04 23 11\nFax: + 47 22 04 25 18\nE-mail:[email\u00a0protected]\n\nFor further information, please contact: [email\u00a0protected]",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:32.412969",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "20 June 2001",
+        "Location": "Slovenia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 June 2001 Disease Outbreak Reported\n\nFor the period 18-19 June, 3 new\nsuspected cases were registered. From May 18, 2001 to June 19, 2001, 57 suspected CCHF\ncases were registered, out of which 4 have died. Of these, 12 have been classified as\nconfirmed (10 laboratory and 2 on clinical/epidemiological grounds). Twenty-seven cases\nare laboratory negative and 18 further suspected cases were still under investigation. Of\nthe 12 confirmed cases, 5 were infected through contact with 1 case with haemorrhagic\ndisease. The remainder (7) are likely to be primary infections (Source: Institute of\nPublic Health, Pristina, Kosovo).\n\nMost of the primary infections have occurred in areas of\nKosovo that have had CCHF activity in previous years. CCHF infections are expected to\ncontinue throughout the summer and autumn months while ticks are active.\n\nThe WHO Collaborating Centre for Arbovirus and Haemorrhagic\nFever Reference and Research in Ljubljana, Slovenia, continues to provide support in the\nfield by extending the stay of their staff member. In addition the North Manchester\nGeneral Hospital, Department of Infectious Diseases, have provided a clinician with\nspecific expertise in hospital infection control who is working to strengthen procedures\nat the isolation unit.\n\nA two person WHO rapid assessment team carried out a\nmission to Kosovo from 12 to 15 June 2001. The team worked with the epidemic response\ncommittee, the Institute for Public Health, the Clinic for Infectious Diseases and WHO\nKosovo to support the outbreak response in epidemiology, laboratory support, case\nmanagement, hospital infection control, environmental control measures and health\neducation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:33.947338",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "15 June 2001",
+        "Location": "Slovenia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 June 2001 Disease Outbreak Reported\n\nFour new alerts of possible cases have been received since the update of 14 June, yielding a total of 48 case alerts. Of\nthe 48 case alerts received so far, 25 were negative for CCHF by laboratory tests. Nine\nare still under investigation. Clinical samples from the 4 newly reported patients are\nbeing transported to the WHO Collaborating Centre for Arbovirus and Haemorrhagic Fever\nReference and Research in Ljubljana, Slovenia.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:35.696501",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "11 June 2001",
+        "Location": "Slovenia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 June 2001 Disease Outbreak Reported\n\nThe etiology of the disease reported\non 8 June has now been laboratory confirmed as Crimean-Congo haemorrhagic fever\n(CCHF). The WHO Collaborating Centre for Arbovirus and\nHaemorrhagic Fever Reference and Research in Ljubljana, Slovenia, a partner in the Global Outbreak Alert and Response\nNetwork, reported to WHO on 9 June that multiple samples received late on 8 June were\npositive when tested by PCR and anti-CCHF virus IgM assays.\u00a0 A staff member from the\ncollaborating centre in Slovenia traveled to Pristina, Kosovo to assist with the\ncollection and handling of the specimens.\n\nWHO has been requested to provide further technical\nassistance to the Kosovo health authorities.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:37.224947",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "8 June 2001",
+        "Location": "Slovenia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "08 June 2001 Disease Outbreak Reported\n\nThe WHO Office in Kosovo has reported 27 cases and 4 deaths\nbetween 18 May and 7 June 2001 in the south-western area.\u00a0 Samples have been sent for\nlaboratory confirmation of the disease to the WHO Collaborating Centre for Arbovirus and\nHaemorrhagic Fever Reference and Research in Ljubljana, Slovenia, a partner in the Global Outbreak Alert and Response\nNetwork.\n\nThe health authorities have implemented prevention and\ncontrol measures and are investigating the outbreak.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:38.703237",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "7 June 2001",
+        "Location": "Peru",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 June 2001 Disease Outbreak Reported\n\nThe Ministry of Health has reported an outbreak of yellow\nfever in the Department of Loreto, in the Peruvian Amazon Region, in the districts of\nPuinahua, San Pablo and Iquitos. Eight cases have been laboratory confirmed, of which 2\nhave died.\u00a0 Twelve additional cases are under investigation.\n\nAn epidemiological investigation is underway and the WHO\nRegional Office for the Americas (PAHO) has mobilized 400 000 doses of vaccine for a\nvaccination campaign.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:40.300837",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "5 June 2001",
+        "Location": "Bangladesh",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "05 June 2001 Disease Outbreak Reported\n\nThe international team* has returned from the site of the\noutbreak in Meherpur district (see previous report).\nThe team carried out detailed surveys in the affected area, investigating a cluster of\ndeaths that occurred between 26 April and 10 May 2001.\u00a0 An extensive search revealed\nthat no new cases had occurred after mid-May. Laboratory tests are underway to try to\ndetermine the etiology of the outbreak.\n\nThe team recommended that surveillance should be maintained\nto detect any recurrence of a similar nature in Meherpur or elsewhere in the country.\n\u00a0 It was further recommended that the capacity to detect and respond rapidly to\noutbreaks should be strengthened at both national and district levels through developing\nguidelines, establishing and training a rapid response team, and maintaining appropriate\nsupplies and equipment for rapid response.\n\n* staff from the Bangladesh Ministry of Health, WHO staff\nfrom headquarters and the India country office, three epidemiologists from the Field\nEpidemiology Training Programme in Thailand - partners in the Global Outbreak Alert and Response\nNetwork, and staff from the International Center for Diarrhoeal Disease Research,\nBangladesh (ICDDRB).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:41.936609",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "30 May 2001",
+        "Location": "Bangladesh",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 May 2001 Disease Outbreak Reported\n\nAn international team made up of WHO staff from\nheadquarters and the India country office, three epidemiologists from the Field\nEpidemiology Training Programme in Thailand -partners in the Global Outbreak Alert and Response\nNetwork, and staff from the International Center for Diarrhoeal Disease Research,\nBangladesh (ICDDRB)\u00a0 has been assisting the Bangladesh Ministry of Health in its\nfollow up investigations in Meherpur district near the Indian border (see previous report).\n\nThe team arrived at the site of the outbreak on the\nafternoon of Monday, 28 May.\u00a0 The team is conducting detailed surveys in district\nhospitals, surrounding health facilities and in the affected village and will return to\nDhaka later today. A preliminary report from the team indicates that no cases of the\nneurological disease are presently occurring.\u00a0 Further investigation of the outbreak\nis continuing as its etiology is unknown at this time.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:43.465464",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "25 May 2001",
+        "Location": "Bangladesh",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "25 May 2001 Disease Outbreak Reported\n\nThe Bangladesh Ministry of Health has reported 28 cases in\nadult males, including 9 deaths betwen 26 April and 12 May in the Meherpur district, in\nthe western part of the country near the border with India. Symptoms include progressive\nfever, malaise, headache, coma and death.\n\nA team from the Bangladesh Ministry of Health has\ninvestigated the outbreak and collected samples from survivors and contacts. WHO and its\npartners are providing technical experts to assist the Ministry of Health in evaluating\nthe information from the investigation and to carry out further investigations as\nneeded.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:45.117517",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "18 May 2001",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 May 2001 Disease Outbreak Reported\n\nThere has been an increase in the number of deaths of\npoultry from influenza A(H5N1) virus in \nadditional retail live-bird poultry markets (see previous report)\nin Hong Kong SAR.\n\nAs a result, the Government of Hong Kong SAR has announced\nthat all wholesale and retail markets \nselling chickens will be closed and the birds will be destroyed.\u00a0 Retail outlets for\nlive chickens will \nremain closed for 4 weeks. Farms with live chickens ready for slaughter will be\ndepopulated within the next \ntwo weeks.\u00a0 Importation of chickens from the Mainland has been stopped.\n\nNo human cases of influenza A(H5N1) virus have been\ndetected.\u00a0 The strains isolated from the birds \ndiffer genetically from the H5N1 virus which caused human disease in 1997.\u00a0 There is\nno cause for \npublic health concern.\n\nClick on the website of the Government of Hong Kong\nSpecial Administrative Region of China\nfor further information.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:46.620858",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "17 May 2001",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 May 2001 Disease Outbreak Reported\n\n\n\nInfluenza A(H5N1) virus was recently detected in three retail\nlive-bird markets in Hong Kong Special Administrative Region of China, with increased\nmortality in the bird population noted in the last few days.\u00a0 No H5N1 viruses were\nisolated in other retail markets.\u00a0 No human\ncases of H5N1 virus have been detected.\u00a0 The strains isolated from the birds differ\ngenetically from the H5N1 virus which caused human disease in 1997.\u00a0 There is no\ncause for public health concern, but as a precautionary measure, the birds at all three\nretail markets have been destroyed and the markets cleansed and disinfected.\nFor further information, click on the website of the\nGovernment of Hong Kong\nSpecial Administrative Region of China.\n\nThe following is the transcript of the\nEnglish portion of the opening remarks made by Mrs Lily Yam, the Secretary for the\nEnvironment and Food, Hong Kong Special Administrative Region of China, at a press\nbriefing held on May 16:\nPrecautionary measures taken to prevent\nspread of chicken disease\nI have called this press briefing to\nannounce that at 3.30 this afternoon the Director of Agriculture, Fisheries and\nConservation has issued a notice declaring the poultry stalls in three markets as infected\nplaces in accordance with the Public Health (Animals and Birds) Regulations. The three\nmarkets are Yeung Luk Road Market in Sheung Wan, Fa Yuen Street Market, and the Smithfield\nRoad Market. \nThe Food and Environmental Hygiene\nDepartment has already started action to close these poultry stalls and the department has\nrequested all poultry stallholders to destroy the live birds in their stalls, and these\nstallholders will be given every assistance and advice by members of the Food and\nEnvironmental Hygiene Department. The department has also made appropriate arrangements\nfor the destroyed birds to be sent right away to a landfill for proper treatment. After\nall the birds have been destroyed, the poultry stalls in the markets will be thoroughly\ncleansed and disinfected. \nWe have taken this precautionary measure\nfor two reasons. The first is that since yesterday, in Yeung Luk Road Market, 763 chickens\nhave died. There are also a number of chicken deaths in the other two markets. Tests by\nthe Agriculture, Fisheries and Conservation Department have demonstrated that these\nchickens have died of avian influenza. I have to emphasize that there are many strains of\nH5N1 and according to the information currently available, only the H5N1 chicken strain\nthat we had in Hong Kong in 1997 would affect human beings, and the vast majority of H5N1\nstrains will not affect human beings.\nFrom samples we have recently collected\nfrom these three markets, a few are shown to contain the H5 virus, and genes sequencing\ntests have demonstrated that these viruses are not - I repeat not - the same as the kind\nof H5N1 chicken virus that we had in Hong Kong in 1997. Nonetheless, we feel that it is\nessential for us to take this precautionary measure because there is a need to destroy\nthese viruses thoroughly, to prevent their lingering in the market always with the\nprobability, no matter how low the possibility, that they might - they might - combine\nwith other viruses to result in a new strain which may affect human beings.\nI have to reiterate there is no cause for\npublic concern at this stage. This is a precautionary measure. The indication is that\nthere is no evidence that these viruses would affect human beings. Of course, the public\nis reminded to observe the usual hygiene standards. \nThe measures that we have taken and the\ntests that we have conducted, and the results, show that in Hong Kong we have one of the\nbest and thorough surveillance systems covering not just imported birds but also the\narrangements in our markets, and the public can rest assured that this surveillance system\nwill enable us to detect any problems as soon as they arise so that we can take the\nnecessary measures.\nThank you very much.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:48.213415",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "16 May 2001",
+        "Location": "Saudi Arabia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 May 2001 Disease Outbreak Reported\n\nDuring 2001 the following countries have reported\ncases of W135 meningococcal disease to WHO; most cases are associated with international\ntravel or contact with travellers to Saudi Arabia:\n\nBurkina Faso: 4 cases have been reported.\u00a0 N.\nmeningitidis serogroup W135 has been laboratory confirmed. Travel/contact history of\ncases is not yet known.\n\nCentral African Republic: 3 cases (Haj\npilgrims) have been reported. N. meningitidis serogroup W135 has been laboratory\nconfirmed.\n\nDenmark: 2 cases (one case close contact\nwith Haj pilgrims, the travel/contact history of the second case is not yet known)have\nbeen reported.\u00a0 N. meningitidis serogroup W135 has been laboratory confirmed.\n\nFrance: 2 cases (close contacts with Haj pilgrims)\nhave been reported. N. meningitidis serogroup W135 has been laboratory confirmed.\n\nNorway: 4 cases (2 contacts with Haj pilgrims) have\nbeen reported. N. meningitidis serogroup W135 has been laboratory confirmed.\n\nSaudi Arabia: 109 cases (predominantly Haj pilgrims\nfrom outside Saudi Arabia) including 35 deaths have been reported between 9 February and\n22 March 2001. N. meningitidis serogroup W135 has been laboratory confirmed in more\nthan half of the cases.\n\nSingapore: 4 cases (3 close contacts with Haj pilgrims,\n1 history of travel to Saudi Arabia), including 1 death have been reported. Two of the\ncases occurred in January 2001, before the main period of pilgrimage to Saudi Arabia. N.\nmeningitidis serogroup W135 has been laboratory confirmed.\n\nUnited Kingdom of Great Britain and Northern Ireland:\n41 cases (8 pilgrims returning from the Haj, 19 cases of close contacts and data\noutstanding on the remaining cases) including 11 deaths of laboratory confirmed invasive N.\nmeningitidis serogroup W135\u00a0 have been reported.\n\nMeningococcal disease. As with all types of\nmeningococcal disease, early diagnosis and treatment are essential. The symptoms of group\nW135 meningococcal disease are the same as for other groups of the disease: sudden onset\nof intense headache, high fever, nausea, and vomiting, photophobia and stiff neck. The\nmost severe clinical form of the disease, meningococcal septicaemia can be presented by\nabrupt onset, high fever, petechial rash or purpura.\n\nWHO recommends that chemoprophylaxis be given to close\ncontacts of the cases, such as persons sleeping in the same dwelling. In most countries\nrifampicin is recommended.\n\nIn preparation for the Umrah and the Haj seasons for next\nyear, the Ministry of Health of the Government of Saudi Arabia has notified the Ministries\nof Health of all countries from which pilgrims arrive, that the vaccination against\nmeningococcal meningitis with the quadrivalent vaccine (serogroups A,C, Y and W135) has\nbeen added to the health requirements for arrivals coming to the Umrah and Haj.\n\nWHO encourages national reference laboratories to closely\nmonitor meningococcal disease.\n\nIn order to fully identify and follow the epidemiological\nspread of the W135 strain, WHO encourages countries to send specimens to WHO Collaborating\nCentres for Meningococcal Infections. The Centres are:\n\nInstitut de M\u00e9decine Tropicale du Service de Sant\u00e9 des\nArm\u00e9es\nParc du Pharo, B.P. 46\nF-13998 Marseille-Arm\u00e9es\nFrance\nDr. Pierre Nicolas\nTel: +33 4 91 15 01 15\nFax: +33 4 91 59 44 77\nE-mail:[email\u00a0protected]\n\nWHO Collaborating Centre for Control of Epidemic Meningitis\nCenters for Disease Control and Prevention\nAtlanta, GA 30333\nUnited States of America\nDr. Tanja Popovic\nTel: +1 404 639 17 30\nFax: +1 404 639 31 23\nE-mail: [email\u00a0protected]\n\nWHO Collaboration Centre for Reference and Research on\nMeningococci\nDepartment of Bacteriology \nNational Institute of Public Health\nPO Box 4404\nTorshov\nN-0403 Oslo\nNorway\nDr. Dominique Caugant\nTel: + 47 22 04 23 11\nFax: + 47 22 04 25 18\nE-mail:[email\u00a0protected]\n\nFor further information, please contact: [email\u00a0protected]",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:50.028614",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "27 April 2001",
+        "Location": "Saudi Arabia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 April 2001 Disease Outbreak Reported\n\nDuring 2000, there was an international outbreak of\nmeningococcal disease caused by an unusual serogroup: W135\n\nDuring 2001 the following countries have reported cases of\nW135 meningococcal disease, associated with international travel or contact with\ntravellers to Saudi Arabia, to WHO:\n\nBurkina Faso: 4 cases have been reported.\u00a0 N.\nmeningitidis serogroup W135 has been laboratory confirmed.\n\nCentral African Republic: 3 cases (Haj\npilgrims) have been reported. N. meningitidis serogroup W135 has been laboratory\nconfirmed.\n\nFrance: 2 cases (close contacts with Haj pilgrims)\nand no deaths have been reported. N. meningitidis serogroup W135 has been\nlaboratory confirmed.\n\nNorway: 4 cases (2 contacts with Haj pilgrims) and no\ndeaths have been reported. N. meningitidis serogroup W135 has been laboratory\nconfirmed.\n\nSaudi Arabia: 109 cases (predominantly Haj pilgrims\nfrom outside Saudi Arabia) including 35 deaths reported between 9 February and 22 March\n2001. N. meningitidis serogroup W135 has been laboratory confirmed in more than\nhalf of the cases.\n\nSingapore: 4 cases (3 close contacts with Haj pilgrims,\n1 history of travel to Saudi Arabia) and no deaths have been reported. Two of the cases\noccurred in January 2001, before the main period of pilgrimage to Saudi Arabia. N.\nmeningitidis serogroup W135 has been laboratory confirmed.\n\nUnited Kingdom of Great Britain and Northern Ireland:\n28 laboratory confirmed cases including 7 deaths have been reported. Out of these cases, 8\nwere pilgrims returning from the Haj, 9 were close contacts of the latter, and data are\noutstanding on the remaining cases. 2 cases occurred in January prior to the main\npilgrimage period. N. meningitidis serogroup W135 has been laboratory confirmed.\n\nMeningococcal disease. As with all types of\nmeningococcal disease, early diagnosis and treatment are essential. The symptoms of group\nW135 meningococcal disease are the same as for other groups of the disease: sudden onset\nof intense headache, high fever, nausea, and vomiting, photophobia and stiff neck. The\nmost severe clinical form of the disease, meningococcal septicaemia can be presented by\nabrupt onset, high fever, petechial rash or purpura.\n\nWHO recommends that chemoprophylaxis be given to close\ncontacts of the cases, such as persons sleeping in the same dwelling. In most countries\nrifampicin is recommended.\n\nIn preparation for the Umrah and the Haj seasons for next\nyear, the Ministry of Health of the Government of Saudi Arabia has notified the Ministries\nof Health of all countries from which pilgrims arrive, that the vaccination against\nmeningococcal meningitis with the quadrivalent vaccine (serogroups A,C, Y and W135) has\nbeen added to the health requirements for arrivals coming to the Umrah and Haj.\n\nWHO encourages national reference laboratories to closely\nmonitor meningococcal disease.\n\nIn order to fully identify and follow the epidemiological\nspread of the W135 strain, WHO encourages countries to send specimens to WHO Collaborating\nCentres for Meningococcal Infections. The Centres are:\n\nInstitut de M\u00e9decine Tropicale du Service de Sant\u00e9 des\nArm\u00e9es\nParc du Pharo, B.P. 46\nF-13998 Marseille-Arm\u00e9es\nFrance\nDr. Pierre Nicolas\nTel: +33 4 91 15 01 15\nFax: +33 4 91 59 44 77\nE-mail:[email\u00a0protected]\n\nWHO Collaborating Centre for Control of Epidemic Meningitis\nCenters for Disease Control and Prevention\nAtlanta, GA 30333\nUnited States of America\nDr. Tanja Popovic\nTel: +1 404 639 17 30\nFax: +1 404 639 31 23\nE-mail: [email\u00a0protected]\n\nWHO Collaboration Centre for Reference and Research on\nMeningococci\nDepartment of Bacteriology \nNational Institute of Public Health\nPO Box 4404\nTorshov\nN-0403 Oslo\nNorway\nDr. Dominique Caugant\nTel: + 47 22 04 23 11\nFax: + 47 22 04 25 18\nE-mail:[email\u00a0protected]\n\nFor further information, please contact \u00a0\n[email\u00a0protected]",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:51.565272",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "23 April 2001",
+        "Location": "Ethiopia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 April 2001 Disease Outbreak Reported\n\nSee previous reports: 9 April;\n\u00a0 5 April;\u00a0 27\nMarch; 19 March; 8 March; 28\nFebruary; 20 February.\u00a0\n\nBurkina Faso: WHO has reported a total of\n10 897 cases, including 1525 deaths between 1 January-15 April 2001. With funding\nfrom the European Commission through its Humanitarian Aid Office (ECHO), M\u00e9decins sans\nFronti\u00e8res (MSF Belgium) and Pharmaciens sans Fronti\u00e8res are providing support to the\nresponse in some districts.\u00a0 The ICG has released a further\n900 000 doses of vaccine to WHO to continue the mass vaccination campaigns in the most\naffected areas. \u00a0\n\nBenin: WHO has reported a total of 7532\nand 300 deaths between 1 January -25 March 2001 in 4 d\u00e9partements in the country, Borgou,\nAtacora, Donga and Alibori.\n\nCentral African Republic:\nWHO has reported a total of 1816 cases including 343 deaths for the period 18 February-30\nMarch 2001 for the entire country. The worst affected pr\u00e9fecture is Ouham Pende, where\nMSF Spain is carrying out an exploratory mission.\n\nChad: WHO has reported a total of\n5780 cases including 607 deaths from 25 December 2000-25 March 2001.\u00a0 With funding\nfrom the European Commission through its Humanitarian Aid Office (ECHO), MSF Belgium and\nPharmaciens sans Fronti\u00e8res are providing support to the response in the pr\u00e9fectures of\nMoyen Chari,\u00a0Mayo Kebbi, Logone Occidental and Gu\u00e9ra.\n\nEthiopia:\u00a0 WHO has reported a total\nof\u00a0 4138 cases including 242 deaths up 31 March 2001 from a widespread area across\nalmost the whole country. In response to WHO's request to its partners in\nthe Global Outbreak Alert and Response Network, a senior communicable disease\nepidemiologist in the International Health Unit of the Institut National de Veille\nSanitaire, Paris, France will provide continued technical support to the international\nresponse to epidemic meningococcal disease in Ethiopia. The expert will join the WHO team\nin the field, working to support the Ethiopian Ministry of Health in its efforts to\ncontrol the disease.\n\nNiger: WHO has reported a total of 4014\ncases including 321 deaths between 2 January and 8 April 2001 in Gay, Boboye and Doutchi\ndistricts in Dosso region and Madoua in Tahoua region.\u00a0 The ICG has\nreleased 600 000 doses of vaccine to MSF France to assist in the implementation of the\nvaccination campaigns in the affected areas.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:53.186995",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "17 April 2001",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 April 2001 Disease Outbreak Reported\n\nAs of 16 April, the Kwazulu-Natal\nDepartment of Health has reported 86 107 cases and 181 deaths since the start of the\noutbreak in mid-August 2000.\n\nThe outbreak in Kwazulu-Natal is affecting the Empangeni\narea, made up of the Lower Umfolozi districts and the Eshowe/Nkandla area. Ulundi area is\nalso affected. The lower South Coast is affected mainly in the Stanger/Untunjambili area\nand Ugu Region/South Coast.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:09:59.850588",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "5 April 2001",
+        "Location": "Chad",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "05 April 2001 Disease Outbreak Reported\n\nSee previous reports: 27\nMarch; 19 March; 8 March; 28\nFebruary; 20 February.\u00a0\n\nBurkina Faso: WHO has reported a total of\n7751 cases, including 1137 deaths between 1 January-1 April 2001. WHO, M\u00e9decins sans\nFronti\u00e8res (MSF) and the Belgium Directorate-General for International Cooperation are\nproviding additional vaccine through the mechanism of the International Coordinating Group\n(ICG) on Vaccine Provision for Epidemic Meningitis Control to support the vaccination\ncampaigns in the most affected areas.\n\nBenin: WHO has reported a total of 6147\nand 265 deaths between 1 January -18 March 2001 in 2 d\u00e9partements in the north\nof\u00a0the country, Borgou and Atacora. Partial vaccination campaigns have already taken\nplace in some areas and with the provision of 600,000 doses of vaccine from WHO, a new\nvaccination campaign is planned for the immediate future. Centers for Disease Control and\nPrevention (CDC), United States is providing technical support to the epidemic response.\n\nChad: WHO has reported a total of 3579\ncases including 401 deaths from 25 December 2000-18 March 2001.\u00a0 MSF Belgium is\nproviding some additional vaccine for the implementation of mass vaccinations in the\npr\u00e9fectures of Moyen Chari,\u00a0Mayo Kebb, Logone Oriental and Logone Occidental and\nstrengthening case management. The government of Chad has requested help from the\ninternational community for additional vaccine. Epidemiological surveillance is ongoing\nand mobile teams are in the field to provide technical support.\u00a0\n\nCentral African Republic: WHO has reported\na total of 1816 cases including 343 deaths for the period 18 February-20 March 2001 in\nPaoua, in the north-western part of the country, bordering on Chad and Cameroon. A mass\nvaccination campaign targetting the age groups most affected is being carried out, and\nwill be extended to other age groups as vaccine becomes available. The government of the\nCentral African Republic has requested help from the international community for vaccine.\n\nEthiopia:\u00a0 WHO has reported a total\nof\u00a0 3521 cases including 197 deaths up 24 March 2001 from a widespread area across\nalmost the whole country. 2.75 million doses of vaccine have been supplied from ICG stocks\nthrough the ICG partners: International Federation of Red Cross and Red Crescent Societies\n(IFRC), MSF, UNICEF and WHO.\u00a0 The Ethiopian Ministry of Health, together with its\npartners has developed a preparedness plan to include the establishment of strategic\nemergency stocks at central and regional levels; provided technical support to the regions\non control of the disease and epidemic detection; and held media briefings on the measures\nbeing taken.\n\nGambia: WHO has reported 137 cases\nincluding 21 deaths in Upper River Division during the period November 2000-26 March 2001.\n\u00a0 A vaccination campaign, initially targetting the most affected age groups is\nplanned in the affected areas.\u00a0 Health care workers are being trained to diagnose and\ntreat the disease and health facilities are being supplied with drugs, including oily\ncholramphenicol.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:01.353248",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "28 March 2001",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 March 2001 Disease Outbreak Reported\n\nAs of 27 March, the Kwazulu-Natal\nDepartment of Health has reported 78 140 cases and 163 deaths since the start of the\noutbreak in mid-August 2000.\n\nThe outbreak in Kwazulu-Natal is affecting the Empangeni\narea, made up of the Lower Umfolozi districts and the Eshowe/Nkandla area. Ulundi area is\nalso affected. The lower South Coast is affected mainly in the KwaDukuza/Stanger area and\nUgu Region/South Coast.\n\nSurveillance, monitoring and health education efforts by\nthe Department are continuing.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:02.929920",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "27 March 2001",
+        "Location": "Chad",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 March 2001 Disease Outbreak Reported\n\nSee previous reports: 19 March;\n8 March; 28\nFebruary; 20 February.\u00a0\n\nBurkina Faso: As of\u00a0 25 March, WHO\nhas reported a total of 4350 cases, including 719 deaths between 1 January-18 March 2001.\nWHO is providing additional vaccine through the mechanism of the International\nCoordinating Group (ICG) on Vaccine Provision for Epidemic Meningitis Control in order for\nthe vaccination campaign to continue in the most affected areas.\u00a0\n\nChad: As of 21 March, WHO has reported a\ntotal of 3064 cases including 337 deaths from 25 December-18 March 2001.\u00a0 M\u00e9decins\nsans Fronti\u00e8res (MSF Belgium) is providing additional vaccine, implementing\u00a0 mass\nvaccinations in the pr\u00e9fectures of Moyen Chari,\u00a0 Mayo Kebb, Logone Oriental and\nLogone Occidental and strengthening case management.\n\nNiger: As of 23 March, WHO has reported\n1795 cases including 137 deaths from 2 January-28 February 2001.\u00a0 The most affected\ndistricts are Gaya, Dosso, Madoua and the peripheral areas of the Communaut\u00e9 Urbaine de\nNiamey. Vaccination campaigns are in progress in these areas.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:05.592443",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "26 March 2001",
+        "Location": "Zambia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 March 2001 Disease Outbreak Reported\n\nWHO has received preliminary reports of 23 hospitalized\ncases, including 3 deaths in Petauke district, Eastern Province. The last case reported\nwas 15 March 2001.\n\nMeasures have been taken to intensify surveillance,\nstrengthen control and management of the disease and provide health education messages on\nits prevention.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:07.129594",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "20 March 2001",
+        "Location": "Zambia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 March 2001 Disease Outbreak Reported\n\nAs of 15 March 2001, WHO has reported a total of 436 suspected cases, including 11\ndeaths in Nyanje area, Petauke District, Eastern Province.\u00a0 Laboratory investigations\nconfirm Yersinia pestis. The existence of bubonic plague in humans was preceded\nby a fall in the rodent population in the area.\u00a0 Patients were treated with specific\nantibiotic therapy.\n\nA team of epidemiologists and bacteriologists were sent to investigate, provide\ntechnical support and supplies. Health education messages on the prevention of the disease\nwere distributed in the affected area and surveillance intensified.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:09.073089",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "19 March 2001",
+        "Location": "Ethiopia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 March 2001 Disease Outbreak Reported\n\nSee previous reports: 8 March;\n28 February; 20 February.\u00a0\n\nBurkina Faso: As of 16 March, WHO has\nreported a total of 3267 cases including 552 deaths between 1 January and 10 March 2001 in\n19 districts.\u00a0 A vaccination campaign has been launched in the affected areas and\n1.76 million doses of vaccine have been used.\n\nBenin: As of 15 March, WHO has reported a\ntotal of 3643 and 172 deaths between 1 January - 3 March 2001 in 2 d\u00e9partements in the\nnorth of\u00a0the country, Borgou and Atacora. A mass vaccination campaign has been\nimplemented and additional supplies for epidemic response are being provided by WHO.\n\nCameroon: As of 8 March, WHO has reported\na total of 415 cases including 28 deaths between 1 January - 25 February 2001 in 5\ndistricts in the North West province: Wum, Mbengwi, Bafut, Bamenda, Ndop. The\nMinistry of Health of Cameroon, with the assistance of WHO, M\u00e9decins sans Fronti\u00e8res\n(MSF) and the Cameroon Red Cross\u00a0Society is responding to the epidemic, including a\nvaccination campaign.\n\nEthiopia: As of 16 March, a total of 2324\ncases including 148 deaths have been reported from 74 districts spread across the country,\ninvolving 9 out of\u00a0 the 11 regions in Ethiopia.\u00a0 Most of those affected are\nbelow 30 years. The Ethiopian Ministry of Health's plan of action to control the epidemic\nincludes strengthening surveillance activities, carrying out mass vaccinations in\ndistricts that have exceeded the epidemic threshold and health education activities. The\nMinistry of Health has identified a population at immediate risk of more than 10 million\npeople and appealed for support in obtaining the 8 million doses of vaccine, other\nsupplies and assistance needed to respond in the affected areas. The Ministry is\ncoordinating activities with partners in country, including UNICEF, MSF (Belgium, France\nand Netherlands) and the Ethiopia Red Cross Society.\u00a0 International support includes\nthe implementation of mass vaccinations, strengthening case management and support to\nsurveillance activities. The\nInternational Federation of Red Cross and Red Crescent Societies (IFRC) has launched an\nappeal for funds to vaccinate at least 1.5 million people.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:10.604843",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "16 March 2001",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 March 2001 Disease Outbreak Reported\n\nAs of 14 March, the South African Department of Health has\nreported 69 761 cases and 139 deaths in KwaZulu Natal province (see\nprevious report).\n\nIntersectoral collaboration at the national and provincial\nlevels is continuing between the departments of health and other government departments,\nacademic institutions, professional bodies, NGOs and members of the community to contain\nthe spread.\u00a0 Production and dissemination of health education materials and training\nfor health care staff are also being carried out.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:12.143902",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "8 March 2001",
+        "Location": "Ethiopia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "08 March 2001 Disease Outbreak Reported\n\nSee previous reports: 28 February ; 20 February.\u00a0\n\nChad: As\nof 4 March, WHO has reported 2317 cases and 267 deaths since the outbreak began in the\nlast months of 2000. The Ministry of Health has responded by strengthening surveillance,\nproviding public information and carrying out mass vaccinations in the affected areas. In\nsupport of the local health authorities, M\u00e9decins sans Fronti\u00e8res (MSF Belgium) is\nimplementing mass vaccinations and strengthening case management in the pr\u00e9fectures of\nMoyen Chari and Mayo Kebbi.\n\nEthiopia: As of 2 March, a total of 1348\ncases and 108 deaths have been reported from 40 districts spread across the country,\ninvolving 8 out of\u00a0 the 11 regions in Ethiopia.\u00a0 Most of those affected are\nbelow 30 years. The Ethiopian Ministry of Health's plan of action to control the epidemic\nincludes strengthening surveillance activities, carrying out mass vaccinations in\ndistricts that have exceeded the epidemic threshold and health education activities. The\nMinistry is also coordinating activities with partners in country, including UNICEF, MSF\n(Belgium, France and Netherlands) and the International Federation of Red Cross and Red\nCrescent (IFRC).\u00a0 International support to the Ethiopian authorities has included the\nimplementation of mass vaccinations, strengthening case management and support to\nsurveillance activities. IFRC\nhas launched an appeal for funds to vaccinate at least 1.5 million people.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:14.897307",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "7 March 2001",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 March 2001 Disease Outbreak Reported\n\nAs of 6 March, the Ministry of Health of Brazil and the WHO\nRegional Office for the Americas (PAHO) have reported a total of 35 suspected cases in 4\nstates: Minas Gerais, Rondonia, Goi\u00e1s and Bahia (see previous report). In Minas Gerais 32\nsuspected cases have occurred, including 6 deaths.\u00a0 The 6 cases who died as well as 5\nother cases have been laboratory confirmed (IgM ELISA), while laboratory studies are being\ncarried out for the others.\u00a0 The counties affected in Minas Gerais are Leandro\nFerreira, Martinho Campos, Nova Serrana, Moema, Bom Despacho, Concei\u00e7ao do Par\u00e1 and\nSanto Ant\u00f4nio do Monte, all located in the midwestern region of the State.\n\nAn intensive house-to-house vaccination campaign is\nunderway, mainly in rural areas.\u00a0 Travellers are being advised to be vaccinated\nbefore entering these areas.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:16.417670",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "5 March 2001",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "05 March 2001 Disease Outbreak Reported\n\nAs of 3 March, the Kwazulu-Natal\nDepartment of Health has reported 62 607 cases and 131 deaths since the start of the\noutbreak in mid-August 2000.\n\nThe outbreak in Kwazulu-Natal is primarily affecting the\nEmpangeni area, made up of the Lower Umfolozi districts and the Eshowe/Nkandla area. The\nlower South Coast is affected mainly in the KwaDukuza/Stanger area and Ugu Region/South\nCoast. Pietermaritzburg/Ndlovu is also affected.\n\nThe Kwazulu-Natal Department of Health is\ncontinuing its intensive information and education campaign.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:19.414338",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "28 February 2001",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 February 2001 Disease Outbreak Reported\n\nThe WHO Regional Office for the Americas (PAHO) has\nreported a total of 9 cases of yellow fever in the Region of Divinopolis, State of Minas\nGerais.\u00a0 The counties affected are Bom Despacho, Leandro Ferreira, Martinho Campos,\nNova Serrana and Santo Ant\u00f4nio do Monte.\u00a0 Six cases have been laboratory confirmed\n(IgM ELISA) and have since died. Laboratory studies are underway for the other cases.\n\nA team of epidemiologists from the National Epidemiology\nCenter in Brazil is working with local health authorities to investigate the outbreak. A\n\u00a0 vaccination campaign has begun.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:21.088176",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "28 February 2001",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 February 2001 Disease Outbreak Reported\n\n\n\n\nPRESS RELEASE\nISSUED BY WHO- 28 February 2001\nUGANDA EBOLA OUTBREAK\nOFFICIALLY OVER\nWHO calls for stronger alert\nand response to minimize the \nglobal impact of future outbreaks\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\nThe Uganda Ebola outbreak, which was first\nreported in October 2000, is officially over. The last person to be infected by the virus\nrecovered 42 days ago, twice the maximum incubation period for Ebola to develop.\nThe international response, in support of\nthe Government of Uganda helped to break the cycle of transmission of the virus which\nkilled 224 people in Uganda, including health workers and Dr. Matthew Lukwiya, who first\nidentified the outbreak.\nMore than 20 international NGOs and\ngovernment agencies (see list below) from WHO's Global Outbreak\nAlert and Response Network worked together to combat the outbreak. In particular, the\nCentres for Disease Control and Prevention, US (CDC), Epicentre, Health Canada, Italian\nCooperation, M\u00e9decins sans Fronti\u00e8res (MSF), the Red Cross and UNICEF, together with\ninstitutions in Belgium, Germany, Japan and the United Kingdom worked closely with the\ndoctors, nurses and staff at Gulu Hospital and Lacor Hospital, and Ugandan government\nofficials.\n\"The successful operation in Uganda\nemphasized what can be achieved when we identify epidemic threats rapidly and act together\nswiftly. Today we recognize the efforts of the people of Uganda, and the contributions and\nachievements of our partners.\" says David Heymann, Executive Director of WHO's\nCommunicable Diseases. \"Epidemic prone diseases are harmful to communities and ignore\nnational borders. We need to recognize them as threats to global health security and\ncoordinate effective international solutions.\"\nIn this regard, WHO is working to mobilize\nthe international community to strengthen epidemic alert and response and raise awareness\nof the global threat of infectious diseases. Global health security will be a top agenda\nitem at this year's World Health Assembly.\nFirst reports from Gulu District of an\nunusual severe febrile illness reached the Ugandan Ministry of Health in Kampala on 8\nOctober 2000. Even before the disease was formally identified as Ebola, the Government of\nUganda facilitated rapid access to the outbreak area and partners in WHO's Global\nOutbreak Alert and Response Network responded with technical experts, protective equipment\nand logistics support for the Outbreak Response.\nInitial laboratory confirmation was carried out by the\nNational Institute of Virology in South Africa. A field laboratory was maintained at Lacor\nHospital by CDC throughout the outbreak. This innovative measure guaranteed essential\nlaboratory services for diagnostic tests to confirm or refute Ebola infection, and for\npackaging and transport of clinical samples requiring additional investigations.\nDirect financial support to the Ebola\nAppeal was provided by Canada, ECHO, the European Commission, Ireland, Norway and Japan to\nsupplement contingency funding provided by Germany and the Netherlands. In addition, many\ndonors and agencies provided assistance directly to Uganda.\nThe mobilization of the local community in\nGulu played a pivotal role in controlling the Ebola outbreak and is central to a new\nearly-warning surveillance system for epidemic-prone diseases. Following the Ebola\nOutbreak partners in WHO's Global Outbreak Alert and Response Network and\nUganda's Ministry of Health are implementing a community-based disease surveillance\nsystem that will significantly improve people's lives and represents a potential model for\nfuture development of community-based surveillance systems.\nEbola haemorrhagic fever (EHF) is one of\nthe most virulent viral diseases known to humankind, causing death in 50-90% of all\nclinically ill cases. The virus was first identified in a western equatorial province of\nSudan and in a nearby region of Zaire (now Democratic Republic of the Congo) in 1976 after\nsignificant epidemics in Yambuku, northern Zaire, and Nzara, southern Sudan.\nIncluding the most recent outbreak, about\n1500 cases with over 1000 deaths have been documented since the virus was discovered.\nAnnex\n\nPartners in the Global Outbreak Alert and\nResponse Network that provided support and personnel to the Outbreak Response Team\nincluded: \n\nAction Contre la Faim (ACF) \n\nAfrican Medical and Research Foundation\n(AMREF-Flying Doctors) \n\nAgency for Coordination in Research and\nDevelopment (ACORD-UK) \n\nCatholic Relief Services \n\nCenters for Disease Control and\nPrevention, Atlanta, USA (CDC) \n\nEpicentre, Paris, France \n\nInternational Committee of the Red Cross\n(ICRC) \n\nInternational Federation of Red Cross and\nRed Crescent Societies (IFRC) and the Ugandan Red Cross Society \n\nHealth Canada, Ottawa, Canada \n\nInstitute of Medical Science, Tokyo,\nJapan \n\nInstitute for Tropical Medicine, Antwerp,\nBelgium \n\nInternational Rescue Committee (IRC) \n\nIstituto Superiore di Sanit\u00e0 (ISS,\nItaly) \n\nItalian Cooperation, Italy \n\nM\u00e9decins sans Fronti\u00e8res (MSF) (Holland\nand Belgium) \n\nNagoya City University Medical School,\nJapan \n\nNational Health Service, United Kingdom \n\nNational Institute of Infectious\nDiseases, Ministry of Health, Labour and Welfare, Japan \n\nNational Institute of Virology,\nJohannesburg, South Africa \n\nPublic Health Laboratory Services, United\nKingdom \n\nSave the Children (Denmark) \n\n\nSendai Quarantine Station, Japan \n\nTropical Medicine Institute, Hamburg,\nGermany \n\nUNICEF \n\nUnited Kingdom Department for\nInternational Development (DFID) \n\nUS Agency for International Development\n(USAID) \n\nWorld Food Programme (Nairobi) \n\nWorld Health Organization \n\nWorld Vision \n\n\n_________________________________________________________________________________________________________",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:22.648478",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "20 February 2001",
+        "Location": "Ethiopia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 February 2001 Disease Outbreak Reported\n\nThe highest number of cases and the highest burden of this\ndisease occur in sub-Saharan Africa in an area that is referred to as the meningitis belt.\n\u00a0 This is the area between Senegal and Ethiopia and includes all or part of at least\n15 countries, with an estimated total population of approximately 300 million. Epidemics occur in seasonal\ncycles between the end of November and the end of June, depending on the location and\nclimate of the country and declines rapidly with the arrival of the rainy season.\n\nWHO has reported a total number of 603 cases, including 45\ndeaths (case-fatality rate of 7.5%) in 4 d\u00e9partements in the north of\u00a0 Benin:\nAlibori, Borgou, Atacora and Donga, since January 2001.\u00a0 Neisseria meningitidis\nserogroup A has been confirmed. The Ministry of Health has initiated a mass vaccination\ncampaign in these d\u00e9partements.\n\nFrom 25 December 2000 to 15 February 2001, a total of 798\ncases and 83 deaths (case-fatality rate of 10.4%) has been reported by WHO in 2\npr\u00e9fectures in southwestern Chad: Moyen-Chari and Longone Occidental. Neisseria\nmeningitidis serogroup A has been confirmed. A mass vaccination campaign is underway.\n\nAs of 30 January\u00a02001, WHO has reported an outbreak of\nmeningocccal disease in Ethiopia in 5 regions: Amhara, Gambella, Somali,\nTigray and Southern regions, with a total of 485 cases and 61 deaths.\u00a0 Neisseria\nmeningitidis serogroup A has been confirmed. The Ministry of Health has reinforced\nsurveillance and is carrying out vaccinations in the affected areas.\u00a0 The media is\nalso providing health education messages.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:24.156385",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "9 February 2001",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "09 February 2001 Disease Outbreak Reported\n\nClick here\nfor the report, \"Outbreak of Ebola haemorrhagic fever, Uganda, August 2000-January\n2001\" published in The Weekly Epidemiological Record of the WHO.\n\u00a0 It provides information about the epidemic response, surveillance, case description\nand epidemiology of the outbreak.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:25.675774",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "5 February 2001",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "05 February 2001 Disease Outbreak Reported\n\nAs of 4 February, the Kwazulu-Natal\nDepartment of Health has reported 37 204 cases and 85 deaths since the start of the\noutbreak in mid-August 2000.\n\nThe outbreak in Kwazulu-Natal is primarily affecting the\nEmpangeni area, made up of the Lower Umfolozi districts and the Eshowe/Nkandla area. The\nlower South Coast is affected mainly in the KwaDukuza/Stanger area and Ugu Region/South\nCoast.\n\nThe Department of Health has noted that although the\ninfection rates are high, the case-fatality rate of less than 0.4% is exceptionally low.\n\u00a0\n\nTo combat the disease in the current outbreak, the\nDepartment is providing clinical care as well as working with the other sectors to provide\nclean water and education and information about how to live in a cholera area.\u00a0 A\nlonger term programme to provide adequate water and sanitation will be implemented over\nthe next 3 years.\u00a0\n\nNo special restrictions on travel to and from KwaZulu-Natal\nare warranted.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:27.225288",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "26 January 2001",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 January 2001 Disease Outbreak Reported\n\nAs of 25 January, the Kwazulu-Natal\nDepartment of Health has reported 27 431 cases and 74 deaths since the start of the\noutbreak in mid-August 2000.\n\nThe outbreak in Kwazulu-Natal is primarily affecting the\nEmpangeni area, made up of the Lower Umfolozi districts and the Eshowe/Nkandla area. The\nlower South Coast is affected mainly in the KwaDukuza/Stanger area and Ugu Region/South\nCoast.\n\nCholera is endemic to the eastern seaboard of southern\nAfrica and outbreaks can occur sporadically in any part of the world where water supplies,\nsanitation, food safety and hygiene practices are inadequate.\n\nAn overall management strategy is being implemented to\ninclude treatment of patients, provision of clean water and sanitation as well as\neducation and information about how to live in a cholera area.\u00a0 The Department of\nHealth will also work with the Department of Education to bring this information into\nschools.\u00a0\n\nNo special restrictions on travel to and from KwaZulu-Natal\nare warranted.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:28.728222",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "24 January 2001",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "24 January 2001 Disease Outbreak Reported\n\nAs of 23 January, the\u00a0Ugandan\nMinistry of Health has reported the following:\n\nGulu district: There have been no new\ncases since 14 January 2001 (see previous report). The\ncumulative total number of cases remains at 396 cases and 150 deaths.\n\nMasindi district: No new cases have been\nreported since 19 December 2000. The cumulative total number of cases remains at 27 cases\nand 19 deaths.\n\nWHO recommends no special restrictions on travel or trade\nto or from Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:35.270333",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "16 January 2001",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 January 2001 Disease Outbreak Reported\n\nAs of 14 January, the Kwazulu-Natal\nDepartment of Health has reported 19 499 cases and 66 deaths since the start of the\noutbreak in mid-August 2000.\u00a0\n\nThe outbreak in Kwazulu-Natal is primarily affecting the\nEmpangeni area, made up of the Lower Umfolozi districts and the Eshowe/Nkandla area. The\nlower South Coast is affected mainly in the KwaDukuza/Stanger area and Ugu Region/South\nCoast.\n\nThe WHO team of epidemiologists from the WHO Regional\nOffice for Africa, working with the Department of Health has made a number of\nrecommendations to assess control measures taken so far and to plan further activities to\nlimit the spread of the outbreak. Intersectoral coordination will be increased and the\nKwaZulu-Natal Department of Water Affairs and Forestry is developing a strategy to address\nwater and sanitation needs.\u00a0\n\nThe health sector is to continue close monitoring, training\nand supervision through the deployment of staff from other provinces and the employment of\ntemporary health promotion workers in affected areas.\u00a0 The WHO team noted the strong\ncommitment of health personnel in the affected areas and their effective case management\nof patients which is reflected in the low fatality rate of less than 0.5%. Health\npreparedness amongst people in unaffected areas that have high potential for cholera\noutbreaks will be increased with enhanced mass media information campaigns, targeting\nschools.\n\nNo special restrictions on travel to and from KwaZulu-Natal\nare warranted.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:36.807729",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "9 January 2001",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "09 January 2001 Disease Outbreak Reported\n\nOn 9 January, the\u00a0Ugandan\nMinistry of Health has reported a confirmed case of Ebola haemorrhagic fever in Gulu\ndistrict.\u00a0 This patient, who has died, was a known close contact of a previous case.\n\u00a0 The cumulative total number of cases for Gulu is now 395 cases with 150 deaths.\n\nNo new confirmed cases have been reported in Masindi\ndistrict since 19 December 2000.\u00a0 The cumulative total number of cases remains 27\ncases and 19 deaths.\n\nActive case finding and follow up of contacts of suspected\nand confirmed cases are continuing in both districts.\u00a0\n\nWHO recommends no special restrictions on travel or trade\nto or from Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:38.341734",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "5 January 2001",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "05 January 2001 Disease Outbreak Reported\n\nThe onset of the outbreak of Ebola in Gulu, Uganda\u00a0 (see previous report) has heightened awareness of viral\nhaemorrhagic fevers in the region. As a result, WHO has been investigating periodic\nrumours of similar outbreaks in the surrounding countries. In Democratic Republic of Congo\n(DRC), WHO has investigated rumours in Dungu, Bengadi, Isiro, Buta, Nyankunde and Bunia,\nand samples have been negative for Ebola.\n\nAs part of these ongoing operations, WHO is currently\ninvestigating unverified reports of\u00a0 2 additional cases for which few clinical\ndetails have been reported, in Bunia, DRC. The WHO Outbreak Response Team in Gulu has been\nin contact with WHO Office, Goma,\u00a0 M\u00e9decins sans Fronti\u00e8res (MSF), Goma and the WHO\nsub-office in Bunia regarding these unverified rumours. A WHO surveillance officer at the\nBunia sub-office is investigating the reports. In addition, a team from MSF and WHO will\ntravel to Bunia early next week.\n\nPreviously 3 suspected cases were reported in Bunia, one in\nearly August, one in mid-November and a third in late-November. WHO investigations\ndemonstrated that these rumours were unfounded.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:10:39.876695",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2002",
+        "Date Reported": "3 January 2001",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "03 January 2001 Disease Outbreak Reported\n\nAs of 2 January, the\u00a0Ugandan\nMinistry of Health has reported the following:\n\nGulu district: No new confirmed cases have\nbeen detected since 22 December 2000.\u00a0 The cumulative total number of\u00a0 cases\nremains 394 cases and 149 deaths (see\nprevious report).\n\nMasindi district: No new confirmed cases\nhave been reported since 19 December 2000.\u00a0 The cumulative total number of cases\nremains 27 cases and 19 deaths (see\nprevious report).\n\nActive case finding and follow up of contacts of suspected\nand confirmed cases are continuing in both districts.\u00a0\n\nWHO recommends no special restrictions on travel or trade\nto or from Uganda.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    }
+  ]
+}

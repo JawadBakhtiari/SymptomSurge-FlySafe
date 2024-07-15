@@ -1,0 +1,1222 @@
+{
+  "events": [
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:44:56.010250",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "26 December 2008",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 December 2008 -\nThe Ministry of Health (MoH) of the Democratic Republic of the Congo declared on 25 December an outbreak of Ebola haemorrhagic fever in Mweka District, Kasai Occidental province based on laboratory results from the Centre International de Recherches M\u00e9dicales de Franceville (CIRMF) in Gabon. CIRMF confirmed the presence of Ebola virus in 2 samples from 2 of the patients in the outbreak by antigen detection. In addition, laboratory tests conducted by Institut National de Recherches Biologiques (INRB) in Kinshasa, also confirmed the presence of Shigella. \n\nAs of 26 December, WHO is aware of 34 suspected cases including 9 deaths (CFR 26%) associated with the ongoing event. Additional samples have been collected and are en route to INRB. \n\nThe WHO Country Office, Regional Office and Headquarters are supporting the MoH in Kinshasa and in the field at the location of the outbreak. In addition, the WHO Country Office is supporting the operational costs of the investigation and response teams and has deployed four vehicles to the field. Additional staff, outbreak response equipment and supplies, including Personal Protective Equipment (PPE), are also being sent to the area. An enhanced team of national and international experts is being mobilized to implement control strategies for Ebola haemorrhagic fever and to support outbreak field response in the province.\n\nWHO is working together with laboratory partners to provide comprehensive laboratory services, and to support the MoH in the control and investigation of the outbreak. \n\nWHO is unaware of any reports signaling the international spread of disease and advises against the application of any travel or trade restrictions upon the Democratic Republic of the Congo .",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:44:57.746094",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "26 December 2008",
+        "Location": "Zimbabwe",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 December 2008 -\n As of 25 December 2008, a total of 26 497 cases, including 1 518 deaths, have been reported by the Ministry of Health in Zimbabwe. Cases are now being reported from all 10 of the country's provinces. Harare, particularly Budiriro suburb in the south west, accounts for the majority of cases, followed by Beitbridge in Matabeleland South and Mudzi in Mashonaland East. The current outbreak is the largest ever recorded in Zimbabwe and is not yet under control. In fact, the epidemiological week ending 20 December saw over 5 000 new cases - an increase in the number of weekly cases relative to previous weeks - and an increase in deaths outside treatment/health centres.\n\n\nThe overall Case Fatality Rate (CFR) has risen to 5.7% - far above the 1% which is normal in large outbreaks - and in some rural areas it has reached as high as 50%. Mortality outside of healthcare facilities remains very high. This is a clear indication that better case management and access to healthcare is needed - in particular an increased use of oral rehydration therapy with Oral Rehydration Salts in communities very early after onset of the disease. \n\nThe outbreak has taken on a subregional dimension with cases being reported from neighboring countries. In South Africa as of 26 December, 1 279 cumulative cases and 12 deaths (CFR of 0.9%) had been recorded, with the bulk of the cases (1 194) in the Limpopo area. Cases have also been reported in Botswana (Palm Tree). \n\nThe current situation is closely linked to the lack of safe drinking water, poor sanitation, declining health infrastructure, and reduced numbers of healthcare staff reporting to work. Other current risk factors include the commencement of the rainy season and the movement of people within the country, and possibly across borders, during the Christmas season.\nWHO, together with the Ministry of Health and partners from the health and Water and Sanitation clusters, has established a cholera outbreak response coordination unit in order to strengthen the reporting and early detection of cases, improve the response mechanism and access to healthcare and ensure proper case management. WHO has also deployed experts in public health, water and sanitation, logistics and social mobilization. In light of the extent and pace of expansion of the outbreak, reinforcing all control activities across the country is critical.\n\n\nGiven the current dynamic of the outbreak and the context of the collapsed health system, a cholera vaccination is not recommended. Moreover, the use of the internationally available WHO prequalified oral cholera vaccine is not recommended once an outbreak has started due to its 2-dose regimen and the time required to reach protective efficacy, high cost and the heavy logistics associated to its use. The use of the parenteral cholera vaccine has never been recommended by WHO due to its low protective efficacy and the occurrence of severe adverse events.\n\nIn controlling the spread of cholera WHO does not recommend any special restrictions to travel or trade to or from affected areas. However, neighboring countries are encouraged to reinforce their active surveillance and preparedness systems. Mass chemoprophylaxis is strongly discouraged, as it has no effect on the spread of cholera, can have adverse effects by increasing antimicrobial resistance and provides a false sense of security.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:44:59.314638",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "16 December 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 December 2008 -\nThe Ministry of Health and Population of Egypt has announced a new human case of avian influenza A(H5N1) virus infection. The case is a 16-year-old female from Assuit Governorate, Upper Egypt whose symptoms began on 8 December 2008. She was initially hospitalized at the district hospital on 11 December and then transferred to the Assuit University Hospital on 13 December where she died on 15 December. Infection with the H5N1 avian influenza virus was diagnosed by PCR at the Egyptian Central Public Health Laboratory and subsequently confirmed by the US Naval Medical Research Unit No. 3 (NAMRU-3) laboratories on 15 December 2008. Investigations into the source of her infection indicate a recent history of contact with sick and dead poultry.\n\nOf the 51 cases confirmed to date in Egypt, 23 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:00.922292",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "12 December 2008",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 December 2008 -\nThe Ministry of Health of Cambodia has announced a new confirmed case of human infection with the H5N1 avian influenza virus. \n\nThe 19-year-old male, from Kandal Province, developed symptoms on 28 November and initially sought medical attention at a local health centre on 30 November. The presence of the H5N1 virus was confirmed by the National Influenza Centre, the Institut Pasteur in Cambodia, on 11 December. The patient is currently hospitalised and a team led by the Ministry of Health is conducting field investigations into the source of his infection. Contacts of the case are also being identified and provided with prophylaxis.\n\nOf the 8 cases confirmed to date in Cambodia, 7 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:02.916983",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "9 December 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "9 December 2008 -\nThe Ministry of Health of Indonesia has announced two new confirmed cases of human infection with the H5N1 avian influenza virus. A 9-year-old female from Riau Province developed symptoms on 7 November and was hospitalized on 12 November. She recovered and was discharged from hospital on 27 November. Laboratory tests confirmed the presence of the H5N1 avian influenza virus. Investigations into the source of her infection indicate poultry deaths at her home on 2 November.\n\n\nThe second case, a 2-year-old female from East Jakarta, developed symptoms on 18 November, was hospitalized on 26 November and died on 29 November. Laboratory tests have confirmed infection with the H5N1 avian influenza virus. Initial investigations into the source of her infection suggest exposure at a live bird market. \n\nOf the 139 cases confirmed to date in Indonesia, 113 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:04.451690",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "2 December 2008",
+        "Location": "Zimbabwe",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "2 December 2008 -\nAs of 1 December 2008, the Ministry of Health in Zimbabwe has reported a total of 11 735 cholera cases with 484 deaths since August 2008, affecting all provinces in the country. The overall case fatality rate is 4% but has reached up to 20\u201330% in remote areas. Out of the total number of cases, 50% have been reported from Budiriro, a high density suburb of the capital city, Harare. Beitbridge, a town bordering South Africa, has reported 26% of all cases. In the last two days, two additional areas have been affected: Chegutu (in Mashonaland West province) and Mvuma (in Midlands province). Reports have also been received from the Ministries of Health in neighbouring countries confirming cholera cases have occurred in Musina (South Africa), Palm Tree (Botswana) and Guro district (Mozambique). \n\nCholera outbreaks have become more frequent in Zimbabwe since the early 1990s. However, with the exception of the large outbreaks that occurred in 1999 and 2002, the disease has been kept under control through intensified prevention and preparedness activities. \n\nCholera is mainly transmitted through contaminated water and food and is closely linked to inadequate environmental management. Recent interruptions to the water supplies, together with overcrowding, are aggravating factors in this epidemic. ZINWA (Zimbabwe National Water Authority) has pledged to correct the water supply and sewage system as a matter of urgency.\n\nThe Ministry of Health and WHO, together with its health sector partners (UNICEF, IOM, OXFAM-GB, Medecins du Monde, ICRC, ACF, MSF\u2010Spain - Holland & Luxemburg, Plan International, GOAL, Save the Children-UK and others), have established a comprehensive and coordinated cholera response operational plan to address the needs of the population in the affected areas, emphasizing a multi-sectoral response. WHO is procuring emergency stocks of supplies to meet identified gaps and is deploying a full outbreak investigation and response team, including epidemiologists, water and sanitation engineers and social mobilization specialists. In addition, an epidemiologist and three data managers from the WHO Inter-country Support Team in Harare are assisting the WHO Country Office in data monitoring, analysis and mapping.\n\nCommunities are being encouraged to protect themselves against cholera by adhering to proper food safety practices as well as to good personal hygiene. Early rehydration at home by using oral rehydration salts is paramount to diminishing mortality. \n\nMass chemoprophylaxis with antibiotics is strongly discouraged, as it has no effect on the spread of cholera, can have adverse effects by increasing antimicrobial resistance and provides a false sense of security. \n\nOnce an outbreak has started, WHO does not recommend the use of the current internationally available WHO prequalified oral cholera vaccine. This is due to its 2-dose regimen, the time required to reach protective efficacy and the high cost and heavy logistics associated with its use. \n\nThe use of the parenteral cholera vaccine has never been recommended by WHO due to its low protective efficacy and the occurrence of severe adverse events.\n\nIn controlling the spread of cholera, WHO does not recommend any special restrictions to travel or trade to or from affected areas. However, neighbouring countries are encouraged to strengthen their active surveillance and preparedness systems.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:06.071409",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "3 November 2008",
+        "Location": "Burkina Faso",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "3 November 2008 -\nOn 3 October, The Ministry of Health, Burkina Faso reported two laboratory confirmed cases of Yellow fever in the health district of Ouahigouya, in the North of the country, near the border with Mali. Both cases were reported by the Yellow fever surveillance system and presented with symptoms of fever and jaundice. \n\nThe initial case was a 7-month old male child who recovered from the disease. The second case was a 6-year old male child who died 2 days later. Both cases were not vaccinated against Yellow fever and were first confirmed at the National Laboratory of Muraz Center and reconfirmed at the WHO regional laboratory for Yellow fever at the Institut Pasteur of Dakar, Senegal. \n\nThe routine infant immunization in the health district of Ouahigouya started in 2002 and the reported Expanded Program on Immunization (EPI) coverage at the end of 2007 was 85.3%. This health district was not retained as a high priority epidemic risk during the consensus meeting for the Yellow fever risk assessment in 2007. Thirty seven health districts in Burkina Faso will benefit from a Yellow fever preventive mass vaccination campaign on 13 November 2008.\n\nOn the basis of the outbreak investigation, it was decided to carry out a reactive mass vaccination campaign targeting 366,052 people in the health district of Ouahigouya. In response to the outbreak, the MoH has made a request for Yellow fever vaccines for the preventive mass vaccination campaign from the GAVI funded Global Emergency Stockpile for Yellow fever vaccine, managed by the International Coordinating Group on Vaccine Provision for Yellow Fever Control (YF-ICG).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:18.315337",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "29 September 2008",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "29 September 2008 -\nMore than 54,000 infants and young children have sought medical treatment in relation to the melamine-contaminated dairy products in China, causing kidney stone. Three deaths among infants have been confirmed, more than 13,000 infants are in hospital. Kidney stones in infants are normally very rare.\n\nThe World Health Organization has published \u201cMelamine and Cyanuric acid: Toxicity, Preliminary Risk Assessment and Guidance on Levels in Food\u201d. This preliminary guidance was developed to assist national authorities in the decision-making process on deciding possible health concern of melamine levels in food. \n\nThis preliminary guidance is proposed as a first pragmatic approach until more data become available which would allow a more detailed assessment. \nFor more information\n\n\nQuestions and Answers on melamine\n\n\nMelamine\n\n\nWHO page on breastfeeding\n\n\nGuidelines for the safe preparation, storage and handling of powdered infant formula",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:19.872268",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "22 September 2008",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 September 2008 -\nChina\u2019s Ministry of Health reported over the weekend that nearly 40,000 children have sought medical treatment related to the consumption of melamine-contaminated powdered infant formula. Almost 12,900 are currently hospitalized.\n\nThree deaths have been confirmed as being related to contamination of infant formula. One is under further investigation.\n\nAuthorities of Singapore and Hong Kong SAR reported finding melamine in dairy products manufactured in China. A three-year old girl received treatment in Hong Kong due to consumption of the contaminated milk. \n\nWHO will continue to share information through its International Food Safety Authorities Network (INFOSAN) to help national authorities to be better informed and enable them to better target their monitoring.\nFor more information\n\n\nQuestions and Answers on melamine\n\n\nMelamine\n\n\nWHO page on breastfeeding\n\n\nGuidelines for the safe preparation, storage and handling of powdered infant formula",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:21.395794",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "18 September 2008",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 September 2008 -\nOver 6240 cases of kidney stones in infants with three deaths have been reported from across China as of 17 September. Kidney stones in infants are very rare. \n\nThe Ministry of Health of China has confirmed that these cases are related to melamine-contaminated powdered infant formula consumed by the infants. While the exact onset date of illness resulting from contamination is unknown, a manufacturer received a complaint of illness in March 2008.\n\nFollowing inspections conducted by China\u2019s national inspection agency, at least 22 dairy manufacturers across the country were found to have melamine in some of their products (levels varied between 0.09mg/kg and 2.560 mg/kg). Two companies exported their products to Bangladesh, Burundi, Myanmar, Gabon and Yemen. While contamination in those exported products remains unconfirmed, a recall has been ordered from China.\n\n\nA recall is also ongoing for all contaminated products in China.\n\nThe World Health Organization (WHO) is in close communication with the Ministry of Health of China to monitor the situation. WHO has also been disseminating information on the situation to WHO Member States through the International Food Safety Authorities Network (INFOSAN). INFOSAN has also specifically alerted the five countries importing potentially contaminated products from China.\n\nWHO recommends breastfeeding as the ideal way of providing young infants with the nutrients they need for healthy growth and development. Exclusive breastfeeding is recommended up to six months of age.\nFor more information\n\n\nQuestions and Answers on melamine\n\n\nWHO page on breastfeeding\n\n\nGuidelines for the safe preparation, storage and handling of powdered infant formula",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:22.960637",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "10 September 2008",
+        "Location": "Iraq",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 September 2008 -\nOn 20 August 2008, cases of acute watery diarrhoea from Baghdad and Misan Province were laboratory confirmed as cholera. They constitute the first cholera cases detected in Iraq in 2008. By 28 August, seven cases had been laboratory confirmed, and a further 174 cases were suspected as cholera, bringing the total number of reported cases to 181 (128 in Missan and 53 in Baghdad). In the first week of September, the outbreak spread to Babil Province, south of Baghdad, where 116 suspect cases have now been identified. The presence of Vibrio cholerae, the bacterium causing the disease, has been confirmed in 21 cases. To date there have been 10 fatalities, three of whom tested positive for Vibrio cholera. \n\nThe re-emergence of cholera this year is not unexpected: in September 2007, the country was affected by a large outbreak (4696 cases with 24 deaths). The outbreak occurred mainly in northern Iraq, but sporadic cases were also detected in other provinces.\n\n\nThe Government of Iraq has mobilized a multi-sectoral response to the outbreak. Specific control measures have been reinforced and preventive measures to reduce the risk of transmission to unaffected areas have been put in place. Building on last year's experience, the Ministry of Health, together with WHO, have put in place an effective surveillance system that was able to capture the very first cases of cholera, enabling a timely response and facilitating the containment of the outbreak. \n\nHowever, the overall quality of water and sanitation remains very poor, a factor known to greatly facilitate cholera contamination. Experience has shown that long term-prevention of cholera depends on access to safe water and adequate sanitation to prevent exposure and interrupt transmission. Improving water and sanitation infrastructures is therefore a long-term goal of WHO and its partners in Iraq and, in times of outbreaks, it is essential that immediate measures, such as water treatment at household level, health education and proper case management, are implemented rapidly. To this end, the Government of Iraq is providing chlorine tablets to families and is intensifying social mobilization activities.\n\n\nIn response to a request from the Ministry of Health, WHO is providing technical support, particularly in the area of laboratory testing. A joint Ministry of Health/WHO mission will be deployed shortly.\n\nWHO does not recommend any restrictions to travel or trade to or from affected areas, as a means of controlling cholera outbreaks. Neighboring countries are encouraged, however, to reinforce their active surveillance and preparedness. \nFor more information\n\n\nPrevention and control of cholera outbreaks: WHO policy and recommendationsWHO Regional Office for the Eastern Mediterranean \n\nWHO cholera fact sheet\n\n\nCholera in Iraq - Mapjpg, 404kb",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:24.460643",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "8 August 2008",
+        "Location": "Senegal",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "8 August 2008 -\nThe Ministry of Health of C\u00f4te d'Ivoire has declared a yellow fever outbreak in Abidjan. The outbreak was laboratory confirmed at the beginning of May 2008. \n\nIn June 2008, WHO deployed a GOARN mission (the Global Outbreak Alert and Response Network) of two experts in order to assess the epidemiological and entomological situation and to investigate the risk of a full scale urban yellow fever outbreak. \n\nAfter clinical, epidemiological and laboratory investigation, the GOARN mission confirmed two yellow fever cases. The cases were reported in different health districts of the capital, Abidjan. One case is a 48 year old female from Cocody, who was vaccinated against yellow fever in 1997, and the second is a 20 year old male from the urban area of Treichville, who has never been vaccinated against yellow fever. \n\nThe following conclusions were drawn by the GOARN mission: (i) the epidemiological situation is that of a temporal cluster of yellow fever cases without geographic focus and without continuation at present; (ii) although a mass vaccination campaign was conducted in 2001, the actual yellow fever vaccination coverage is likely to be around or below 60%; (iii) vectors capable of transmitting yellow fever are present in Abidjan; and (iv) the entomological risk indices (Breteau index and Container index) were over the threshold in all localities investigated, indicating a high risk of yellow fever transmission.\n\nAs a result, the mission recommends that the surveillance system to detect new yellow fever cases is strengthened and that vector control measures are implemented. \n\nSubsequent to the mission, in July 2008, a further three laboratory confirmed cases were reported by the Ministry of Health. In addition to the standard IgM tests, more specific tests were used for all cases at the regional reference laboratory, Institut Pasteur in Dakar, Senegal, to determine the presence of the yellow fever virus and to exclude the presence of any other haemorrhagic fevers. \n\nTo date, the Ministry of Health has reported a total of nine suspected cases of yellow fever, including the five confirmed cases.\n\nOn the basis of these results, the Ministry of Health has decided to carry out a mass vaccination campaign in Abidjan, in August 2008, targeting 1 938 161 people. The campaign will be conducted with the technical assistance of WHO and the support of the GAVI alliance (the Global Alliance for Vaccines and Immunization). The previous mass vaccination campaign in Abidjan took place in 2001, during which 2.6 million doses were administered.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:27.551633",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "10 July 2008",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 July 2008\n\nWHO has been notified by the Government of the Netherlands of a case of Marburg haemorrhagic fever (MHF) in a Dutch tourist who visited Uganda. Marburg virus infection has been demonstrated by laboratory tests performed by the Bernhard Nocht Institute in Hamburg, Germany. \n\nThe 40-year-old woman travelled in Uganda from 5-28 June, 2008, and entered caves on two occasions. The first cave was visited on 16 June at Fort Portal. No bats were seen in this cave. She was reportedly exposed to fruit bats during a visit to the \u201cpython cave\u201d in the Maramagambo Forest between Queen Elisabeth Park and Kabale on 19 June. This cave is thought to harbour bat species that have been found to carry filoviruses in other locations in sub-Saharan Africa. Filoviruses cause two types of viral haemorrhagic fever: Marburg and Ebola. A large bat population was seen in the cave and the woman is reported to have had direct contact with one bat.\n\nThe woman returned to the Netherlands on 28 June in good health. The first symptoms (fever, chills) occurred on 2 July and she was admitted to hospital on 5 July. Rapid clinical deterioration with liver failure and severe haemorrhaging occurred on 7 July. The patient remains in a critical clinical condition.\n\nContact tracing and temperature monitoring have been initiated for unprotected contacts with a history of possible exposure to the case after 2 July. Although further epidemiological investigation is needed to exclude other possible sites of exposure to MHF virus, as a precaution Dutch authorities have alerted the tour operator to avoid visits to the caves until further information is available.\n\nNo citizens of other countries were involved in this trip except for a local tour guide, but the cave in the Maramagambo Forrest is known to be a tourist attraction. No measures were taken with respect to the passengers on the flight from Uganda as the flight occurred four days before the onset of symptoms in the patient.\n\nWHO has informed the Ministry of Health Uganda which will take appropriate steps nationally to investigate these events, and WHO has recommended that the MoH advise all residents and travellers to avoid entering caves with bat populations.\nFor more information\n\n\nWHO Marburg haemorrhagic fever website",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:29.048583",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "23 June 2008",
+        "Location": "Senegal",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 June 2008 -\nFollowing an unexplained cluster of deaths in children from the NGagne Diaw quarter of Thiaroye sur Mer, Dakar, Senegal, an investigation by health and environmental authorities revealed that the area was contaminated with lead from the informal recycling of lead batteries. In addition, siblings and mothers of the dead children were found to have extremely high blood lead concentrations, in many cases above 1000 \u03bcg/L (in children, a concentration above 100 \u03bcg/L may impair neurological development, and 700 \u03bcg/L is considered to require immediate action). \n\nFollowing a formal request from Senegal, WHO has deployed an international team consisting of a clinical toxicologist, an environmental health specialist and analytical chemist. This team has conducted clinical examinations and further environmental investigations in NGagne Diaw. Clinical examinations have confirmed continuing high blood lead concentrations in the original group studied, as well as in a randomly-selected group of adults and children who were not involved in lead recycling. Many children are showing evidence of neurological damage. Environmental investigations have found very high concentrations of lead both outside and inside peoples' homes. These have been mapped to an area inhabited by approximately 950 people, who are continuously exposed through ingestion and inhalation of lead-contaminated dust. \n\nWHO has advised the Senegalese authorities about the need for urgent action to terminate exposure of the affected population to lead, and to provide chelation and other therapy to children with high blood lead concentrations. Chelation therapy in children who continue to be exposed to lead is ineffective and may exacerbate toxicity. Plans are in hand to hospitalize the worst-affected cases, but they will then need to be able to return to a lead-free environment. WHO has provided chelating agents, and the clinical toxicologist has started training local medical staff. Further systematic investigation of the population of NGagne Diaw is needed, as well as the administration of appropriate treatment. Thorough decontamination of the affected area of NGagne Diaw, including the insides of homes, is a high priority. \n\nTo deal effectively with this environmental and public health emergency the Senegalese authorities will require urgent technical and financial assistance from the international community. WHO is briefing its UN and other partners about the situation in order to facilitate the provision of the necessary resources. \nFor more information\n\n\nSenegal: Outbreak of lead intoxication in Thiaroye sur Mer  20 June 2008Environmental Health Emergencies website",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:30.613556",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "19 June 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 June 2008 -\nThe Ministry of Health of Indonesia has announced two new cases of human H5N1 avian influenza infection. The cases are not linked epidemiologically. The first is a 16-year-old female from South Jakarta, DKI Jakarta Province developed symptoms on 7 May, was hospitalized on 12 May and died on 14 May. Investigations into the source of her infection indicate exposure to sick and dead poultry.\n\nThe second case is a 34-year-old female from Tangerang District, Banten Province who developed symptoms on 26 May, and was hospitalized on 2 June and died on 3 June. Investigations into the source of her infection are ongoing.\n\n\n\nOf the 135 cases confirmed to date in Indonesia, 110 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:32.254245",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "18 June 2008",
+        "Location": "Nigeria",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 June 2008 -\nNorthern Nigeria is currently affected by a new outbreak of wild poliovirus type 1 (WPV1), which has begun to spread internationally. In 2008, a nine-fold increase in new cases caused by this serotype has been reported compared with the same period in 2007. This outbreak in northern Nigeria has the potential to cause major international outbreaks, as occurred in 2003-2006. This year, Nigeria accounts for 86% of WPV1 cases in the world. \n\nThis new outbreak in Nigeria has occurred because upwards of 20% of children remain unimmunized in key high-risk areas for polio in the north of the country. From 2003 to 2006, an outbreak in northern Nigeria led to national and international spread of the disease, eventually re-infecting 20 previously polio-free countries, causing outbreaks in places as far away as Indonesia and Yemen, and resulting in 1,475 cases in these 20 countries. \n\nNew WPV1 genetically linked to viruses from northern Nigeria has now been confirmed in Benin (one case, onset 17 April 2008) and the western part of Niger (1 case, in Tillaberry province, close to the borders with Burkina Faso and Mali; onset 11 April 2008). It is from these areas that WPV1 originating from Nigeria spread across west, central and the Horn of Africa in 2003-2004, re-infecting \u2013 among others \u2013 C\u00f4te d'Ivoire, Ghana, Guinea and Togo. In addition to international spread of WPV1 from northern Nigeria, wild poliovirus type 3 (WPV3) originating from northern Nigeria has been reported from Chad (onset of most recent case 13 April 2008).\n\nThe risk of renewed international spread of polio from Nigeria is increasing due to the intensity of the outbreak in northern Nigeria, the upcoming rainy season which is associated with increased transmission of poliovirus, and the anticipated large-scale population movements for the Hajj (pilgrimage to Mecca, Saudi Arabia) in the second half of 2008. Saudi Arabia has been notified of the increased risk of polio infection to Hajj pilgrims. \n\nNigeria has planned two large-scale rounds of emergency polio immunization in the northern states in July and August 2008. Large-scale emergency polio immunization campaigns were conducted on 13-16 June in high-risk and border areas of Benin, Burkina Faso, Mali and Niger, followed by additional campaigns in July. Disease surveillance is being heightened in 'at-risk' countries, including in those re-infected in 2003-2006. \nFor more information\n\n\nGlobal Polio Eradication Initiative",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:33.753670",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "28 May 2008",
+        "Location": "Bangladesh",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 May 2008 -\nThe Ministry of Health, Bangladesh has confirmed its first case of human infection with H5N1 avian influenza. The case was identified retrospectively as part of seasonal surveillance activities run by the International Centre for Diarrhoeal Disease Research, Bangladesh (ICDDRB).\n\nThe case is a 16-month-old male from Komalapur, Dhaka. He developed symptoms on 27th January 2008 and subsequently recovered. The case was confirmed as being infected with A(H5N1) by the WHO H5 Reference Laboratory, US Centers for Disease Control and Prevention (CDC). The case was exposed to live and slaughtered chickens at his home. Specimens have been collected from his family members and neighbours. All remain healthy to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:35.315312",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "21 May 2008",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 May 2008 -\nThe Chinese Center for Disease Control and Prevention, in collaboration with the WHO Representative Office in China, has released a preliminary report on the hand, foot and mouth disease (HFMD) outbreak due to enterovirus 71 (EV71) in Fuyang City, Anhui Province.\n\nReporting on the occurrence of HFMD in Anhui province and the rest of the country will now take place on a monthly basis together with other notifiable diseases in China.\n\nAs part of the efforts to implement the International Health Regulations, IHR(2005), China will further strengthen the early warning system by immediate notification of clustering of clinically abnormal and severe cases, as well as increasing international collaboration and information exchange.\n\nAn English version of the preliminary report can be downloaded from the WHO China Country Office website:\n\n\nWorld Health Organization China Office website",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:36.851955",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "20 May 2008",
+        "Location": "Central African Republic",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 May 2008 -\nAs of 15 May, the Ministry of Health (MoH) of the Central African Republic has reported 2 laboratory confirmed cases of Yellow fever from the Bozoum sub-prefecture, Ouham-Pend\u00e9 Prefecture. The MoH has conducted an epidemiological investigation.\n\nIn response to the outbreak the MoH has made a request for 64,391 doses of Yellow fever vaccine from the GAVI funded Global Emergency Stockpile for Yellow fever vaccine, managed by the International Coordinating Group on Vaccine Provision for Yellow Fever Control (YF-ICG). The target population was estimated to be 55,035 people. The MoH plans to vaccinate the sub prefecture of Bozoum starting on 26 May 2008 for three days.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:38.413196",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "7 May 2008",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "7 May 2008 -\nAs of 5 May, 4,496 cases, including 22 deaths, of hand, foot and mouth disease (HFMD) due to enterovirus 71 (EV71) have been reported among infants and young children in Fuyang City, Anhui Province, China. There are currently 1,391 cases receiving medical care in hospital, with no additional deaths for 5 consecutive days.\n\nHFMD became a notifiable disease in China on 2 May. Because of this change in reporting policy and the increased awareness of the general public about the disease, it is expected there will be an increase in the number of reported cases in the next weeks and months from Anhui province and the rest of China.\n\nThe Government of China has assured WHO of its strong technical and political commitment to control the disease in Anhui and other provinces. In addition to enhanced surveillance, as there is no specific treatment for enterovirus infections and a vaccine is not currently available, a nation-wide health campaign is ongoing, stressing the need for personal hygiene, especially hand washing. Additional resources have also been provided to paediatric health care providers by the Ministry of Health.\n\nHFMD is a common and usually mild childhood disease. EV71 is a frequent cause of HFMD epidemics associated with neurological disease in a small proportion of cases. There have been a number of outbreaks of EV71 HFMD in the Asia-Pacific region since 1997. Outbreaks have been reported in Malaysia (1997), Taiwan , China (1998), Australia (1999) and Singapore (2000) among other areas in the region.\n\nWHO advises against the application of any travel or trade restrictions relating to China while reinforcing the need for prevention through enhanced personal hygiene.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:39.879669",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "1 May 2008",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "1 May 2008 -\nAs of April 29 a total of 1884 cases including 20 deaths of hand, foot and mouth disease (HFMD) due to enterovirus (EV-71) have been reported among infants and young children. The 20 deaths are in Fuyang city in Anhui Province, China.\n\nAll fatal cases died of serious complications such as neurogenic pulmonary oedema due to EV-71 infection. The overall case fatality rate has decreased from 11% during March 10-31 to 0.2% during April 17-29.\n\nThe number of hospitalised cases has gradually increased since the end of March with a sharp increase in the number of cases since April 19.\n\nPublic health experts predict that the number of cases will continue to increase and will peak around June-July. Retrospective case investigation has revealed that sporadic cases had occurred since the beginning of March. Cases have been reported from all over Fuyang city.\n\nTesting for a variety of respiratory diseases of the initial cases did not reveal any conclusive results. Subsequently, additional testing and several expert consultations were conducted at the national level. On April 23, EV-71 was confirmed. Health authorities informed WHO and Hong Kong SAR Department of Health and the Province of Taiwan's Department of Health immediately on these results.\n\nChinese health authorities have put in place targeted prevention and control measures in Fuyang city and Anhui Province, including enhanced surveillance, training of health care workers at all levels in treatment, prevention and control, strengthening of environmental health management, and the supervision and monitoring of drinking water quality. A public awareness campaign is ongoing, stressing the need for good personal hygiene, mostly by hand washing.\n\nNon-polio enteroviruses are common and distributed worldwide. Although infection often has no symptoms and goes unnoticed, these viruses are also associated with occasional outbreaks in which a larger-than-usual number of patients develop clinical disease, sometimes with fatal consequences. No specific anti-viral therapy is available and treatment focuses on prevention of complications. As there is no vaccine for this virus, control measures during outbreaks are focused on classical hygiene measures including frequent hand-washing and disinfection of soiled clothing and surfaces. In certain situations, it may be advisable to close child-care facilities and schools to reduce the intensity of transmission. It is not necessary to restrict travel or trade.\n\nCurrently many countries in the Western Pacific region have implemented heightened surveillance for hand, foot and mouth disease and for severe complications in children.\nFor more information\n\n\nWHO fact sheet - Enteroviruses - non polio",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:41.476840",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "30 April 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 April 2008 -\nThe Ministry of Health of Indonesia has announced a new case of human infection of H5N1 avian influenza. A 3-year-old male from Wonogiri District, Central Java Province developed symptoms on 14 April, was hospitalized on 21 April and died on 23 April. Investigations into the source of his infection indicate exposure to sick and dead poultry.\n\nOf the 133 cases confirmed to date in Indonesia, 108 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:48.028907",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "22 April 2008",
+        "Location": "Viet Nam",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 April 2008 -\nBetween 5 March and 22 April the Ministry of Health of Viet Nam reported 2490 cases of severe acute watery diarrhoea including 377 that were positive for Vibrio cholerae , the bacterium causing cholera. The serotype has been identified as 01 Ogawa. No deaths have been reported, a fact that indicates that good case management is in place.\n\nUntil now, 20 provinces and municipalities of Viet Nam have been affected. The majority of people infected by the disease are Hanoi residents. The predominant route of infection appears to be consumption of contaminated food. Cholera bacteria have not been detected in drinking water in Hanoi or in other affected areas but have been found in some surface waters. Additional epidemiological, environmental and food trace-back investigations are under way.\n\nThe Ministry of Health has been increasing health education and launched a mass media campaign aimed at strengthening food safety and personal hygiene knowledge and practices. Environmental disinfection is conducted in the homes of cholera patients and a program of intensified hygiene inspection of commercial food vendors is being carried out.\n\nWHO is supporting the Ministry of Health by providing technical advice on aspects of the epidemiological and laboratory investigations of the outbreak. In addition, WHO and other UN agencies are exploring other possibilities of assistance.\n\nIn controlling the spread of cholera WHO does not recommend any special restrictions to travel or trade to or from affected areas. Visitors coming to Viet Nam are encouraged to respect basic precautions when consuming water and food.\nFOR MORE INFORMATION\n\n\nWHO Cholera fact sheet\n\n\nFAQ and information for travellers",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:50.997909",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "18 April 2008",
+        "Location": "Madagascar",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 April 2008 -\nAs of 17 April 2008, the Ministry of Health, Madagascar has reported a total of 418 suspected cases including 17 deaths (CFR 4%) of Rift Valley fever from Alaotra Mangoro, Analamanga, Itasy, Vakinakaratra and Anosy Regions.\n\nInfection with Rift Valley Fever Virus (RVFV) has been laboratory confirmed in 59 human cases by the Institut Pasteur de Madagascar, a WHO Collaborating Centre for Viral Hemorrhagic Fevers and partner in the Global Outbreak Alert and Response Network.\n\nThe Ministry of Health, Madagascar has established an inter-ministerial committee to oversee the response to the outbreak. Control measures implemented have included case management, surveillance, social mobilization, provision of medicines, prevention and strengthening of hospital infection control.\n\nThe Ministry of Agriculture (MoA) has reported the RVF in animals to the OIE on 9 April 2008.\n\nThe MoH and MoA have requested the support of a joint WHO, FAO, OIE mission to support outbreak response efforts.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:53.979115",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "17 April 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 April 2008 -\nThe Ministry of Health and Population of Egypt has announced a new human case of avian influenza A(H5N1) virus infection. The case is a 2-year-old male from Al-Honsanya, Sharkea Governorate. He developed symptoms on 13 April and was hospitalized on 14 April and is currently in hospital. The case was confirmed as being infected with A(H5N1) by the Central Public Health Laboratories and by Cairo-based US Naval Medical Research Unit 3 (NAMRU-3) .\n\nInvestigations into the source of his infection indicate a history of contact with sick and dead poultry.\n\nOf the 50 cases confirmed to date in Egypt, 22 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:55.652565",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "15 April 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 April 2008 -\nThe Ministry of Health and Population of Egypt has announced a new human case of avian influenza A(H5N1) virus infection. The case is a 30-year-old female from Al-Matarya, Cairo Governorate. She developed symptoms on 2 April, was hospitalized and died on 11 April. The case was confirmed as being infected with A(H5N1) by the Central Public Health Laboratories and by Cairo-based US Naval Medical Research Unit 3 (NAMRU-3) .\n\nInvestigations into the source of her infection indicate a history of contact with sick and dead poultry.\n\nOf the 49 cases confirmed to date in Egypt, 22 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:45:58.361129",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "10 April 2008",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 April 2008 -\nAs of 28 March, 2008, the Brazilian health authorities have reported a national total of 120 570 cases of dengue including 647 dengue haemorrhagic fever (DHF) cases, with 48 deaths.\n\nOn 2 April 2008, the State of Rio de Janeiro reported 57 010 cases of dengue fever (DF) including 67 confirmed deaths and 58 deaths currently under investigation. Rio de Janeiro, where DEN-3 has been the predominant circulating serotype for the past 5 years since the major DEN-3 epidemic in 2002, is now experiencing the renewed circulation of DEN-2. This has led to an increase in severe dengue cases in children and about 50% of the deaths, so far, have been children of 0-13 years of age.\n\nThe Ministry of Health (MoH) is working closely with the Rio de Janeiro branch of the Centro de Informa\u00e7\u00f5es Estrat\u00e9gicas em Vigil\u00e2ncia em Sa\u00fade (CIEVS) to implement the required control measures and identify priority areas for intervention. The MoH has already mobilized health professionals to the federal hospitals of Rio de Janeiro to support patient management activities, including clinical case management and laboratory diagnosis.\n\nAdditionally public health and emergency services professionals have been recruited to assist community-based interventions. Vector control activities were implemented throughout the State and especially in the Municipality of Rio. The Fire Department, military, and health inspectors of Funasa (Fundacao Nacional de Saude, MoH) are assisting in these activities.\nFor more information\n\n\nEmerging and Reemerging Infectious Diseases Updates Pan American Health Organization, Regional Office for the Americas of the World Health Organization  \n\nMinistry of Health, Brazil",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:00.105922",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "8 April 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "8 April 2008\n\nThe Ministry of Health and Population of Egypt has announced a new human case of avian influenza A(H5N1) virus infection.\n\nThe case is a 19-year-old male from Kafr El-Dawar District, Behera governorate. He developed symptoms on 30 March was hospitalized on 31 March and died on 4 April. The case was confirmed as being infected with A(H5N1) by the Central Public Health Laboratories and by Cairo-based US Naval Medical Research Unit 3 (NAMRU-3) .\n\nInvestigations into the source of his infection indicate a history of contact with sick and dead poultry.\n\nOf the 48 cases confirmed to date in Egypt, 21 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:01.650876",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "3 April 2008",
+        "Location": "Pakistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "3 April 2008\n\nTwo additional H5N1 cases were confirmed by serological testing, thus providing final H5N1 infection test results on a previously reported family cluster in Peshawar.\n\nThese tests were conducted by the WHO H5 Reference Laboratory in Cairo, Egypt and the WHO Collaborating Centre for Reference and Research on Influenza in Atlanta, USA. The table below summarises the testing results of the confirmed/probable cases in the family cluster.\n\nThe preliminary risk assessment found no evidence of sustained or community human to human transmission.\nAll identified close contacts including the other members of the affected family and involved health care workers remain asymptomatic and have been removed from close medical observation.\n\n\nThese laboratory test results support the epidemiological findings from the outbreak investigation in December 2007, and the final risk assessment that suggested limited human to human transmission likely occurred among some of the family members which is consistent with some human-to-human transmission events reported previously. This outbreak did not extend into the community, and appropriate steps were taken to reduce future risks of human infections.\n\n  Relationship\u00a0 Onset Date  Outcome Exposure Status   Case 1 (Index case) 29 Oct 07 Fully recovered Direct contact sick/dead poultry\u00a0 Confirmed (serology)   Case 2 12 Nov 07 Dead (19 Nov 07) Close contact with Case 1, no known direct contact with sick/dead poultry Probable (No sample available)   Case 3 21 Nov 07 Dead (28 Nov 07) Close contact with Case 1 and 2, no known direct contact with sick/dead poultry Confirmed (PCR)  \n\n Case 4 21 Nov 07 Fully recovered\u00a0 Close contact with Case 1 and 2, no known direct contact with sick/dead poultry Confirmed (serology)",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:03.489252",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "2 April 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "2 April 2008\n\nThe Ministry of Health of Indonesia has announced three new cases of human H5N1 avian influenza infection. The cases are not linked epidemiologically. The first is a 15-year-old male student from Subang District, West Java Province who developed symptoms on 19 March, was hospitalized on 22 March and died on 26 March .\n\nThe second case is an 11-year-old female student from Bekasi City, West Java Province who developed symptoms on 19 March, was hospitalized on 23 March and died on 28 March.\n\nThe third case is a 21-month-old female from Bukit Tinggi, West Sumatra Province who developed symptoms on 17 March, and was hospitalized on 22 March. She is presently recovering in hospital.\n\nThe source of infection for all three cases is still under investigation.\n\nOf the 132 cases confirmed to date in Indonesia, 107 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:05.535729",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "18 March 2008",
+        "Location": "Viet Nam",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 March 2008\n\nThe Ministry of Health in Viet Nam has confirmed a new case of human infection of H5N1 avian influenza. The case has been confirmed by the National Institute of Hygiene and Epidemiology (NIHE).\n\nThe case is an 11 -year old male from Thanh Liem district, Ha Nam province. He developed symptoms on 4 March was hospitalized on 9 March and died on 14 March. The case had contact with sick and dead poultry prior to his illness.\n\nControl measures have been implemented and close contacts have been identified. All remain healthy and will continue to be monitored.\n\nOf the 106 cases confirmed to date in Vietnam, 52 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:07.067073",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "11 March 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 March 2008\n\nThe Ministry of Health and Population of Egypt has announced a new human case of avian influenza A(H5N1) virus infection. The case is an 8-year-old male from Etsa District, Fayum Governorate. He was hospitalized with symptoms on 3 March. He is receiving treatment and is in a stable condition.\n\nInvestigations into the source of his infection indicate a history of contact with sick and dead poultry.\n\nOf the 47 cases confirmed to date in Egypt, 20 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:08.615649",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "7 March 2008",
+        "Location": "Paraguay",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "Yellow fever vaccination tops 1.27 million in Paraguay\n\n7 March 2008\n\nThe Ministry of Public Health and Social Welfare (MSPBS) of Paraguay has reported that more than 1.27 million people have been vaccinated against yellow fever in 18 departments, with coverage reaching 83% of the population in Asunci\u00f3n and 75% in the Central Department.\n\nThe number of confirmed cases of yellow fever has risen with 6 new cases and is now at 22 cases, including 6 deaths, according to Ministry figures, with 11 cases in San Pedro, 9 in Laurelty, and 2 in other areas. Another 12 suspected cases are being investigated.\n\nMeanwhile, at a recent meeting in Port Iguaz\u00fa, officials from Brazil, Paraguay, Uruguay, Venezuela, Bolivia and Peru agreed to coordinate and monitor yellow fever immunization for the populations of border areas, with the support of the Pan American Health Organization (PAHO). They also agreed that the principal measure to prevent urbanization of the disease is reduction of breeding sites for Aedes aegypti  mosquitoes throughout the region.\nFor more information\n\n\nPAHO Press releasePan American Health Organization, Regional Office for the Americas of the World Health Organization",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:10.150673",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "5 March 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "5 March 2008\n\nThe Ministry of Health and Population of Egypt has announced a new human\ncase of avian influenza A(H5N1) virus infection. The case is an 11-year-old male from Menof District, Menofia Governorate. He was hospitalized with symptoms on 26 February and was confirmed as being infected with A(H5N1) by the Central Public Health Laboratory and NAMRU-3 on 4 March. He remains in a critical condition. \n\nInvestigations into the source of his infection indicate a history of contact with sick and dead poultry. \n\nOf the 46 cases confirmed to date in Egypt, 20 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:11.684954",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "4 March 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "4 March 2008\n\nThe Ministry of Health and Population of Egypt has announced a new human case of avian influenza A(H5N1) virus infection. The case is a 25 years old female from Sennoris District, Fayum Governorate. She developed symptoms on 24 February and was hospitalized on 27 February. Her death has now been confirmed by the Ministry of Health and Population.\n\nInvestigations into the source of her infection indicate that she had contact with sick poultry prior to becoming unwell.\n\nOf the 45 cases confirmed to date in Egypt, 20 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:13.419173",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "28 February 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 February 2008\n\nThe Ministry of Health and Population of Egypt has announced a new human case of avian influenza A(H5N1) virus infection. The case is a 4 years old female from El-Edwa district, Menia governorate. She developed symptoms on 21 February and was hospitalized on 24 February. She is receiving treatment and is in a stable condition.\n\nInvestigations into the source of her infection indicate exposure to sick poultry in the week prior to onset of symptoms.\n\nOf the 44 cases confirmed to date in Egypt, 19 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:14.913564",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "28 February 2008",
+        "Location": "Paraguay",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "Mobilization against Yellow Fever in Paraguay Continues\n\n28 February 2008\n\nThe Ministry of Public Health and Social Welfare (MSPBS) of Paraguay has reported the confirmation of 16 cases of yellow fever (YF), including three deaths. Seven of these cases, young people who visited rural areas, are from the Department of San Pedro, and are related to the jungle cycle of the virus. The other nine confirmed cases, which include 3 deaths, are from San Lorenzo Municipality, outside of Asunci\u00f3n. Another 15 suspected cases are being investigated.\n\nMeanwhile, the Ministry of Health is taking measures to contain the disease in affected areas, and more than 1 million people who live in or travel to these affected areas have been vaccinated. The Ministry of Health obtained two million doses of yellow fever vaccine from the International Coordinating Group on Provision of Vaccines of the World Health Organization. Brazil sent 850,000 doses and Peru sent 144,000 doses of vaccines, adding to the 300,000 Paraguay had in reserve.\nFor more information\n\n\nPAHO Press releasePan American Health Organization, Regional Office for the Americas of the World Health Organization",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:16.414726",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "26 February 2008",
+        "Location": "Viet Nam",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 February 2008\n\nThe Ministry of Health in Viet Nam has confirmed a new case of human infection of H5N1 avian influenza. The case has been confirmed by the National Institute of Hygiene and Epidemiology (NIHE).\n\nThe case is a 23 -year old female from Cam Khe district, Phu Tho province. She developed symptoms on 14 February was hospitalized on 19 February and died on 25 February. The case had contact with sick and dead poultry prior to her illness.\n\nOf the 105 cases confirmed to date in Vietnam, 51 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:18.327028",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "22 February 2008",
+        "Location": "Burkina Faso",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "Epidemiological situation: low levels of meningitis activity so far in 2008\n\n22 February 2008\n\nThe WHO Multi-Disease Surveillance Centre in Ouagadougou (MDSC - Burkina Faso) is monitoring the meningitis situation in the African meningitis belt throughout the epidemic season and in particular, in 13 countries under enhanced seasonal surveillance: Benin, Burkina Faso, Cameroon, the Central African Republic, Chad, C\u00f4te d'Ivoire, the Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Niger, Nigeria and Togo. Preliminary reports from these countries are of a total of 2,312 cases (324 deaths) occurring between 1 January and 10 February 2008. These figures are 29% lower than those reported in the same 6 week period in 2007 (3,274 cases, 413 deaths) indicating lower levels of meningitis activity so far in 2008.\n\nAmong countries reporting cases to the MDSC, Burkina Faso, the Central African Republic and the Democratic Republic of the Congo have been reporting outbreaks since the beginning of the season. Other countries reporting meningitis activity without reaching the epidemic threshold at district level include Benin, C\u00f4te d'Ivoire, Ethiopia, Ghana, Mali, Niger, Nigeria and Togo. Cameroon and Chad have not reported any cases.\n\nBurkina Faso is the most affected country with a total of 1,422 cases, including 204 deaths (case fatality ratio- 14.3%) reported from 1 January to 10 February. These cases represent more than 61% of all cases reported to MDSC in 2008 (against 64% for the same period in 2007)\n\nNeisseria meningitidis A (Nm A) was identified as the causative agent in Mangodara and Sapouy districts. Vaccination was carried out in these districts as well as in Gaoua, targeting the 2 to 29-year-old population. A cross border assessment is being carried out on the situation in Ivory Coast in the area neighbouring Mangodara district. Although the epidemiological trend in Burkina Faso is similar to the one observed last year, the first 6 weeks of 2007 saw more cases reported in total as well as more districts reaching the epidemic threshold (8 as against 2 in 2008).\n\nThe Ministry of Health in the Central African Republic is launching reactive mass vaccination campaigns in some of the communes that have reached the epidemic threshold in the Northern prefecture of Nana-Gribizi. A total of 45 cases, including 5 deaths (CFR 11.1%) had been reported by the end of week 6 and Nm A has been identified as the responsible pathogen. International partners including WHO and the International Coordination Group (ICG) are providing support for the vaccination campaigns.\n\nIn the Democratic Republic of the Congo1 a situation assessment is being carried out in Aru district that neighbours Arua district in Uganda) where 167 cases, including 17 deaths (CFR 10.2%) were reported during the period from 1 January to 10 February 2008. The most affected areas include Laybo, Ariwara and Aungba health zones. The Aru district also experienced an outbreak in early 2007. \nSituation in other countries of the meningitis belt\n\nIn Southern Sudan a situation assessment is being carried out in areas where suspected cases were reported including in Awerial, Bor, Jur River and Torit Counties.\n\nUganda experienced an outbreak in Arua district West Nile region, with a total of 380 cases, including 17 deaths (CFR 4.5%) reported from 13 December 2007 to 28 January 2008. A sharp decline in the weekly case count was observed following a mass vaccination campaign that was implemented in week 04.\n\nNo suspected cases have been reported from other countries within the meningitis belt, namely Eritrea, Guinea, the Gambia, Kenya, Mauritania and Senegal.\nVaccine availability through the ICG\n\nSo far in 2008, the ICG has provided 40,000 vaccine doses, injection material and safety disposal boxes for vaccination campaigns in the Central African Republic.\n\nThe current ICG stockpile, available of outbreak response in this meningitis season stands at 7 million doses of bivalent polysaccharide A/C vaccine and 3.3 million doses of trivalent polysaccharide vaccine A/C/W135.\n\nFor more information on submitting requests for vaccines through the ICG and regional meningitis surveillance see links below.\n\n\nInternational Coordinating Group (ICG) on Vaccine Provision for Epidemic Meningitis Control \n\n\nEpidemiological information\n\n\n\n\n1Thresholds are not applicable to this country on the border with the meningitis belt",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:19.868140",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "21 February 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 February 2008\n\nThe Ministry of Health of Indonesia has announced two new cases of human H5N1 avian influenza infection. The first is a 16-year-old male from Sragen district, Central Java Province who developed symptoms on 3 February, was hospitalized on 7 February and died on 10 February. Prior to his illness, the case was exposed to sick and dead poultry at his home, where he slaughtered a sick chicken.\n\nThe second case is a 3-year-old boy from South Jakarta District, Jakarta Province who developed symptoms on 3 February, was hospitalized on 10 February and died on15 February. The investigation team found that chickens & a pet bird had died in the neighborhood in the two weeks prior to the case\u2019s onset of symptoms.\n\nOf the 129 cases confirmed to date in Indonesia, 105 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:21.438794",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "20 February 2008",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 February 2008\n\nThe Ministry of Health, Uganda has declared today the end of the Ebola epidemic in Bundibugyo. The last person to be infected by the virus was discharged on 8th January 2008. This is more than double the maximum incubation period (42 days) for Ebola.\n\nA national task force coordinated the response to this outbreak, comprising MoH, WHO and other international partners in the field, including experts from M\u00e9decins Sans Fronti\u00e8res (MSF - Suisse), African Field Epidemiology Network (AFENET), International Federation of Red Cross and Red Crescent Societies (IFRC), Centers for Disease Control and Prevention (CDC), Atlanta, UNICEF and WFP. International technical and operational coordination was supported through the Global Outbreak Alert and Response Network (GOARN), and networks of regional experts and technical institutions..\n\nThe Ugandan Government, WHO and other partners, established an active surveillance system for the detection of cases and follow up of their contacts. Mobile district teams were sent to the field to investigate rumours, obtain clinical specimens for laboratory tests, hospitalize patients and monitor their contacts. Mobile teams, including trained Red Cross volunteers, followed up a cumulative total of 804 contacts on a daily basis. Isolation wards were established at hospitals in Kikyo and Bundibugyo, and training was provided for health care workers and auxiliary staff in appropriate triage and infection control measures. A cumulative total of 75 patients were treated in both isolation facilities.\n\nLaboratory experts from the Centers for Disease Control and Prevention (CDC), Atlanta, USA, provided support to the Uganda Virus Research Institute (UVRI) in diagnosis and analysis of samples. Specimens from suspected cases were collected and referred for laboratory confirmation to a joint CDC and UVRI team in Entebbe, Uganda.\n\nLaboratory analysis undertaken at CDC has confirmed that the virus associated with the outbreak is different from the 3 African Ebola species (namely Za\u00efre, Sudan and Ivory Coast species) and should be considered as a new species of Ebola virus.\n\nThe Ministry of Health and IFRC conducted intensive social mobilization activities, including the use of radio broadcasts and mobile film vans to reach at-risk communities. Fact sheets, brochures and posters were also distributed.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:28.069136",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "20 February 2008",
+        "Location": "Paraguay",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 February 2008\n\nAs of 20 February 2008, The Ministry of Health (MoH), Paraguay have notified the confirmation of 7 cases of jungle yellow fever from San Pedro Department. Another cluster with 4 clinically compatible cases occurred in the urban area of San Lorenzo municipality, 20 km from Asuncion. Final confirmation of these 4 cases is pending.\n\nThe Ministry of Health has strengthened public health containment measures in the affected areas. Integrated control measures involving mass vaccination for people living in, or travelling to, the affected area; vector control; and heightened surveillance are underway to prevent serious public health consequences given the current low level of immunization among the people living in the affected area.\n\nA PAHO team of experts including an epidemiologist, clinician/virologist, risk communicator, immunization advisers and emergency management experts was deployed to Paraguay on 15 February. A laboratory scientist from IEC Instituto Evandro Chagas (Brazil) will join the national public health laboratory shortly.\n\nYellow fever vaccines shortage has been addressed by mobilizing vaccines available in countries of the region. In addition, the MoH has requested 2 million doses of vaccine from the WHO ICG (International Coordinating Group on Vaccine Provision).\nFor more information\n\n\nEmerging and Reemerging Infectious Diseases UpdatesPan American Health Organization, Regional Office for the Americas of the World Health Organization",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:29.585936",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "15 February 2008",
+        "Location": "Viet Nam",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 February 2008 \n\nThe Ministry of Health in Viet Nam has confirmed a new case of human infection of H5N1 avian influenza. The case has been confirmed by the National Institute of Hygiene and Epidemiology (NIHE).\n\nThe case is a 40 -year old male from Gia Loc district, Hai Duong province. He developed symptoms on 2 February was hospitalized on 8 February and died on 13 February. The case had contact with sick and dead poultry prior to his illness. The Ministry of Health and local health units have implemented control measures and close contacts have been identified. All remain healthy and will continue to be monitored.\n\nOf the 103 cases confirmed to date in Vietnam, 49 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:31.347001",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "12 February 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 February 2008\n\nThe Ministry of Health of Indonesia has announced a new case of human infection of H5N1 avian influenza. A 15-year-old female from West Jakarta, Jakarta Province developed symptoms on 2 February, was hospitalized on 8 February and is currently in hospital in a critical condition. The case is the daughter of a previously confirmed case, the 38-year-old female from West Jakarta, Jakarta Province who developed symptoms on 23 January.\n\nInvestigations into the source of her infection are ongoing. However, she was exposed to her sick mother on 27-28 January and spent time in a neighbourbood where chickens and other birds were found. Samples from these birds have been taken and are undergoing tests to determine whether they may have been the source of infection.\n\nOf the 127 cases confirmed to date in Indonesia, 103 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:33.189814",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "7 February 2008",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "5 February 2008\n\nAs of 1 February, the Ministry of Health, Brazil has reported a total of 48 cases of yellow fever including 13 deaths. Twenty three of these cases have been laboratory confirmed. The laboratory confirmed cases were reported from the three states of Goias, Distrito Federal and Mato Grosso do Sol. The first confirmed case was on 17 Dec 2007. Twenty one confirmed cases had never been vaccinated for yellow fever and the other 2 were last vaccinated over 20 years ago.\n\nThis outbreak of yellow fever follows an epizootic outbreak in monkeys that started in April 2007 and has since spread to 80 municipalities. An increase in the number of epizootic events was observed between December 2007 and January 2008, reaching more than 23 new municipalities in that period.\n\nBrazil has suspended exports of yellow fever vaccine from Bio-Manguinhos, one of three WHO pre-qualified manufacturers of yellow fever vaccine, based in Brazil, in order to meet the needs of the country to respond to this outbreak.\n\nOn 18 January, the Brazilian Ministry of Health submitted a request to borrow an additional 4 million doses of vaccine from the global emergency stockpile managed by the International Coordinating Group on Vaccine Provision for Yellow Fever Control (YF-ICG), in order to complete the required levels of yellow fever vaccines stocks held nationally to enable an emergency vaccination campaign.\n\nThe campaign which targets approx 7 million people, in the most affected states will be carried out in early February. Due to the coordinated efforts between the ICG and United Nations Children's Fund (UNICEF) Supply Division, the 4 millions doses arrived in Brazil in early February.\n\nThe yellow fever emergency stockpile is financed by the GAVI Alliance and managed by the YF-ICG. The YF-ICG is composed of representatives from UNICEF, M\u00e9decins sans Fronti\u00e8res (MSF), the International Federation of Red Cross (IFRC), and the World Health Organization, who acts as its secretariat.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:34.714485",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "5 February 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "5 February 2008\n\nThe Ministry of Health of Indonesia has announced two new cases of human H5N1 avian influenza infection. The first is a 29-year-old female from Tangerang City, Banten Province who developed symptoms on 22 January, was hospitalized on 28 January and died on 2 February. Investigations into the source of her infection are ongoing .\n\nThe second case is a 38-year-old female from West Jakarta, Jakarta Province who developed symptoms on 23 January 2008, was hospitalized on 26 January and is currently in hospital in a critical condition. Investigations into the source of her infection are ongoing.\n\nOf the 126 cases confirmed to date in Indonesia, 103 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:36.255744",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "1 February 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "1 February 2008\n\nThe Ministry of Health of Indonesia has announced the death of a previously confirmed case of H5N1 infection. The 31-year-old female from East Jakarta, Jakarta Province died on 31 January.\n\nOf the 124 cases confirmed to date in Indonesia, 102 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:37.797537",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "30 January 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 January 2008\n\nThe Ministry of Health of Indonesia has announced the death of a previously confirmed case of H5N1 infection. The 32-year-old male from Tangerang Municipality, Banten Province died on 29 January.\n\nOf the 124 cases confirmed to date in Indonesia, 101 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:39.640179",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "29 January 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "29 January 2008\n\nThe Ministry of Health in Indonesia has confirmed an additional four cases of human infection with the H5N1 avian influenza virus. Two of these cases were fatal. There is no evidence of an epidemiological link between the cases.\n\nThe first case, a 31-year-old female from East Jakarta, Jakarta Province, developed symptoms on 18 January, was hospitalized on 22 January and is currently in hospital. The investigation indicated that she visited a wet market where live poultry are sold three days prior to symptom onset.\n\nThe second case, a 9-year-old male from Depok Municipality, West Java, developed symptoms on 16 January, was hospitalized on 23 January and died on 27 January. Investigations into the source of his infection indicate that the case lived next door to a wet market where live poultry are sold.\n\nThe third case, a 32-year-old male from Tangerang Municipality, Banten Province, developed symptoms on 17 January, was hospitalized on 24 January and is currently in hospital. Investigations into the source of his infection are ongoing.\n\nThe fourth case, a 23-year-old female from East Jakarta, Jakarta Province, developed symptoms on 19 January, was hospitalized on 24 January and died on 27 January. Investigations into the source of her infection are ongoing.\n\nOf the 124 cases confirmed to date in Indonesia, 100 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:41.172504",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "24 January 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "24 January 2008\n\nThe Ministry of Health of Indonesia has announced the death of a previously confirmed case of H5N1 infection. The 30-year-old male from Tangerang District, Banten Province died on 24 January 2008.\n\nOf the 120 cases confirmed to date in Indonesia, 98 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:42.709133",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "23 January 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 January 2008\n\nThe Ministry of Health of Indonesia has announced a new case of human infection of H5N1 avian influenza. A 30-year-old male from Tangerang District, Banten Province developed symptoms on 13 January 2008, was hospitalized on 19 January and is currently in hospital. Investigations into the source of his infection are ongoing.\n\nOf the 120 cases confirmed to date in Indonesia, 97 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:44.238778",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "22 January 2008",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 January 2008\n\nHuman cases of Rift Valley fever (RVF) in Sudan have decreased continuously in recent weeks. As of 15 January 2008, a cumulative total of 698 cases, including 222 deaths, has been reported from six states (Gazeera, Kassala, Khartoum, River Nile, Sinnar and White Nile), yielding an overall CFR of 31.8%.\n\nWhile active surveillance continues in all affected states, no new cases have been reported since 5 January. Only Gazeera state has reported cases with date of onset in 2008, while several additional cases have been reported retrospectively with date of onset in November or December 2007. Several of the newly added cases evidence ocular presentation, which is typically a late-occurring feature of RVF infection.\n\nCase management related interventions and health education and vector control efforts are continuing. WHO continues to support the Sudan Ministry of Health in preparedness for viral haemorrhagic fever and other seasonal outbreaks and in the procurement of essential supplies, enhancing surveillance and training activities.\nFor more information\n\n\nWHO fact sheet - Rift Valley fever",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:46.053220",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "21 January 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 January 2008\n\nThe Ministry of Health of Indonesia has announced a new case of human infection of H5N1 avian influenza. An 8-year-old male from Tangerang District, Banten Province developed symptoms on 7 January 2008, was hospitalized on 16 January and died in an AI referral hospital on 18 January. Investigations into the source of his infection are ongoing, however initial reports indicate the case lived in close proximity to a chicken slaughter house.\n\nOf the 119 cases confirmed to date in Indonesia, 97 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:47.798561",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "18 January 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 January 2008\n\nThe Ministry of Health of Indonesia has announced the death of a previously confirmed case of H5N1 infection. The 16-year-old female from West Java Province died on 15 January 2008.\n\nOf the 118 cases confirmed to date in Indonesia, 96 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:49.361541",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "15 January 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 January 2008\n\nThe Ministry of Health of Indonesia has announced a new case of human infection of H5N1 avian influenza. A 32-year-old female from Tangerang District, Banten Province developed symptoms on 3 January 2008, was hospitalized on 9 January 2008 and died on 10 January. Investigations indicate the case had a history of close contact with birds and poultry in the week prior to her onset of symptoms.\n\nOf the 118 cases confirmed to date in Indonesia, 95 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:51.033427",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "11 January 2008",
+        "Location": "Indonesia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 January 2008\n\nThe Ministry of Health of Indonesia has announced a new case of human infection of H5N1 avian influenza. A 16-year-old female from West Java Province developed symptoms on 30 December 2007, was hospitalized on 4 January 2008 and is currently in hospital. Investigations found a history of deaths in chickens in the case\u2019s neighborhood in the two weeks preceding her onset of symptoms.\n\nOf the 117 cases confirmed to date in Indonesia, 94 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:52.807192",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "3 January 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "3 January 2008\n\nThe Ministry of Health and Population of Egypt has announced the death of a previously confirmed case of H5N1 infection. The 50 years old female from Domiatt governorate died on 31 December.\n\nOf the 43 cases confirmed to date in Egypt, 19 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 21:46:54.548557",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2008",
+        "Date Reported": "2 January 2008",
+        "Location": "Egypt",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "2 January 2008\n\nThe Ministry of Health and Population, Egypt has announced two new cases of human infection of H5N1 avian influenza.\n\nThe first case is a 25 years old female from Dekerns District, Dakahlyah Governorate. She developed symptoms on 26 December, was hospitalized on 27 December and died on 30 December.\n\nThe second case is a 36 years old female from Menof District, Menofia Governorate. She developed symptoms on 26 December, was hospitalized on 29 December and died on 31 December. To date, there has been no evidence of an epidemiological link between this case and the previous case from Menofia Governorate announced on the 28 December.\n\nBoth women had contact with sick and dead poultry prior to illness onset. Of the 43 cases confirmed to date in Egypt, 18 have been fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    }
+  ]
+}

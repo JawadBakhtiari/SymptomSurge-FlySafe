@@ -1,0 +1,1453 @@
+{
+  "events": [
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:35.188274",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "22 December 1999",
+        "Location": "Comoros",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 December 1999 Disease Outbreak Reported\n\nAn outbreak of cholera has occurred on Anjouan Island, Comoros, where a total of 103\ncases with 14 deaths were reported between 11 November and 17 December 1999. The most\naffected district was Domoni, which accounted for 52 cases and 10 of the reported deaths.\nHealth education and sanitary measures are being implemented.\n\nWHO, other UN agencies and NGOs are collaborating with the Ministry of Health to\norganize medical supplies and other assistance, which are required to control this\noutbreak.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:36.741737",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "17 December 1999",
+        "Location": "France",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 December 1999 Disease Outbreak Reported\n\nOn 17 December, the French collaborative study group for CJD1 confirmed (by\ncerebral biopsy) a new case of nvCJD in France. The patient, who is still alive, is a\nfemale aged 36; she has never been to the United Kingdom. The total number of cases of\nnvCJD in France is now 2 confirmed cases.\n\nThe worldwide total is now 50 cases, of which there has been a total of 46 confirmed\ncases, plus 2 probable cases, in the United Kingdom.\n\n\u00a0\n\n1 Epid\u00e9mio-surveillance des enc\u00e9phalopathies spongiformes humaines,\nParis, France.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:38.275122",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "10 December 1999",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 December 1999 Disease Outbreak Reported\n\nThe national health authorities have reported an outbreak of Japanese encephalitis\nwhich started in early September in Andhra Pradesh state. A total of 965 cases with 200\ndeaths (CFR 20.7%), mainly in children, occurred up to 6 December. Laboratory confirmation\nwas obtained for 16 out of 28 samples tested. The national health authorities sent teams\nto the affected areas to provide technical assistance to the local authorities and control\nand preventive measures are being implemented. Japanese encephalitis is endemic in Andhra\nPradesh where outbreaks occur every 2 to 3 years. The last outbreak occurred in 1997 when\n267 cases with 32 deaths were reported in the worst affected district, Kahool, and 82% of\ncases occurred in children.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:39.781614",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "9 December 1999",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "09 December 1999 Disease Outbreak Reported\n\nSince the beginning of November, 74 cases of cholera and 4 deaths have been\nreported in the areas of Kinshasa worst affected by current flooding of the Congo river\nand its tributaries. Investigations by the Ministry of Health with the collaboration of\nWHO are in progress and preventive and control measures are being implemented. Rising\nwater levels have caused breakdowns in the water-supply system, resulting in a significant\nrisk of contamination. Local authorities, with the help of NGOs, have already evacuated\naround 20\u00a0000 people. The current level of flooding is affecting an area inhabited by\n2 million people, and it is feared that the peak level has not yet been reached. The total\npopulation of Kinshasa is 7 million.\n\nA crisis committee has been set up by the Minister of Health in which UN agencies,\nintergovernmental and nongovernmental organizations are participating. They are currently\nvisiting the affected sites. An international response is being organized and some\ncountries and agencies have already mobilized funds for the provision of food and other\nsupplies.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:41.300952",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "23 November 1999",
+        "Location": "United States of America",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 November 1999 Disease Outbreak Reported\n\nA 48-year-old unvaccinated man travelling in Bolivar state\n(Venezuela) became ill on 23 September and returned to California on 25\u00a0September. He\nwas hospitalized on 27 September with fulminant hepatitis and renal failure, and died on 4\nOctober. Yellow fever was confirmed by immunohistochemistry and PCR. The Venezuelan\nauthorities were informed and a field investigation is under way.\u00a0 This event serves\nonce more to illustrate the vital importance for travellers to have yellow fever\nvaccination before visiting endemic areas.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:43.197870",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "19 November 1999",
+        "Location": "Fiji",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 November 1999 Disease Outbreak Reported\n\nThe Ministry of Health of Fiji has submitted the following information to WHO.\n\nOn 30\u00a0July 1999, the Ministry of Health of New Zealand reported an imported case\nof cholera to WHO and to the Ministry of Health of Fiji. Vibrio cholerae O1 El Tor\nsubtype Ogawa had been confirmed in a 26-year-old male from New Zealand who had visited a\nsmall offshore reef island in Fiji as a tourist in June 1999. He had experienced onset of\nsymptoms on the fourth day of his visit. A similar case in a visitor from New Zealand,\npossibly acquired at the same Fiji island resort, was investigated by the Ministry of\nHealth of Fiji 8 months earlier. No other cases were found at that time.\n\nAfter the second report, the Ministry of Health of Fiji launched a thorough\ninvestigation, in collaboration with WHO. No further cholera cases have been detected, but\nthe investigators did find evidence of faecal contamination of the island's fresh water\nsource (i.e. the groundwater lens) and of the salt water intake for a desalination\nfacility purchased by the resort a few years earlier. Water samples from boreholes that\ndraw from the groundwater lens have revealed the presence of Vibrio parahaemolyticus,\nV. mimicus O36, and V. cholerae O19. Vibrio cholerae O1 has not been\nfound in the water samples taken.\n\nThe island's drinking-water is separately obtained from a rainwater catchment system,\nsupplemented by barged water from outside the island, and supplied to guest rooms in\nplastic jugs. All water sources (borehole, desalinator, rain catchment, and barged water)\nare chlorinated before distribution. Although the borehole and desalinated water is not\nintended for drinking, investigators considered it likely that the infections had occurred\neither by consumption of foods contaminated in the kitchen with inadequately treated\nborehole water, or by inadvertent consumption of the water itself when free residual\nchlorine was absent.\n\nRevised chlorination procedures are currently in place to provide added protection in\nthe short term for residents and visitors. Other measures have already been taken to\nprovide a long-term solution on the affected island. There is no evidence to suggest that\na problem exists in Fiji beyond this small resort island, and Fiji's water supply is\ngenerally considered safe.\n\n\n\nNote: The public health response in this case\nillustrates the usefulness of quick and effective communication between countries. There\nis no risk for travellers to this area in view of the long term measures put into place to\nsolve the problem on this small offshore island.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:44.763564",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "18 November 1999",
+        "Location": "Belgium",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 November 1999 Disease Outbreak Reported\n\nFollowing a trade fair in Kapellen, Belgium, an outbreak of Legionnaires' disease has\nbeen reported. So far, out of 80 persons who developed clinical symptoms, 13 had positive\nurinary tests including 4 who died.\n\nOver 60.000 visitors attended the fair, and initial investigation suggests that\nwhirlpool baths exhibited at the show are the most likely origin of the infection. The\ntrade fair took place between 29 October and 7 November, 1999. The investigation by the\nhealth authorities is in progress.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:46.269624",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "18 November 1999",
+        "Location": "Rwanda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 November 1999 Disease Outbreak Reported\n\nCholera, Rwanda. On 25 October, an outbreak was notified by the Chief Medical\nOfficer of the Ruhengeri health region, where the main hospital had admitted suspect\ncholera cases. Two samples were confirmed by laboratory as Vibrio cholerae serotype\nInaba.\n\nOn 26 October, a team from the Ministry of Health visited the area to further\ninvestigate and evaluate the situation: \nthe first case was recorded on 14 October;\nfrom 14 to 31 October, a total of 140 cases and 5 deaths were reported in Ruhengeri\nhealth region;\nthe communes of Cyabingo, Kigombe and Nyakinama were affected;\nmost cases used water from the river Kigombe for domestic purposes and drinking. It was\nnoted that the latrines in the affected communities were built along the river bank and a\nlikely source of contamination.\n\n\nIn response to the outbreak the health authorities: \nestablished a surveillance system (daily notification) in all affected communes to\ndetect new cases;\nprovided oral rehydration salts, intravenous fluids and antibiotics to local health\nofficers for treating cases;\ndisseminated education messages on hygiene through the local health officers;\ndistributed chlorine tablets to the population for treating water.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:47.904364",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "27 October 1999",
+        "Location": "Zambia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 October 1999 Disease Outbreak Reported\n\nFollowing reports of an outbreak of acute diarrhoeal syndrome in Chibombo District,\nNorth Central Province, a team from the Ministry of Health visited the district on 13\nOctober 1999 to assess the situation. The outbreak had been laboratory confirmed as\ncholera on 7 October. The first case identified at the end of September was a person who\nhad travelled to one of the many fishing camps in the area which are located along the\nLukanga swamps. The person had become ill while returning to his home village. Further\ncases were identified who had also travelled to the swamp area.\n\nA rapid response team was activated and requests for assistance and supplies were made.\nA health education campaign was also initiated in the areas affected. At the time of the\nvisit there had been 9 cases including 3 deaths at health centres and another 3 cases, all\nfatal, in the community.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:49.406823",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "21 October 1999",
+        "Location": "Angola",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 October 1999 Disease Outbreak Reported\n\nDuring August-September 1999, an outbreak of meningococcal disease was reported in\nYambala, a settlement difficult to access in the municipality of Cubal, province of\nBenguela. Neisseria meningitidis serogroup A was detected by latex test.\n\nDue to the current security situation, an assessment team which visited the area in\nmid-October was not able to examine patients or collect samples for laboratory diagnosis.\nHowever, according to information sources considered to be reliable, clinical features\nobserved by witnesses were compatible with cerebrospinal meningitis. The majority of cases\noccurred in the age group 18-25 years, with no sex distinction. Reports refer to 253 cases\nwith 147 deaths. It should be noted that 92% of the cases reported had no access to\nmunicipal health.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:50.977462",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "20 October 1999",
+        "Location": "Rwanda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 October 1999 Disease Outbreak Reported\n\nAn outbreak of suspected cerebrospinal meningitis has been reported in the areas of\nKayenzi, Nyabikenke and Rutobwe (Gitarama and Kigali Rural prefectures). Health centres\nrecorded 29 cases between 1 September and 6 October, and 11 deaths. In addition to these,\n33 suspect deaths which did not occur in health centres have been reported in the affected\nareas.\u00a0 Neisseria meningitidis sensitive to chloramphenicol and\nampicillin has been isolated in 2 samples.\n\nAn estimated population of around 40\u00a0000 is considered to be at risk, and the\nMinistry of Health has organized an immunization campaign with the support of WHO, as well\nas providing health centres with supplies of oily chloramphenicol and ampicillin\nsufficient to treat all cases. New supplies of drugs and vaccines are being procured with\nthe help of WHO and UNICEF. The situation is currently under control, and the numbers of\ncases and deaths are decreasing.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:52.477956",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "6 October 1999",
+        "Location": "United States of America",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 October 1999 Disease Outbreak Reported\n\nAs a result of further in-depth study, the outbreak in New York City reported as St.\nLouis encephalitis (SLE) on 14 September has now been confirmed to be due to West Nile\nfever.\n\nOn 23 September, 4 birds tested positive for West Nile-like virus, including 3 exotic\nbirds from a local zoo and 1 crow from Westchester county. Following the finding of West\nNile-like virus in this area, all human cases previously reported as SLE were retested. To\ndate, 50 previously reported SLE cases have been confirmed as West Nile fever. Of these,\n38 were among residents of New York City, while the others occurred in surrounding areas.\nThere have been 5 deaths among older adults.\n\nSurveillance for human cases, mosquitos and birds is ongoing, in close collaboration\nwith the US Centers for Disease Control and Prevention (CDC) and health authorities in New\nYork state. Laboratory-positive cases have also been reported in Nassau and Westchester\ncounties and West Nile-like virus has been isolated from mosquitos and dead crows in\nsouthern Connecticut.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:13:55.174603",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "24 September 1999",
+        "Location": "Iraq",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "24 September 1999 Disease Outbreak Reported\n\nSince May 10 1999, 16 cases of\nparalytic poliomyelitis, confirmed by isolation of wild poliovirus type 1 have occurred in\nnine of 15 central / southern governorates of Iraq.\u00a0 As of September 20, there were\nan additional 9 cases with isolation of poliovirus type 1 pending intratypic\ndifferentiation, as well as 10 cases with onset of paralysis in August, pending virus\nisolation results. These findings indicate widespread transmission of wild poliovirus in\nIraq, where wild poliovirus type 1 was last isolated from a case each in Ninevah and Wasit\ngovernorates with onset in April and May 1997, respectively. The outbreak presents a\nserious challenge to the polio eradication initiative in Iraq, and threatens\nre-introduction of virus in neighbouring countries, especially Islamic Republic of Iran,\nJordan, Syrian Arab Republic and Turkey.\n\nNine of 16 wild-virus confirmed cases (onset May to July)\nbelong to nomadic cattle-herding families, while most cases reported since August are\namong children of resident families. Fourteen of 16 (88%) wild-virus confirmed cases are 2\nyears of age or younger, and 11 of 16 cases (69%) had either no previous oral polio\nvaccine dose (9/16) or were incompletely immunized (2/16). Factors contributing to this\noutbreak are declining routine immunization coverage in many areas, as well as\ninsufficient National Immunization Day (NID) coverage in south and central governorates,\nespecially among high-risk populations.\n\nTo respond to this outbreak and to interrupt wild\npoliovirus transmission, Iraq has decided to conduct two rounds of NIDs targeting children\naged < 5 yrs in early October and early November 1999. Two rounds of NIDs will follow\nthese in the spring of 2000. To assure that all children in high-risk populations are\ncovered, existing NID plans at governorate and district level (microplanning) will be\nrevised, where necessary. Also, acute flaccid paralysis (AFP) surveillance at major\nhospitals and other facilities likely to see children with acute paralysis has been\nenhanced.\n\nFor more information, visit the web site on the global\neradication of poliomyelitis.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:01.735323",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "8 September 1999",
+        "Location": "Somalia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "08 September 1999 Disease Outbreak Reported\n\nCholera is endemic in Somalia. As at 31 August 1999, a total of 6 964 cases have been\nreported to WHO this year.\n\nThe disease is appearing in new areas and since 1 August, 3-4 cases of watery diarrhoea\nhave been registered every day at Bosaso hospital; in all 190 cases have been admitted, of\nwhich 84 were males and 106 females (F:M ratio, 1.26:1). The age group most affected has\nbeen > 5years (60% of cases). There have been 15 deaths (case-fatality rate, 8%).\n\nOn 5 August, 5 rectal swabs were sent to the AMREF laboratory services in Nairobi\n(Kenya) for identification, culture and sensitivity tests. Vibrio cholerae serotype\nOgawa has been isolated from 1 of these. The result of the antibiogram indicates\nsensitivity to tetracycline and nalidixic acid, but resistance to chloramphenicol,\nerythromycin, cotrimoxazole and ampicillin.\n\nOver 90 % of cases are from the same residential area. Investigations have shown that\nthey had been drinking from 100 wells located in that same area, and which are adjacent to\npit latrines.\n\nThree control committees have been set up in Bosaso town, namely for social\nmobilization, water and sanitation, and case management. The wells which have been shown\nby analysis to be positive for vibrios are being chlorinated by the water and sanitation\ncommittee with the help of WHO and UNICEF.\u00a0 UNICEF is working on a piped-water\nproject for the area.\n\nA focal point for control of the epidemic has been appointed to work closely with local\nWHO staff, who have also conducted a series of training sessions for the hospital staff on\ncase management of cholera, in close collaboration with UNICEF and local authorities.\nIntensive health education and social mobilization are ongoing, targeting especially the\naffected residential area. Supplies of ringer's lactate solutions, chlorine and\nantibiotics are sufficient.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:03.266686",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "7 September 1999",
+        "Location": "Afghanistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 September 1999 Disease Outbreak Reported\n\nThe previous item on the cholera outbreak in Afghanistan\nreported on control measures being taken, including chlorination of\nwells, mass awareness campaigns and construction and installation of microfilters for the\nprovision of safe drinking-water at public places in Kabul city.\n\nThis press release issued by WHO Afghanistan on 2 September 1999 provides more detailed\ninformation about these measures:\n\nSAFE WATER PROJECT IN KABUL TO CONTROL DIARRHOEAL\nDISEASES/CHOLERA OUTBREAK\n\nA comprehensive life-saving water project is now underway in Kabul and has so far\nchlorinated 45,000 shallow wells and set as its goal 130,000 wells in two months.\n\nIn order to control water-borne disease and the cholera outbreak in the Afghan\ncapital, WHO in collaboration with the Ministry of Public Health, WFP, UNICEF are\nco-operating in implementing the shallow wells chlorination programme, while other UN\nagencies and NGOs like UNCHS, ICRC, DACCAR, SCA, ACF, and MRRD are co-ordinating the joint\nchlorination and hygiene education campaign.\n\nThe shallow wells' chlorination campaign was officially inaugurated by\nDeputy-Public Health Minister at the Ministry conference hall on 16 August 1999. He\nencouraged the people to support the chlorination campaign saying, \"lack of hygienic\ndrinking water is the main cause of the emergence of diarrhoea and cholera\".\nAccording to the action plan of the campaign, Kabul City is divided into 28 clusters, each\nwith one supervisor of 3-6 teams. Each team is to chlorinate 20-30 wells per day, handling\nup to 600-900 households during the campaign. The whole process will be thoroughly\nsupervised by a joint team representing MOPH and the aforementioned UN agencies and NGOs.\n\nThe campaign will continue until October 1999 and will include house-to-house field\nvisits by 30 female hygiene educators. The female health educators have been selected from\nthe targeted communities, or have been identified by MOPH to convey health messages to\neach family about family and environmental sanitation and to raise public awareness about\nthe entire sanitation process. School teachers, mullahs, Imams, and mass and print media\nare also fully involved and playing a constructive role in the implementation of this\nlife-saving project.\n\nThe World Food Programme has kindly provided 205 MT of wheat as food for work to\nthis life-saving project and each of the other agencies are providing appropriate support\nin cash and kind. The total estimated campaign cost is US $172,000.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:04.800643",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "2 September 1999",
+        "Location": "Ghana",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "02 September 1999 Disease Outbreak Reported\n\nAn outbreak of cholera has been reported in the Builsa district of the Upper East\nregion, one of the frontier districts with Burkina Faso. As at 23 August, 269 cases with 9\ndeaths had been reported from 3 of the 6 subdivisions of the district, including from\nareas classified as hard-to-reach because of flooding and muddy terrain at this time of\nthe year, which is the peak of the rainy season in that part of the country. Laboratory\ninvestigations have confirmed cholera, Inaba subtype.\n\nMeasures so far taken include intensive public education campaigns aimed at prevention\nand early reporting of cases for treatment, mobilization of stocks for case management at\nregional level and dispatch of regional-level rapid response teams to work with the\nDistrict Assembly and district disaster/epidemic management committee. The regional\nauthorities are also involved in social mobilization for diarrhoeal disease prevention in\nneighbouring districts. The situation is being closely monitored by the national\nintervention teams and further updates will be provided as soon as they become available.\n\u00a0\n\nCholera is endemic in Ghana.\u00a0 As at 31 August 1999, a total of 3 997 cases and 100\ndeaths had been reported to WHO.\u00a0 There has been an increase of almost 1 000 cases in\nthe last month.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:06.313363",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "30 August 1999",
+        "Location": "Greece",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 August 1999 Disease Outbreak Reported\n\nA case of Haemorrhagic Fever with Renal Syndrome (HFRS) has been confirmed in Kosovo.\nThe case occurred in a 19 year-old woman who lived in a mountainous, forested area near\nthe Albanian border. The diagnosis, suspected on clinical grounds, has been supported by\nlaboratory tests, which confirm hantavirus infection. The tests were performed by the WHO\nCollaborating Centre for Arboviruses and Haemorrhagic Fevers in Thessaloniki, Greece.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:07.872379",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "25 August 1999",
+        "Location": "Afghanistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "25 August 1999 Disease Outbreak Reported\n\nAn outbreak of poliomyelitis has\nbeen reported from Kunduz province in Northern Afghanistan. Since early May, a total of 26\ncases of children with paralysis have been reported as of today, of which 6 cases have\nalready been confirmed as poliomyelitis through laboratory analysis. Fifteen of the 26\ncases were reported from Kunduz town itself, with 11 cases from the districts surrounding\nKunduz.\n\nThe outbreak was identified only because\nspecial disease reporting for suspected polio cases, including the capacity for laboratory\nconfirmation, was established in May 1999 in the North as part of the nation-wide\ninitiative to eradicate polio.\n\nSince all immunization activities in\nNorthern Afghanistan had nearly ceased in mid-1997 and are just now being re-established,\nthe outbreak of poliomyelitis is not unexpected.\u00a0 To determine the full extent of the\noutbreak, all health facilities and NGOs providing health care in the North have been\nalerted to the outbreak and requested to report all suspected cases to the Ministry of\nPublic Health (MoPH).\u00a0 A large-scale house-to-house immunization campaign, targeting\nmore than 130,000 children aged < 5 years has been launched this week in the outbreak\narea as a collaborative effort between MoPH, WHO, UNICEF and NGOs.\n\nPoliomyelitis is endemic in Afghanistan\nand the best way to prevent the disease is to immunize children with at least 3 doses of\npolio vaccine during their first year of life. The global strategy to eradicate polio\nincludes supplementary country-wide campaigns called National Immunization Days (NIDs)\nwhen 2 drops of oral polio vaccine are given to all children under age 5 years, in 2\nconsecutive months. Country-wide NIDs were held in Afghanistan in May and June 1999 and\nare scheduled again for October and November. Unfortunately the outbreak in Kunduz started\nbefore the May NIDs.\n\nFor more information, visit the web site on the global eradication of poliomyelitis.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:09.408954",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "9 August 1999",
+        "Location": "Madagascar",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "09 August 1999 Disease Outbreak Reported\n\nThe cholera outbreak which began in late March has stabilized in the 2 provinces\naffected, and the number of reported cases has declined considerably during recent weeks.\nIn Antananarivo province, the situation has been less acute than in Mahajanga province.\nThere is a risk that some districts in Mahajanga province (Mahajanga I and II, Marovoay\nand Mitsinjo) may become endemic. Some cases have also been reported recently in\nAntsiranana province, Nosy Be district.\n\nStrict control measures were implemented during the early stages of the outbreak,\nincluding: care of suspect cases in health centres and hospitals, and treatment of\ncontacts; disinfection and other hygiene measures in treatment centres, as well as in\npatients' homes; widespread campaigns to educate and inform the public; and\nepidemiological surveillance.\n\nNotification of cases to WHO and information on the areas infected have been very\nregular and in conformity with the requirements of the International Health Regulations.\nIt has therefore been possible to give a true picture of the situation, thus avoiding\nunfounded rumours which could affect trade and tourism in the country.\n\nThere is no reason for travellers/tourists to postpone travel to Madagascar as the risk\nof infection is negligible if basic hygiene measures are taken.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:10.977029",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "6 August 1999",
+        "Location": "Germany",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 August 1999 Disease Outbreak Reported\n\nOn 5 August, the Robert Koch Institute in Berlin provided WHO with more details\nconcerning the man hospitalized with suspected haemorrhagic fever, after returning from a\ntrip to C\u00f4te d'Ivoire.\n\nHe left Germany on 17 July for Abidjan, then travelled to Bouak\u00e9 to spend 2 weeks at a\nscientific research camp located in the Komoe National Park. He returned to Germany on 1\nAugust.\n\nThe patient did not show any symptoms until he reached his home, so the Institute has\nconcluded that the risk of person-to-person transmission to other passengers is minimal.\nAll those who are known to have had direct contacts with him (either during the trip or\nafter his arrival in Berlin) are under surveillance by the health authorities.\n\nA range of tests were conducted to identify the infectious agent. Tests for the\nfollowing were negative: Ebola, Hantavirus infection, Lassa fever, Marburg and malaria.\nThe patient died on 6 August. The diagnosis of yellow fever by culture and PCR was\nconfirmed today.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:12.488343",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "4 August 1999",
+        "Location": "Germany",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "04 August 1999 Disease Outbreak Reported\n\nWHO has been informed that one man has been admitted to hospital in Berlin suffering\nfrom suspected haemorrhagic fever. He had recently returned from a trip to C\u00f4te d'Ivoire,\nwhere he had visited remote rural areas. Diagnostic tests are being conducted in a German\nlaboratory for a range of viral haemorrhagic fevers and other relevant pathogens.\u00a0\nWHO is in contact with the German Ministry of Health and the WHO Representative in C\u00f4te\nd'Ivoire.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:14.529669",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "3 August 1999",
+        "Location": "Niger",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "03 August 1999 Disease Outbreak Reported\n\nAn outbreak has occurred in Boboy\u00e9 District, Dosso Department, which is\napproximately 100 km east of Niamey. The first cases were reported in June and as of 30\nJuly the total number is 169 cases with 10 deaths. Thirty-six villages were affected.\nControl measures which were taken at the early stages of the outbreak have helped to\ndecrease the numbers of cases and since 28 July only 1 or 2 cases are occurring daily. The\nMinister of Public Health visited the area to make the public aware of the situation and\nto encourage the field teams for their work. Various materials and medicines were supplied\nby UNICEF, WHO and \"Italian Cooperation\" both in the districts affected and in\nother regions in case of spread.\n\nCholera outbreaks occur in Niger fairly regularly although no cases were reported in\n1998. A total of 259 cases with 13 deaths was reported in 1997 and a larger outbreak with\n3 957 cases and 206 deaths in 1996.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:16.021710",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "27 July 1999",
+        "Location": "Malawi",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 July 1999 Disease Outbreak Reported\n\nSince 18 June a number of sporadic suspect cases of plague have occurred in Nsanje\ndistrict, Southern Region. Up to 21 July, 74 suspect cases had been reported from a total\nof 22 villages. Six villages along the Mozambican border were the most affected reporting\naround 3 to 4 suspect cases each. Some of the other villages reported only one suspect\ncase each. The treatment of patients is under way as well as environmental control\nmeasures which include spraying and dusting of affected and surrounding housing areas,\nhealth education on proper storage of foodstuffs and refuse disposal. The situation was\nbeing handled effectively by the Ministry of Health but drug supplies have been depleted\nand more may be needed. WHO has offered its assistance to the national health authorities.\n\nThe last outbreak of plague in Malawi was in 1997 when a total of 582 cases were\nreported including cases in Nsanje, Chikwawa and Ntchisi Districts, all in Southern\nRegion.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:17.599168",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "26 July 1999",
+        "Location": "Russian Federation",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 July 1999 Disease Outbreak Reported\n\nOn 26 July, the Ministry of Health reported that Crimean-Congo haemorrhagic fever\nhad been confirmed by laboratory tests. A total of 65 cases has been reported, with 6\ndeaths (3 of which were among children). Of those admitted to hospital, 44 have been\ndischarged and 21 are still undergoing treatment. \n\nThere have been no new cases since 22 July, and the epidemic is localized. Transmission\nappears to have occurred mainly through reservoirs in the environment (ticks).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:19.135476",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "20 July 1999",
+        "Location": "Afghanistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 July 1999 Disease Outbreak Reported\n\nA total of 14 402 cases of severe diarrhoea, including cholera cases, has been\nreported between 29 May and 12 July. The most affected area is Kabul province, Central\nregion where nearly 7 000 cases have occurred. Out of 9 samples tested, 5 were\nlaboratory-confirmed as cholera. A significant increase in the number of suspect cholera\ncases was noted in Kunduz province, North-eastern region and various provinces in Southern\nregion during the week 3 to 9 July.\n\nThe Ministry of Public Health (MOPH) organized a cholera task force including\nrepresentatives of the MOPH, WHO, UNICEF, M\u00e9decins sans fronti\u00e8res and Save the Children\nFund (US). Data collection from hospitals and other health centres was organized in Kabul\ncity. WHO distributed drug supplies through its suboffices in the regions and arrangements\nare being made to procure more supplies. Regions where no cholera cases have been reported\nhave been alerted and task forces formed within the diarrhoeal disease surveillance\nsystem.\n\nDiscussions were held with the MOPH, UNICEF and the World Food Programme in Kabul to\nprepare the implementation of control activities including chlorination of wells, mass\nawareness campaigns and construction and installation of microfilters for the provision of\nsafe drinking-water at public places in Kabul city.\n\nCholera is endemic in the country and outbreaks occur every year. In 1998, around 10\n000 cholera cases (including suspect/acute diarrhoea cases) were reported in Kabul alone,\nand in 1997 around 4 000 cases (including suspect cases) were reported.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:20.673262",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "25 June 1999",
+        "Location": "Burundi",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "25 June 1999 Disease Outbreak Reported\n\nBetween January and May 1999, a total of 616 034 cases of malaria was reported by\nhealth centres. In January, all provinces were affected, and although only 75% of\nprovinces were affected in May, there was a significant increase in some (especially\nKarusi, with 2.5 times more cases in May than in April).\n\nA comparison of data for May 1998 and May 1999 has shown that in some provinces, cases\nhave increased very sharply (e.g. Mutoyi, from 3\u00a0094 to 7 568; Rutoke, from 293 to\n1\u00a0768). Figures concerning the number of deaths are not available for all provinces.\nIn Mutoyi, a total of 17 deaths was registered between January and May; in Karusi, 34\ndeaths were recorded between 15 May and 15 June.\n\nThe local health authorities have taken the necessary measures to mobilize resources\nfor drug procurement, reinforced epidemiological surveillance and vector control.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:22.207286",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "23 June 1999",
+        "Location": "Nicaragua",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "23 June 1999 Disease Outbreak Reported\n\nAfrica\n\nBurundi. Following notification of an increase in cholera cases at the\nmain hospital by the chief of the Rumonge health district, a team from M\u00e9decins sans\nfronti\u00e8res and WHO went to the area to investigate and to initiate control measures.\n\nFrom 24 May to 5 June a total of 89 cases with 6 deaths had occurred. No cases have\nbeen reported among the refugees from the Democratic Republic of the Congo who passed\nthrough the area during that period. The cause of the outbreak was probably the early\nonset of the dry season and consequent drinking of water from the lake, as well as lack of\nprevention measures by the population. Action was taken to provide ORS and medicaments as\nwell as clean water by truck. Epidemiological surveillance was also strengthened. A\ncommittee met to mobilise the resources and to coordinate the measures of the aid\nagencies.\n\nA cumulative total of 587 cases had previously been reported in Burundi since the\nbeginning of the year.\u00a0\n\nMadagascar. The cholera outbreak is still continuing in both Mahajanga\nand Antananarivo Provinces. The majority of cases has occurred in several districts of\nMahajanga (3365 cases 215 deaths) since the beginning of the outbreak in March this year\nup to 15 June. A total of 642 cases and 3 deaths occurred in Antananarivo Province up to\nthe same date.\n\nAmericas\n\nHonduras. A cholera outbreak has been reported in areas bordering\nNicaragua and Guatemala. Thirty-two cases have occurred to\ndate, 20 of which (not yet laboratory confirmed) occurred in La Mosquitia area. The health\nauthorities of Honduras, Nicaragua and Guatemala are cooperating to control the disease\nand prevent further spread. Technical cooperation is being provided by the WHO Regional\nOffice for the Americas.\n\nNicaragua. A total of 359 cases with 7 deaths has been reported up to\n5 June. The most affected regions are: Region Autonoma Atlantico Norte (R.A.A.N.),\nManagua, Nueva Segovia and Jinotega.\n\n\u00a0Asia\n\nAfghanistan. A suspected cholera outbreak has been reported in the\nCentral Region which began on 29 May. Three out of 4 samples tested have been laboratory\nconfirmed. In the South-Eastern Region (Ghazni) a suspected cholera outbreak has also been\nreported and an investigation team has been sent to verify the outbreak and to take\nsamples. Medical supplies are needed as well as transport facilities for mobile health\nteams especially for those areas which are difficult to access.\n\nBrunei Darussalam. A cholera outbreak has been reported in Muara\nDistrict by the health authorities in which 72 confirmed cases and 29 suspect cases have\noccurred up to 18 June. Thirty-two of the cases were in an outbreak at a school with date\nof onset mainly on 3 June. No secondary cases have been detected. The source of the\noutbreak has not yet been identified and prevention and control measures are continuing.\n\nNo cholera cases have been reported in Brunei Darussalam since 1982 when 6 cases\noccurred. In 1970 24 cases were reported and in 1965 a larger outbreak with some 198 cases\nwas notified.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:23.717326",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "16 June 1999",
+        "Location": "Zambia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 June 1999 Disease Outbreak Reported\n\nThe cholera outbreak which began early in the year has continued, and a total of 11\n327 cases with 393 deaths has been reported up to 4 June. The majority of cases occurred\nin Lusaka district in the South-East region (Central province). Recently the situation has\nstabilized in most areas and the control measures which were implemented have been\nsuccessful. However, new outbreaks have been reported in Chilubi and Samfya districts in\nNorthern province where health workers are taking measures to control the situation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:25.271595",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "28 May 1999",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 May 1999 Disease Outbreak Reported\n\nThe results of additional\ntesting by the National Institute for Virology (South Africa), now confirm 5 cases of\nMarburg fever. Samples from 10 suspected cases have been collected and tested. Three\nconfirmed cases had been reported previously. The two additional cases died on 1 May and\n14 May 1999.\n\nAn active surveillance system\nis in place and selected staff\u00a0 from the coordination committee* remain on-site to\nmonitor events.\n\n\u00a0\n\n* The coordination committee is composed of experts from: the Ministry of Health\nand local health authorities; WHO headquarters and the African Region; UNDP; M\u00e9decins\nsans fronti\u00e8res (Belgium and Holland); Centers for Disease Control and Prevention (United\nStates); Institut Pasteur (France, French Guiana and Madagascar); Institute of Tropical\nMedicine (Belgium). The ecological team is composed of experts from: the National\nInstitute for Virology (South Africa) and the Pest Infection Laboratory (Denmark).\n\n\u00a0Please see previous reports about this outbreak: 20 May 1999; 18 May 1999; 17 May 1999; 12 May 1999; 10 May 1999;\u00a06 May 1999; 5 May 1999; 30 April 1999.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:26.811399",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "21 May 1999",
+        "Location": "Cambodia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 May 1999 Disease Outbreak Reported\n\nThe Ministry of Health has reported a cholera outbreak in Rottanakiri province in the\nnorth eastern part of the country. Four districts in this province, which is one of Cambodia's least populated areas,\nhave been affected to date. The outbreak started on 16 April and a total of 874 cases with 56 deaths was reported up to 16 May.\n\nLack of good hygiene and sanitation facilities, as well as difficulty in sending\nsupplies because of poor road conditions in the area, are contributing to the spread of\nthe epidemic. The Ministry of Health is providing oral rehydration salts and antibiotics\nand is also organizing health education campaigns for the affected and surrounding\nvillages.\n\nCholera is endemic in Cambodia and 1197 cases and 66 deaths were notified to WHO in\n1998.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:33.374851",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "18 May 1999",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 May 1999 Disease Outbreak Reported\n\nBolivia: Cases of sylvatic yellow fever are still occurring, bringing the total\nnumber of confirmed cases for 1999 to 53 with 21 deaths (case fatality rate of 39.6%). All\nof the cases have occurred in the Department of Santa Cruz. A majority of the cases have\nbeen in males (75.5%) and in persons >15 years of age (76.9%). No cases in children\n<1 year have been reported. Mass yellow fever vaccination campaigns have occurred in\nthe two municipalities that have been most affected- Cabezas and Postrervalle- achieving\ncoverage rates of 93% and 97% respectively. The last case identified occurred on 15 April\n1999. The goal of the Ministry of Health is to vaccinate 100% of the population in the\nendemic yellow fever zones this year.\n\nBrazil: For 1999, the total number of confirmed sylvatic yellow fever cases has\nreached 18, with 3 deaths (case fatality rate of 16.7%). Fifty percent of the cases have\nbeen in persons >15 years old, 44.4% have been in children ages 1-15 years and 5.6%\n(representing one case) have been in children <1 year of age. Most of the cases have\noccurred in males (72.2%). The outbreak seems to be concentrated in two\nmunicipalities\u0097 Afu\u00e1 and Breves, in the State of Para. Reports from Brazil show that\nmany of the cases from Afu\u00e1 were identified through active surveillance and serological\nsurveys after a death due to yellow fever occurred in February 1999.\n\nAlthough a vaccination campaign was carried out in Afu\u00e1 achieving 100% coverage, cases\ncontinue to occur due to the migration of unimmunized people into the area. Families are\nmigrating to this area for work, primarily harvesting heart of palm. In the process of\nharvesting the trees, the habitat of the mosquitoes is disrupted and contact with humans,\nincluding unimmunized young children, occurs.\n\nColombia: To date in 1999, the total number of confirmed sylvatic cases is two and\nboth cases were fatal. These two cases were in males, ages 17 and 21 years. The cases\noccurred in the Departments of Caqueta and Meta. No cases have been reported since\nJanuary.\n\nPeru: The first confirmed case of sylvatic yellow fever for 1999 was reported in a\n25 year old male from the department of Loreto, Amazon region who died on 7 April. In\nresponse to this case, mass yellow fever vaccination was initiated in the area. Other\ncases have occurred in San Martin Department, in the districts of Moyobamba, Jepelacio and\nAlonso de Alvarado (26 cases), Ayacucho Department in the province of La Mar, district of\nAnco y Santa Rosa (12 cases), Huanuco Department (5 cases) and Junin Department (5 cases).\nOf these a total of 13 cases have been confirmed to date.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:34.894978",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "17 May 1999",
+        "Location": "Belgium",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 May 1999 Disease Outbreak Reported\n\nOne new case of Marburg virus infection have been confirmed by the laboratory at the\nNational Institute of Virology (South Africa). This case was a woman who died 7 May in the\nisolation unit of the health centre. She reportedly lived 20-30 km from Durba and\npreliminary investigation has not established a link with other haemorrhagic fever cases\nor with mining activities. Additional data about this case is being collected. The only\npreviously confirmed case was the medical officer who died 23 April.\n\nThe special committee established in Watsa to coordinate the investigation now includes\nexperts from the Ministry of Health and local health authorities, WHO, M\u00e9decins sans\nfronti\u00e8res (Belgium and Holland), UNDP, Centers for Disease Control and Prevention,\nInstitut Pasteur ( France, French Guiana and Madagascar) and the Institute of Tropical\nMedicine (Belgium). The committee has established teams for logistical support;\nsurveillance; training local health staff in preventive and protective practices and\neducating the local population in these practices; and for conducting clinical,\nepidemiological, and virological research. The team aims to determine the original source\nof the outbreak, identify any further cases of suspected VHF, follow-up contacts of\nsuspected cases and further implement control measures.\n\nA large serological survey of inhabitants in the affected area began today. Also, an\necological team, consisting of experts from the National Institute of Virology and the\nDanish Pest Infection Laboratory has started collecting specimens from animals for\nvirological studies.\n\nPlease see previous reports about this outbreak:\u00a0 12 May 1999; 10 May 1999;\u00a06 May 1999; 5 May 1999; 30 April 1999.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:36.427931",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "14 May 1999",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 May 1999 Disease Outbreak Reported\n\nWHO has investigated recent reports of suspected viral haemorrhagic fever (VHF) in\nsoldiers returning to Zimbabwe from the Democratic Republic of the Congo. Three suspected\ncases have been admitted to two hospitals. The soldiers became ill in the southern part of\nthe Democratic Republic of the Congo and are reported to have had fever with chills,\ndiarrhoea and headache. They had not been in or near the Marburg virus outbreak area of\nWatsa. In addition, there is no evidence that the soldiers had haemorrhagic features that\nwould be consistent with VHF.\n\nBlood samples from the three soldiers were sent to the National Institute for Virology\n(South Africa) and have been found negative for Marburg and Ebola in a range of tests.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:37.887021",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "12 May 1999",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 May 1999 Disease Outbreak Reported\n\nAs of 10 May, 90 suspected cases had been reported, of which 5 are in hospital and\n7 have recovered. The total number of deaths is currently unknown. None of the patients in\nthe isolation unit have shown clinical features typical of viral haemorrhagic fever (VHF).\n\nThe outbreak has featured unusual deaths among young men, the majority of whom were\ninvolved in mining activities in Durba. There have also been reports from several families\nof chains of transmission, including a significant number of deaths. To date, only one\ncase of Marburg virus infection has been confirmed by laboratory testing and results from\ncontacts tested so far have been negative for VHF. On 10 May, a survivor of a similar\noutbreak which took place in 1994 was confirmed positive for IgG against Marburg virus by\nthe National Institute for Virology (South Africa).\n\nThe investigation is being coordinated by a special committee set up by the local\nauthorities, including experts from the Ministry of Health, WHO, M\u00e9decins sans\nfronti\u00e8res and the Centers for Disease Control and Prevention. Control efforts are\nnow focusing on finding active and convalescent cases to obtain laboratory confirmation of\nthe diagnosis of VHF, and tracking contacts. Investigations will also aim to determine the\noriginal source of the outbreak and risk factors, to follow up on reports of deaths from\nVHF and to document secondary transmission.\n\nAn ecological team from the National Institute for Virology is expected to arrive in\nthe area shortly to carry out a detailed study of possible animal sources.\n\nPlease see previous reports about this outbreak: 10 May\n1999;\u00a06 May 1999; 5 May\n1999; 30 April 1999.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:39.398650",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "12 May 1999",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 May 1999 Disease Outbreak Reported\n\nTo date, 22 000 cases of meningococcal disease have been notified in 19 States of the\nSudan, out of which 1 600 people have died.\n\nA total of 10.7 million doses of meningococcal vaccine have been distributed to the\naffected states, where vaccination campaigns are proceeding. In addition the\nimplementation of the other components of the epidemic intervention, e.g. improved case\nmanagement, social mobilization and public health information is underway. Efforts are\nalso being directed towards strengthening the surveillance system and laboratory services.\n\nThe epidemic management is ensured by a national task force led by the Federal Ministry\nof Health of Sudan (FMOH/SUD). This task force includes the local members of the Executive\nSub-group of the International Coordinating Group on Vaccine Provision for Epidemic\nMeningitis Control (ICG), namely the IFRC, MSF, UNICEF and WHO.\n\nFollowing the update of additional needs and request for US$ 2.1 million to the\ninternational community made by the ICG on the behalf of the FMOH/SUD on 22 April 1999,\ncontributions from partners to date amount to US$ 1,000,000. The vaccine, injection\nmaterial and oily chloramphenicol purchased with these funds have already been distributed\nto the affected states to enable an intensification of epidemic control activities.\n\nThere is a need for US$ 1.1 million (in addition to the US$ 230,000 pledges from\npartners) during the next week to allow completion of the planned epidemic intervention.\n\nFor further details please contact IFRC (Dr. Sandblad, phone: 41 22 730 44 07, e-mail: [email\u00a0protected]), MSF (Dr. Varaine, phone: 33 1\n40 21 29 35, e-mail: [email\u00a0protected]),\nUNICEF (Dr. S. Goings, phone: 234 1 269 02 76(280), e-mail: [email\u00a0protected]), WHO (Dr. Santamaria, phone: 41\n22 7912725, e-mail:. [email\u00a0protected])",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:40.966802",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "11 May 1999",
+        "Location": "Namibia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 May 1999 Disease Outbreak Reported\n\nThe Ministry of Health and Social Services has reported plague cases in Ohangwena\nRegion in the north western part of the country. The first suspected case was reported on\n6 April and 39 cases have occurred up to 5 May, 6 of which have been laboratory confirmed.\nEight patients have died of suspected plague.\n\nThe North West regional directorate team, which has had experience in dealing with\nplague, has undertaken control activities, including training courses for health workers,\ncommunity mobilization for preventive measures, additional nurses placed at local\nhospitals and dusting of homesteads.\n\nThe Ministry of Health report also states that, although plague has been endemic in\nthis part of the country, it was successfully controlled in recent years, the last known\ncases having occurred in January 1994.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:44.023265",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "7 May 1999",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 April 1999 Disease Outbreak Reported\n\nThe United States Centers for Disease Control and Prevention (CDC) have\nconfirmed that of the 15 blood samples from abattoir workers received from Singapore for\ntesting, 11 (including 1 death) tested positive for Hendra-like virus. No additional cases\nhave been reported in Singapore during the past two weeks and the outbreak there has now\nended.\n\nThe outbreak of encephalitis is still ongoing in Malaysia. For\nup-to-date information on the number of cases and deaths, please see the web site of the Department of Public Health, Ministry of Health,\nMalaysia at: http://dph.gov.my/press/press2/cases.htm\n\nThe Hendra-like virus is a new virus. It is similar to the Hendra virus which was\nresponsible for the deaths of two humans and some race horses in Australia in 1994.\nHowever, genetic analysis of the new virus shows significant differences. Experts at CDC\nhave noted that transmission of the virus has been confined to persons who have had direct\ncontact with infected pigs. Currently, there is no evidence that the virus can be\ntransmitted from human to human. Travellers to Malaysia should be aware of this outbreak\nof febrile encephalitis, which thus far has involved only those closely associated with\npig farms.\u00a0 No travel restrictions are indicated at this time.\n\nA\u00a0 report of the outbreak can be found in the article, \" Outbreak of\nHendra-Like Virus - Malaysia and Singapore, 1998-1999\" in MMWR, April 9,\n1999 48(13); 265-269 at: http://www.cdc.gov/epo/mmwr/preview/mmwrhtml/00056866.htm",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:45.555971",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "6 May 1999",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 May 1999 Disease Outbreak Reported\n\nToday WHO received a report from the WHO collaborating centre at the National\nInstitute for Virology, in South Africa that a blood sample collected from the district\nmedical officer who became ill in Watsa zone, in the northeastern part of the Democratic\nRepublic of Congo (DRC) and died on 23 April 1999 with symptoms of haemorrhagic fever, is\npositive for Marburg virus. Samples from four other suspected cases were negative.\nInvestigations will be initiated to establish whether Marburg fever was responsible for an\nestimated 76 cases of hemorrhagic fever (52 deaths) that have been reported in Watsa and a\nnearby community of Durba. Most of the cases were gold miners working in mines near Durba.\nEpidemiological experts from WHO Headquarters, the WHO\u00a0 Regional Office for Africa\nand WHO country offices in Kinshasa, DRC and Kampala, Uganda are joining the M\u00e9decins\nsans fronti\u00e8res (MSF Belgium and MSF Netherlands) team already in the area. Experts\nfrom the US Centers for Disease Control and Prevention and from the Institut Pasteur are\nalso expected to arrive in the DRC within several days to join the investigation to\ndetermine the current size of the outbreak and further investigate the aetiology of the\nepidemic. The team will also provide technical assistance to further implement control\nmeasures. MSF is establishing a ward to isolate patients and training local healthcare\nstaff to use barrier nursing procedures and protective equipment.\n\nMarburg virus infections, a lethal relative of Ebola (both viruses are\nin the Filovirus family), are found in sub-Saharan Africa and occur infrequently.\nSince the virus was first recognized in 1967 when laboratory workers in Marburg, Germany\nand Belgrade, Yugoslavia were infected by handling monkeys and monkey tissues from animals\nimported from Uganda, there have only been\u00a0 three reports of sporadic cases (1975 in\nZimbabwe and South Africa, and in 1980 and 1987 in Kenya). The virus is transmitted to\npeople following contact with infected animals and animal tissues, and from\nperson-to-person by close contact with infected patients and body fluids. The natural\nreservoirs of Marburg virus and of Ebola virus are unknown.\n\nBoth the Marburg and Ebola viruses are often characterized by the sudden onset of\nfever, malaise, muscle pain, headache and conjunctivitis. This is followed by sore throat,\nvomiting, diarrhoea, rash, and both internal and external bleeding. Liver function may be\nabnormal and platelet function may be impaired. No specific treatment or vaccine exists\nfor Marburg disease. Severe cases require intensive supportive care, as patients are\nfrequently dehydrated and in need of intravenous fluids. Experimental studies involving\nthe use of hyperimmune sera on animals demonstrated no long-term protection against the\ndisease after interruption of therapy.\n\nSuspected cases should be isolated from other patients and strict\nbarrier nursing techniques practised. All hospital personnel should be briefed on the\nnature of the disease and its routes of transmission. Particular emphasis should be placed\non ensuring that high-risk procedures such as the placing of intravenous lines and the\nhandling of blood, secretions, catheters and suction devices are done under barrier\nnursing conditions. Hospital staff should have individual gowns, gloves and masks. Gloves\nand masks must not be reused unless disinfected. Patients who die from the disease should\nbe promptly buried or cremated.\n\nPlease see previous reports about this outbreak:\u00a0 5 May 1999; 30 April 1999.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:47.062409",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "5 May 1999",
+        "Location": "Belgium",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "05 May 1999 Disease Outbreak Reported\n\nAn outbreak has been reported in the Watsa zone, in the northeastern part of the\ncountry. Clinical features include fever, severe headache, lassitude, gastrointestinal\nbleeding and agitation, but according to the health care workers who have looked after\nmany of the patients, haemorrhagic features are not the norm. Death has generally occurred\n5-6 days after onset. The first cases are believed to have taken place in January 1999,\nhowever there are indications that since 1994, there have been multiple small outbreaks of\napparently similar illness in the vicinity of Durba, hence the locally-used description of\n\"Durba syndrome\". Durba, the site of pit gold-mining operations, is situated\nabout 20 km from Watsa. Up to 3 May, 68 cases have been recorded, with 63 deaths\n(case-fatality rate 93%). Most of the cases have occurred in gold miners, and a few in the\ngeneral community. The chief medical officer of the zone was among the fatalities, but it\nseems that secondary spread to family contacts or health care workers has been a rare\nevent.\n\nStaff from the WHO Regional Office for Africa and a joint team from M\u00e9decins sans\nfronti\u00e8res (Belgium and the Netherlands) have arrived in the area. Clinical samples\ncollected from 5 patients have been sent to a reference laboratory for diagnostic testing\nand an epidemiological investigation is under way. An isolation unit has been set up in\nDurba, and local health care personnel are being instructed in preventive and protective\nmeasures, as well as in case management. This report is preliminary, and updated\ninformation will be provided as soon as it becomes available.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:48.630277",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "30 April 1999",
+        "Location": "Somalia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 April 1999 Disease Outbreak Reported\n\nA total of 7860 cases with 233 deaths has been reported since the beginning of the\ncurrent epidemic which started in December 1998. Areas where cases were still being\nregistered at the end of March and first half of April are Mogadishu, Kismayo, and Baidoa.\nThe disease is still appearing in new areas - Bay, Lower Shabelle, Upper and Lower Juba -\nwhich are difficult to access and figures are not available.\n\nWHO is continuing to make supplies available and supporting the health authorities in\nstrengthening cholera preparedness plans since more outbreaks are expected later in the\nyear following the seasonal pattern.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:50.164200",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "30 April 1999",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 April 1999 Disease Outbreak Reported\n\nThe outbreak of acute diarrhoea which began in early March is continuing. The areas of\nPadak, Mading, Wanding, Lankien, Akobo and Burmat have reported\u00a0 a total of 892 cases\nwith 24 death up to 27 April 1999.\n\nThese figures are cases admitted to hospital and are provisional. The epidemic mainly\naffects the Jonglei region in areas south of the river Sobat. As it is the beginning of\nthe rainy season people have started moving with their animals from locations along the\nriver to inland sites where other areas are likely to be affected.\n\nA response team coordinated by UNICEF is meeting twice weekly to review the situation,\nshare information and plan the response strategy. UNICEF currently has ORS and\ntetracycline on standby for use as the need arises. WHO has sent an epidemiologist to\nassist local health authorities to assess the situation in the affected areas.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:51.698577",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "29 April 1999",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "29 April 1999 Disease Outbreak Reported\n\nA joint investigation by WHO, the Centers for Disease Control (CDC) and Operation\nLifeline Sudan (OLS) identified relapsing fever as the cause of fever of unknown origin in\nRumbek county, southern Sudan.\n\nSix patients from 3 different locations were tested positive for Borrelia sp.\nby microscopy in the field. While the number of cases of relapsing fever was found to be\ndeclining, the disease is still occurring in small clusters throughout the county. Disease\nactivity may continue in the area leading to further large outbreaks if there are\ngatherings of large numbers of people with poor hygiene facilities.\n\nThe investigation team and the local authority have launched a control programme\nincluding: training of local health workers in diagnosis, treatment and delousing\ntechniques; strengthening the surveillance system; co-ordinating epidemic response; and\nsecuring adequate supplies of erythromycin and permethrin delousing powder. An action plan\nfor improved epidemic preparedness, detection and response has been proposed.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:53.298089",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "28 April 1999",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 April 1999 Disease Outbreak Reported\n\nThe outbreak of meningococcal meningitis that started in Northern Darfur State in early\nDecember 1998 has spread to 18 out of 26 states. From the beginning of the epidemic up to\n22 April more than 16,000 cases, of which nearly 1,000 died, have been notified. The\nepidemic is expected to last until the end of June-July, depending on the geographical\nlocation of the states affected.\n\nSince the start of the epidemic 7,6 million people have been vaccinated. The\nvaccination campaigns, as well as other epidemic control measures are being implemented\nthrough a national task force chaired by the Federal Ministry of Health. This task force\nincludes the members of the International Coordinating Group on Vaccine Provision for\nEpidemic Meningitis Control (ICG), namely the IFRC, MSF, UNICEF and WHO.\n\nCurrent work includes strengthening of the surveillance system and training for health\ncare and laboratory workers in order to improve the detection and management of cases.\nHealth education messages have also been widely distributed.\n\nThe task force estimated that a further 4,5 million people need to be vaccinated during\nthe next three weeks and stressed the need for availability of medicines for treatment of\nthe patients at peripheral health centres. The ICG is requesting an additional US$ 2.1\nmillion from the international community with a view to meeting these needs immediately.\n\nFor further details please contact IFRC (Dr. Sandblad, phone: 41 22 730 44 07, e-mail: [email\u00a0protected]), MSF (Dr.\nVaraine, phone: 33 1 40 21 29 35, e-mail: [email\u00a0protected]), UNICEF (Dr. S. Goings, phone: 234 1 269 02 76(280), e-mail: [email\u00a0protected]), WHO (Dr.\nSantamaria, phone: 41 22 7912725, e-mail:. [email\u00a0protected])",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:54.871539",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "28 April 1999",
+        "Location": "Angola",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 April 1999 Disease Outbreak Reported\n\nOn 23 March, the paediatric hospital in Luanda reported that a total of 21 cases of\nacute flaccid paralaysis with 3 deaths had been registered. An investigation by the\nMinistry of Health demonstrated that by 3 April, 102 cases of AFP had been recorded in\nLuanda and neighbouring areas of Bengo province. Cases were primarily in children aged\n< 5 years and 90% of cases had received 2 doses or less of oral polio vaccine. Only 6%\nhad received 4 doses.\n\nOn 8 April, the National Institute of Virology in South Africa reported that wild\npoliovirus type 3 had been isolated from 11 of 22 stool specimens taken from AFP cases in\nAngola. By 25 April, the number of polio cases was reported to be 661 with 41 deaths.\nField investigation confirmed 6 cases of AFP in children aged < 5 years in Benguela, a\ncity 500 km south of Luanda. Investigation of the outbreak is ongoing with the assistance\nof a WHO team. In response to the outbreak, 634 000 children were immunized with OPV in\nLuanda on 17 and 18 April. A national immunization campaign is being planned to start in\nJune.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:57.546579",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "20 April 1999",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 April 1999 Disease Outbreak Reported\n\nCases of fever of unknown origin continue to occur. Laboratory samples have been taken\nfor examination. The clinical picture of many cases is compatible with borreliosis. Three\ncases were confirmed by microscopy in the field. Louse infestation is widespread. Bloody\ndiarrhoea cases have also been seen and were confirmed as shigellosis. The WHO team will\nbe conducting a training course for NGOs to establish a treatment and control programme.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:14:59.075778",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "15 April 1999",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 April 1999 Disease Outbreak Reported\n\nWhile the exact number of encephalitis cases and deaths in\nMalaysia continues to be tabulated, it is now apparent that the\nnumber of cases is no longer increasing, showing that the epidemic is under control. Both\nJapanese encephalitis virus and a Hendra-like virus (now being designated as Nipah virus)\ninfections have been reported; however, Nipah virus appears to be the predominant\npathogen. Cases have almost exclusively occurred in persons in close contact with pigs,\nespecially those working is areas where there is disease in pigs. Pig culling in affected\nareas is ongoing to control Nipah virus transmission.\n\nMultiple epidemiological studies both in animals and humans are\ncontinuing. These include studies to determine the animal species infected by Nipah and to\nidentify the natural reservoir of the virus. Among the studies in humans, emphasis is on\nthe identification of the specific risk factors for infection. Investigators from the\nUnited States Centers for Disease Control and Prevention and from other countries,\nincluding Australia and Japan, are working with the Malaysian government to conduct these\nstudies.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:00.607756",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "14 April 1999",
+        "Location": "Madagascar",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 April 1999 Disease Outbreak Reported\n\nCholera cases have been reported in\nMadagascar for the first time. Between 24 March and 12 April, 278 cases of acute diarrhoea\nwere reported. The first cholera case confirmed in the laboratory was diagnosed as V.cholerae\nO1 Ogawa. The areas affected are in the west of Madagascar in the districts of Antsohihy\nand Mahajanga (Mahajanga Province).\n\nStrict control measures have been put in place and a task force from the Ministry of\nHealth went immediately to the area.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:07.151510",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "8 April 1999",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "08 April 1999 Disease Outbreak Reported\n\nThe Ministry of Health has reported an outbreak of cholera in the municipality\nof Paranagua, Parana State. The cases occurred in the villages of Guarani and Ara\u00e7a. Up\nto 31 March, a total of 235 cases (205 confirmed) and 3 deaths had been reported. Strict\ninvestigative and control measures are being implemented, including inspection and\ntraining of food vendors and distribution of health education material.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:08.586726",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "7 April 1999",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 April 1999 Disease Outbreak Reported\n\nInfluenza A(H9N2) viruses have been identified in two hospitalised children, ages 1 and\n4 years, in Hong Kong\u00a0 SAR. One of the children is from Kowloon, and the other from\nHong Kong Island. Analysis of specimens sent to the WHO Collaborating Centre for Influenza\nin London, UK confirmed the viruses as A(H9N2) subtype which appear similar antigenically\nto swine viruses isolated in Hong Kong SAR in 1998. The children were sent home apparently\nwithout any medical complications. Further analysis of the viruses is being carried out at\nWHO Collaborating Centres in Atlanta, USA and London, UK.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:10.143390",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "7 April 1999",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 April 1999 Disease Outbreak Reported\n\nDuring the last week of March, an outbreak of an unidentified haemorrhagic fever\nwas reported from Rumbek county. The number of cases and deaths is unknown. Samples were\nimmediately sent for testing to the National Institute for Virology in South Africa.\n\u00a0 A team from WHO has now reached the area in order to: (1) continue the\ninvestigation of the etiology of the outbreak; (2) provide barrier nursing material and\ntraining to health care workers;\u00a0 and (3) determine the need for additional on-site\npersonnel.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:11.663302",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "6 April 1999",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 April 1999 Disease Outbreak Reported\n\nIn March 1999 an influenza H5N1 virus was isolated from the feces of one goose\nduring routine surveillance of ducks and geese. Preliminary characterization indicates\nthat the haemagglutinin (HA) gene is 98.9% homologous with the H5N1 influenza virus\nisolate from a child in Hong Kong SAR in 1997 \u0096 A/Hong Kong/156/97. Although the\nneuraminidase (NA) is of the subtype N1 the internal genes are quite distinct from the\n1997 H5N1 isolate and are most closely related to gene segments of influenza viruses\nisolated in the early 1990s from ducks in China and chickens in Italy. The pathogenicity\nin chickens of the H5N1 isolated in 1999 appears to be lower than that of the 1997 H5N1\nisolates.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:13.310053",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "29 March 1999",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "29 March 1999 Disease Outbreak Reported\n\nOn 26 March, authorities in Hong Kong SAR reported that an H5 virus was\nisolated on 10 March from cage swabs taken in the city's western wholesale poultry\nmarket, from a stall dealing only with imported waterfowl. It has not caused any illness\nin poultry in the market. The virus was immediately sent to local and international\nlaboratories for further characterization. Even though the virus has the same\nhaemaglutinin (H) and neuraminidase (N) subtype, it was found to be genetically distinct\nfrom the H5N1 virus found in 1997.\n\nLocal health officers visited the market following the incident and\nfound that no workers reported any illness. Waterfowl are natural carriers of various\ninfluenza viruses, so that isolation of an H5 virus is not unusual and poses no public\nhealth risk on this occasion.\n\nImport control and environmental monitoring of the market have taken\nplace regularly since the importation of birds resumed in early 1998. This is the first\ntime an H5 virus has been isolated. There is no evidence of infection with H5 virus in\nother poultry, nor in local farms. The supply of birds to Hong Kong SAR from any farm\nshowing signs of infection will be suspended.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:14.845047",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "26 March 1999",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 March 1999 Disease Outbreak Reported\n\nAs of 19 March, 78 deaths caused by acute watery diarrhoea had been reported.\u00a0 The\ntotal number of cases is unknown.\u00a0 Investigations are being carried out by the\nMinistry of Health.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:16.370701",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "22 March 1999",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 March 1999 Disease Outbreak Reported\n\nTo date (19 March 1999), there are 133 reported cases of either confirmed or suspected\ncases of Japanese Encephalitis in the outbreak which first started in Perak, and later in\nNegeri Sembilan. Of these, 54 persons have died. In this outbreak, out of 133 reported\ncases, 42 have been confirmed to have Japanese Encephalitis. Many cases may soon be\nconfirmed as the laboratory results become available.\n\nIn addition to Japanese Encephalitis, there is now\nevidence of a new virus. This virus was isolated from the cerebrospinal fluid of 5 out of\n30 patients sent to Professor S K Lam and his team at the Department of Medical\nMicrobiology, University of Malaya. Their finding was subsequently confirmed by the\nCenters for Disease Control in Atlanta, USA. This virus is a member of the Paramyxovirus\nfamily. It is closely related to Hendra virus which was first isolated in Hendra, a suburb\nof Brisbane in Queensland, Australia. In the outbreak which occurred in 1994, race horses\nand 3 persons whose work involved close contact with horses were taken ill. 2 of the 3\npersons subsequently died, one died of severe respiratory infection and the other of\nencephalitis after a latent period of 13 months.\n\nSource:\u00a0 Department of Public Health, Ministry of Health,\nMalaysia\n\nFor further information and updates, please visit the web site of the Department of\nPublic Health at:\nhttp://dph.gov.my/press/press2/japan_e.htm",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:19.146239",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "19 March 1999",
+        "Location": "Ethiopia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 March 1999 Disease Outbreak Reported\n\nAn outbreak of meningococcal disease is reported to have occurred between end February\nand mid-March. In the North Wolo zone, 126 cases and 4 deaths have been confirmed. A\nvaccination campaign is under way.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:21.784146",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "18 March 1999",
+        "Location": "Netherlands",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 March 1999 Disease Outbreak Reported\n\nThe Ministry of Health of Netherlands has informed WHO of an outbreak of\nlegionnaires' disease. Out of 200 cases, 54 have been confirmed. There have been 13\ndeaths, of which 5 have been confirmed as due to the disease. An epidemiological\ninvestigation is under way. The exact source is not yet known, but it is thought to have\nbeen associated with a flower show in the north of the country, which was visited by\n80\u00a0000 people between 12 and 28 February. The national health authorities are keeping\nthe public informed.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:23.300138",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "18 March 1999",
+        "Location": "Senegal",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 March 1999 Disease Outbreak Reported\n\nThe Ministry of Health has notified 2\u00a0709 cases of meningitis and 372\ndeaths between 23 October 1998 and 28 February 1999,. When the first cases were reported,\nsamples were sent to the Institut Pasteur in Dakar, which confirmed that the\noutbreak was due to meningococcal meningitis type A. The health authorities have launched\na vaccination campaign targeted to the age group 2-25 years. The situation remains\nserious, especially in the regions of Kaolack, Fatick and Kolda, extending towards\nDiourbel. Prevention and control measures have been undertaken.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:24.909081",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "17 March 1999",
+        "Location": "Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 March 1999 Disease Outbreak Reported\n\nWHO has been informed of an outbreak of\ndiarrhoeal disease in Brazzaville, Congo. Some cholera cases have now been confirmed in\nthis outbreak and more details on the current situation will be given as soon as they are\navailable.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:27.643299",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "17 March 1999",
+        "Location": "Brazil",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 March 1999 Disease Outbreak Reported\n\nAs of end February 1999, 1 confirmed case of sylvatic yellow\nfever was reported to the Pan American Health Organization (PAHO/WHO). This case is the\nfirst national reported case of yellow fever since November 1998. The case occurred in the\nNative Indian village of Aldeia Cuoto Magalhaes, in the county of Campinapolis, Mato\nGrosso State. The patient who recovered was a 5 year old girl without a history of yellow\nfever vaccination.\n\n* Source: Ministry of Health, Brazil February 1999.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:29.287279",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "12 March 1999",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 March 1999 Disease Outbreak Reported\n\nThe outbreak that started in Northern Darfur State in December 1998 has now\nspread to 15 States, some of them reaching epidemic level. From the beginning of the\nepidemic (01.12.98) up to 9 March, 2\u00a0293 cases and 262 deaths have been reported by\nthe Federal Ministry of Health. An appeal has been launched by the Ministry of Health in\nKhartoum, with support from the executive members of the International Coordinating\nGroup,WHO, UNICEF, IFRC and MSF, for the provision of meningococcal vaccine. There is an\nurgent need for more vaccines, drugs and technical support to strengthen the surveillance\nsystems and laboratory capacity. There is also a need for logistic support and to ensure\nappropriate training of health staff at local levels.\n\nThe government has already provided a significant proportion of the necessary supplies,\nand is appealing to its partners to complete the support and resources needed to limit the\nimpact of the outbreak.\u00a0 For futher information from WHO, please contact [email\u00a0protected]; [email\u00a0protected]; or [email\u00a0protected].",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:30.920721",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "1 March 1999",
+        "Location": "Afghanistan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "01 March 1999 Disease Outbreak Reported\n\nOn 13 February, an outbreak of an unidentified disease\nwas reported to have occurred in Darwaz, Badakhshan, Afghanistan. On 26 February, a\nspecialized WHO team arrived on site at one of the affected villages, Jamarche Bala, with\nthe logistic support of the United Nations system. Other villages were visited by M\u00e9decins\nsans fronti\u00e8res and Focus (Aga Khan Foundation).\n\nThe outbreak began around mid-January after 2 young men returned from the village of\nWaram, both suffering from an acute respiratory infection. Over the next 2 days,\napproximately 40 persons living in the same household became ill. The disease then spread\nthrough the whole village, affecting 70%-80% of households. The village has a population\nof 5\u00a0400. The deaths occurred among both males and females and involved primarily\ninfants and the elderly. The most recent case was reported on 26 February. Cases were\ntreated by the team with chloramphenicol, which resulted in a significant improvement,\nsuggesting that severely ill patients were suffering from secondary bacterial infections.\nThere were no deaths among those treated.\n\nThe disease is flu-like and is characterized by abrupt onset of fever, headaches and\nmyalgia, followed by chest pain and cough. Living and sanitary conditions are crowded, and\nthe water supply is unprotected. Nutrition is of poor quality. There are no health\nservices in this very remote area, which has not been accessed by routine immunization\nteams.\n\nPreliminary conclusions of the WHO team in the field is that the outbreak now declining\nwas an influenza-like illness which has affected a large proportion of the population. The\nrate of secondary complications (mainly pneumonia) was high. Mortality is 1%-2% of the\ntotal population primarily due to lack of antibiotic availability and overall poor living\nand nutritional conditions.\n\nWHO and its local partners are now helping local authorities to organize follow-up\ntreatment and arranging for additional medical supplies to the area. Clinical specimens\ncollected by the field team will be analysed shortly.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:32.509240",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "26 February 1999",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 February 1999 Disease Outbreak Reported\n\nThe World Health Organization has been\ninformed by several Ministries of Health in countries of eastern and southern Africa of an\nincrease in cholera cases and deaths. The situation in eastern Africa is similar to that\nat the end of 1997 when almost all countries in the Horn of Africa were affected by severe\ncholera outbreaks or threathened by them. Most of the countries then affected continued to\nreport cases of cholera to WHO throughout 1998. However, sudden increases in cases and\ndeaths are now being reported in the same countries as well as countries in southern\nAfrica .\n\nCountries recently reporting new or increased cholera activity are: Kenya, Mozambique,\nSomalia, Uganda, United Republic of Tanzania, Zambia and Zimbabwe.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:39.116693",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "12 February 1999",
+        "Location": "Somalia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 March 1999 Disease Outbreak Reported\n\nCholera has occurred seasonally in the country for a number of years and usually starts\nin late November/early December ending around May. In the first week of December 1998\ncholera was reported in Mogadishu (Banadir Region) and since then several regions have\nreported cases.The other regions currently affected are Bay, Gedo, Lower Juba and Lower\nShabelle. A total of 4 457 cases with 166 deaths have been reported since December up to\n19 February.\n\nThe epidemic is occurring in communities already weakened by severe shortage of food\nand in areas where only polluted water is available as wells have dried up. Supplies for\ntreatment have been made available by WHO to UNICEF. The UN agencies, NGOs and the local\nhealth authorities are all collaborating in dealing with the epidemic. As well as clinical\ncase management, efforts have also been directed at preventive measures such as\nchlorination of public water sources and health education on personal hygiene.\n\nAt present, tests for cholera can be conducted in four laboratories (Merka in Lower\nShabelle Region, Mogadishu in Banadir Region, Bosasso in Bari Region and Hargeisa in\nGalbeed Region). All these laboratories are staffed by nationals trained by WHO.\n\nAs it is difficult to predict how long this epidemic will last or how much it will\nspread. The cholera supplies that have been made available may be exhausted and there may\nwell be a need for more supplies, and consequently for the support of the international\ncommunity.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:40.754859",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "10 February 1999",
+        "Location": "South Africa",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 February 1999 Disease Outbreak Reported\n\nOutbreak amongst Wildlife in South Africa and Associated Human Cases\n\nA laboratory confirmed outbreak of Rift Valley Fever (RVF) amongst wild animals in and\nnear the Kruger National Park in South Africa has been reported by the National Institute\nfor Virology in Johannesburg ( a WHO Collaborating Centre for Viral Haemorrhagic Fevers\nand Arboviruses). Three associated human cases have also been reported, all with a benign\nfebrile illness.\n\nTowards the end of January, six pregnant buffalo were observed to abort, and, shortly\nafter, 3 giraffes and 1 waterbuck were found dead without obvious signs of predator\nattack. Three veterinarians in contact with tissues from these animals developed an\nuncomplicated, febrile illness. Deaths among goat kids in adjacent areas have also been\nrecorded. Virus has been detected in tissues from the buffalo fetuses, the waterbuck, a\ngiraffe, and 1 veterinarian.\n\nA program of control measures has been instituted: local farmers have been advised to\nvaccinate their livestock, and public health information on appropriate precautions has\nbeen disseminated to those involved in the livestock industry. Mosquito control measures\nhave been increased in tourist destinations. However, most human cases of RVF reported in\nthe past from South Africa were acquired through contact with diseased animals and their\ntissues, rather than through mosquito bites, so the general public is not perceived to be\nat particular risk of contracting the illness.\n\nLarge outbreaks of RVF occurred in South Africa's inland plateau in 1974-76, and a\nsmall outbreak was recorded in 1981 in a coastal area of KwaZulu-Natal, but no disease\nactivity has been detected in the intervening period. Several consecutive years with high\nrainfall have favoured the explosion of the Aedes mosquito population which is the\nvector for the virus.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:42.411435",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "27 January 1999",
+        "Location": "Zambia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 January 1999 Disease Outbreak Reported\n\nThe government of Zambia has informed WHO of a cholera outbreak in Ndola, in the\nnorthern part of the country near the border with the Democratic Republic of the Congo. So\nfar, a total of 66 cases has been reported, with 4 deaths. In view of heavy rainfalls, the\nMinistry of Health has already taken the necessary action and alerted the national cholera\ntask force. Control measures are being taken.\n\nCholera preparedness committees are on the alert in other surrounding areas (Kitwe city\nand Chililabombwe), and are implementing prevention and preparedness measures which\ninclude conducting hygiene education campaigns, designating temporary cholera centres and\nestablishing emergency stocks of drugs.\n\nZambia has been seriously affected by cholera epidemics in the past, with 13\u00a0154\ncases in 1991, 11\u00a0659 cases in 1992 and 6\u00a0766 cases in 1993. Since 1994, the\ntotal number of cases has continued to decrease.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:43.924512",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "22 January 1999",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 January 1999 Disease Outbreak Reported\n\nMeningococcal meningitis has been reported from the following communities in the\nNorthern Darfur region: El Fashir (population 657\u00a0852) - 21 cases, 4 deaths; Kutum\n(population 348\u00a0000) - 135 cases, 11 deaths; Kabkabiyya (population 240\u00a0017)\n\u0096 43 cases, 15 deaths.\u00a0 Cases have continued to be reported, reaching a total of\n199 cases and 30 deaths by 20 January.\n\nA WHO team is assisting with the assessment of the epidemiological situation and needs.\nTeam members visited the areas affected by the outbreak together with the Sudanese health\nauthorities and other international partners, including UNICEF, M\u00e9decins sans\nfronti\u00e8res and the International Federation of Red Cross and Red Crescent Societies.\nSo far, 91\u00a0000 people have been vaccinated by 40 vaccination teams. While it appears\nthat the number of new cases has diminished over the last few days, plans are being drawn\nup to strengthen surveillance and control measures throughout the country in preparation\nfor any further outbreaks of the disease.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:45.441660",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "12 January 1999",
+        "Location": "Sudan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 January 1999 Disease Outbreak Reported\n\nAn outbreak of meningococcal meningitis has been reported in the Northern Darfur\nregion. The first cases were reported on 12 December 1998, and the total of 126 for\nDecember 1998 is 5 times higher than the number reported for the same month in 1997. Cases\nhave continued to be reported at an increasing rate, reaching a total of 169 by 6 January.\nOver 20 deaths have been reported.\n\nThe organism has been identified as Neisseria meningitidis serogroup A, and\ntests indicate that it is sensitive to first-line antibiotics. Sudan lies in the so-called\nmeningitis belt of sub-Saharan Africa. A large epidemic last occurred in 1988-1989, with\nover 40\u00a0000 cases and 7\u00a0500 deaths.\n\nWHO is sending a team to assist with the assessment of the epidemiological situation\nand needs. Other international partners, such as UNICEF, M\u00e9decins sans fronti\u00e8res\nand the International Federation of Red Cross and Red Crescent Societies, are also making\nplans to support control of the outbreak.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:47.104159",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1999",
+        "Date Reported": "6 January 1999",
+        "Location": "China",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 January 1999 Disease Outbreak Reported\n\nChina. According to analysis performed at the China\nNational Influenza Centre, Chinese Academy of Preventive Medicine, the strain currently\ncirculating in the country is similar to the influenza A(H3N2) Sydney strain which was\ncirculating at the end of the season in 1998, and which is covered in the current\nrecommended vaccine. Further characterization of the isolates will be carried out at the\nWHO collaborating laboratory at the Centers for Disease Control and Prevention (United\nStates). Detailed analysis of the viruses is expected to be completed within 2-3 weeks.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:15:48.637557",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "2000",
+        "Date Reported": "1 January 1999",
+        "Location": "Hungary",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "01 January 2000 Disease Outbreak Reported\n\nThe Ministry of Health has informed WHO of an outbreak of meningococcal disease\nwhich began in early December 1999, in the B\u00e0cs-Kiskun area (in Kecskemet city and\nSzabadszallas town). As of 5 January, 30 cases and 4 deaths had been reported\n(case-fatality rate, 13.3%). The National Epidemiology Centre in Budapest has confirmed Neisseria\nmeningitidis groups B and C. Protection and prevention measures include\nchemoprophylaxis of close contacts with rifampicin and immunization (with bivalent A/C\nserogroup vaccine).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    }
+  ]
+}

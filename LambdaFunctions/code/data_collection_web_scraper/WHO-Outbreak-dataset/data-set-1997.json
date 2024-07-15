@@ -1,0 +1,1327 @@
+{
+  "events": [
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:05.369883",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "26 November 1997",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 November 1997 Disease Outbreak Reported\n\nA total of 4 301 cases and 146 deaths (3.4%) had been notified up to 25 November in Maputo\nCity, other areas of Maputo Province and Xai-Xai City in Gaza Province, of which 2 637\ncases were registered since 7 November. Maputo City continues to be the most affected area\nwith 92% of all cases reported. However, the daily admissions at the central hospital in\nMaputo City has declined from over 200 to 150. Up to 22 November, 63 cases (no deaths)\nhad been reported in Xai-Xai City, Gaza Province since the outbreak started there on 5\nNovember. Three suspect cases and one death were notified in Chokwe district in the same\nprovince on 24 November.\n\nThe government has reactivated the National Commission for Emergency Management\nwhich is chaired by the Prime Minister and the Minister of Health has set up and chairs the\nNational Technical Commission for the daily coordination of all technical aspects of the\ncampaign. WHO is working closely with the national authorities to coordinate the\ninternational response and mobilize resources.\n\nSeveral countries (Egypt, Italy, Portugal, Spain) responded to Government appeals with\nfunds, rehydration fluid, tents and technical assistance. M\u00e9decins Sans Fronti\u00e8res has\norganized a new treatment facility and is assisting in control activities. Agencies interested\nin further supporting the control activities can contact the WHO Cholera Task Force for\ndetails on immediate and long term activities (fax: 41-22-791 4893 or e-mail\n[email\u00a0protected]).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:11.984051",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "21 November 1997",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 November 1997 Disease Outbreak Reported\n\nThe total number of plague cases which have occurred in Mutarara District, Tete Province has\nincreased to 335 since June when the outbreak began. No deaths have been reported. Cases\nare limited to this area where plague reappeared in 1994 for the first time in than 15 years.\nThe epidemic in 1994 lasted from the end of August to the end of October and caused 216\ncases of bubonic plague of which three were fatal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:14.351839",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "21 November 1997",
+        "Location": "Djibouti",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 November 1997 Disease Outbreak Reported\n\nAn outbreak of cholera has been reported by the national health authorities. The total number\nof cases up to 16 November is 355 of which 68 have been confirmed, and 29 deaths. At the\nrequest of the national health authorities WHO has dispatched supplies for treatment of 1 000\ncases.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:15.860650",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "19 November 1997",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 November 1997 Disease Outbreak Reported\n\nThe weekly number of cases of cholera continues to increase bringing the total to 1664 cases\nand 62 deaths (case fatality rate 3.7%) reported since the second week of August up to 7\nNovember. These cases were reported from Maputo City as well as in other areas of\nMaputo Province. Forty-seven suspect cases (10 confirmed) were also registered in Gaza\nProvince during the week 7 to 13 November where a team from the Ministry of Health and\nWHO visited on 13 November. All cases were in the capital of the province, Xai-Xai City,\nand 57% were from one quarter relying on drinking water from the Limpopo river. A cholera\nward has been established at the provincial hospital and a special tent has been set up in the\nmost affected area to ensure early ORT of patients. \n\nThe Ministry of Health, WHO and M\u00e9decins Sans Fronti\u00e8res have discussed the situation and\nstrategies to meet the continuing increase which is occuring in spite of control activities such\nas health education and improvement of sanitation and water supply. The poor condition of\nsanitation and water supply in other cities is increasing the risk of spread to other provinces of\nthe country. The circulating strain of Vibrio cholerae is resistant to common antibiotics\navailable in the country and therapy therefore centres on initial administration of intravenous fluids initially followed by ORT.\n\nThe Ministry of Health is appealing to MSF for staff and equipment to support medical\nassistance for cholera patients in Maputo City and Province and is requesting WHO support\nfor material and funds for therapy and health education during the coming six months.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:17.426126",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "14 November 1997",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 November 1997 Disease Outbreak Reported\n\nThe cholera outbreak which started in August 1997 is continuing but is still limited to\nMaputo. The number of cases has significantly increased in the last six weeks bringing the\ncumulative totals to 1330 cases and 41 deaths but the case fatality rate was lower in the last\ntwo weeks at 1.8%. The Ministry of Health has increased educational activities through the\nmass media and house-to-house visits. Efforts are also being concentrated on improvement\nof case management. Health authorities in other provinces are being advised to be prepared\nin case of eventual spread.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:18.944816",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "Monkeypox",
+        "Date Reported": "14 November 1997",
+        "Location": "Democratic Republic of the Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "Disease Outbreak ReportedThe WHO team investigating the extended outbreak of human monkeypox continued its\nmission in Kasai Oriental, Democratic Republic of the Congo in October 1997. It included\nrepresentatives of the national government, Centres for Disease Control and Prevention,\nAtlanta, Communicable Disease Surveillance Centre, London, Epicentre, Paris and European\nProgramme for Intervention Epidemiology Training, Brussels and WHO geneva and\nKinshasa.The team identified 419 suspect cases fitting the case definition of a possible or probable\ncase, which, together with those identified in previous surveys, amounts to a total of 511\nsuspect cases of human monkeypox reported since February 1997. The highest number of\nsuspect cases were in outbreaks in Akungula in August 1997, in Ekanga and neighbouring\nvillages in March 1997 and several other villages in August 1997.Of the 419 suspect cases identified by the team in October 1997, 344 occurred in the Katako\nKombe health zone and 75 in the Lodja health zone. Fourteen of them had active disease. Most (85%) of the 344 suspect cases resident in the Katako-Kombe zone were in children\nunder 16 years of age. Thirty-one per cent had had moderate or severe rash, i.e. more than\n100 skin lesions, and in 41% the eruption lasted longer than one week. Fever, diarrhoea,\ncervical lympadenopathy, sore throat and mouth ulcers were the most common symptoms. Ten were hospitalised for up to 30 days and 54% were incapacitated for more than three days.\nFive died (case fatality ratio 1.5%). These individuals ranged in age from four to eight years\nand all died within three weeks of rash onset. Twenty had scar evidence of vaccinia\nvaccination and 19 reported a past history of chicken pox.Twenty-two per cent of the 419 suspect cases identified during this mission were primary, the\nremainder were defined as secondary. Of these secondary cases, 48% reported contact with\nanother suspect case in the compound, 42% in the household and 53% in the neighbourhood\n(some had more than one contact). Primary cases with no apparent connection to Akungula\nand Ekanga villages, were reported from 49 of the total 78 villages where cases were found.\nThirty-five per cent of the 419 cases reported being outside their home village in the three\nweeks before disease onset - the majority in the forest.This outbreak represents the largest ever reported cluster of suspect cases spread over a large\narea of the Katako-Kombe and Lodja zones. The clinical disease was milder but household\nsecondary attack rate was higher than previously documented, possibly due to an increased\nnumber of susceptible individuals after the cessation of vaccinia vaccination, rather than\nincreased person to person transmission. Some of the serum specimens obtained from suspect\ncases have been positive for varicella, and final analysis will take this into account.Transmission seems to have now ceased at the original epicentre of the outbreak and the\nimmediate surrounding villages. The more recently detected suspect human cases occurred in\nmore geographically distant clusters, the majority with no apparent link to the original\noutbreak. These suspect cases of sporadic transmission may be due to independent\nintroductions of virus into the human population through increased animal contact.Results of the final analysis will be published simultaneously when laboratory results are\navailable in Morbidity and Mortality Weekly Report, the EuroSurveillance Bulletin and the\nWeekly Epidemiological Record.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:20.489954",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "31 October 1997",
+        "Location": "Ghana",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "31 October 1997 Disease Outbreak Reported\n\n\n\nFrom a press release issued jointly by Ministry of Health and the WHO Representative in\nGhana:\n\nOn 25 September 1997, the Ministry of Health, Ghana was contacted by the Ghanaian\nEmbassy in Bonn, Germany regarding a man who allegedly died of Lassa fever at Mainz\nmain hospital. The deceased was identified by the hospital authorities as a 37-year male who\nhad apparently arrived in Germany on a Ghana Airways flight.\n\nThe Ministry of Health, Ghana assured the Ghanaian Embassy that no case of Lassa fever had\nbeen reported in Ghana and thus the patient could not have been infected in Ghana. The\nMinistry of Health recommended that the origin of the patient be verified since his name did\nnot sound Ghanaian nor did his supposed arrival via Ghana Airways mean that he had\nrecently stayed in Ghana.\n\nOn 26 September the Mainz hospital authorities called a press conference and announced that\ntests conducted at the Tropical Disease Institute at the Bernhard Nocht Institute, Hamburg had dismissed Lassa fever as the cause of death of the man.\n\nThe press release was issued to assure Ghanaians and all visitors to Ghana that Lassa fever\nhas never been detected in Ghana. Ever since the detection of the cases of Lassa fever in\nNigeria, Ghanaian clinicians have been particular about examining cases of fever with\nhaemorrhagic tendencies thoroughly. In addition the Noguchi Memorial Institute for\nMedical Research at the University of Ghana has often been called upon to support the\nnational laboratory network in this work. \n\nThe Ministry of Health is confident that their disease surveillance system is very active and\nshould a case of Lassa fever or any other unusual disease appear in the country it will be\ndetected and contained.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:23.470048",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "28 October 1997",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 October 1997 Disease Outbreak Reported\n\nAccording to a report of the Ministry of Health, 346 cases of cholera with 14 deaths (5%) had\nbeen reported up to 27 September. The cases have mainly been reported in five quarters of\nMaputo city (Chamanculo, Mafalala, Polana Cani\u00e7o, Maxaquene and Zona Verde), all with\nvery poor sanitary conditions and problems with safe water. Up to now no other province of\nthe country has notified cases and Maputo city is the only area affected in the country.\n\nControl activities through the Ministry of Health include mass media messages, community\nbased activities, house-to-house visits and treatment of cases. The Ministry also coordinates\nactivities with the institutions responsible for sanitation and water supply and is\nrecommending further government action to improve sanitiation in the affected quarters. WHO has financially supported the education campaigns and other community activities\nwhile UNICEF has provided 80 cholera kits with 320 more kits expected to arrive soon. The\nNational Cholera Commission is meeting weekly and includes representatives of both WHO\nand UNICEF.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:24.986462",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "27 October 1997",
+        "Location": "India",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 October 1997 Disease Outbreak Reported\n\nIn 1997 leptospirosis spread to Surat district Gujarat State from Valsad district south of Surat\nwhere the diseases has been reported for many years. Cases started occurring mid-July. As\nof 11 September, 281 cases and 34 deaths (case-fatality rate, CFR 12%) had been reported in\nValsad district and 132 cases with 14 deaths (CFR 11%) in Surat district. Cases are still\nbeing reported. Investigations at the Medical College, Surat showed that more than 40% of\nthe clinically suspected cases had IgM antibodies and almost 60% of cases tested at the\nNational Institute of Communicable Diseases in Delhi had IgG antibody.\n\nVirtually all the patients are adults and from rural areas; 60% are males. Almost all families\nand most of the affected villages have reported only single cases. Valsad, Chikhali and\nGandevi taluks in Valsad district, and Vyara and Mahuva taluks in Surat district are the worst\naffected areas. However, a high rate of seropositivity detected in persons without any illness\nor only mild fever in the last 3 months, also in villages considered unaffected during the\npresent outbreak, indicates that the infection is much more extensive and widespread. \n\nBased on a report from the National Institute of Communicable Diseases, Delhi, India",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:26.464159",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "10 October 1997",
+        "Location": "Nepal",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 October 1997 Disease Outbreak Reported\n\nThe number of cases of encephalitis increased markedly in September. The increase was\nmainly in the Nepalgunj and Dhangadi sentinel sites where, in the period 30 August to 26\nSeptember, two zonal hospitals reported 578 and 297 cases respectively. The total for all\nsentinel sites of 992 cases and 52 deaths reported during this period brings the cumulative\ntotal since mid-April 1997 to 1,364 cases and 84 deaths. The case fatality rate has decreased\nfrom 8.7% between mid-April and the end of August to 5.2% in September.\n\n(Based on EWARS (Early Warning Reporting System) Bulletin Nos. 21 to 24, 1997, Nepal)",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:28.040289",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "2 October 1997",
+        "Location": "Argentina",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "02 October 1997 Disease Outbreak Reported\n\nThe number of cases and the geographical spread of hantavirus pulmonary syndrome (HPS)\nhas increased in the Americas since the syndrome was first identified in 1993 in the USA and\nhas now been reported in Argentina, Bolivia, Brazil, Canada, Chile, Paraguay, Peru and\nUruguay in addition to the USA. Facing the possibility of further spread of HPS, the\nministers of health of all countries in the Americas joined in a resolution to intensify the\nsurveillance of, and fight against, hantavirus infection during the Directing Council of the Pan\nAmerican Health Organization (PAHO) in September 1997.\n\nA total of 350-400 HPS cases have been confirmed in the Americas, most of them in\nArgentina and the USA. About 45% of the reported cases were fatal. The high fatality rate is\nassociated with the sudden onset of pulmonary oedema and respiratory distress. There is no\nspecific treatment for HPS, although prompt diagnosis is important for appropriate\nmanagement of respiratory distress. \n\nHPS is caused by several distinct hantaviruses which are each associated with a specific\nrodent host. Once infected, rodents shed the virus throughout their lifetime. Humans are\ninfected by inhaling aerosols of fresh or dried rodent excreta (faeces, urine and saliva).\nInvestigation of an epidemic in Argentina in 1995 provided strong evidence for\nperson-to-person transmission, not observed in studies in the USA. In any event, strict barrier\nnursing techniques are now recommended for management of suspected or confirmed cases.\n\nControl measures in endemic areas focus on rodent control with particular emphasis on\nexcluding rodents from buildings and reducing suitable habitats around inhabited dwellings. Many infections have resulted from cleaning rodent-infested areas. The use of readily\navailable disinfectants such as chlorine bleach is recommended to decontaminate potentially\ninfectious droppings and debris prior to cleaning. If available, respiratory protection should\nbe used during this high risk activity.\n\nImproved laboratory diagnostic capacity in endemic areas is important for prompt recognition\nof HPS cases. Furthermore, identification of the rodent reservoir of each hantavirus is\nimportant to detect potential HPS endemic regions and to understand the risk of\nrodent-human interaction.\n\n(For further information on HPS see web pages at PAHO - http://www.paho.org/english/DPI/rl970925.htm and the US Center for Disease Control and\nPrevention at http://www.cdc.gov/ncidod/diseases/hanta/hantvrus.htm )",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:29.611952",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "2 September 1997",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "02 September 1997 Disease Outbreak Reported\n\nAn outbreak of cholera has been confirmed in Maputo City. The first cases were diagnosed\non 13 August and 49 cases have been reported to date. Prevention activities are already in\nplace in the affected areas of the city based on community health education and improvement\nof water supply services and sanitation. The National Cholera Commission has been\nreactivated. A special ward for the treatment of cases has been set up in Maputo Central\nHospital.\n\nWHO is giving technical and financial support to the Ministry of Health for the\nimplementation of these activities.\n\nNo cholera cases have occurred in Mozambique since mid-1994.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:31.120857",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "2 September 1997",
+        "Location": "Zimbabwe",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "The Ministry of Health has reported an increase in the number of cases of meningitis in\nBulawayo city, mainly in the townships of Mzilikazi and Makokoba. Preliminary diagnosis\nindicates meningococcal meningitis and serogroup investigation is underway. Vaccines,\ndiagnostic kits and media for preserving isolates during transport have been shipped to\nHarare.\n\n02 September 1997 Disease Outbreak Reported",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:32.684653",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "2 September 1997",
+        "Location": "Nepal",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "02 September 1997 Disease Outbreak Reported\n\nA total of 247 cases of encephalitis have been registered this year. Of these 223 were\nreported in the national Early Warning Reporting System (EWARS) from the second week of\nApril to the third week of August. A weekly average of about 5 cases were reported up to\nthe second week of July when the number of cases started to increase. In the third week of\nAugust, 51 cases were reported. Twenty-four of the 223 cases reported since the second\nweek of April were fatal. The cases were from 20 of the 75 districts of the country as\nfollows:- Bankey district (with the highest number of cases), Bardiya. Jhapa, Chitwan,\nRupandehi, Kailali, Nawalparasi. Morang, Surkhet, Dang, Kanchanpur, Makwanpur, Gorkha,\nSaptari, Tanahu, Mahotari, Sindhuli, Siraha, Sunsari and Dhanusha. Three cases were in\npersons from neighbouring states in India.\n\nAge and sex information available for 139 of the 247 cases reported shows 62% among\nmales and 38% among females. Four cases (3%) were under one year of age, 24 (17%) in\nthe age group 1-4 years; 57 cases (41%) in the age group 5-14 years, 42 (30%) in the age\ngroup 15-44 years, 9 (6%) in the age group 45-60 years and 3 (2%) in the age group 60 years\nor more. Ninety-four (68%) of these 139 cases were reported during the weeks of increased\nactivity.\n\nCases of encephalitis in Nepal are reported throughout the year and usually increase between\nJune and October. The diagnosis is made on a clinical basis as there are no laboratory means\nto establish etiology. However, studies conducted in the country indicate that many of the\ncases are due to Japanese encephalitis (JE). The cases were reported by eight sentinel\nhospitals to the Vector Borne Disease Research and Training Center (VBDRTC) in Hetauda,\nMakwanpur which acts as focal point for EWARS. \n\n(Based on EWARS Weekly Bulletin; Epidemiological Week No. 33; Epidemiology and\nDisease Control Division, Vol. I, No. 19, 15-22 August 1997 via the Office of the WHO\nRepresentative in Nepal. Encephalitis in Nepal)",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:34.251955",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "11 August 1997",
+        "Location": "Guinea",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 August 1997 Disease Outbreak Reported\n\nA case of yellow fever has been confirmed in a 35-year old male hospitalized in Lofa County\nin the northern part of the country on 6 July. A second case is being investigated.\n\nEpidemiological surveillance and early warning system is being strengthened with Medical\nEmergency Relief International (MERLIN), a NGO active in the area. A mass vaccination\ncampaign is being organized jointly by the Ministry of Health, WHO, M\u00e9decins Sans\nFronti\u00e8res (MSF), MERLIN and Unicef. Blood samples taken on the evening of 7 July and\nthe morning of 8 July were transported to Monrovia and forwarded for laboratory\ninvestigation. The patient subsequently died. The diagnosis was made on the basis of the\ndetection of IgM antibody to yellow fever virus. The samples were first tested at the Institut\nPasteur in Abidjan, Cote d'Ivoire and then referred to the WHO Collaborating Centre for\nArboviruses and other Haemorrhagic Fevers, Institut Pasteur, Paris on 6 August.\n\nComment: The large scale immunization campaign conducted in early 1997, following the\noutbreak which started in July 1995, reached nearly 80% of the 1.3 million people targeted\nfor immunization. However, it could not then be extended to Lofa County due to the war. The present immunization campaign is expected to reach the many refugees that are presently\nbeing repatriated from Guinea. This year's campaign may be difficult as it will be conducted\nduring the rainy season and the bridges leading into the County have been destroyed. Liberian refugees in C\u00f4te d'Ivoire were immunized in close collaboration with the\ngovernement of C\u00f4te d'Ivoire.\n\n(Based on information received from MERLIN, and the WHO Collaborating Centres at\nInstitut Pasteur, Abidjan and Institut Pasteur, Paris)",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:35.750106",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "8 August 1997",
+        "Location": "Mozambique",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "08 August 1997 Disease Outbreak Reported\n\nThe Ministry of Health has reported that 115 cases of plague have occurred between 7 June\nand 4 July in Mutarara District, Tete Province, a plague endemic zone. No deaths have been\nreported. An outbreak last occurred in this area \u00een late 1994 when 216 cases were reported.\nThe Ministry of Health has taken appropriate measures to control this outbreak.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:42.413164",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "31 July 1997",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "31 July 1997 Disease Outbreak Reported\n\nFrom the beginning of 1997 up to 26 July, health authorities nationwide had been notified of\n11'328 cases, of which 10'841 were dengue fever and 487 dengue haemorrhagic fever, with\n28 deaths. This is 85.1% more than was reported during the corresponding period last year.\n\nThe WHO Collaborating Centre in Kuala Lumpur has confirmed 99 cases of DHF/DSS. Among these, 8.1% showed CNS manifestations, including fits, epilepsy, meningitis and\nencephalitis. For the same period last year, only 43 severe cases were diagnosed by the WHO\nCentre. \n\nOf the 57 dengue virus isolates investigated by the WHO Collaborating Centre this season, 37\nwere dengue type 1, 17 dengue type 2 and three dengue type 3. Five strains of dengue type 1\nand two strains of dengue type 2 were isolated from severe dengue cases. Dengue type 1 was\nthe predominant strain in 1987 and 1988, dengue type 2 in the years 1989, 1990 and 1991\nand dengue type 3 from 1992 to 1995. In 1997, both dengue type 1 and 2 viruses were active.\n\nOne case of vertical transmission has been confirmed this season. Last year, there were two\nsuch cases which resulted in the death of an infant who developed respiratory distress and a\nlarge uncontrollable left intracerebral bleed. The child expired at day 6 of life from\nmultiorgan failure. Dengue type 2 was isolated from this fatal case.\n\nBased on previous epidemiological patterns, it is expected that the outbreak will peak in the\nnext few weeks. The WHO Collaborating Centre has alerted clinicians to the possibility of\nthese unusual presentations and to monitor their patients closely.\n\nThe whole nation has been put on the alert and aggressive integrated control programmes\nhave been taken by the respective ministries and agencies.\n\nBased on a report from the WHO Collaborating Centre for Arbovirus Reference and Research\n(Dengue and Dengue Haemorrhagic Fever), Kuala Lumpur, Malaysia",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:44.055613",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "30 July 1997",
+        "Location": "Central African Republic",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "30 July 1997 Disease Outbreak Reported\n\nAn outbreak has occurred in Kouango Sous-Pr\u00e9fecture (Ouaka Prefecture) in the Central\nAfrican Republic where 44 cases with 8 deaths have been reported from 8 to 17 July.\nCholera has not been reported previously in this country and the health authorities are taking\nappropriate measures to control the outbreak in collaboration with the WHO representative\nand in accordance with WHO guidelines.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:45.692439",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "7 July 1997",
+        "Location": "Israel",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 July 1997 Disease Outbreak Reported\n\nA marked increase in the number of cases of meningitis was reported by the health services in\nthe Gaza strip in late May and early June. Most cases were in children in the age group 2-5\nyears with, in general, mild symptoms, few complications and no deaths. The increase was\ndetected through the strengthened preparedness for infectious diseases prevention and control\nset up by the health authorities in accordance with WHO recommendations in which all cases\nof suspected meningitis are notified and investigated in the laboratory.\n\nDuring January-May 1997 a total of 180 cases of meningitis were reported compared with\n121 during the same period in 1997. The increase in 1997 was particularly marked in the\nfourth week of May in the northern part of the Gaza Strip. Bacterial meningitis was\nconfirmed in 54 cases, mainly associated with Neisseria meningitidis but also Haemophilus\ninfluenzae, Streptococcus pneumoniae and other bacteria. During the first 10 days of June\n157 cases of meningitis were reported to the Palestinian Ministry of Health, with the daily\nnumbers increasing from 4 on 1 June to 26 on 10 June. All parts of the Gaza Strip were\naffected by the outbreak but the highest rate was in the north. Of the 157 investigated cases,\n149 were diagnosed as aseptic meningitis. Echoviruses and other enteroviruses have been\nisolated from specimens from these cases which were investigated by the virology laboratory\nin Tel-Hashomer in Israel.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:47.188748",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "3 July 1997",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "03 July 1997 Disease Outbreak Reported\n\nReport from the Ministry of Health, Malaysia, dated 28 June 1997 regarding the cluster\nof deaths among infants and young children during an outbreak of hand, foot and\nmouth disease in Sarawak, Malaysia.\n\nOn 14 April 1997, a 19-month old boy was admitted to the Sibu Hospital Sibu, Sarawak,\nMalaysia, with a 3-day history of fever and oral ulcers. On examination, he showed poor\nperipheral perfusion and tachycardia, subsequently developed cardiac failure, and died on 15\nApril 1997. Since then, 26 more children in several cities in Sarawak have died of heart\nfailure, and 2 others who were brought in dead are suspected to have died of similar cause. Eighteen (62%) of the 29 children were male. Their mean age was 1.6 years (range 7 months\nto 6 years); 23 (79.3%) of 29 were less than 2 years old.\n\nThe 27 children who were admitted alive presented with or soon thereafter developed signs of\nshock, including pallor, cold extremities, delayed capillary refill, and weak peripheral pulses. Pulmonary oedema was present in many cases; intravenous fluids often exacerbated the\noedema. Nearly all the children had sinus tachycardia on electrocardiogram; no rhythm\ndisturbances were noted. Echocardiograms obtained on most patients uniformly showed a\npoorly contractile globular left ventricle with low output (ejection fraction <60%). In most\ninstances, children died within 7 days of onset of illness, and death usually ensued within 24\nhours of admission. Postmortem examinations have been performed on 3 children; results are\npending. The most recent fatal case to date had onset on 21 June 1997 and died on 24 June\n1997.\n\nMany of these children had a maculopapular or vesicular rash on the palms or soles and\nvesicles or ulcers in the oral cavity, characteristic of hand, foot, and mouth disease. Several\nchildren had signs of central nervous system infection [3 (15%) of 20 had acute flaccid\nparalysis, and 9 (45%) of 20 had histories of seizures]. Examination of the cerebrospinal\nfluid showed a lymphocytosis, consistent with viral meningitis. In several cases, family\nmembers reported that the children who died had been in contact with other children with\nhand, foot, and mouth disease two to five days prior to onset of their own illness.\n\nSince April 1997, private practitioners in Sarawak have reported seeing a large number of\nchildren with hand, foot and mouth disease, who presented with fever, mouth ulcers and\nmaculopapular or vesicular rash on the palms and soles. Since 6 June 1997, private\nphysicians and government clinics have reported 2 113 cases of hand, foot, and mouth disease\nin young children in Sarawak (population 1.9 million).\n\nDuring June 1997, almost 2140 children with hand, foot and mouth disease have been\nadmitted to private or government hospitals in peninsular Malaysia (population 21 million). No fatalities have yet ben reported among those children hospitalized.\n\nUpdate 30 June: The Sarawak Health Department informed of an additional fatal case in a\n2-year-old boy from Sarikei Division who died from viral myocarditis in Sarawak General\nHospital on 30 June. Update posted on the web site of Sarawak Health Department at\nhttp://www.jaring.my/jkns/outbreak/virus1.htm\n\nEpidemiological and laboratory investigations are underway. Several enteroviruses have\nbeen isolated from clinical specimens obtained both from children who died and those with\nuncomplicated hand, foot and mouth disease. Two isolates have been identified as\nenterovirus 71; further identification of the remaining isolates is in progress.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:48.713471",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "26 June 1997",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "26 June 1997 Disease Outbreak Reported\n\nTwo more deaths from acute viral myocarditits occurred on 24 June bringing the\ntotal number of deaths to 29, all in children aged from 5 months to 6 years. A total of over\n600 children has been admitted to the observation wards in hospitals in Sarawak State and 66\nremained under observation on 26 June. The number of cases being admitted to hospital for\nobservation has declined since 20 June.\n\nTeams from WHO and the Centers for Disease Control and Prevention are working with the\nMinistry of Health and national laboratories to establish the cause of the outbreak which may\nbe an enterovirus. Laboratory investigations on specimens from fatal cases of myocarditis and\nfrom cases of hand, foot and mouth disease have been collected for virus isolation in tissue\nculture, for PCR and other techniques. Preliminary results from the virological studies should\nbe available shortly.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:50.300398",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "19 June 1997",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 June 1997 Disease Outbreak Reported\n\nThe WHO Collaborating Centre at the University of Malaya in Kuala Lumpur\nreported on 12 June that 13 virus strains had been isolated from 15 cases, 8 of which were\nfatal. Six of the 13 isolates were from CSF, three from serum samples and four from rectal\nand/or throat swabs. Preliminary results on nine of the isolates sent to the Centers for\nDisease Control and Prevention, Atlanta, Georgia, USA and to the Department of\nMicrobiology, Queen Mary Hospital, University of Hong Kong confirmed that two were\npositive for enterovirus by RT-PCR, of which one was an isolate from serum of a fatal case.\nFurther identification results will be available soon. The WHO Collaborating Centre in\nKuala Lumpur is working closely with the Institute for Medical Research and the University\nof Malaysia Sarawak in a joint effort to identify the causative virus of this outbreak.\n\nUp to 17 June 1997 the outbreak had caused 26 fatal cases.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:51.790962",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "19 June 1997",
+        "Location": "Japan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "19 June 1997 Disease Outbreak Reported\n\nThe recently publicised finding of a strain of Staphylococcus aureus showing resistance (or\nreduced susceptibility) to vancomycin has caused considerable concern, especially since the\nlow level of the resistance means that such strains may be missed in routine laboratory\nantimicrobial susceptibility tests. Dr Keiichi Hiramatsu of Juntendo University, Tokyo,\nJapan, who described the characteristics of the vancomycin-resistant strain, has provided a\nsummary and a provisional method for detection available on EMC's web site for\nAntimicrobial Resistance. An account of his findings will be published in Journal of\nAntimicrobial Chemotherapy in July 1997.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:53.357252",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "18 June 1997",
+        "Location": "Cuba",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "18 June 1997 Disease Outbreak Reported\n\nOn 16 June 1997, the Ministry of Health officially reported that 826 cases of dengue\n(3 deaths) have occurred in the city of Santiago de Cuba, located in the southernmost part of\nthe island. The affected area is 36.5 sq km with a population of 168,000 and the total area of\nthis city of 465,000 inhabitants is 184 sq km. The infections were first recognized in January\nthis year. Dengue has been confirmed by the \"Pedro Kouri\" Institute of Tropical Medicine, a\nPAHO/WHO Collaborating Centre for the Study of Viral Diseases. This represents the first\nreported cases of dengue in Cuba since 1981 when ca. 350,000 cases and 158 deaths\noccurred. A report with further details will shortly be available.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:54.903767",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "10 June 1997",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "10 June 1997 Disease Outbreak Reported\n\nThe number of deaths in the outbreak of myocarditis increased to 21 on 9 June.\nThree of the 21 deaths occurred in the second half of April, 10 during May and the remaining\n8 occurred in June. Most children had fever for 2-3 days and were admitted to hospital when\ntheir condition deteriorated. The clinical picture indicated viral involvement with coxsackie\nvirus as a possible agent. Coxsackie virus was also suspected in a concurrent outbreak of\nhand, foot, and mouth disease in Sibu. Antibody to coxsackie B virus has been detected in\nspecimens taken from four children who had died of viral myocarditis and three who had\nhand, foot and mouth disease. The laboratory results were from a team of clinical virologists\nand scientists at the Institute for Medical Research, Malaysia. \n\nCoxsackie virus is mainly transmitted by the oral-faecal route and the public has been advised\nto maintain good personal hygiene, hand washing after defaecation and before handling food,\navoid sharing baby pacifiers, avoid overcrowding. Public health measures include increased\ncontrol of flies and cockroaches, and closures of nurseries, playschools, kindergartens and\npublic swimming pools in Kuching and Sibu where most deaths have occurred. Surveillance\nof hand, foot and mouth disease has been established in cooperation with private doctors. All\nhealth facilities and hospitals in the State are on the alert and an observation ward has been\nestablished in Sibu Hospital. A similar facility is planned in Sarawak General Hospital in\nKuching. Active case finding has been instituted among the family members of all the cases\nreported.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:57.669723",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "6 June 1997",
+        "Location": "Malaysia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 June 1997 Disease Outbreak Reported\n\nIn an outbreak of, as yet, undetermined etiology 17 children aged from 5 months\nto 4 years have died in cardiogenic shock due to myocarditis since 14 April. The cases were\nfrom Sibu, Sarikei and Kuching Divisions at the western end of Sarawak with most cases\ncoming from Sibu. The clinical condition as described by the Sarawak Health Department\ncomprises fever of 2-3 days duration, nervous system involvement manifested as seizures\nand unilateral paralysis of one side of the upper limbs, poor systemic perfusion and at the end\nstage cardiogenic shock due to myocarditis with echocardiogram showing decreased\ncontractability of left ventricle. The presence in some cases of pulmonary oedema and/or\nexanthema and lesions of the buccal mucosa and the palms could suggest the diagnosis of\nfoot and mouth disease as a possibility but this awaits laboratory confirmation (coxsackie\nvirus investigations are under way).\n\nA variety of diagnostic specimens, including stools, respiratory swabs and cerebrospinal\nfluid, are being investigated at the University of Malaya and serological specimens at the\nInstitute of Medical Research in Kuala Lumpur. So far tests for Japanese encephalitis, dengue, yellow fever and rickettsia have been negative.\n\nA team of investigators from the Ministry of Health, consisting of paediatricians,\ncardiologists, epidemiologists, virologists and public health officers has been to Sibu to\nstudy the situation, assist in management and to prevent the spread of the infection.\n\nSarawak has a very well developed public health infrastructure. The local health authorities\nand the public have been alerted. Control measures in place emphasize good personal\nhygiene, especially hand washing, and avoidance of sharing baby pacifiers. Active case\nfinding among family members of all cases reported has been instigated.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:18:59.196973",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "5 June 1997",
+        "Location": "Ghana",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "05 June 1997 Disease Outbreak Reported\n\nAn outbreak of human anthrax has been reported from a village in Bolgatanga\nDistrict in the Upper East Region The outbreak began on 18 April and on 19 April district\nhealth services identified 26 active cases and 14 deaths. The outbreak was rapidly brought\nunder control. It appears to have been related to butchering of cattle which had died of\nsudden illness and consumption of meat and other tissues. A total of 185 cases occurred\namong whom 26 died.\n\nWidespread health education in the community about the disease, mode of transmission, risk\nfactors and preventive measures is thought to have been important in the control of the\noutbreak. Health education continues through radio and mobile vans. The District Veterinary\nService has organized mass inoculation of all cattle while slaughter and sale of cattle in the\narea is temporarily banned.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:00.740886",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "4 June 1997",
+        "Location": "Somalia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "04 June 1997 Disease Outbreak Reported\n\nData on the epidemic continue to be received from NGOs and\nthrough the WHO office in Mogadishu. The cumulative number of cases reported is now\n5557 with 247 deaths (CFR 4.4%), but the real number of cases is believed to be higher, since\nmild cases are excluded in the reports from most treatment centres, and in some areas\nlaboratory confirmation has not been possible due to logistical constraints and security\nproblems.\n\nSuspected cholera outbreaks in areas of Middle Shabelle and Galgaduud Regions have been\nreported recently. The epidemic in Mogadishu declined steadily up to mid-May but rose\nagain the following week and it is impossible to forecast the evolution of the outbreak in this\nregion at present. \n\nWHO continued its support to NGOs and local authorities, supplying ORS, Ringers Lactate\nand antibiotics. Water chlorination and health education continue in local communities with\nsupport from UNICEF, \n\nIntensified efforts are still necessary to guarantee sufficient supplies to all NGOs involved\nand to facilitate laboratory confirmation. Continued vigilance is needed, especially in areas\nnot yet affected by this epidemic.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:02.379247",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "22 May 1997",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "22 May 1997 Disease Outbreak Reported\n\nDuring the first four months of 1997 a total of 353 cases of Lassa fever with\n43 deaths (12.2.%) were reported. The number of cases increased from 45 with 7 deaths\n(15.6%) in January to 75 cases and 9 deaths (12.0%) in February, and 147 cases with 20\ndeaths (13.4%) in March but decreased to 86 cases with 7 deaths (8.1%) in April. The\nresumption of civil unrest in Kenema in late April and the brief closure of the Kenema\nhospital may have adversely affected reporting. During 1997, a total of 470 cases with 110\ndeaths (23.4%) were reported. While the majority of cases sought medical care in Kenema\nfour cases were identified in Freetown. Initially, cases seeking medical care in Freetown\nwere transported to Kenema but an isolation ward is now being established in Freetown using\nhealth staff trained at the Lassa fever isolation ward in Kenema to ensure prompt\nmanagement of suspect cases.\n\nThe Ministry of Health and Sanitation together with WHO and MERLIN is planning\nactivities to prevent the spread of the disease and improve management of suspect cases. Key\ndistrict health personnel will be included in a nation-wide training programme on Lassa fever\ncontrol that is planned for later in the year. The Ministry of Health and Sanitation is studying\na plan for rodent control. Treatment with ribavirin was resumed in mid-April with the arrival\nof new supplies of the drug after the stock was depleted in February. Ribavirin will be\ndistributed to other areas where health personnel are familiar with administration of this drug\nfor the treatment of Lassa fever . The Ministry of Health and Sanitation is also establishing a\nnational Lassa fever control programme with a programme manager based in Kenema.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:03.931796",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "20 May 1997",
+        "Location": "Japan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 May 1997 Disease Outbreak Reported\n\nThe 1997 edition of International Travel and Health - Vaccination Requirements and\nHealth Advice is now accessible as hypertext files in English, Spanish and Japanese\nfrom the WHO home page on the World Wide Web. These files have been prepared by the WHO\nCollaborating Centre for Human Resources and Education Technology Development for the\nControl of Tropical Diseases at the Istituto Superiore di Sanita, Rome, Italy (in\nEnglish), the Spanish Ministry of Public Health jointly with WHO, Geneva (in Spanish), and\nby a Non-Governmental Organization, Malaria Network Japan (in Japanese).\n\nThe agencies who kindly offered to make International Travel and Health\navailable in English, Spanish and Japanese on the web are solely responsible for\ntranslation and the web conversion. The printed publication by WHO, including the revised\nmalaria map (published in Weekly Epidemiological Record No. 13, 28 March 1997),\nremains the official version. It can be ordered from Distribution and Sales, World Health\nOrganization, CH-1211 Geneva 27, Switzerland (fax. 41-22-791 4857, e-mail: [email\u00a0protected]) for Sw.fr. 17,00 (US$ 15,30).\nIt is available at a lower price for developing countries.\n\nFor the first time a Japanese translation of the International Travel and Health\nis available. It was published this year by Houken, Tokyo. (ISBN: 4-87954-186-9).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:06.578939",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "9 May 1997",
+        "Location": "Somalia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "09 May 1997 Disease Outbreak Reported\n\nA total of 4437 cholera cases with 146 deaths have been reported since the end of\nNovember 1997 to 7 May 1997 although the real number of cases is believed to be higher\nbecause of the difficulty of data collection. Weekly reports have been made by NGOs\nworking in the country as well as by the local authorities where available.\n\nA total of over 2 000 cases with 74 deaths has been recorded in the epidemic in Mogadishu\nbut it appears that it has now passed its peak, although high levels are still being reported. Intensified efforts are still necessary to guarantee sufficient supplies to all NGOs involved\nand continued vigilance is needed, especially in those areas not yet affected by this epidemic.\n\nWHO is supporting the NGO's and local authorities by providing technical support and\nsupplies.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:08.219975",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "6 May 1997",
+        "Location": "Burundi",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 May 1997 Disease Outbreak Reported\n\nNearly 24,000 cases of louse-borne typhus have been reported since the beginning\nof the year in an outbreak which is the largest to occur in over 50 years. Cases have been\nreported in six provinces but most occurred in the rural part of Bujumbura. New foci have\nbeen detected in Mutambu (Bujumbura Province), particularly in the districts of Karama,\nBurina, Gifugwe, Gasi, Rutovu, Ntabo and Kabezi. During April, 216 new cases were\nreported in a prison in Gitega Province, 890 new cases in Muramvya Province and 137 new\ncases in Bujumbura bringing the total number of cases in 1997 to 23,889.\n\nWHO has joined in teams investigating the foci in Gitega, Muramvya and Bujumbura in\nApril. In Mutambu, the teams developed a case definition for diagnosis and instituted\ntreatment with a single dose of doxycyline. A committee for control of the outbreak in the\nmost affected localities has been established in Mutambu.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:09.859255",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "1 May 1997",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "01 May 1997 Disease Outbreak Reported\n\nLassa fever re-emerged as a public health problem in Kenema in eastern\nSierra Leone during 1997. From January to 19 April 1997, 799 cases with 148 deaths (CFR\n18.5%) were reported. In the endemic Lassa fever situation an annual average of 40-50 cases\nnormally occurred in this region. An elevated number of Lassa fever cases has continued to\noccur in 1997 with 45 cases reported in January, 75 in February and 147 in March. The\nincreased occurrence is closely related to massive population movements with subsequent\ncrowding, poor sanitation, unsafe food handling and storage practices combined with an\nincrease in the rat population. Furthermore, with the improving political and security\nsituation in Sierra Leone, the populace is moving about more freely to access health care\nfacilities resulting in increased case reporting.\n\nThe Ministry of Health, WHO, the Centers for Disease Control and Prevention, USA and\nMERLIN, United Kingdom have worked together to monitor the outbreak and to mitigate its\nimpact. Patients are brought to and treated at an isolation ward established in Kenema which\nhas been expanded to accommodate the increase in cases. Several workshops have been held\nto train health staff and to educate the general public about measures to avoid contact with\nrodents. Supplies of ribavirin, the antiviral drug used to treat Lassa virus infections, were\nnearly depleted. The Red Cross was contacted regarding this need and the Chinese Red Cross\nresponded with a donation of 120,000 doses of the drug to the Government of Sierra Leone. WHO is working with the pharmaceutical industry on a long-term solution..\n\n(Based on a report from WHO representative in Sierra Leone.)\n\nComment: Transmission of the Lassa virus in the community is mainly due to contact with\nrats of the genus Mastomys. Infected rats continually shed viruses in their urine and humans\nare infected by ingestion of food contaminated with rat urine or inhalation of virus-containing aerosols. Minimizing contact with rodents by the safe handling and storage\nof food or restricting access of rats to homes, remains therefore the most effective preventive\nmeasure. Person-to-person transmission occurs primarily in health care institutions caring for\nLassa patients. Nosocomial spread can easily be prevented by managing patients in isolation\nwards and with appropriate protective measures (barrier nursing). The risk of transmission\nduring international travel is low unless the traveller is in contact with a severely ill and\nbleeding case. A recent incident involving a virus which causes a similar clinial syndrome\noccurred in South Africa where a nurse was infected with Ebola virus while caring for a\npatient from an endemic area. This underscores the importance of health care staff awareness\nand use of special precautions when treating patients who have travelled abroad.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:16.514958",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "15 April 1997",
+        "Location": "Somalia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "15 April 1997 Disease Outbreak Reported\n\nOutbreaks of acute diarrhoea and cholera have continued to occur in various parts\nof the country since late 1997. Cholera has been confirmed and continues to be reported in\nMogadishu and Merca and new outbreaks were reported in Lower Shabelle region. The total\nnumber of cholera cases (including suspect cases) reported since the first case on 30\nNovember 1997 is 1535 with 47 deaths.\n\nThe number of cases in Mogadishu North has almost tripled in the last weeks following\nrecent heavy rainfalls, according to the latest report from the WHO country representative. Although the treatment centre there is coping well with the increased cases, medical supplies\nare running short and WHO is trying to purchase these elsewhere. ECHO (European\nCommunity for Humanitarian Action) is also providing support and sending supplies. A\nWHO consultant who was already in Mogadishu to study cholera transmission there and to\nassist in setting up a cholera committee will now extend his stay to help deal with the\nincreasing number of cases there. However, in recently affected rural areas coordination of\ncontrol activities is difficult.\n\nBased on trends of cholera outbreaks in previous years, a decline in numbers is expected in\nthe next six to eight weeks. The remote areas affected will continue to be difficult to reach because of insecurity and logistical constraints. Cholera task forces meet regularly to review\nthe situation.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:18.050185",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "Monkeypox",
+        "Date Reported": "14 April 1997",
+        "Location": "African Region (AFRO)",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "14 April 1997 Disease Outbreak Reported\n\nFollowing reports of ongoing cases of human monkeypox in Zaire representing a new pattern of\nthe disease, the Ministry of Health in Zaire and the World Health Organization (WHO) organized\nan investigation in February 1997. Monkeypox, a disease which closely resembles smallpox,\nis preventable by the vaccination against smallpox.\n\nThe study revealed that this outbreak represents the largest cluster of monkeypox cases ever\nreported, and the proportion of patients that were 15 years of age or older (27%) was higher than\npreviously reported (8%). Young children have been most affected in previous outbreaks. These findings contradict previously accepted findings on the nature of the disease. \n\nStudies over a twenty year period have shown that the rate of transmission of monkeypox within\nhouseholds was low, suggesting that the disease had a low potential for transmission from person\nto person and that an outbreak could not last long after the first patients recovered. However, the\nrecent study has shown that active cases in February 1997 were linked to cases that occurred\nduring the preceding 12 month period. The study also revealed the following:\n\n The rate of transmission from person to person (73%) was higher than previously reported\n(30%). This was associated with the clustering of cases in household compounds and prolonged\nchains of transmission from person to person.\n\n The proportion of deaths (3%) was lower than previously reported (10%). \n\nMonkeypox disease closely resembles ordinary forms of smallpox. The viruses causing the two\ndiseases are related and vaccination against smallpox also protects against monkeypox. The\nemergence of monkeypox does not mean that smallpox, which has been eradicated, is re-emerging. \n\nAll age groups are affected, but children who have not been vaccinated are at the highest risk of\ndeath, about a 10% case fatality rate. Most cases occur in remote villages of Central and West\nAfrica close to tropical rainforests where there is frequent contact with infected animals.\nMonkeypox is usually transmitted to humans from squirrels and primates. \n\nIn the past, an outbreak of monkeypox would not go very far in the village or last long because\nit did not spread extensively after the first patients recovered. However, what concerns WHO\nis that the present study indicates that monkeypox disease is changing its pattern of infection in\nhumans. This outbreak has a much higher rate of person-to-person transmission than seen\nbefore, and spread through many generations of transmission, thus maintaining the outbreak for\nmore than a year.\n\nThe ending of vaccination programmes against smallpox in the late 1970's has probably led to\nan increase in susceptibility to monkeypox and could explain the larger size of the outbreak, the\nhigher proportion of patients aged 15 and over, and the spread through many generations of\ntransmission.\n\nThe changing nature of monkeypox disease is of concern to WHO. In the past, before the\neradication of smallpox in 1980, smallpox vaccination was widespread and protected against\nboth smallpox and monkeypox. Since the eradication of smallpox, vaccination programmes have\nbeen discontinued as recommended by WHO and WHO is concerned that monkeypox could\npose a localized public health problem. WHO will therefore continue to maintain vigilance by\nstrengthening detection systems for monkeypox and completely investigating future outbreaks\nso that the best strategy for prevention and control may be developed. \n\nArticles describing the investigation will simultaneously appear on 11April 1997, in the WHO\nWeekly Epidemiological Record, in the U.S. Centers for Disease Control and Prevention\nMorbidity and Mortality Weekly Report, and in the next edition of Eurosurveillance. In addition\nto WHO the study partners were from: Centers for Disease Control and Prevention, Institut\nnational de Recherche biom\u00e9dicale, Kinshasa; Ecole de Sant\u00e9 publique, Kinshasa; the European\nProgramme for Intervention Epidemiology Training (EPIET), Brussels; and M\u00e9dicins Sans\nFronti\u00e8res.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:19.599625",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "11 April 1997",
+        "Location": "Niger",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 April 1997 Disease Outbreak Reported\n\nAs at 11 April, a total of 41,699 cases of meningitis with 4,498 deaths had been reported in\nAfrica. These were mainly from countries in West Africa where epidemics have continued to\noccur. Burkina Faso with 16,775 cases and 1,953 deaths accounted for 40% of the cases reported\nthis year, Ghana with 13,063 and 1,191 deaths for 31% and Mali with 6,119 cases and 587 deaths\nfor 15%. Cases were also reported in Benin (273 cases, 47 deaths), Gambia (856 cases, 119\ndeaths), Niger (1,813 cases, 208 deaths), Rwanda (10 cases, 4 deaths), Senegal (13 cases, 4\ndeaths), and Togo (2,619 cases, 360 deaths). Gambia, Ghana and Togo were less affected during\nthe 1997 epidemics when Burkina Faso, Mali, Niger and Nigeria reported widespread outbreaks.\nBurkina Faso reported 42,129 cases, Mali 7,254 and Niger 16,145 cases in 1997. Nigeria, which\nreported 77,089 cases in 1997, has not yet reported cases during 1997.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:21.120699",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "28 March 1997",
+        "Location": "Germany",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 March 1997 Disease Outbreak Reported\n\nWHO Consultation, Berlin, Germany, 13-17 October 1997.\n\nThere is increasing concern about the extent to which bacteria pathogenic in humans have\nacquired resistance to antimicrobial drugs. Use of antimicrobial drugs in food animals is known\nas potentially adding to the development of antimicrobial resistance in bacteria of medical\nrelevance. However, the real scope of the medical impact of the use antimicrobials in livestock production is generally unknown.\n\nWHO intends to organize a scientific consultation on the medical impact of use of antimicrobial\ndrugs in food animals in October 1997 in Berlin. The objectives of the consultation are:\n\n\n to review the knowledge of the medical risks regarding antimicrobial resistance in\nbacteria of public health significance associated with the use of different antimicrobial\ndrugs in food animal production\n\n in the context of the development of the WHO Network on Antimicrobial Resistance\nMonitoring to define the needs on monitoring of emergence, mechanisms of\ndevelopment and spread to man of antimicrobial resistance in food and animals at\nnational and international levels\n\n to obtain an international consensus on how to tackle the identified problems.\n\n\n\nWHO will invite about 25 experts in the field of emergence and monitoring of antimicrobial\nresistance, infectious control in community settings as well as on feed additives, food animal\nproduction and veterinary medicine, infectious disease control and antimicrobial resistance\nmonitoring in animal and food production.\n\nDraft scope and purpose of the meeting and a compilation of the major subject areas to be\ndiscussed could be obtained from the below address. Comments would be appreciated until 15\nApril 1997. Dr K. St\u00f6hr, Division of Emerging and Other Communicable Diseases Surveillance\nand Control, World Health Organization, CH-1211 Geneva 27, Switzerland Fax: +41 22\n791 4893, e-mail: [email\u00a0protected], or [email\u00a0protected]",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:22.668716",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "27 March 1997",
+        "Location": "Ghana",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 March 1997 Disease Outbreak Reported\n\nAs at 23 March 1997, a total of 24 798 cases with 2 933 deaths from epidemic meningitis had\nbeen reported in Benin, Burkina Faso, Gambia, Ghana, Mali, Niger, and Togo. The epidemic\nin Burkina Faso accounted for 42% (10,429 cases with 1 318 deaths) and in Ghana for 35%\nwhere the cumulative number of cases more than doubled from 3 757 (411 deaths) on 13 March\nto 8 671 (902 deaths) on 23 March. Most (95%) of the cases in Ghana have been reported in\nUpper East Region (6 364 cases, 497 deaths) and Northern Region (1 867 cases, 281 deaths). Cases have also been detected in Ashanti, Brong Ahafo and Upper West Regions.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:24.160378",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "21 March 1997",
+        "Location": "Togo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 March 1997 Disease Outbreak Reported\n\nThe number of cases have more than doubled since 22 February and was 3,757 with\n411 deaths (CFR 11%) by 13 March. The outbreaks were first reported in Bawku East and\nBolgatanga Districts in the Upper East Region and East Mamprusi District in the Northern\nRegion. They have since spread to several other districts including Bawku West and\nKassena-Nankan Districts in the Upper East Region and Gushegu-Karaga, Tamale, West\nMamprusi and Yendi Districts in the Northern Region. The total population in districts where\nthe weekly attack rate exceeds 5 cases per 100,00 population is 1,771,539 and the population\nunder 30 years of age in these districts is approximately 1,240, 000.\n\nThe Ministry of Health is basing its control strategy on health education, case management and\nvaccination activities. A task force has been created to coordinate reporting and the support to\nthe affected regions. External support has been obtained to purchase vaccine, injection material\nand drugs.\n\nOther countries in west Africa. The number of cases of epidemic meningitis reported in Burkina\nFaso more than doubled during the past month. As at 20 March 10,000 cases had been reported\nof which 1,200 were fatal (CFR 12%). The latest cumulative figures from other countries are:\nChad (28 February): 38 cases, 6 deaths (CFR 16%); Gambia (19 March): 151 cases, 17 deaths\n(CFR 11%); Mali (11 March): 1,549 cases, 160 deaths (CFR 10%) and Togo (19 March),: 2,380\ncases, 329 deaths (CFR 14%);",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:25.730735",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "Monkeypox",
+        "Date Reported": "21 March 1997",
+        "Location": "Democratic Republic of the Congo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "Disease Outbreak ReportedIncreased activity of monkeypox was reported in Katako-Kombe health zone, Sankuru\nsub-region, Kasai Orental during 1997 (see Weekly Epidemiological Record No.43, 25 October\n1997). M\u00e9decins Sans Fronti\u00e8res investigated those cases which could be traced in September\n1997. Samples were obtained from 11 cases all of which were subsequently confirmed as\nmonkeypox by the WHO Collaborating Centre for Smallpox and other Poxvirus Infections at the\nCenters for Disease Control and Prevention (CDC) in Atlanta, USA. Concern about the unusual\nhigh number of cases and the apparent increased transmission between human cases triggered\na multidisciplinary investigation in February 1997. A team was set up composed of national\nexperts, local WHO staff, staff from CDC, Atlanta, USA and Epiet, Paris, France. The report\nof the investigations will be published simultaneously in forthcoming issues of the Weekly\nEpidemiological Record, the Morbidity and Mortality Weekly Report and the Eurosurveillance\nbulletin.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:27.267393",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "21 March 1997",
+        "Location": "Sierra Leone",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 March 1997 Disease Outbreak Reported\n\nLassa fever continues to occur in Kenema District following the outbreak during\n1996. Between November 1996 and 11 March 1997 a total of 239 cases were admitted to\nhospital in Kenema District and 39 (16%) died. Of these cases, 140 with 23 deaths had\noccurred since 1 January 1997. A WHO mission investigated the situation in Kenema District\nfrom 14 to 21 February to redirect control activities, review existing surveillance activities\nidentify future needs and prepare a plan of action. The cooperation of NGOs based in the area\nsuch as MERLIN, UK, have resulted in improved communications for a rapid patient referral.\nClinical care has also improved which has reduced case fatality rate among hospitalized cases. However, ribavirin for treatment of cases is in short supply and WHO is seeking sources for\nadditional supplies.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:28.800687",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "12 March 1997",
+        "Location": "Uganda",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "12 March 1997 Disease Outbreak Reported\n\nIn June 1997, health officials in Rakai district in south western Uganda noticed an\nincreased number of cases of an acute febrile illness with crippling arthritis, skin rash, and\nlymphadenopathies. The disease spread into the neighbouring Mbarara and Masaka districts of\nUganda. No fatal cases were reported. Viruses isolated by the Uganda Virus Research Institute\n(UVRI) were forwarded to the Centers for Disease Control and Prevention in Fort Collins,\nColorado, USA where sequence analysis confirmed ONN virus. One serum sample yielded a\nvirus at CDC, and IgM antibody to ONN was detected in additional samples, indicating recent\ninfection. A joint team from CDC, UVRI, the Ugandan Ministry of Health, the Kenya Medical\nResearch Institute, Makarere University, and WHO conducted an epidemiological survey from\nJanuary to February 1997 and confirmed continuing transmission of ONN fever in south western\nUganda.\n\nAn epidemic of ONN fever was last reported in Uganda during 1959-1962. The epidemic started\nin the northern part of the country and spread south and east into Kenya, Tanzania, and Zambia\naffecting an estimated 2 million people.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:30.345944",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "11 March 1997",
+        "Location": "Colombia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "11 March 1997 Disease Outbreak Reported\n\nDuring 1997 outbreaks of yellow fever caused 30 cases and 21 deaths which occurred\nin endemic zones of three provinces of Cochabamba Department and one province of La Paz\nDepartment. All the cases occurred in rural areas. At the end of the year a further outbreak\noccurred and continued into January and February in Cochabamba Department (12 cases, 10\ndeaths), Beni Department (4 cases, 2 deaths) and Santa Cruz Department (1 case under study).\nSupport for a vaccination campaign was requested and donations of vaccine totalling 180 000\ndoses were received from Brazil, Colombia and Venezuela.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:31.873989",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "6 March 1997",
+        "Location": "Togo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "06 March 1997 Disease Outbreak Reported\n\nFrom November 1997 to 22 February 1997, 1659 cases of cerebrospinal meningitis\nwith 281 deaths (CFR 17%) were reported, most of which (70%) occurred in February 1997. The outbreak started in East Mamprusi district and Bawku East and then spread to four other\ndistricts in Upper West Region. The population at greatest risk is estimated at around 1,7 million\nbut the entire population at risk in the Upper East and Northern Regions is close to 3 million. Reports indicate that the number of cases is increasing rapidly in other districts of the Upper\nEast, Northern, Upper West and Brong Ahafo Regions. The total population exposed in these\nRegions is near 5.5 million. The Ministry of Health has mobilized funds to purchase at least\n3,395,000 doses of vaccines with needles and syringes.\n\nOutbreaks have also been reported in Burkina Faso, Mali, Niger and Togo, continuing the\nepidemic cycle which started in West Africa in 1997. The presence of serogroup A Neisseria\nmeningitidis has been confirmed.\n\nThe appeal launched by WHO, UNICEF, M\u00e9decins sans Fronti\u00e8res and the Federation of Red\nCross and Red Crescent Societies on 7 February resulted in pledges exceeding US$ 3 million for\nthe response to the threat of epidemic meningitis in Africa. The appeal is being relaunched on\n7 March to reach the goal of US$ 6.3 million needed to secure the purchase and distribution of\nvaccine, drugs for treatment and injection material.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:33.436793",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "2 March 1997",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "02 March 1997 Disease Outbreak Reported\n\nNo further cases of Ebola haemorrhagic fever were detected during the\n42 days of intensive surveillance and monitoring of contacts since the last patient died on 18\nJanuary 1997.\n\nAs this represents more than twice the maximum incubation period of the disease, the Gabonese\nhealth authorities have now declared the outbreak over. A total of 60 cases and 45 deaths (CFR\n75%) were recorded between 13 July 1996 when the first fatal case occurred and 18 January\n1997.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:35.046430",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "28 February 1997",
+        "Location": "Cook Islands",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 February 1997 Disease Outbreak Reported\n\nThe weekly number of dengue fever cases has increased steadily on the island\nof Rarotonga since the beginning of January 1997. Up to 15 February 1997, 123 cases had been\nconfirmed of which 39 had been hospitalized - none of them severely ill. Only dengue virus type\n2 has been isolated in this outbreak. WHO has sent an expert to assess current control measures.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:36.540046",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "28 February 1997",
+        "Location": "Japan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 February 1997 Disease Outbreak Reported\n\nOn 13 February WHO was informed of a new outbreak of typhoid fever in\nTadjikistan. It is estimated that at least 3,000 cases have occurred in the capital city Dushanb\u00e9.\nOther reports indicate this to be a low estimate and that the disease has also spread outside the\ncapital. Case fatality rates have been recorded as around 1%. Salmonella typhi has been\nconfirmed by local and international laboratories. While the results of antibiotic sensitivity tests\nhave been contradictory, in view of the current low case fatality rates WHO recommends the\ncontinued use of chloramphenicol and co-trimoxazole pending further investigations. Those who\ndo not respond and high-risk groups (infants and the elderly) should be given ciprofloxacin.\nWeekly specimens should be examined to monitor antibiotic resistance patterns.\n\nIn response to a WHO appeal launched on 21 February, Sweden has committed Sw.Kr. 500,000,\nand other countries (Denmark, Italy and Japan) have also expressed interest. The funds will be\nused for laboratory kits and the proposed second line antibiotics to supplement the supply of\nchloramphenicol provided by other agencies. As soon as current security restrictions are lifted,\nan expert from the WHO Office for the European Region will be made available to the\nGovernment of Tadjikistan to help coordinate the technical expertise and supply of drugs and\nequipment in close collaboration with the agencies in place (IFRC, MSF, Pharmaciens sans\nfronti\u00e8res, etc.).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:38.113506",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "28 February 1997",
+        "Location": "Spain",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "28 February 1997 Disease Outbreak Reported\n\nThe health authorities have reported that the incidence of meningococcal meningitis has\nincreased slightly since 1994 compared with a steady decline observed since the early 1980s with\na peak incidence rate of about 18 cases per 100,000 population. The number of cases reached\n963 in 1995 corresponding to 2.45 per 100,000 population and 1,383 cases in 1997\ncorresponding to 3.52 per 100,000 population. Serogroup B meningococci has predominated\nin the past but recently the Microbiological Information System and the Reference Laboratory\nfor Meningococci have observed predominantly serogroup C. This change in serogroup was the\nreason for the vaccination campaigns in Galicia, La Rioja and Cantabria. The Directorate of\nPublic Health has increased the laboratory-based surveillance of meningococcal meningitis and\nrecommends chemotherapy and immunization of contacts of serogroup C confirmed cases.\n\nWHO comment: The situation described in the report by the Spanish health authorities does not\nimply a need for travellers to Spain to be immunized against meningococcal meningitis.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:39.653046",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "20 February 1997",
+        "Location": "Japan",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "20 February 1997 Disease Outbreak Reported\n\nThe composition for the influenza vaccine for the 1997- 1998 season was announced at a meeting\nof international experts that was held at the World Health Organization (WHO) headquarters in\nGeneva on 19 February. The three components to be included are: an A/Wuhan/359/95(H3N2)-like strain, an A/Bayern/7/95(H1N1)-like strain and a B/Beijing/184/93-like strain. In this\ncomposition the H1N1 component has been changed since last year.\n\nDuring the 1997-1997 season several countries in the Northern Hemisphere reported moderate\nto severe influenza epidemics. Influenza activity in several countries in western Europe and in\nNorth America reached a peak during December 1997 or January 1997 whereas in central and\neastern Europe activity increased around mid-January. Influenza A viruses were isolated\nworldwide and were almost exclusively of the influenza A(H3N2) subtype. However, most\nisolates from Asia were influenza B, although in Japan influenza A(H3N2) was most prevalent. In North America and parts of Europe, influenza B was frequently reported either along with, or\nfollowing influenza A activity. A few laboratory confirmed cases of influenza A(H1N1) have\nbeen reported since October 1997. Further information is presented in Weekly Epidemiological\nRecord No. 9 published on 28 February.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:41.161435",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "7 February 1997",
+        "Location": "Togo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 February 1997 Disease Outbreak Reported\n\nIn the outbreak of meningitis which started in November 1997, 1,235 cases with 151\ndeaths (CFR 60.4%) had occurred up to 3 February.\n\nOn 7 February, an interagency appeal was issued to raise over US$ 6 million needed to respond\nto the threat of epidemic meningitis in countries at risk in the African continent. The agencies\nbehind the appeal are WHO, UNICEF, M\u00e9decins Sans Fronti\u00e8res, and the Federation of the Red\nCross and Red Crescent Societies. The appeal is to establish a fund that will ensure the purchase\nand distribution of vaccine, antibiotics and autodestructible injection material for treatment\nduring the 1997 meningitis season in Africa (see also Press Release WHO/11 of 5 February). WHO has advanced US$ 1 million to ensure the availability of vaccine pending the outcome of\nthe Appeal.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:47.744808",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "7 February 1997",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "07 February 1997 Disease Outbreak Reported\n\nNo further cases of Ebola haemorrhagic fever have been reported since the last death\nwhich occurred in Libreville on 18 January. The total number of cases since the outbreak started\nin late August 1997 is 61 of which 45 were fatal. About 20 contacts, all in Libreville, are still\nbeing followed up.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:49.282781",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "31 January 1997",
+        "Location": "Burkina Faso",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "31 January 1997 Disease Outbreak Reported\n\nTogo. As at 30 January 1997 a total of 961 cases with 143 deaths (CFR 14,4%) had been\nreported in the outbreak which started in November 1997. A team including an epidemiologist\nfrom the WHO Office for the African Region is investigating the outbreak to assess the\nepidemiology of the oubreak and speed up laboratory confirmation. The work of this team will\nbe further supported by technical experts and materials from MSF and AMP arriving this\nweekend. To ensure the the continuation of the vaccination campaign started by the Ministry\nof Health, WHO is sending an additional 100,000 doses of vaccine and injection material.\n\nBurkina Faso. As at 28 January, 461 cases with 64 deaths (CFR 13.9%) have been reported. Vaccine is available to start a vaccination campaign. Last year a large epidemic of\nmeningococcal meningitis occurred in Burkina Faso with over 42 000 cases reported.\n\nOther countries having reported cases of meningitis are Ghana (181 cases, 17 deaths, CFR 9.4%)\nand Mali (180 cases, 26 deaths, CFR 14.4%).",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:50.798598",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "31 January 1997",
+        "Location": "Zambia",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "31 January 1997 Disease Outbreak Reported\n\nBetween 13 December 1997 and 27 January 1997, 90 cases of plague with 22 deaths\nwere reported in Namwala District in the Southern Province. Fifteen cases have been isolated.\nThe diagnosis is at present based on clinical presentation and laboratory diagnosis is expected\nimminently when a medical team returns from the area. The outbreak could be linked heavy rain\nand flooding causing rats to invade inhabited areas. Fleas are also abundant. The first human\ncases presented with inguinal, axillary and cervical abscesses in December and deaths began to\noccur in early January. Control measures now include control of fleas and rodents and treating\nand isolating patients. \n\nComment: Plague is endemic in many countries in southern Africa where natural foci still exist,\nsuch as in neighbouring Angola, Malawi,Mozambique, Tanzania and Zimbabwe but also in\nMadagascar, Namibia and South Africa. The cases reported in Zambia are bubonic plague\nwhich is not an airborne infection as the pulmonary form of plague. There are no restrictions for\ntravellers visiting Zambia or in transit in airports in the country.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:52.338672",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "27 January 1997",
+        "Location": "Togo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "27 January 1997 Disease Outbreak Reported\n\nAs of 27 January the total number of cases reported in the outbreak which started in\nNovember 1997 was 739 with 121 deaths (CFR 16.3%) - an increase of 217 cases and 24 deaths\nsince 16 January. Most cases occurred in the town of Dapaong, Savanes District in northern\nTogo. The population of Dapaong is 206,000, and that of the whole of Savanes District 300,000.\nWHO has begun procurement and provision of vaccine, oily chloramphenicol and injection\nmaterial.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:53.887923",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "24 January 1997",
+        "Location": "Togo",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "24 January 1997 Disease Outbreak Reported\n\nFrom November 1997 up to 17 January 1997, an outbreak of meningitis caused 522 cases\nwith 97 deaths. Meningococcal meningitis is suspected but laboratory investigations are not yet\ncompleted. The Ministry of Health has requested 300 000 doses of meningococcal meningitis\nvaccine A/C and 10,000 doses of oily chloramphenicol in addition to injection material to control\nthe epidemic.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:55.425486",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "21 January 1997",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "21 January 1997 Disease Outbreak Reported\n\nAs at 20 January 1997, a total of 60 cases of Ebola haemorrhagic fever with 45 deaths\nhad been reported in the outbreak which started at the end of July 1997. The last death was a 17-month-old child who was a member of the family known to have been contacts of a previous case\nin Boou\u00e9 area. The child developed fever on 15 January and died on 18 January. His\ngrandmother who was caring for him has been hospitalised in Libreville for close monitoring but\nremains asymptomatic. As of this date, 15 cases had recovered from illness. Forty-seven\ncontacts were still being followed up in Libreville while all contacts in Boou\u00e9 had been removed\nfrom surveillance.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:57.061602",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "17 January 1997",
+        "Location": "Burundi",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 January 1997 Disease Outbreak Reported\n\n\n\nThe recent Cholera outbreak which occurred in Rumonge, in the south of the country\nbordering Lake Tanganyika, is continuing and up to 13 January a total of 482 cases with 21\ndeaths have been reported. The breakdown of water supplies after the affected village was the\ntarget of an armed group, continuing poor hygiene practices and an increase in the number of\ndisplaced persons in the area have all contributed to this outbreak.\n\nA national cholera control committee has been established with the support of WHO and other\nagencies. A plan of action which puts emphasis on improved case management, surveillance and\nprevention of the spread of the disease has been prepared together with a request by the\ngovernment to WHO for acute basic needs.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:19:58.803493",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "17 January 1997",
+        "Location": "France",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "17 January 1997 Disease Outbreak Reported\n\nThe Ministry of Health of France has notified PAHO of a measles outbreak in\nGuadeloupe. As of 15 January 1997, a total of 12 laboratory confirmed cases have been reported. Most cases have occurred among unvaccinated adolescents in the city of St. Fran\u00e7ois, located\napproximately 20 km from Pointe-\u00e0-Pitre. Serological confirmation of measles infection has\nbeen performed at the Pasteur Institute in Guadeloupe and at the measles laboratory of the\nCenters for Disease Control and Prevention in Atlanta. The first reported measles case had rash\nonset in mid-October 1997 and the most recent case had rash onset on 14 January 1997. The\nsource of the outbreak is unknown. Outbreak response activities include heightened measles\nsurveillance and the identification and vaccination of previously unvaccinated children and\nadolescents. PAHO recommends that all countries in the Caribbean enhance their surveillance\nefforts in order to rapidly detect measles importations. If suspected measles cases are detected, CAREC (Caribbean Epidemiology Centre) should be notified immediately.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:20:00.298195",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "16 January 1997",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "16 January 1997 Disease Outbreak Reported\n\nAs of 15 January 1997, 59 cases, including 44 deaths and 15 cases who have\nrecovered, have occurred since the beginning of the Ebola outbreak in late July 1997 in the\nBoou\u00e9 area. There is no hospitalized case either in Boou\u00e9 or Libreville. The last case died on\n8 January 1997.\n\nLibreville: 14 cases, including 10 deaths. Forty-eight contacts within the city are still being\nfollowed up. The geographic distribution of the contacts were the areas of Okala, Owendo,\nNzeng-Ayong, Gros Bouquet, Plaine Orety, Casepga and Melen hospital (5 healthy contacts,\nincluding 3 children admitted for closer follow up).\n\nBoou\u00e9 area, including Makokou: 44 cases, including 33 deaths. Currently 54 contacts are being\nfollowed up in Makokou, Boou\u00e9, Lolo I, Lolo II, Djidji, SHM sawmill, Lassio, Ndjole and\nMatora. \n\nLambarene: 1 case who died. Four contacts are currently being followed up.\n\nAll contact subjects under follow-up are visited daily for temperature checks. Three quarters of\nthem will be discharged from follow-up early next week as their follow-up period will have\nreached the maximum incubation period (i.e. 21 days). The epidemiological situation remains\nstable with no evidence of transmission in Libreville other than the episode which involved a\nGabonese physician who flew to South Africa last October. Next week, the team of M\u00e9decins\nsans Fronti\u00e8res (MSF) currently in Libreville will visit the Boou\u00e9 area. WHO Headquarters\nremains in daily contact with the Ministry of Health of Gabon and is also regularly kept informed\nof the situation through other channels including the French Cooperation in Libreville, MSF, and\nthe Gabonese Red Cross.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:20:01.905849",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "9 January 1997",
+        "Location": "Burundi",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "09 January 1997 Disease Outbreak Reported\n\nAn outbreak of cholera with 153 cases and 10 deaths has been reported in Rumonge\nProvince in the south of the country. WHO is collaborating closely with the Ministry of Health\nto assist in the control of the outbreak.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:20:04.221092",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "8 January 1997",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "09 January 1997 Disease Outbreak Reported\n\nThe latest report from Gabon informs that a total of 58 cases with 43 deaths had\noccurred in the outbreak up to 8 January. The last fatal case occurred on 8 January. One patient\nis still hospitalized and 14 have recovered.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:20:05.766171",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "8 January 1997",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "08 January 1997 Disease Outbreak Reported\n\nA summary of the outbreak in Gabon\n\nThe current outbreak in Gabon started on 13 July 1997 with the death of a 39-year-old hunter in\na logging camp between the city of Ovan and Koumameyong, near Boou\u00e9, Ogoou\u00e9-Ivindo\nProvince. The second case, a close friend of the hunter became ill and died in August, and the\nthird and four deaths were in a traditional healer and his assistant who treated him. They occurred\nlate in September and blood specimens from them were confirmed Ebola positive on 4 October\nby the Centre International de Recherche de Franceville (CIRMF), Gabon. The outbreak was\nbrought under control and by 13 November 1997, it numbered 24 cases (clinical and\nepidemiological case definition from Kikwit) including 17 deaths and only one known contact\nstill requiring surveillance. However, on 27 October, a doctor infected in Libreville by a case\nlinked to the Boou\u00e9 outbreak, went to South Africa for treatment after having developed\nsymptoms. He subsequently infected a nurse in Johannesburg. The nurse become ill on\nNovember 2 and died on 24 November.\n\nOn 26 November, a previously unidentified contact in Gabon died in the village of Djidjii, near\nBoou\u00e9, and his burial was attended by his brother and his family from Libreville. His brother\ncame back to Libreville with his three children as well as the children of the deceased. All were\nregularly followed up and 3 developed symptoms of Ebola infection and died in a Libreville\nhospital. One of them who became ill on 21 December and died on 30 December, is the last\nrecorded case. As of date 8 January 1997, the outbreak, ongoing since July 1997, has caused 54\ncases including 41 deaths, three hospitalised cases and 10 who have recocered. There has been no documented secondary transmission in Libreville other than that of the doctor who flew to\nSouth Africa. A total of 167 contacts are still under daily surveillance. All known contacts have\nbeen located and are followed up daily. It is possible that few of them may have been infected\nand will therefore develop disease.\n\nInternational travel: WHO does not recommend any travel restriction either to or from Gabon\nor any other Ebola endemic country. However, it is recommended for all travellers going to an\nEbola endemic area, with the specific intention to provide health care or perform laboratory tests\nfrom human or animal specimens, that they be aware of the risk of infection from Ebola and\nother pathogens and adhere strictly to good hygiene and biosafety practices. Travellers arriving\nfrom an Ebola endemic area who have been in physical contact with a case should inform the\nhealth authority immediately on their arrival to ensure daily temperature check up for a period\nof three weeks.\n\n There is no epidemiological evidence that persons infected but asymptomatic are\ninfectious to others. Only symptomatic persons (e.g. contact subject with fever) should be\nconsidered as suspect cases and, consequently, potentially infectious. Since severely ill patients excreting abundant body fluids are not likely to travel, the risk to travellers of becoming infected\nby the Ebola virus during travel is considered negligible. However, the risk of health care\nproviders becoming infected through close physical contact with an Ebola patient should be\nconsidered, even if statistically low. This is particularly important for health workers in areas\nreceiving a significant number of passengers from Ebola endemic areas. For individuals entering\nthe country from an infected area, a simple information leaflet can be used to inform arriving\ntravellers of the need to report any febrile illness occurring up to 21 days after arrival. A\nquestionnaire may be proposed to help tracing if necessary. Such procedures are at the discretion\nof governments and are not required under the International Health Regulations.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "2024-03-08 22:20:07.276524",
+        "duration": 0,
+        "duration_unit": "day",
+        "timezone": "GMT+11"
+      },
+      "event_type": "disease outbreak",
+      "attribute": {
+        "Outbreak name": "1997",
+        "Date Reported": "2 January 1997",
+        "Location": "Gabon",
+        "Sitation at a Glance": "",
+        "Description of the Situation": "02 January 1997 Disease Outbreak Reported\n\nFifty-two cases of Ebola haemorrhagic fever have been detected through active\nsurveillance and contact tracing in the outbreak which was declared on 10 October. Of these 52\ncases, 40 have died. The last death occurred in Melen hospital in Libreville on 30 December\n1997 and was the last identified case which had onset of illness on 21 December. On 2 January\n1997, three patients were still in hospital care in Boou\u00e9 (none in Libreville) and nine were\nconvalescing. Surveillance and monitoring of contacts included 92 persons in Boou\u00e9 and 93 in\nLibreville.",
+        "Epidemiology": "",
+        "Public Health Response": "",
+        "WHO Risk Assessment": "",
+        "WHO Advice": "",
+        "Further Information": ""
+      }
+    }
+  ]
+}
