@@ -1,8 +1,6 @@
-## Overview
-
-### Real-time disease outbreak data aggregation microservice (AWS Lambda)
+## Real-time disease outbreak data aggregation microservice (AWS Lambda)
 In response to the increasing need for accurate, high quality data related to worldwide disease outbreaks, our team SymptomSurge aims to devise a system which builds custom datasets for our target audience. Our system will enable collection, retrieval and reporting of data from trusted sources. Our target audience are health organizations and departments, as well as scientific/medical research institutions. Our comprehensive datasets will be tailored to suit the needs of our customers, enabling them to make informed and accurate decisions and strategies.
 Our software aggregates data from trusted resources to provide real-time insights into the emergence and spread of diseases. This will help identify outbreak hotspots, in hopes that the software can estimate trends in disease outbreaks, enabling efficient allocation of medical resources to areas most in need and reducing incidence rates.
 
-### React frontend
-provide travellers with real-time updates on disease outbreaks, health risks, and preventive measures
+## React frontend
+SymptomSurge is equipped with a variety of features designed to provide a comprehensive and user-friendly experience for managing and predicting disease outbreaks. The interactive dashboard offers an overview of key metrics and data visualizations, allowing users to quickly grasp the current state of outbreaks. Detailed outbreak information is readily accessible, providing in-depth data and statistics about specific diseases. Post-travel recommendations help users stay informed about potential health risks and preventive measures after traveling. The application ensures secure user authentication to protect sensitive data and maintain privacy. With a responsive design, SymptomSurge is accessible and usable across various devices, ensuring a seamless experience for all users. Additionally, the application includes robust error handling and feedback mechanisms, enhancing usability and user satisfaction.
