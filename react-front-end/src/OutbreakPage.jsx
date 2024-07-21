@@ -122,7 +122,7 @@ function Outbreak({ country, setCountryFunction }) {
   const retrieveOutbreak = async () => {
     try {
       // Post Request
-      const url = `https://q5n3v2ceb2.execute-api.ap-southeast-2.amazonaws.com/default/countryLatestFive?Country=${country}`;
+      const url = `https://q5n3v2ceb2.execute-api.ap-southeast-2.amazonaws.com/default/disease_frequency_calculator?Country=${country}`;
       const response = await Axios.get(url);
       // Handle response {200}
       console.log(response.data);
@@ -495,7 +495,7 @@ function Outbreak({ country, setCountryFunction }) {
               variant="h5"
               sx={{ alignSelf: "center", width: { sm: "100%", md: "80%" } }}
             >
-             How does {country} compare?
+              How does {country} compare?
             </Typography>
             <FrequencyGraph country={country}></FrequencyGraph>
             <Typography
@@ -504,7 +504,7 @@ function Outbreak({ country, setCountryFunction }) {
               variant="h5"
               sx={{ alignSelf: "center", width: { sm: "100%", md: "80%" } }}
             >
-             Travel Tips for {country}
+              Travel Tips for {country}
             </Typography>
             <Helplines country={country}></Helplines>
             <TripAdvisor country={country}></TripAdvisor>

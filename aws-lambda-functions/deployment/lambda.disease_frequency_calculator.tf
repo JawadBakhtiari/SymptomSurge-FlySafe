@@ -4,30 +4,30 @@
 
 # Tells Terraform to run build.sh when any of these file below changed
 # - path.module is the location of this .tf file
-resource "null_resource" "build_countryLatestFive" {
+resource "null_resource" "build_disease_frequency_calculator" {
   triggers = {
     always_run = "${timestamp()}"
   }
 
   provisioner "local-exec" {
-    command = "bash ${path.module}/../code/countryLatestFive/build.sh"
+    command = "bash ${path.module}/../code/disease_frequency_calculator/build.sh"
   }
 }
 
 
 # Tells Terraform to compress your source code with dependencies
-data "archive_file" "countryLatestFive" {
+data "archive_file" "disease_frequency_calculator" {
   type        = "zip"
-  output_path = "${path.module}/../code/countryLatestFive.zip" # TODO: change here
-  source_dir  = "${path.module}/../code/countryLatestFive"     # TODO: change here
+  output_path = "${path.module}/../code/disease_frequency_calculator.zip" # TODO: change here
+  source_dir  = "${path.module}/../code/disease_frequency_calculator"     # TODO: change here
 
   depends_on = [
-    null_resource.build_countryLatestFive # TODO: change here
+    null_resource.build_disease_frequency_calculator # TODO: change here
   ]
 }
 
 # Tells Terraform to create an AWS lambda function
-# - Filename here corresponds to the output_path in archive_file.countryLatestFive.
+# - Filename here corresponds to the output_path in archive_file.disease_frequency_calculator.
 # - Pipeline will inject the content of .GROUP_NAME to be var.group_name, you
 #     should use it as a prefix in your function_name to prevent conflictions.
 # - Use terraform.workspace to distinguish functions in different stages. It'll
@@ -35,14 +35,14 @@ data "archive_file" "countryLatestFive" {
 # - You should set source_code_hash so that after your code changed, Terraform
 #     can redeploy your function.
 # - You can inject environment variables to your lambda function
-resource "aws_lambda_function" "countryLatestFive" {
-  filename      = data.archive_file.countryLatestFive.output_path
-  function_name = "${var.group_name}_${terraform.workspace}_countryLatestFive" # TODO: change here
+resource "aws_lambda_function" "disease_frequency_calculator" {
+  filename      = data.archive_file.disease_frequency_calculator.output_path
+  function_name = "${var.group_name}_${terraform.workspace}_disease_frequency_calculator" # TODO: change here
   handler       = "handler.handler"
   runtime       = "python3.9" # TODO: change here
 
   role             = aws_iam_role.iam_for_lambda.arn
-  source_code_hash = data.archive_file.countryLatestFive.output_base64sha256 # TODO: change here
+  source_code_hash = data.archive_file.disease_frequency_calculator.output_base64sha256 # TODO: change here
 
   environment {
     variables = {
@@ -57,13 +57,13 @@ resource "aws_lambda_function" "countryLatestFive" {
 
 # Allows your function to be invoked by the gateway.
 # - The last part of the source_arn should be consistent with your route key.
-resource "aws_lambda_permission" "countryLatestFive" {
+resource "aws_lambda_permission" "disease_frequency_calculator" {
   statement_id  = "AllowAPIGatewayInvoke"
   action        = "lambda:InvokeFunction"
-  function_name = aws_lambda_function.countryLatestFive.function_name # TODO: change here
+  function_name = aws_lambda_function.disease_frequency_calculator.function_name # TODO: change here
   principal     = "apigateway.amazonaws.com"
 
-  source_arn = "${data.aws_apigatewayv2_api.api_gateway_global.execution_arn}/${terraform.workspace}/${var.group_name}/countryLatestFive" # TODO: change here
+  source_arn = "${data.aws_apigatewayv2_api.api_gateway_global.execution_arn}/${terraform.workspace}/${var.group_name}/disease_frequency_calculator" # TODO: change here
 }
 
 # This bridges the route on the gateway and your function(or other resources).
@@ -73,11 +73,11 @@ resource "aws_lambda_permission" "countryLatestFive" {
 #     should be POST for lambda function.
 # - You can optionally rewrite parameters if you want part of your route key to
 #     be passed into the function. E.g. /pets/{param} => /pets/*?param={param}
-resource "aws_apigatewayv2_integration" "countryLatestFive" {
+resource "aws_apigatewayv2_integration" "disease_frequency_calculator" {
   api_id           = var.gateway_api_id
   integration_type = "AWS_PROXY"
 
-  integration_uri    = aws_lambda_function.countryLatestFive.invoke_arn # TODO: change here
+  integration_uri    = aws_lambda_function.disease_frequency_calculator.invoke_arn # TODO: change here
   integration_method = "POST"
 
   # request_parameters = {
@@ -92,11 +92,11 @@ resource "aws_apigatewayv2_integration" "countryLatestFive" {
 # - You may add parameter in the path. e.g. GET /${var.group_name}/{param}
 #     If so, you should define it in integrations as well. See the example
 #     above in the integration.
-resource "aws_apigatewayv2_route" "countryLatestFive" {
+resource "aws_apigatewayv2_route" "disease_frequency_calculator" {
   api_id    = var.gateway_api_id
-  route_key = "GET /${var.group_name}/countryLatestFive" # TODO: change here
+  route_key = "GET /${var.group_name}/disease_frequency_calculator" # TODO: change here
 
-  target = "integrations/${aws_apigatewayv2_integration.countryLatestFive.id}" # TODO: change here
+  target = "integrations/${aws_apigatewayv2_integration.disease_frequency_calculator.id}" # TODO: change here
 
   # If you want your route to be protected. A global authorizer using JWT has
   #   been integrated to the gateway. Just uncomment the following secion.
@@ -106,8 +106,8 @@ resource "aws_apigatewayv2_route" "countryLatestFive" {
 }
 
 # Including this resource will keep a log as your function being called
-resource "aws_cloudwatch_log_group" "countryLatestFive_log" {
-  name              = "/aws/lambda/${aws_lambda_function.countryLatestFive.function_name}" # TODO: change here
+resource "aws_cloudwatch_log_group" "disease_frequency_calculator_log" {
+  name              = "/aws/lambda/${aws_lambda_function.disease_frequency_calculator.function_name}" # TODO: change here
   retention_in_days = 7
   lifecycle {
     prevent_destroy = false

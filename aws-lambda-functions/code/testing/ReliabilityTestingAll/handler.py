@@ -36,7 +36,7 @@ symptom_surge_endpoints = {
         "method": "GET"
     },
     "Find Disease Affected Countries": {
-        "url": 'https://q5n3v2ceb2.execute-api.ap-southeast-2.amazonaws.com/default/findDiseaseaffectedCountries',
+        "url": 'https://q5n3v2ceb2.execute-api.ap-southeast-2.amazonaws.com/default/retrieve_disease_outbreaks',
         "parameters":{
             "queryStringParameters": {
             "Disease": "Influenza"

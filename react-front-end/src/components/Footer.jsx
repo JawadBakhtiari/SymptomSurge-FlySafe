@@ -48,7 +48,7 @@ export default function Footer() {
 
   const handleSubmit = async () => {
     try {
-      // const url = `https://q5n3v2ceb2.execute-api.ap-southeast-2.amazonaws.com/default/countryLatestFive?Country=${subscribeCountry}`; // Jai URL
+      // const url = `https://q5n3v2ceb2.execute-api.ap-southeast-2.amazonaws.com/default/disease_frequency_calculator?Country=${subscribeCountry}`; // Jai URL
       const url = `https://q5n3v2ceb2.execute-api.ap-southeast-2.amazonaws.com/default/SendEmail?Country=${subscribeCountry}&Email=${email}`;
 
       const response = await Axios.get(url);

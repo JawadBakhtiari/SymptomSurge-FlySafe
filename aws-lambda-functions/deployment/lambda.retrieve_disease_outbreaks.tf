@@ -4,30 +4,30 @@
 
 # Tells Terraform to run build.sh when any of these file below changed
 # - path.module is the location of this .tf file
-resource "null_resource" "build_findDiseaseAffectedCountries" {
+resource "null_resource" "build_retrieve_disease_outbreaks" {
   triggers = {
     always_run = "${timestamp()}"
   }
 
   provisioner "local-exec" {
-    command = "bash ${path.module}/../code/findDiseaseAffectedCountries/build.sh"
+    command = "bash ${path.module}/../code/retrieve_disease_outbreaks/build.sh"
   }
 }
 
 
 # Tells Terraform to compress your source code with dependencies
-data "archive_file" "findDiseaseAffectedCountries" {
+data "archive_file" "retrieve_disease_outbreaks" {
   type        = "zip"
-  output_path = "${path.module}/../code/findDiseaseAffectedCountries.zip" # TODO: change here
-  source_dir  = "${path.module}/../code/findDiseaseAffectedCountries"     # TODO: change here
+  output_path = "${path.module}/../code/retrieve_disease_outbreaks.zip" # TODO: change here
+  source_dir  = "${path.module}/../code/retrieve_disease_outbreaks"     # TODO: change here
 
   depends_on = [
-    null_resource.build_findDiseaseAffectedCountries # TODO: change here
+    null_resource.build_retrieve_disease_outbreaks # TODO: change here
   ]
 }
 
 # Tells Terraform to create an AWS lambda function
-# - Filename here corresponds to the output_path in archive_file.findDiseaseAffectedCountries.
+# - Filename here corresponds to the output_path in archive_file.retrieve_disease_outbreaks.
 # - Pipeline will inject the content of .GROUP_NAME to be var.group_name, you
 #     should use it as a prefix in your function_name to prevent conflictions.
 # - Use terraform.workspace to distinguish functions in different stages. It'll
@@ -35,14 +35,14 @@ data "archive_file" "findDiseaseAffectedCountries" {
 # - You should set source_code_hash so that after your code changed, Terraform
 #     can redeploy your function.
 # - You can inject environment variables to your lambda function
-resource "aws_lambda_function" "findDiseaseAffectedCountries" {
-  filename      = data.archive_file.findDiseaseAffectedCountries.output_path
-  function_name = "${var.group_name}_${terraform.workspace}_findDiseaseAffectedCountries" # TODO: change here
+resource "aws_lambda_function" "retrieve_disease_outbreaks" {
+  filename      = data.archive_file.retrieve_disease_outbreaks.output_path
+  function_name = "${var.group_name}_${terraform.workspace}_retrieve_disease_outbreaks" # TODO: change here
   handler       = "handler.handler"
   runtime       = "python3.9" # TODO: change here
 
   role             = aws_iam_role.iam_for_lambda.arn
-  source_code_hash = data.archive_file.findDiseaseAffectedCountries.output_base64sha256 # TODO: change here
+  source_code_hash = data.archive_file.retrieve_disease_outbreaks.output_base64sha256 # TODO: change here
 
   environment {
     variables = {
@@ -57,13 +57,13 @@ resource "aws_lambda_function" "findDiseaseAffectedCountries" {
 
 # Allows your function to be invoked by the gateway.
 # - The last part of the source_arn should be consistent with your route key.
-resource "aws_lambda_permission" "findDiseaseAffectedCountries" {
+resource "aws_lambda_permission" "retrieve_disease_outbreaks" {
   statement_id  = "AllowAPIGatewayInvoke"
   action        = "lambda:InvokeFunction"
-  function_name = aws_lambda_function.findDiseaseAffectedCountries.function_name # TODO: change here
+  function_name = aws_lambda_function.retrieve_disease_outbreaks.function_name # TODO: change here
   principal     = "apigateway.amazonaws.com"
 
-  source_arn = "${data.aws_apigatewayv2_api.api_gateway_global.execution_arn}/${terraform.workspace}/${var.group_name}/findDiseaseAffectedCountries" # TODO: change here
+  source_arn = "${data.aws_apigatewayv2_api.api_gateway_global.execution_arn}/${terraform.workspace}/${var.group_name}/retrieve_disease_outbreaks" # TODO: change here
 }
 
 # This bridges the route on the gateway and your function(or other resources).
@@ -73,11 +73,11 @@ resource "aws_lambda_permission" "findDiseaseAffectedCountries" {
 #     should be POST for lambda function.
 # - You can optionally rewrite parameters if you want part of your route key to
 #     be passed into the function. E.g. /pets/{param} => /pets/*?param={param}
-resource "aws_apigatewayv2_integration" "findDiseaseAffectedCountries" {
+resource "aws_apigatewayv2_integration" "retrieve_disease_outbreaks" {
   api_id           = var.gateway_api_id
   integration_type = "AWS_PROXY"
 
-  integration_uri    = aws_lambda_function.findDiseaseAffectedCountries.invoke_arn # TODO: change here
+  integration_uri    = aws_lambda_function.retrieve_disease_outbreaks.invoke_arn # TODO: change here
   integration_method = "POST"
 
   # request_parameters = {
@@ -92,11 +92,11 @@ resource "aws_apigatewayv2_integration" "findDiseaseAffectedCountries" {
 # - You may add parameter in the path. e.g. GET /${var.group_name}/{param}
 #     If so, you should define it in integrations as well. See the example
 #     above in the integration.
-resource "aws_apigatewayv2_route" "findDiseaseAffectedCountries" {
+resource "aws_apigatewayv2_route" "retrieve_disease_outbreaks" {
   api_id    = var.gateway_api_id
-  route_key = "GET /${var.group_name}/findDiseaseAffectedCountries" # TODO: change here
+  route_key = "GET /${var.group_name}/retrieve_disease_outbreaks" # TODO: change here
 
-  target = "integrations/${aws_apigatewayv2_integration.findDiseaseAffectedCountries.id}" # TODO: change here
+  target = "integrations/${aws_apigatewayv2_integration.retrieve_disease_outbreaks.id}" # TODO: change here
 
   # If you want your route to be protected. A global authorizer using JWT has
   #   been integrated to the gateway. Just uncomment the following secion.
@@ -106,8 +106,8 @@ resource "aws_apigatewayv2_route" "findDiseaseAffectedCountries" {
 }
 
 # Including this resource will keep a log as your function being called
-resource "aws_cloudwatch_log_group" "findDiseaseAffectedCountries_log" {
-  name              = "/aws/lambda/${aws_lambda_function.findDiseaseAffectedCountries.function_name}" # TODO: change here
+resource "aws_cloudwatch_log_group" "retrieve_disease_outbreaks_log" {
+  name              = "/aws/lambda/${aws_lambda_function.retrieve_disease_outbreaks.function_name}" # TODO: change here
   retention_in_days = 7
   lifecycle {
     prevent_destroy = false

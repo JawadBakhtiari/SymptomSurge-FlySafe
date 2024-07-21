@@ -27,7 +27,7 @@ def jai_1():
     expected_value = 7
     assert data == expected_value
 
-def test_Ahmad_1():
+def test_country_frequency_calculator_1():
     print("\nTesting successful_response:")
     # Select Parameters
     country = "Afghanistan"
@@ -50,8 +50,8 @@ def test_Ahmad_1():
     assert data == expected_value
 
 def handler(event, context):
-    test_Ahmad_1()
-    print("Successfully tested positive case for Ahmad Function")
+    test_country_frequency_calculator_1()
+    print("Successfully tested positive case for country_frequency_calculator Function")
     jai_1()
     print("Successfully tested positive case for jai Function")
 
