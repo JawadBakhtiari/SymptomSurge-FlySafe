@@ -1,4 +1,4 @@
-# Invoice Management Flask App
+# Account Management Flask App
 
 This repository contains a Flask application. The app provides various functionalities including account creation, sending emails, invoice creation, storage, and report generation. It integrates with MySQL for database storage and uses email for communication.
 

@@ -1,12 +1,13 @@
-# React Front-End
+# FlySafe (React Application)
 
-SymptomSurge is equipped with a variety of features designed to provide a comprehensive and user-friendly experience for managing and predicting disease outbreaks. The interactive dashboard offers an overview of key metrics and data visualizations, allowing users to quickly grasp the current state of outbreaks. Detailed outbreak information is readily accessible, providing in-depth data and statistics about specific diseases. Post-travel recommendations help users stay informed about potential health risks and preventive measures after traveling. The application ensures secure user authentication to protect sensitive data and maintain privacy. With a responsive design, SymptomSurge is accessible and usable across various devices, ensuring a seamless experience for all users. Additionally, the application includes robust error handling and feedback mechanisms, enhancing usability and user satisfaction.
+FlySafe is a React application designed to provide travelers with up-to-date information on health risks and disease outbreaks in their travel destinations. By leveraging our real-time disease outbreak data aggregation microservice, FlySafe helps users stay informed about potential health hazards and make informed travel decisions.
+Traveling in a post-COVID world presents unique challenges, including the risk of encountering new disease outbreaks. FlySafe aims to address these challenges by providing real-time information on global health risks, allowing travelers to make safer and more informed decisions.
 
-# Getting Started with Create React App
+### Features
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Real-time Outbreak Information**: Aggregates data from the World Health Organization to provide current information on disease outbreaks.
+- **Predictive Analytics**: Uses historical data to forecast potential future outbreaks.
+- **Symptom Checker**: Allows users to input symptoms and verify if they are linked to current outbreaks in their destination.
+- **Health Notifications**: Sends email alerts about health emergencies in specified travel destinations.
+- **Travel Information**: Integrates with TripAdvisor to provide images and summaries of travel destinations.
+- **User-Friendly Interface**: Includes a chatbot to assist users in navigating the application.
