@@ -3,7 +3,7 @@ In response to the increasing need for accurate, high quality data related to wo
 Our software aggregates data from trusted resources to provide real-time insights into the emergence and spread of diseases. This will help identify outbreak hotspots, in hopes that the software can estimate trends in disease outbreaks, enabling efficient allocation of medical resources to areas most in need and reducing incidence rates.
 
 ## FlySafe (React Application)
-FlySafe is a React application designed to provide travelers with up-to-date information on health risks and disease outbreaks in their travel destinations. By aggregating data from reputable sources such as the World Health Organization, FlySafe helps users stay informed about potential health hazards and make informed travel decisions. 
+FlySafe is a React application designed to provide travelers with up-to-date information on health risks and disease outbreaks in their travel destinations. By leveraging our real-time disease outbreak data aggregation microservice, FlySafe helps users stay informed about potential health hazards and make informed travel decisions. 
 Traveling in a post-COVID world presents unique challenges, including the risk of encountering new disease outbreaks. FlySafe aims to address these challenges by providing real-time information on global health risks, allowing travelers to make safer and more informed decisions.
 
 ### Features
