@@ -18,6 +18,6 @@ Traveling in a post-COVID world presents unique challenges, including the risk o
 
 [FlySafe React Application](https://symptom-surge-frontend.vercel.app):
 
-Note that the Real-time disease outbreak aggreggation microservice is no longer deployed on aws, and therefore some components on FlySafe which rely on apis will not work.
+Note that the Real-time disease outbreak aggreggation microservice is no longer deployed on aws, and therefore some components on FlySafe which rely on our internal apis will not work.
 
 [FlySafe Optiver Prize Presentation (Finalists)](https://www.canva.com/design/DAGCqhEXOyA/7TFvWsJzYfsDjRiJNbqdxA/edit?utm_content=DAGCqhEXOyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
