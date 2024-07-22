@@ -1,10 +1,10 @@
-## [Real-time disease outbreak data aggregation microservice (AWS Lambda)](https://app.swaggerhub.com/apis/jacquelinie/SymptomSurge/2.0.0#/)
+## Real-time disease outbreak data aggregation microservice (AWS Lambda)
 In response to the increasing need for accurate, high quality data related to worldwide disease outbreaks, our team SymptomSurge aims to devise a system which builds custom datasets for our target audience. Our system will enable collection, retrieval and reporting of data from trusted sources. Our target audience are health organizations and departments, as well as scientific/medical research institutions. Our comprehensive datasets will be tailored to suit the needs of our customers, enabling them to make informed and accurate decisions and strategies.
 Our software aggregates data from trusted resources to provide real-time insights into the emergence and spread of diseases. This will help identify outbreak hotspots, in hopes that the software can estimate trends in disease outbreaks, enabling efficient allocation of medical resources to areas most in need and reducing incidence rates.
 
-[Swagger Link to Internal APIs (No longer deployed on AWS)](https://app.swaggerhub.com/apis/jacquelinie/SymptomSurge/2.0.0#/):
+The swagger documentation outlining all internal apis can be accessed [here](https://app.swaggerhub.com/apis/jacquelinie/SymptomSurge/2.0.0#/)
 
-## [FlySafe (React Application)](https://symptom-surge-frontend.vercel.app)
+## FlySafe (React Application)
 FlySafe is a React application designed to provide travelers with up-to-date information on health risks and disease outbreaks in their travel destinations. By leveraging our real-time disease outbreak data aggregation microservice, FlySafe helps users stay informed about potential health hazards and make informed travel decisions. 
 Traveling in a post-COVID world presents unique challenges, including the risk of encountering new disease outbreaks. FlySafe aims to address these challenges by providing real-time information on global health risks, allowing travelers to make safer and more informed decisions.
 
@@ -16,10 +16,10 @@ Traveling in a post-COVID world presents unique challenges, including the risk o
 - **Travel Information**: Integrates with TripAdvisor to provide images and summaries of travel destinations.
 - **User-Friendly Interface**: Includes a chatbot to assist users in navigating the application.
 
-[FlySafe React Application](https://symptom-surge-frontend.vercel.app):
+The FlySafe React Application can be accessed [here](https://symptom-surge-frontend.vercel.app):
 
 Note that the Real-time disease outbreak aggreggation microservice is no longer deployed on aws, and therefore some components on FlySafe which rely on our internal apis will not work.
 
-[FlySafe Optiver Prize Presentation (Finalists)](https://www.canva.com/design/DAGCqhEXOyA/7TFvWsJzYfsDjRiJNbqdxA/edit?utm_content=DAGCqhEXOyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+The FlySafe Optiver Prize Finalists Presentation can be accessed [here](https://www.canva.com/design/DAGCqhEXOyA/7TFvWsJzYfsDjRiJNbqdxA/edit?utm_content=DAGCqhEXOyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![2024 SENG3011 Optiver Award Presentations](https://github.com/user-attachments/assets/de5b2fbc-1181-449c-befb-e57e407abc4d)
