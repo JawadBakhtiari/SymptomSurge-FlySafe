@@ -14,5 +14,4 @@ Traveling in a post-COVID world presents unique challenges, including the risk o
 - **Travel Information**: Integrates with TripAdvisor to provide images and summaries of travel destinations.
 - **User-Friendly Interface**: Includes a chatbot to assist users in navigating the application.
 
-#### Link to FlySafe Optiver Prize Presentation (Finalists)
-https://www.canva.com/design/DAGCqhEXOyA/7TFvWsJzYfsDjRiJNbqdxA/edit?utm_content=DAGCqhEXOyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[FlySafe Optiver Prize Presentation (Finalists)](https://www.canva.com/design/DAGCqhEXOyA/7TFvWsJzYfsDjRiJNbqdxA/edit?utm_content=DAGCqhEXOyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
