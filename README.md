@@ -1,6 +1,10 @@
-## Real-time disease outbreak data aggregation microservice (AWS Lambda)
+## [Real-time disease outbreak data aggregation microservice (AWS Lambda)](https://app.swaggerhub.com/apis/jacquelinie/SymptomSurge/2.0.0#/)
 In response to the increasing need for accurate, high quality data related to worldwide disease outbreaks, our team SymptomSurge aims to devise a system which builds custom datasets for our target audience. Our system will enable collection, retrieval and reporting of data from trusted sources. Our target audience are health organizations and departments, as well as scientific/medical research institutions. Our comprehensive datasets will be tailored to suit the needs of our customers, enabling them to make informed and accurate decisions and strategies.
 Our software aggregates data from trusted resources to provide real-time insights into the emergence and spread of diseases. This will help identify outbreak hotspots, in hopes that the software can estimate trends in disease outbreaks, enabling efficient allocation of medical resources to areas most in need and reducing incidence rates.
+
+[Swagger Link to Internal APIs](https://app.swaggerhub.com/apis/jacquelinie/SymptomSurge/2.0.0#/):
+
+Note that the Real-time disease outbreak aggreggation microservice is no longer deployed on aws, and therefore some components on FlySafe which rely on apis will not work.
 
 ## [FlySafe (React Application)](https://symptom-surge-frontend.vercel.app)
 FlySafe is a React application designed to provide travelers with up-to-date information on health risks and disease outbreaks in their travel destinations. By leveraging our real-time disease outbreak data aggregation microservice, FlySafe helps users stay informed about potential health hazards and make informed travel decisions. 
